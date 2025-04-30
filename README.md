@@ -1,6 +1,6 @@
-# jd-jmnedict
+# jmnedict
 
-Japanese Data (JD) jmnedict data module.
+JPND jmnedict data module.
 
 ## License
 
