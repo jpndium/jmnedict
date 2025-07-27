@@ -8167,7 +8167,7 @@
 {"ent_seq":5008193,"r_ele":[{"reb":"アーイシャ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Aisha"}]}]}
 {"ent_seq":5008194,"r_ele":[{"reb":"アーウィック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Urwick"}]}]}
 {"ent_seq":5008195,"r_ele":[{"reb":"アーウィット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Erwitt"}]}]}
-{"ent_seq":5008196,"r_ele":[{"reb":"アーウィン"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Irwin"}]}]}
+{"ent_seq":5008196,"r_ele":[{"reb":"アーウィン"}],"trans":[{"name_type":["&masc;","&surname;"],"trans_det":[{"value":"Irwin"}]}]}
 {"ent_seq":5008197,"r_ele":[{"reb":"アーウェン"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Erwen"}]}]}
 {"ent_seq":5008198,"r_ele":[{"reb":"アーカート"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Urquhart"}]}]}
 {"ent_seq":5008199,"r_ele":[{"reb":"アーカロ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Arcaro"}]}]}
@@ -13187,7 +13187,6 @@
 {"ent_seq":5013283,"r_ele":[{"reb":"イブ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Eve"}]},{"name_type":["&unclass;"],"trans_det":[{"value":"Ib"}]},{"name_type":["&fem;"],"trans_det":[{"value":"Ibu"}]},{"name_type":["&masc;"],"trans_det":[{"value":"Yves"}]}]}
 {"ent_seq":5013284,"r_ele":[{"reb":"イブイヒトゥート"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ivigtut"}]}]}
 {"ent_seq":5013285,"r_ele":[{"reb":"イブギビク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ivugivik"}]}]}
-{"ent_seq":5013286,"r_ele":[{"reb":"イブサンローラン","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yves Saint-Laurent (brand name)"}]}]}
 {"ent_seq":5013287,"r_ele":[{"reb":"イブセン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ebbesen"},{"value":"Ebsen"}]}]}
 {"ent_seq":5013288,"r_ele":[{"reb":"イブデリ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ivdel"}]}]}
 {"ent_seq":5013289,"r_ele":[{"reb":"イブト"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yvetot"}]}]}
@@ -13868,7 +13867,7 @@
 {"ent_seq":5013966,"r_ele":[{"reb":"イヴェルネル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ivernel"}]}]}
 {"ent_seq":5013967,"r_ele":[{"reb":"イヴォー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ivo"}]}]}
 {"ent_seq":5013968,"r_ele":[{"reb":"イヴォンヌ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yvonne"}]}]}
-{"ent_seq":5013969,"r_ele":[{"reb":"イヴサンローラン","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yves Saint-Laurent (brand name)"}]}]}
+{"ent_seq":5013969,"r_ele":[{"reb":"イヴサンローラン","re_pri":{"spec":1}},{"reb":"イブサンローラン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yves Saint-Laurent (brand name)"}]}]}
 {"ent_seq":5013971,"r_ele":[{"reb":"イヴン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ibn"}]}]}
 {"ent_seq":5013972,"k_ele":[{"keb":"イ子"}],"r_ele":[{"reb":"いこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Iko"}]}]}
 {"ent_seq":5013973,"k_ele":[{"keb":"イ子"}],"r_ele":[{"reb":"いね"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ine"}]}]}
@@ -27571,7 +27570,7 @@
 {"ent_seq":5027767,"r_ele":[{"reb":"クラランス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Clarins"}]}]}
 {"ent_seq":5027768,"r_ele":[{"reb":"クラリェボ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kraljevo"}]}]}
 {"ent_seq":5027769,"r_ele":[{"reb":"クラリオン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Clarion"}]}]}
-{"ent_seq":5027770,"r_ele":[{"reb":"クラリス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Claris"}]}]}
+{"ent_seq":5027770,"r_ele":[{"reb":"クラリス","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Claris"}]}]}
 {"ent_seq":5027771,"r_ele":[{"reb":"クラリチ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Klaric"}]}]}
 {"ent_seq":5027772,"r_ele":[{"reb":"クラリッセ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Clarice"}]}]}
 {"ent_seq":5027773,"r_ele":[{"reb":"クラリネス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Clarines"}]}]}
@@ -45525,7 +45524,6 @@
 {"ent_seq":5045835,"r_ele":[{"reb":"セゴン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Segond"}]}]}
 {"ent_seq":5045836,"r_ele":[{"reb":"セサール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cezar"}]}]}
 {"ent_seq":5045837,"r_ele":[{"reb":"セサル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cesar"}]}]}
-{"ent_seq":5045838,"r_ele":[{"reb":"セサロニキ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Thessaloniki (Greece)"}]}]}
 {"ent_seq":5045839,"r_ele":[{"reb":"セサロン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Thessalon"}]}]}
 {"ent_seq":5045840,"r_ele":[{"reb":"セザール"},{"reb":"セザル"}],"trans":[{"name_type":["&masc;","&surname;"],"trans_det":[{"value":"Cesar"},{"value":"César"}]}]}
 {"ent_seq":5045841,"r_ele":[{"reb":"セザールリッツ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Cesar Ritz"}]}]}
@@ -51997,7 +51995,6 @@
 {"ent_seq":5052351,"r_ele":[{"reb":"テコア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tekoah"}]}]}
 {"ent_seq":5052352,"r_ele":[{"reb":"テコマン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tecoman (Mexico)"}]}]}
 {"ent_seq":5052353,"r_ele":[{"reb":"テサシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tesarz"}]}]}
-{"ent_seq":5052354,"r_ele":[{"reb":"テサロニキ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Thessaloniki"}]}]}
 {"ent_seq":5052355,"r_ele":[{"reb":"テサワ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tessaoua"}]}]}
 {"ent_seq":5052356,"r_ele":[{"reb":"テザン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thezan"}]}]}
 {"ent_seq":5052357,"r_ele":[{"reb":"テシ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Teshi"}]}]}
@@ -52051,7 +52048,7 @@
 {"ent_seq":5052405,"r_ele":[{"reb":"テッサリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tessari"}]}]}
 {"ent_seq":5052406,"r_ele":[{"reb":"テッサリーニ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tessarini"}]}]}
 {"ent_seq":5052407,"r_ele":[{"reb":"テッサリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Thessalia"}]}]}
-{"ent_seq":5052408,"r_ele":[{"reb":"テッサロニキ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thessaloniki"}]}]}
+{"ent_seq":5052408,"r_ele":[{"reb":"テッサロニキ"},{"reb":"テサロニキ"},{"reb":"セサロニキ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Thessaloniki (Greece)"}]}]}
 {"ent_seq":5052409,"r_ele":[{"reb":"テッシー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tessie"}]}]}
 {"ent_seq":5052410,"r_ele":[{"reb":"テッシェ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tessier"}]}]}
 {"ent_seq":5052411,"r_ele":[{"reb":"テッシェンドルフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Teschendorf"}]}]}
@@ -73347,7 +73344,7 @@
 {"ent_seq":5073813,"r_ele":[{"reb":"ヘイストオブデンベルフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Heist-op-den-Berg"}]}]}
 {"ent_seq":5073814,"r_ele":[{"reb":"ヘイスバート"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Haysbert"}]}]}
 {"ent_seq":5073815,"r_ele":[{"reb":"ヘイスラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heisler"}]}]}
-{"ent_seq":5073816,"r_ele":[{"reb":"ヘイズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hayes"},{"value":"Hays"}]}]}
+{"ent_seq":5073816,"r_ele":[{"reb":"ヘイズ"}],"trans":[{"name_type":["&surname;","&company;"],"trans_det":[{"value":"Hayes"},{"value":"Hays"}]}]}
 {"ent_seq":5073817,"r_ele":[{"reb":"ヘイズボーティンスタ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hayes-Bautinsta"}]}]}
 {"ent_seq":5073818,"k_ele":[{"keb":"ヘイズル沢"}],"r_ele":[{"reb":"ヘイズルさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Heizurusawa"}]}]}
 {"ent_seq":5073819,"r_ele":[{"reb":"ヘイズロス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hayes-Roth"}]}]}
@@ -80369,9 +80366,8 @@
 {"ent_seq":5080875,"r_ele":[{"reb":"マセット"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Masset"}]}]}
 {"ent_seq":5080876,"r_ele":[{"reb":"マセナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Massena"}]}]}
 {"ent_seq":5080877,"r_ele":[{"reb":"マセニア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Massenia"}]}]}
-{"ent_seq":5080878,"r_ele":[{"reb":"マセラーティ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Maserati"}]}]}
 {"ent_seq":5080879,"r_ele":[{"reb":"マセラッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Maserati"}]}]}
-{"ent_seq":5080880,"r_ele":[{"reb":"マセラティ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Maserati"}]}]}
+{"ent_seq":5080880,"r_ele":[{"reb":"マセラティ","re_pri":{"spec":1}},{"reb":"マセラーティ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Maserati"}]}]}
 {"ent_seq":5080881,"r_ele":[{"reb":"マセラテイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Maserati"}]}]}
 {"ent_seq":5080882,"r_ele":[{"reb":"マセル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Maseru (Lesotho)"}]}]}
 {"ent_seq":5080883,"r_ele":[{"reb":"マセロ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Macero"}]}]}
@@ -91942,7 +91938,6 @@
 {"ent_seq":5092511,"r_ele":[{"reb":"ルイノ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Luino"}]}]}
 {"ent_seq":5092512,"r_ele":[{"reb":"ルイバコフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Rybakov"}]}]}
 {"ent_seq":5092513,"r_ele":[{"reb":"ルイパスツール"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Louis Pasteur"}]}]}
-{"ent_seq":5092514,"r_ele":[{"reb":"ルイビトン","re_pri":{"spec":1}},{"reb":"ルイ・ビトン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Louis Vuitton"}]}]}
 {"ent_seq":5092515,"r_ele":[{"reb":"ルイビル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Louisville"}]}]}
 {"ent_seq":5092516,"r_ele":[{"reb":"ルイビンスク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rybinsk"}]}]}
 {"ent_seq":5092517,"r_ele":[{"reb":"ルイフィリップ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Louis Philippe"}]}]}
@@ -93188,8 +93183,7 @@
 {"ent_seq":5093763,"r_ele":[{"reb":"レカロ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Recaro"}]}]}
 {"ent_seq":5093764,"r_ele":[{"reb":"レガート"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Legat"}]}]}
 {"ent_seq":5093765,"r_ele":[{"reb":"レガシー","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Legacy (Subaru car)"}]}]}
-{"ent_seq":5093766,"r_ele":[{"reb":"レガシィ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Legacy (Subaru car)"}]}]}
-{"ent_seq":5093767,"r_ele":[{"reb":"レガシィー","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Legacy (Subaru car)"}]}]}
+{"ent_seq":5093766,"r_ele":[{"reb":"レガシィ","re_pri":{"spec":1}},{"reb":"レガシィー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Legacy (Subaru car)"}]}]}
 {"ent_seq":5093768,"r_ele":[{"reb":"レガスピ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Legaspi"},{"value":"Legaspi (Philipines)"},{"value":"Legazpi (Philipines)"}]}]}
 {"ent_seq":5093769,"r_ele":[{"reb":"レガツォーニ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Regazzoni"}]}]}
 {"ent_seq":5093770,"r_ele":[{"reb":"レガネス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Leganes"}]}]}
@@ -99998,3 +99992,9 @@
 {"ent_seq":5100602,"k_ele":[{"keb":"阿芸那"}],"r_ele":[{"reb":"あきな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Akina"}]}]}
 {"ent_seq":5100603,"k_ele":[{"keb":"阿芸名"}],"r_ele":[{"reb":"あきな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Akina"}]}]}
 {"ent_seq":5100604,"k_ele":[{"keb":"阿結"}],"r_ele":[{"reb":"あゆ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ayu"}]}]}
+{"ent_seq":5100605,"k_ele":[{"keb":"阿結花"}],"r_ele":[{"reb":"あゆか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ayuka"}]}]}
+{"ent_seq":5100606,"k_ele":[{"keb":"阿月"}],"r_ele":[{"reb":"あげつ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Agetsu"}]}]}
+{"ent_seq":5100607,"k_ele":[{"keb":"阿月"}],"r_ele":[{"reb":"あつき"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Atsuki"}]}]}
+{"ent_seq":5100608,"k_ele":[{"keb":"阿月"}],"r_ele":[{"reb":"あづき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Azuki"}]}]}
+{"ent_seq":5100609,"k_ele":[{"keb":"阿権"}],"r_ele":[{"reb":"あごん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Agon"}]}]}
+{"ent_seq":5100610,"k_ele":[{"keb":"阿権川"}],"r_ele":[{"reb":"あごんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Agongawa"}]}]}

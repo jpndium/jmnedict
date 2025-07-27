@@ -1,9 +1,3 @@
-{"ent_seq":5301271,"k_ele":[{"keb":"佐藤行雄"}],"r_ele":[{"reb":"さとうゆきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Yukio (1939.10-)"}]}]}
-{"ent_seq":5301272,"k_ele":[{"keb":"佐藤貢三"}],"r_ele":[{"reb":"さとうこうぞう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Kōzou"}]}]}
-{"ent_seq":5301273,"k_ele":[{"keb":"佐藤剛士"}],"r_ele":[{"reb":"さとうつよし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tsuyoshi (1986.5.16-)"}]}]}
-{"ent_seq":5301274,"k_ele":[{"keb":"佐藤剛男"}],"r_ele":[{"reb":"さとうたつお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tatsuo (1937.7.16-)"}]}]}
-{"ent_seq":5301275,"k_ele":[{"keb":"佐藤克身"}],"r_ele":[{"reb":"さとうかつみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsumi (1941.1-)"}]}]}
-{"ent_seq":5301276,"k_ele":[{"keb":"佐藤根"}],"r_ele":[{"reb":"さとね"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Satone"}]}]}
 {"ent_seq":5301277,"k_ele":[{"keb":"佐藤菜穂竹"}],"r_ele":[{"reb":"さとうなおたけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotake"}]}]}
 {"ent_seq":5301278,"k_ele":[{"keb":"佐藤三吾"}],"r_ele":[{"reb":"さとうさんご"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Sango (1929.7.8-2005.1.11)"}]}]}
 {"ent_seq":5301279,"k_ele":[{"keb":"佐藤山"}],"r_ele":[{"reb":"さとやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Satoyama"}]}]}
@@ -99998,3 +99992,9 @@
 {"ent_seq":5401529,"k_ele":[{"keb":"情"}],"r_ele":[{"reb":"ひょんじょん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hyonjon"}]}]}
 {"ent_seq":5401530,"k_ele":[{"keb":"情"}],"r_ele":[{"reb":"まこと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Makoto"}]}]}
 {"ent_seq":5401531,"k_ele":[{"keb":"情愛"}],"r_ele":[{"reb":"じょうえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōe"}]}]}
+{"ent_seq":5401532,"k_ele":[{"keb":"情愛"}],"r_ele":[{"reb":"じょんえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jon'e"}]}]}
+{"ent_seq":5401533,"k_ele":[{"keb":"情雨"}],"r_ele":[{"reb":"じょうう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōu"}]}]}
+{"ent_seq":5401534,"k_ele":[{"keb":"情家"}],"r_ele":[{"reb":"じょうけ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōke"}]}]}
+{"ent_seq":5401535,"k_ele":[{"keb":"情家"}],"r_ele":[{"reb":"せいや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seiya"}]}]}
+{"ent_seq":5401536,"k_ele":[{"keb":"情花"}],"r_ele":[{"reb":"せいか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Seika"}]}]}
+{"ent_seq":5401537,"k_ele":[{"keb":"情荷越"}],"r_ele":[{"reb":"いなりごし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Inarigoshi"}]}]}

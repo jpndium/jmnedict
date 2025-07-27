@@ -1,9 +1,3 @@
-{"ent_seq":5602380,"k_ele":[{"keb":"番匠大橋"}],"r_ele":[{"reb":"ばんじょうおおはし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōoohashi"}]}]}
-{"ent_seq":5602381,"k_ele":[{"keb":"番匠谷"}],"r_ele":[{"reb":"ばんしょうだに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banshoudani"}]}]}
-{"ent_seq":5602382,"k_ele":[{"keb":"番匠谷"}],"r_ele":[{"reb":"ばんしょうや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banshouya"}]}]}
-{"ent_seq":5602383,"k_ele":[{"keb":"番匠谷"}],"r_ele":[{"reb":"ばんじょうや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjōya"}]}]}
-{"ent_seq":5602384,"k_ele":[{"keb":"番匠町"}],"r_ele":[{"reb":"ばんしょうちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshouchō"}]}]}
-{"ent_seq":5602385,"k_ele":[{"keb":"番匠町"}],"r_ele":[{"reb":"ばんじょうまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōmachi"}]}]}
 {"ent_seq":5602386,"k_ele":[{"keb":"番匠田中"}],"r_ele":[{"reb":"ばんじょうたなか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōtanaka"}]}]}
 {"ent_seq":5602387,"k_ele":[{"keb":"番匠田中町"}],"r_ele":[{"reb":"ばんじょうたなかちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōtanakachō"}]}]}
 {"ent_seq":5602388,"k_ele":[{"keb":"番匠鼻"}],"r_ele":[{"reb":"ばんしょうばな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banshoubana"}]}]}
@@ -99998,3 +99992,9 @@
 {"ent_seq":5702713,"k_ele":[{"keb":"隆綱"}],"r_ele":[{"reb":"たかつな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takatsuna"}]}]}
 {"ent_seq":5702714,"k_ele":[{"keb":"隆行"}],"r_ele":[{"reb":"たかゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takayuki"}]}]}
 {"ent_seq":5702715,"k_ele":[{"keb":"隆行"}],"r_ele":[{"reb":"りゅうこう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūkou"}]}]}
+{"ent_seq":5702716,"k_ele":[{"keb":"隆鋼"}],"r_ele":[{"reb":"りゅうこう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūkou"}]}]}
+{"ent_seq":5702717,"k_ele":[{"keb":"隆克"}],"r_ele":[{"reb":"たかかつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takakatsu"}]}]}
+{"ent_seq":5702718,"k_ele":[{"keb":"隆克"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
+{"ent_seq":5702719,"k_ele":[{"keb":"隆国"}],"r_ele":[{"reb":"たかくに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takakuni"}]}]}
+{"ent_seq":5702720,"k_ele":[{"keb":"隆国寺"}],"r_ele":[{"reb":"りゅうごくじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūgokuji"}]}]}
+{"ent_seq":5702721,"k_ele":[{"keb":"隆根"}],"r_ele":[{"reb":"りゅうこん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūkon"}]}]}

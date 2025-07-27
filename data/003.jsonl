@@ -1,9 +1,3 @@
-{"ent_seq":5200920,"k_ele":[{"keb":"季郁"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kika"}]}]}
-{"ent_seq":5200921,"k_ele":[{"keb":"季郁"}],"r_ele":[{"reb":"きふみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kifumi"}]}]}
-{"ent_seq":5200922,"k_ele":[{"keb":"季一"}],"r_ele":[{"reb":"きいち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kiichi"}]}]}
-{"ent_seq":5200923,"k_ele":[{"keb":"季一"}],"r_ele":[{"reb":"すえいち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sueichi"}]}]}
-{"ent_seq":5200924,"k_ele":[{"keb":"季一"}],"r_ele":[{"reb":"すえかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suekazu"}]}]}
-{"ent_seq":5200925,"k_ele":[{"keb":"季一朗"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200926,"k_ele":[{"keb":"季一郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200927,"k_ele":[{"keb":"季壱"}],"r_ele":[{"reb":"きいち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiichi"}]}]}
 {"ent_seq":5200928,"k_ele":[{"keb":"季壱朗"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
@@ -99998,3 +99992,9 @@
 {"ent_seq":5301268,"k_ele":[{"keb":"佐藤耕壽"}],"r_ele":[{"reb":"さとうこうじゅ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Kōju"}]}]}
 {"ent_seq":5301269,"k_ele":[{"keb":"佐藤行衛"}],"r_ele":[{"reb":"さとうゆきえ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Yukie"}]}]}
 {"ent_seq":5301270,"k_ele":[{"keb":"佐藤行人"}],"r_ele":[{"reb":"さとうこうじん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Kōjin (1897.4.21-1962.12.23)"}]}]}
+{"ent_seq":5301271,"k_ele":[{"keb":"佐藤行雄"}],"r_ele":[{"reb":"さとうゆきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Yukio (1939.10-)"}]}]}
+{"ent_seq":5301272,"k_ele":[{"keb":"佐藤貢三"}],"r_ele":[{"reb":"さとうこうぞう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Kōzou"}]}]}
+{"ent_seq":5301273,"k_ele":[{"keb":"佐藤剛士"}],"r_ele":[{"reb":"さとうつよし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tsuyoshi (1986.5.16-)"}]}]}
+{"ent_seq":5301274,"k_ele":[{"keb":"佐藤剛男"}],"r_ele":[{"reb":"さとうたつお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tatsuo (1937.7.16-)"}]}]}
+{"ent_seq":5301275,"k_ele":[{"keb":"佐藤克身"}],"r_ele":[{"reb":"さとうかつみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsumi (1941.1-)"}]}]}
+{"ent_seq":5301276,"k_ele":[{"keb":"佐藤根"}],"r_ele":[{"reb":"さとね"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Satone"}]}]}

@@ -1,9 +1,3 @@
-{"ent_seq":5501913,"k_ele":[{"keb":"拓人"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuto"}]}]}
-{"ent_seq":5501914,"k_ele":[{"keb":"拓人"}],"r_ele":[{"reb":"たくひと"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuhito"}]}]}
-{"ent_seq":5501915,"k_ele":[{"keb":"拓水"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takumi"}]}]}
-{"ent_seq":5501916,"k_ele":[{"keb":"拓翠"}],"r_ele":[{"reb":"たくすい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusui"}]}]}
-{"ent_seq":5501917,"k_ele":[{"keb":"拓世"}],"r_ele":[{"reb":"たくよ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuyo"}]}]}
-{"ent_seq":5501918,"k_ele":[{"keb":"拓成"}],"r_ele":[{"reb":"たくせい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takusei"}]}]}
 {"ent_seq":5501919,"k_ele":[{"keb":"拓成"}],"r_ele":[{"reb":"ひろなり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hironari"}]}]}
 {"ent_seq":5501920,"k_ele":[{"keb":"拓成橋"}],"r_ele":[{"reb":"たくせいばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseibashi"}]}]}
 {"ent_seq":5501921,"k_ele":[{"keb":"拓成町"}],"r_ele":[{"reb":"たくせいちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseichō"}]}]}
@@ -99998,3 +99992,9 @@
 {"ent_seq":5602377,"k_ele":[{"keb":"番匠屋"}],"r_ele":[{"reb":"ばんじょや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjoya"}]}]}
 {"ent_seq":5602378,"k_ele":[{"keb":"番匠幸一郎"}],"r_ele":[{"reb":"ばんしょうこういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Banshou Kōichirō"}]}]}
 {"ent_seq":5602379,"k_ele":[{"keb":"番匠川"}],"r_ele":[{"reb":"ばんじょうがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjōgawa"}]}]}
+{"ent_seq":5602380,"k_ele":[{"keb":"番匠大橋"}],"r_ele":[{"reb":"ばんじょうおおはし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōoohashi"}]}]}
+{"ent_seq":5602381,"k_ele":[{"keb":"番匠谷"}],"r_ele":[{"reb":"ばんしょうだに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banshoudani"}]}]}
+{"ent_seq":5602382,"k_ele":[{"keb":"番匠谷"}],"r_ele":[{"reb":"ばんしょうや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banshouya"}]}]}
+{"ent_seq":5602383,"k_ele":[{"keb":"番匠谷"}],"r_ele":[{"reb":"ばんじょうや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjōya"}]}]}
+{"ent_seq":5602384,"k_ele":[{"keb":"番匠町"}],"r_ele":[{"reb":"ばんしょうちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshouchō"}]}]}
+{"ent_seq":5602385,"k_ele":[{"keb":"番匠町"}],"r_ele":[{"reb":"ばんじょうまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōmachi"}]}]}
