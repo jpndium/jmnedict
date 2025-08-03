@@ -16156,7 +16156,7 @@
 {"ent_seq":5016275,"r_ele":[{"reb":"ウルダング"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Urdang"}]}]}
 {"ent_seq":5016276,"r_ele":[{"reb":"ウルチニ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ulcinj"}]}]}
 {"ent_seq":5016277,"k_ele":[{"keb":"ウルチ崎"}],"r_ele":[{"reb":"ウルチざき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Uruchizaki"}]}]}
-{"ent_seq":5016278,"k_ele":[{"keb":"ウルップ島"}],"r_ele":[{"reb":"ウルップとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ostrov Urup"},{"value":"Urup Island"}]}]}
+{"ent_seq":5016278,"k_ele":[{"keb":"ウルップ島"},{"keb":"得撫島"}],"r_ele":[{"reb":"ウルップとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ostrov Urup"},{"value":"Urup Island"}]}]}
 {"ent_seq":5016279,"r_ele":[{"reb":"ウルツィ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Urzi"}]}]}
 {"ent_seq":5016280,"r_ele":[{"reb":"ウルツィディール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Urzidil"}]}]}
 {"ent_seq":5016281,"r_ele":[{"reb":"ウルツィディル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Urzidil"}]}]}

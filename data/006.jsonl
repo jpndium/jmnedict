@@ -82699,7 +82699,7 @@
 {"ent_seq":5585023,"k_ele":[{"keb":"猫坂"}],"r_ele":[{"reb":"ねこさか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nekosaka"}]}]}
 {"ent_seq":5585024,"k_ele":[{"keb":"猫坂"}],"r_ele":[{"reb":"ねこざか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nekozaka"}]}]}
 {"ent_seq":5585025,"k_ele":[{"keb":"猫坂峠"}],"r_ele":[{"reb":"ねこざかとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nekozakatōge"}]}]}
-{"ent_seq":5585026,"k_ele":[{"keb":"猫崎"}],"r_ele":[{"reb":"ねこざき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nekozaki"}]}]}
+{"ent_seq":5585026,"k_ele":[{"keb":"猫崎"}],"r_ele":[{"reb":"ねこざき"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Nekozaki"}]}]}
 {"ent_seq":5585027,"k_ele":[{"keb":"猫山"}],"r_ele":[{"reb":"ねこやま"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Nekoyama"}]}]}
 {"ent_seq":5585028,"k_ele":[{"keb":"猫子"}],"r_ele":[{"reb":"ねこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Neko"}]}]}
 {"ent_seq":5585029,"k_ele":[{"keb":"猫子"}],"r_ele":[{"reb":"ねここ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nekoko"}]}]}
