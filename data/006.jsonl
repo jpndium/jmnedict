@@ -92772,7 +92772,7 @@
 {"ent_seq":5595128,"k_ele":[{"keb":"畑井野沢"}],"r_ele":[{"reb":"はたいのさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hatainosawa"}]}]}
 {"ent_seq":5595129,"k_ele":[{"keb":"畑引山"}],"r_ele":[{"reb":"はたびきやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hatabikiyama"}]}]}
 {"ent_seq":5595130,"k_ele":[{"keb":"畑浦"}],"r_ele":[{"reb":"はたうら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hataura"}]}]}
-{"ent_seq":5595131,"k_ele":[{"keb":"畑英次郎"}],"r_ele":[{"reb":"はたえいじろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hataei Jirou (1928.9-)"}]}]}
+{"ent_seq":5595131,"k_ele":[{"keb":"畑英次郎"}],"r_ele":[{"reb":"はたえいじろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Eijirō Hata (1928.9.10-2023.8.4; politician)"}]}]}
 {"ent_seq":5595132,"k_ele":[{"keb":"畑英太郎"}],"r_ele":[{"reb":"はたえいたろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hata Eitarō"}]}]}
 {"ent_seq":5595133,"k_ele":[{"keb":"畑越"}],"r_ele":[{"reb":"はたこし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hatakoshi"}]}]}
 {"ent_seq":5595134,"k_ele":[{"keb":"畑岡"}],"r_ele":[{"reb":"はたおか"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Hataoka"}]}]}

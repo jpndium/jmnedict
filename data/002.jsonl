@@ -39751,7 +39751,7 @@
 {"ent_seq":5140481,"k_ele":[{"keb":"英洋"}],"r_ele":[{"reb":"ひでひろ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hidehiro"}]}]}
 {"ent_seq":5140482,"k_ele":[{"keb":"英洋子"}],"r_ele":[{"reb":"はなぶさようこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hanabusa Yōko"}]}]}
 {"ent_seq":5140483,"k_ele":[{"keb":"英蘭"}],"r_ele":[{"reb":"えいらん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Eiran"}]}]}
-{"ent_seq":5140484,"k_ele":[{"keb":"英利"}],"r_ele":[{"reb":"えり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Eri"}]}]}
+{"ent_seq":5140484,"k_ele":[{"keb":"英利"}],"r_ele":[{"reb":"えり"}],"trans":[{"name_type":["&fem;","&surname;"],"trans_det":[{"value":"Eri"}]}]}
 {"ent_seq":5140485,"k_ele":[{"keb":"英利"}],"r_ele":[{"reb":"ひでと"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hideto"}]}]}
 {"ent_seq":5140486,"k_ele":[{"keb":"英利"}],"r_ele":[{"reb":"ひでとし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Hidetoshi"}]}]}
 {"ent_seq":5140487,"k_ele":[{"keb":"英利夏"}],"r_ele":[{"reb":"えりか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Erika"}]}]}

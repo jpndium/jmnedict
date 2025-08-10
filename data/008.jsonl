@@ -43050,4 +43050,8 @@
 {"ent_seq":5747378,"k_ele":[{"keb":"熙弥"}],"r_ele":[{"reb":"てるや"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Teruya"}]}]}
 {"ent_seq":5747379,"k_ele":[{"keb":"山階宮晃親王"}],"r_ele":[{"reb":"やましなのみやあきらしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Akira, Prince Yamashina (1816.10.12-1898.2.17)"}]}]}
 {"ent_seq":5747380,"k_ele":[{"keb":"東伏見宮依仁親王"}],"r_ele":[{"reb":"ひがしふしみのみやよりひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yorihito, Prince Higashifushimi (1867.10.16-1922.6.27)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-03"}]}]}
+{"ent_seq":5747381,"k_ele":[{"keb":"亮正"}],"r_ele":[{"reb":"りょうせい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryōsei"}]}]}
+{"ent_seq":5747382,"k_ele":[{"keb":"龍那"}],"r_ele":[{"reb":"りゅうな"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūna"}]}]}
+{"ent_seq":5747383,"k_ele":[{"keb":"信千世"}],"r_ele":[{"reb":"のぶちよ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nobuchiyo"}]}]}
+{"ent_seq":5747384,"k_ele":[{"keb":"展英"}],"r_ele":[{"reb":"のぶひで"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nobuhide"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-10"}]}]}

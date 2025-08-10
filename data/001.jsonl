@@ -58179,7 +58179,7 @@
 {"ent_seq":5058570,"r_ele":[{"reb":"ニクシチ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Niksic"}]}]}
 {"ent_seq":5058571,"r_ele":[{"reb":"ニクシャル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nikshahr"}]}]}
 {"ent_seq":5058572,"r_ele":[{"reb":"ニクスン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nixon"}]}]}
-{"ent_seq":5058573,"r_ele":[{"reb":"ニクソン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nixon"}]}]}
+{"ent_seq":5058573,"r_ele":[{"reb":"ニクソン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nixon"}]},{"name_type":["&person;"],"trans_det":[{"value":"Nixon, Richard (1913.1.9-1994.4.22; US president)"}]}]}
 {"ent_seq":5058574,"k_ele":[{"keb":"ニクボシュメシュウベツ川"}],"r_ele":[{"reb":"ニクボシュメシュウベツがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nikuboshumeshuubetsugawa"}]}]}
 {"ent_seq":5058575,"r_ele":[{"reb":"ニクラウス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nicklaus"},{"value":"Niclaus"}]}]}
 {"ent_seq":5058576,"r_ele":[{"reb":"ニクラス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Niklas"}]}]}
