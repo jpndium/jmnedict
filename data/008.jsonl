@@ -1,4 +1,3 @@
-{"ent_seq":5702722,"k_ele":[{"keb":"隆佐"}],"r_ele":[{"reb":"たかすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takasuke"}]}]}
 {"ent_seq":5702723,"k_ele":[{"keb":"隆佐"}],"r_ele":[{"reb":"りゅうさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsa"}]}]}
 {"ent_seq":5702724,"k_ele":[{"keb":"隆哉"}],"r_ele":[{"reb":"たかや"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaya"}]}]}
 {"ent_seq":5702725,"k_ele":[{"keb":"隆哉"}],"r_ele":[{"reb":"りゅうさい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūsai"}]}]}
@@ -43054,4 +43053,14 @@
 {"ent_seq":5747382,"k_ele":[{"keb":"龍那"}],"r_ele":[{"reb":"りゅうな"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūna"}]}]}
 {"ent_seq":5747383,"k_ele":[{"keb":"信千世"}],"r_ele":[{"reb":"のぶちよ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nobuchiyo"}]}]}
 {"ent_seq":5747384,"k_ele":[{"keb":"展英"}],"r_ele":[{"reb":"のぶひで"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nobuhide"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-10"}]}]}
+{"ent_seq":5747385,"k_ele":[{"keb":"比早之"}],"r_ele":[{"reb":"ひさゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hisayuki"}]}]}
+{"ent_seq":5747386,"k_ele":[{"keb":"足柄山"}],"r_ele":[{"reb":"あしがらやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ashigarayama"}]}]}
+{"ent_seq":5747387,"k_ele":[{"keb":"普洱"}],"r_ele":[{"reb":"ふじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pu'er (China)"}]}]}
+{"ent_seq":5747388,"r_ele":[{"reb":"ザ・ドリフターズ"}],"trans":[{"name_type":["&group;"],"trans_det":[{"value":"The Drifters"}]}]}
+{"ent_seq":5747389,"r_ele":[{"reb":"キャンディーズ"}],"trans":[{"name_type":["&group;"],"trans_det":[{"value":"Candies"}]}]}
+{"ent_seq":5747390,"k_ele":[{"keb":"新撰字鏡"}],"r_ele":[{"reb":"しんせんじきょう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Shinsen Jikyō (first kanji dictionary with Japanese pronunciations; published during the Shōtai era)"}]}]}
+{"ent_seq":5747391,"r_ele":[{"reb":"テンゲン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Tengen"}]}]}
+{"ent_seq":5747392,"k_ele":[{"keb":"早鞆瀬戸"}],"r_ele":[{"reb":"はやとものせと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hayatomo Strait"}]}]}
+{"ent_seq":5747393,"k_ele":[{"keb":"ＣＯＰＡＬ"}],"r_ele":[{"reb":"コパル"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Nidec Precision Corporation"},{"value":"Nidec Copal Corporation (1998-2023)"},{"value":"Copal Corporation (1946-1998)"}]}]}
+{"ent_seq":5747394,"r_ele":[{"reb":"ニデック","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"xref":["日本電産"],"trans_det":[{"value":"Nidec Corporation"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-17"}]}]}

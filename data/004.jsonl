@@ -1,4 +1,3 @@
-{"ent_seq":5301277,"k_ele":[{"keb":"佐藤菜穂竹"}],"r_ele":[{"reb":"さとうなおたけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotake"}]}]}
 {"ent_seq":5301278,"k_ele":[{"keb":"佐藤三吾"}],"r_ele":[{"reb":"さとうさんご"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Sango (1929.7.8-2005.1.11)"}]}]}
 {"ent_seq":5301279,"k_ele":[{"keb":"佐藤山"}],"r_ele":[{"reb":"さとやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Satoyama"}]}]}
 {"ent_seq":5301280,"k_ele":[{"keb":"佐藤史郎"}],"r_ele":[{"reb":"さとうしろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shirou (1932.8-)"}]}]}
@@ -8161,7 +8160,7 @@
 {"ent_seq":5309450,"k_ele":[{"keb":"材料置場"}],"r_ele":[{"reb":"ざいりょうおきば"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zairyōokiba"}]}]}
 {"ent_seq":5309451,"k_ele":[{"keb":"材料部会"}],"r_ele":[{"reb":"ざいりょうぶかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Division of Materials Science and Technology"}]}]}
 {"ent_seq":5309452,"k_ele":[{"keb":"罪歌"}],"r_ele":[{"reb":"ざいか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Zaika"}]}]}
-{"ent_seq":5309453,"k_ele":[{"keb":"罪子"}],"r_ele":[{"reb":"つみこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Tsumiko"}]}]}
+{"ent_seq":5309453,"k_ele":[{"keb":"罪子"}],"r_ele":[{"reb":"つみこ"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Tsumiko"}]}]}
 {"ent_seq":5309454,"k_ele":[{"keb":"財"}],"r_ele":[{"reb":"ざい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Zai"}]}]}
 {"ent_seq":5309455,"k_ele":[{"keb":"財"}],"r_ele":[{"reb":"たから"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takara"}]}]}
 {"ent_seq":5309456,"k_ele":[{"keb":"財ノ木"}],"r_ele":[{"reb":"さいのき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sainoki"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5401535,"k_ele":[{"keb":"情家"}],"r_ele":[{"reb":"せいや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seiya"}]}]}
 {"ent_seq":5401536,"k_ele":[{"keb":"情花"}],"r_ele":[{"reb":"せいか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Seika"}]}]}
 {"ent_seq":5401537,"k_ele":[{"keb":"情荷越"}],"r_ele":[{"reb":"いなりごし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Inarigoshi"}]}]}
+{"ent_seq":5401538,"k_ele":[{"keb":"情宜"}],"r_ele":[{"reb":"じょうぎ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōgi"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5200926,"k_ele":[{"keb":"季一郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200927,"k_ele":[{"keb":"季壱"}],"r_ele":[{"reb":"きいち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiichi"}]}]}
 {"ent_seq":5200928,"k_ele":[{"keb":"季壱朗"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200929,"k_ele":[{"keb":"季壱郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301274,"k_ele":[{"keb":"佐藤剛男"}],"r_ele":[{"reb":"さとうたつお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tatsuo (1937.7.16-)"}]}]}
 {"ent_seq":5301275,"k_ele":[{"keb":"佐藤克身"}],"r_ele":[{"reb":"さとうかつみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsumi (1941.1-)"}]}]}
 {"ent_seq":5301276,"k_ele":[{"keb":"佐藤根"}],"r_ele":[{"reb":"さとね"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Satone"}]}]}
+{"ent_seq":5301277,"k_ele":[{"keb":"佐藤菜穂竹"}],"r_ele":[{"reb":"さとうなおたけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotake"}]}]}

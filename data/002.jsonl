@@ -1,4 +1,3 @@
-{"ent_seq":5100611,"k_ele":[{"keb":"阿県"}],"r_ele":[{"reb":"あがた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Agata"}]}]}
 {"ent_seq":5100612,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あいみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Aimi"}]}]}
 {"ent_seq":5100613,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あみ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ami"}]}]}
 {"ent_seq":5100615,"k_ele":[{"keb":"阿見絵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200923,"k_ele":[{"keb":"季一"}],"r_ele":[{"reb":"すえいち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sueichi"}]}]}
 {"ent_seq":5200924,"k_ele":[{"keb":"季一"}],"r_ele":[{"reb":"すえかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suekazu"}]}]}
 {"ent_seq":5200925,"k_ele":[{"keb":"季一朗"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
+{"ent_seq":5200926,"k_ele":[{"keb":"季一郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}

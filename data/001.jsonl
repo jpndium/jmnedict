@@ -17529,7 +17529,7 @@
 {"ent_seq":5017657,"r_ele":[{"reb":"エフゲニープリマコフ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yevgeni Maksimovich Primakov"}]}]}
 {"ent_seq":5017658,"r_ele":[{"reb":"エフゲニア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Evgeniya"}]}]}
 {"ent_seq":5017659,"r_ele":[{"reb":"エフスティグネエフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Yevstigneev"}]}]}
-{"ent_seq":5017660,"r_ele":[{"reb":"エフトゥシェンコ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Evtushenko"}]}]}
+{"ent_seq":5017660,"r_ele":[{"reb":"エフトゥシェンコ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Evtushenko"},{"value":"Yevtushenko"}]},{"name_type":["&person;"],"trans_det":[{"value":"Evgenii A.Evtushenko"}]}]}
 {"ent_seq":5017661,"r_ele":[{"reb":"エフトシェンコ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Yevtushenko"}]}]}
 {"ent_seq":5017662,"r_ele":[{"reb":"エフドキーモフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Evdokimoff"}]}]}
 {"ent_seq":5017663,"r_ele":[{"reb":"エフドキモワ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Evdokimova"}]}]}
@@ -28729,7 +28729,7 @@
 {"ent_seq":5028932,"k_ele":[{"keb":"クロ沢"}],"r_ele":[{"reb":"クロさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kurosawa"}]}]}
 {"ent_seq":5028933,"k_ele":[{"keb":"クロ島"}],"r_ele":[{"reb":"クロじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kurojima"}]}]}
 {"ent_seq":5028934,"r_ele":[{"reb":"クワーク"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Quirk"}]}]}
-{"ent_seq":5028935,"r_ele":[{"reb":"クワイン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Quine"}]}]}
+{"ent_seq":5028935,"r_ele":[{"reb":"クワイン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Quine"}]},{"name_type":["&person;"],"trans_det":[{"value":"Willard Van Orman Quine (1908-2000); philosopher and logician)"}]}]}
 {"ent_seq":5028936,"k_ele":[{"keb":"クワイ川"}],"r_ele":[{"reb":"クワイがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kwai River"}]}]}
 {"ent_seq":5028937,"k_ele":[{"keb":"クワウンナイ川"}],"r_ele":[{"reb":"クワウンナイがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kuwaunnaigawa"}]}]}
 {"ent_seq":5028938,"k_ele":[{"keb":"クワキソベツ川"}],"r_ele":[{"reb":"クワキソベツがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kuwakisobetsugawa"}]}]}
@@ -32487,7 +32487,6 @@
 {"ent_seq":5032702,"r_ele":[{"reb":"コパス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Copass"}]}]}
 {"ent_seq":5032703,"r_ele":[{"reb":"コパチ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kopacsi"}]}]}
 {"ent_seq":5032704,"r_ele":[{"reb":"コパツキ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kopacki"}]}]}
-{"ent_seq":5032705,"r_ele":[{"reb":"コパル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kopal"}]}]}
 {"ent_seq":5032706,"r_ele":[{"reb":"コヒーマ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kohima (India)"}]}]}
 {"ent_seq":5032707,"r_ele":[{"reb":"コヒィ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kohi"}]}]}
 {"ent_seq":5032708,"k_ele":[{"keb":"コヒラカマナイ川"}],"r_ele":[{"reb":"コヒラカマナイがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kohirakamanaigawa"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100608,"k_ele":[{"keb":"阿月"}],"r_ele":[{"reb":"あづき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Azuki"}]}]}
 {"ent_seq":5100609,"k_ele":[{"keb":"阿権"}],"r_ele":[{"reb":"あごん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Agon"}]}]}
 {"ent_seq":5100610,"k_ele":[{"keb":"阿権川"}],"r_ele":[{"reb":"あごんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Agongawa"}]}]}
+{"ent_seq":5100611,"k_ele":[{"keb":"阿県"}],"r_ele":[{"reb":"あがた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Agata"}]}]}
