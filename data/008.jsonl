@@ -43062,5 +43062,5 @@
 {"ent_seq":5747391,"r_ele":[{"reb":"テンゲン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Tengen"}]}]}
 {"ent_seq":5747392,"k_ele":[{"keb":"早鞆瀬戸"}],"r_ele":[{"reb":"はやとものせと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hayatomo Strait"}]}]}
 {"ent_seq":5747393,"k_ele":[{"keb":"ＣＯＰＡＬ"}],"r_ele":[{"reb":"コパル"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Nidec Precision Corporation"},{"value":"Nidec Copal Corporation (1998-2023)"},{"value":"Copal Corporation (1946-1998)"}]}]}
-{"ent_seq":5747394,"r_ele":[{"reb":"ニデック","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"xref":["日本電産"],"trans_det":[{"value":"Nidec Corporation"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-17"}]}]}
+{"ent_seq":5747394,"r_ele":[{"reb":"ニデック","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Nidec Corporation"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-24"}]}]}
