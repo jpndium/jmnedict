@@ -32783,7 +32783,7 @@
 {"ent_seq":5033000,"r_ele":[{"reb":"コランタン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Corentin"}]}]}
 {"ent_seq":5033001,"r_ele":[{"reb":"コラントーニ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Colantoni"}]}]}
 {"ent_seq":5033002,"r_ele":[{"reb":"コランドレーア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Colandrea"}]}]}
-{"ent_seq":5033003,"k_ele":[{"keb":"コラ半島"}],"r_ele":[{"reb":"コラはんとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kol'skii Polustrov (peninsula)"}]}]}
+{"ent_seq":5033003,"k_ele":[{"keb":"コラ半島"}],"r_ele":[{"reb":"コラはんとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kola Peninsula"}]}]}
 {"ent_seq":5033004,"k_ele":[{"keb":"コラ美"}],"r_ele":[{"reb":"コラみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Korami"}]}]}
 {"ent_seq":5033005,"r_ele":[{"reb":"コリ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cori (Italy)"}]}]}
 {"ent_seq":5033006,"r_ele":[{"reb":"コリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Collie (Australia)"},{"value":"Corry"},{"value":"Collee"},{"value":"Colley"},{"value":"Corey"}]}]}

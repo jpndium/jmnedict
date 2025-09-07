@@ -8050,7 +8050,7 @@
 {"ent_seq":5309340,"k_ele":[{"keb":"在藤"}],"r_ele":[{"reb":"ざいとう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Zaitō"}]}]}
 {"ent_seq":5309341,"k_ele":[{"keb":"在道"}],"r_ele":[{"reb":"ありみち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Arimichi"}]}]}
 {"ent_seq":5309342,"k_ele":[{"keb":"在徳"}],"r_ele":[{"reb":"ありのり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Arinori"}]}]}
-{"ent_seq":5309343,"k_ele":[{"keb":"在特会"}],"r_ele":[{"reb":"ざいとくかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Zaitokutai (abbr)"},{"value":"Zainichi Tokken o Yurusanai Shimin no Kai (The Citizens Group That Will Not Forgive Special Privileges for Koreans in Japan)"}]}]}
+{"ent_seq":5309343,"k_ele":[{"keb":"在特会"}],"r_ele":[{"reb":"ざいとくかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Zaitokukai (abbr)"},{"value":"Zainichi Tokken o Yurusanai Shimin no Kai (The Citizens Group That Will Not Forgive Special Privileges for Koreans in Japan)"}]}]}
 {"ent_seq":5309344,"k_ele":[{"keb":"在奈"}],"r_ele":[{"reb":"ありな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Arina"}]}]}
 {"ent_seq":5309345,"k_ele":[{"keb":"在二朗"}],"r_ele":[{"reb":"ざいじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Zaijirō"}]}]}
 {"ent_seq":5309346,"k_ele":[{"keb":"在二郎"}],"r_ele":[{"reb":"ざいじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Zaijirō"}]}]}

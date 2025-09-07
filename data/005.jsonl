@@ -11815,7 +11815,7 @@
 {"ent_seq":5413388,"k_ele":[{"keb":"真健"}],"r_ele":[{"reb":"まさたけ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Masatake"}]}]}
 {"ent_seq":5413389,"k_ele":[{"keb":"真健"}],"r_ele":[{"reb":"まさたつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Masatatsu"}]}]}
 {"ent_seq":5413390,"k_ele":[{"keb":"真剣"}],"r_ele":[{"reb":"ほんき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Honki"}]}]}
-{"ent_seq":5413391,"k_ele":[{"keb":"真剣佑"}],"r_ele":[{"reb":"まっけんゆう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Makken'yū"}]}]}
+{"ent_seq":5413391,"k_ele":[{"keb":"真剣佑"}],"r_ele":[{"reb":"まっけんゆう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Makken'yū"},{"value":"Mackenyu"}]}]}
 {"ent_seq":5413392,"k_ele":[{"keb":"真建"}],"r_ele":[{"reb":"まさたつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Masatatsu"}]}]}
 {"ent_seq":5413393,"k_ele":[{"keb":"真憲"}],"r_ele":[{"reb":"まさのり"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Masanori"}]}]}
 {"ent_seq":5413394,"k_ele":[{"keb":"真絹"}],"r_ele":[{"reb":"まき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Maki"}]}]}

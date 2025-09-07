@@ -43063,4 +43063,17 @@
 {"ent_seq":5747392,"k_ele":[{"keb":"早鞆瀬戸"}],"r_ele":[{"reb":"はやとものせと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hayatomo Strait"}]}]}
 {"ent_seq":5747393,"k_ele":[{"keb":"ＣＯＰＡＬ"}],"r_ele":[{"reb":"コパル"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Nidec Precision Corporation"},{"value":"Nidec Copal Corporation (1998-2023)"},{"value":"Copal Corporation (1946-1998)"}]}]}
 {"ent_seq":5747394,"r_ele":[{"reb":"ニデック","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Nidec Corporation"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-08-24"}]}]}
+{"ent_seq":5747395,"k_ele":[{"keb":"連邦準備銀行"}],"r_ele":[{"reb":"れんぽうじゅんびぎんこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Federal Reserve Bank (USA)"}]}]}
+{"ent_seq":5747396,"k_ele":[{"keb":"三省堂現代新国語辞典"}],"r_ele":[{"reb":"さんせいどうげんだいしんこくごじてん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Sanseido Gendai Shinkokugo Jiten (Japanese dictionary published by Sanseido)"}]}]}
+{"ent_seq":5747397,"k_ele":[{"keb":"現代新国語辞典"}],"r_ele":[{"reb":"げんだいしんこくごじてん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Gendai Shinkokugo Jiten (Japanese dictionary published by Sanseido)"}]}]}
+{"ent_seq":5747398,"r_ele":[{"reb":"イカルド","re_pri":{"spec":1}}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Squidward (SpongeBob SquarePants)"}]}]}
+{"ent_seq":5747399,"k_ele":[{"keb":"日本格付研究所"}],"r_ele":[{"reb":"にほんかくづけけんきゅうじょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Japan Credit Rating Agency"}]}]}
+{"ent_seq":5747400,"k_ele":[{"keb":"ダートマス大学"}],"r_ele":[{"reb":"ダートマスだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Dartmouth College"}]}]}
+{"ent_seq":5747401,"r_ele":[{"reb":"キャメル","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Camel (cigarette)"}]}]}
+{"ent_seq":5747402,"k_ele":[{"keb":"椿姫"}],"r_ele":[{"reb":"つばきひめ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Lady of the Camellias (1848 novel by Alexandre Dumas fils)"},{"value":"Camille"}]},{"name_type":["&work;"],"trans_det":[{"value":"La Traviata (1853 opera by Giuseppe Verdi)"}]}]}
+{"ent_seq":5747403,"k_ele":[{"keb":"麗美音"}],"r_ele":[{"reb":"れみね"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Remine"}]}]}
+{"ent_seq":5747404,"k_ele":[{"keb":"三菱ふそう"}],"r_ele":[{"reb":"みつびしふそう"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Mitsubishi Fuso"}]}]}
+{"ent_seq":5747405,"k_ele":[{"keb":"中日本高速道路株式会社"}],"r_ele":[{"reb":"なかにっぽんこうそくどうろかぶしきがいしゃ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Central Nippon Expressway Company Limited"}]}]}
+{"ent_seq":5747406,"k_ele":[{"keb":"ＮＥＸＣＯ中日本"}],"r_ele":[{"reb":"ネクスコなかにほん"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Central Nippon Expressway Company Limited"}]}]}
+{"ent_seq":5747407,"r_ele":[{"reb":"デュオリンゴ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Duolingo"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-09-07"}]}]}
