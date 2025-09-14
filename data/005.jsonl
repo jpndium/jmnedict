@@ -1,5 +1,3 @@
-{"ent_seq":5401539,"k_ele":[{"keb":"情吉"}],"r_ele":[{"reb":"じょうきち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōkichi"}]}]}
-{"ent_seq":5401540,"k_ele":[{"keb":"情久"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401541,"k_ele":[{"keb":"情司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401542,"k_ele":[{"keb":"情子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
 {"ent_seq":5401543,"k_ele":[{"keb":"情児"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
@@ -46770,7 +46768,6 @@
 {"ent_seq":5448459,"k_ele":[{"keb":"西板持"}],"r_ele":[{"reb":"にしいたもち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nishiitamochi"}]}]}
 {"ent_seq":5448460,"k_ele":[{"keb":"西板持町"}],"r_ele":[{"reb":"にしいたもちちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nishiitamochichō"}]}]}
 {"ent_seq":5448461,"k_ele":[{"keb":"西板中"}],"r_ele":[{"reb":"にしいたなか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nishiitanaka"}]}]}
-{"ent_seq":5448462,"k_ele":[{"keb":"西班牙"}],"r_ele":[{"reb":"すぺいん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Spain"}]}]}
 {"ent_seq":5448463,"k_ele":[{"keb":"西畔"}],"r_ele":[{"reb":"にしあぜ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nishiaze"}]}]}
 {"ent_seq":5448464,"k_ele":[{"keb":"西繁"}],"r_ele":[{"reb":"にししげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nishishige"}]}]}
 {"ent_seq":5448465,"k_ele":[{"keb":"西飯"}],"r_ele":[{"reb":"にしい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nishii"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5501917,"k_ele":[{"keb":"拓世"}],"r_ele":[{"reb":"たくよ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuyo"}]}]}
 {"ent_seq":5501918,"k_ele":[{"keb":"拓成"}],"r_ele":[{"reb":"たくせい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takusei"}]}]}
 {"ent_seq":5501919,"k_ele":[{"keb":"拓成"}],"r_ele":[{"reb":"ひろなり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hironari"}]}]}
+{"ent_seq":5501920,"k_ele":[{"keb":"拓成橋"}],"r_ele":[{"reb":"たくせいばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseibashi"}]}]}
+{"ent_seq":5501921,"k_ele":[{"keb":"拓成町"}],"r_ele":[{"reb":"たくせいちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseichō"}]}]}
+{"ent_seq":5501922,"k_ele":[{"keb":"拓正"}],"r_ele":[{"reb":"たくまさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takumasa"}]}]}

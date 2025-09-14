@@ -62049,7 +62049,7 @@
 {"ent_seq":5062464,"r_ele":[{"reb":"バーミングハム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Birmingham"}]}]}
 {"ent_seq":5062465,"r_ele":[{"reb":"バーモ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bhamo (Burmah)"}]}]}
 {"ent_seq":5062466,"r_ele":[{"reb":"バーモレル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vermorel"}]}]}
-{"ent_seq":5062467,"r_ele":[{"reb":"バーモント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vermont"}]}]}
+{"ent_seq":5062467,"r_ele":[{"reb":"バーモント"},{"reb":"ヴァーモント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vermont"}]}]}
 {"ent_seq":5062468,"r_ele":[{"reb":"バーヤカッリオ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vaajakallio"}]}]}
 {"ent_seq":5062469,"r_ele":[{"reb":"バーラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Barra (Brazil)"},{"value":"Burra (Australia)"},{"value":"Vara (Sweden)"}]}]}
 {"ent_seq":5062470,"r_ele":[{"reb":"バーラーガート"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Balaghat (India)"}]}]}
@@ -83012,7 +83012,7 @@
 {"ent_seq":5083539,"r_ele":[{"reb":"ミネコ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mineko"}]}]}
 {"ent_seq":5083540,"r_ele":[{"reb":"ミネソタ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minnesota"}]}]}
 {"ent_seq":5083541,"k_ele":[{"keb":"ミネソタ州"}],"r_ele":[{"reb":"ミネソタしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minnesota"}]}]}
-{"ent_seq":5083542,"k_ele":[{"keb":"ミネソタ大学秋田校"}],"r_ele":[{"reb":"ミネソタだいがくあきたこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minesotadaigakuakitakou"}]}]}
+{"ent_seq":5083542,"k_ele":[{"keb":"ミネソタ大学秋田校"}],"r_ele":[{"reb":"ミネソタだいがくあきたこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minnesota State University (Akita Campus) (1990-2003)"}]}]}
 {"ent_seq":5083543,"r_ele":[{"reb":"ミネタ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mineta"}]}]}
 {"ent_seq":5083544,"r_ele":[{"reb":"ミネッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Minetti"}]}]}
 {"ent_seq":5083545,"r_ele":[{"reb":"ミネッリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Minelli"}]}]}
@@ -96347,7 +96347,6 @@
 {"ent_seq":5096945,"r_ele":[{"reb":"ヴァービンスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Verbinski"}]}]}
 {"ent_seq":5096946,"k_ele":[{"keb":"ヴァーフ川"}],"r_ele":[{"reb":"ヴァーフがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Va'h (river)"}]}]}
 {"ent_seq":5096948,"r_ele":[{"reb":"ヴァーメルダム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Warmerdam"}]}]}
-{"ent_seq":5096949,"r_ele":[{"reb":"ヴァーモント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vermont"}]}]}
 {"ent_seq":5096950,"r_ele":[{"reb":"ヴァーラーナシー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Varanasi"}]}]}
 {"ent_seq":5096951,"r_ele":[{"reb":"ヴァーラーナスィ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Varanasi"}]}]}
 {"ent_seq":5096952,"r_ele":[{"reb":"ヴァーリイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ba-rii"}]}]}
@@ -96435,7 +96434,6 @@
 {"ent_seq":5097035,"r_ele":[{"reb":"ヴァネヴァー・ブッシュ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Vannevar Bush"}]}]}
 {"ent_seq":5097036,"r_ele":[{"reb":"ヴァネヴァーブッシュ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Vannevar Bush"}]}]}
 {"ent_seq":5097037,"r_ele":[{"reb":"ヴァフタンゴフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vakhtangov"}]}]}
-{"ent_seq":5097038,"r_ele":[{"reb":"ヴァモント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vermont"}]}]}
 {"ent_seq":5097039,"r_ele":[{"reb":"ヴァラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Valla"},{"value":"Varah"}]}]}
 {"ent_seq":5097040,"r_ele":[{"reb":"ヴァラキア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Wallachia"}]}]}
 {"ent_seq":5097041,"r_ele":[{"reb":"ヴァラドン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Valadon"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5100609,"k_ele":[{"keb":"阿権"}],"r_ele":[{"reb":"あごん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Agon"}]}]}
 {"ent_seq":5100610,"k_ele":[{"keb":"阿権川"}],"r_ele":[{"reb":"あごんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Agongawa"}]}]}
 {"ent_seq":5100611,"k_ele":[{"keb":"阿県"}],"r_ele":[{"reb":"あがた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Agata"}]}]}
+{"ent_seq":5100612,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あいみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Aimi"}]}]}
+{"ent_seq":5100613,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あみ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ami"}]}]}

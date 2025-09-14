@@ -1,6 +1,3 @@
-{"ent_seq":5501920,"k_ele":[{"keb":"拓成橋"}],"r_ele":[{"reb":"たくせいばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseibashi"}]}]}
-{"ent_seq":5501921,"k_ele":[{"keb":"拓成町"}],"r_ele":[{"reb":"たくせいちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseichō"}]}]}
-{"ent_seq":5501922,"k_ele":[{"keb":"拓正"}],"r_ele":[{"reb":"たくまさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takumasa"}]}]}
 {"ent_seq":5501923,"k_ele":[{"keb":"拓生"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
 {"ent_seq":5501924,"k_ele":[{"keb":"拓誠"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takumi"}]}]}
 {"ent_seq":5501925,"k_ele":[{"keb":"拓川"}],"r_ele":[{"reb":"たくせん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusen"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5602384,"k_ele":[{"keb":"番匠町"}],"r_ele":[{"reb":"ばんしょうちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshouchō"}]}]}
 {"ent_seq":5602385,"k_ele":[{"keb":"番匠町"}],"r_ele":[{"reb":"ばんじょうまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōmachi"}]}]}
 {"ent_seq":5602386,"k_ele":[{"keb":"番匠田中"}],"r_ele":[{"reb":"ばんじょうたなか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōtanaka"}]}]}
+{"ent_seq":5602387,"k_ele":[{"keb":"番匠田中町"}],"r_ele":[{"reb":"ばんじょうたなかちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōtanakachō"}]}]}
+{"ent_seq":5602388,"k_ele":[{"keb":"番匠鼻"}],"r_ele":[{"reb":"ばんしょうばな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banshoubana"}]}]}
+{"ent_seq":5602389,"k_ele":[{"keb":"番匠免"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}

@@ -1,6 +1,3 @@
-{"ent_seq":5602387,"k_ele":[{"keb":"番匠田中町"}],"r_ele":[{"reb":"ばんじょうたなかちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōtanakachō"}]}]}
-{"ent_seq":5602388,"k_ele":[{"keb":"番匠鼻"}],"r_ele":[{"reb":"ばんしょうばな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banshoubana"}]}]}
-{"ent_seq":5602389,"k_ele":[{"keb":"番匠免"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}
 {"ent_seq":5602390,"k_ele":[{"keb":"番匠面"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}
 {"ent_seq":5602391,"k_ele":[{"keb":"番庄"}],"r_ele":[{"reb":"ぱんしょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Panshou"}]}]}
 {"ent_seq":5602392,"k_ele":[{"keb":"番上"}],"r_ele":[{"reb":"ばんうえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ban'ue"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5702720,"k_ele":[{"keb":"隆国寺"}],"r_ele":[{"reb":"りゅうごくじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūgokuji"}]}]}
 {"ent_seq":5702721,"k_ele":[{"keb":"隆根"}],"r_ele":[{"reb":"りゅうこん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūkon"}]}]}
 {"ent_seq":5702722,"k_ele":[{"keb":"隆佐"}],"r_ele":[{"reb":"たかすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takasuke"}]}]}
+{"ent_seq":5702723,"k_ele":[{"keb":"隆佐"}],"r_ele":[{"reb":"りゅうさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsa"}]}]}
+{"ent_seq":5702724,"k_ele":[{"keb":"隆哉"}],"r_ele":[{"reb":"たかや"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaya"}]}]}
+{"ent_seq":5702725,"k_ele":[{"keb":"隆哉"}],"r_ele":[{"reb":"りゅうさい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūsai"}]}]}
