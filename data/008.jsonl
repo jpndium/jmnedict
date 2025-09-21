@@ -42947,7 +42947,7 @@
 {"ent_seq":5747274,"r_ele":[{"reb":"コンタック"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Contac"}]}]}
 {"ent_seq":5747275,"k_ele":[{"keb":"ドイツのための選択肢"}],"r_ele":[{"reb":"ドイツのためのせんたくし","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Alternative for Germany"},{"value":"AfD"}]}]}
 {"ent_seq":5747276,"k_ele":[{"keb":"リフォームＵＫ"}],"r_ele":[{"reb":"リフォームユーケー"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Reform UK"}]}]}
-{"ent_seq":5747277,"k_ele":[{"keb":"萩原淳"}],"r_ele":[{"reb":"はぎわらきよし"}],"trans":[{"trans_det":[{"value":"Kiyoshi Hagiwara (1904.10.11-1987.12.14-; professional shogi player)"}]}]}
+{"ent_seq":5747277,"k_ele":[{"keb":"萩原淳"}],"r_ele":[{"reb":"はぎわらきよし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiyoshi Hagiwara (1904.10.11-1987.12.14-; professional shogi player)"}]}]}
 {"ent_seq":5747278,"k_ele":[{"keb":"花依"}],"r_ele":[{"reb":"はなえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Hanae"}]}]}
 {"ent_seq":5747279,"k_ele":[{"keb":"ＦＯＭＡ"}],"r_ele":[{"reb":"フォーマ"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Freedom Of Mobile multimedia Access (NTT 3G system)"},{"value":"FOMA"}]}]}
 {"ent_seq":5747280,"r_ele":[{"reb":"アスクル","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"ASKUL"}]}]}
@@ -43078,5 +43078,7 @@
 {"ent_seq":5747410,"r_ele":[{"reb":"アービーズ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Arby's"}]}]}
 {"ent_seq":5747411,"k_ele":[{"keb":"フローレス海"}],"r_ele":[{"reb":"フローレスかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Flores Sea"}]}]}
 {"ent_seq":5747412,"r_ele":[{"reb":"スナドラ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Snapdragon (abbr.)"}]}]}
+{"ent_seq":5747413,"r_ele":[{"reb":"スナップドラゴン"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Snapdragon (system-on-chip by Qualcomm)"}]}]}
 {"ent_seq":5747414,"k_ele":[{"keb":"允聡"}],"r_ele":[{"reb":"まさあき"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Masaaki"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-09-14"}]}]}
+{"ent_seq":5747415,"k_ele":[{"keb":"侊彦"}],"r_ele":[{"reb":"てるひこ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Teruhiko"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-09-21"}]}]}

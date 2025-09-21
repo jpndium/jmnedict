@@ -47029,7 +47029,7 @@
 {"ent_seq":5448722,"k_ele":[{"keb":"西部洋平"}],"r_ele":[{"reb":"にしべようへい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nishibe Yōhei (1980.12.1-)"}]}]}
 {"ent_seq":5448723,"k_ele":[{"keb":"西部里菜"}],"r_ele":[{"reb":"にしべりな"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nishibe Rina (1976.8.30-)"}]}]}
 {"ent_seq":5448724,"k_ele":[{"keb":"西部緑地公園"}],"r_ele":[{"reb":"せいぶりょくちこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seiburyokuchi Park"}]}]}
-{"ent_seq":5448725,"k_ele":[{"keb":"西部邁"}],"r_ele":[{"reb":"にしべすすむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nishibe Susumu (1939.3-)"}]}]}
+{"ent_seq":5448725,"k_ele":[{"keb":"西部邁"}],"r_ele":[{"reb":"にしべすすむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Susumu Nishibe (1939.3.15-2018.1.21)"}]}]}
 {"ent_seq":5448726,"k_ele":[{"keb":"西風"}],"r_ele":[{"reb":"ならい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Narai"}]}]}
 {"ent_seq":5448727,"k_ele":[{"keb":"西風"}],"r_ele":[{"reb":"にしかぜ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nishikaze"}]}]}
 {"ent_seq":5448728,"k_ele":[{"keb":"西風巻谷"}],"r_ele":[{"reb":"にしかざまきだに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nishikazamakidani"}]}]}
