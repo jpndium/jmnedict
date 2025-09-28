@@ -1,4 +1,3 @@
-{"ent_seq":5501923,"k_ele":[{"keb":"拓生"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
 {"ent_seq":5501924,"k_ele":[{"keb":"拓誠"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takumi"}]}]}
 {"ent_seq":5501925,"k_ele":[{"keb":"拓川"}],"r_ele":[{"reb":"たくせん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusen"}]}]}
 {"ent_seq":5501926,"k_ele":[{"keb":"拓川町"}],"r_ele":[{"reb":"たくせんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takusenchō"}]}]}
@@ -47125,7 +47124,6 @@
 {"ent_seq":5549198,"k_ele":[{"keb":"土師ノ里"}],"r_ele":[{"reb":"はじのさと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hajinosato"}]}]}
 {"ent_seq":5549199,"k_ele":[{"keb":"土師ノ里駅"}],"r_ele":[{"reb":"はじのさとえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hajinosato Station"}]}]}
 {"ent_seq":5549200,"k_ele":[{"keb":"土師駅"}],"r_ele":[{"reb":"はじえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Haji Station"}]}]}
-{"ent_seq":5549201,"k_ele":[{"keb":"土師器"}],"r_ele":[{"reb":"はじき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hajiki"}]}]}
 {"ent_seq":5549202,"k_ele":[{"keb":"土師橋"}],"r_ele":[{"reb":"はぜばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hazebashi"}]}]}
 {"ent_seq":5549203,"k_ele":[{"keb":"土師原"}],"r_ele":[{"reb":"はしはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hashihara"}]}]}
 {"ent_seq":5549204,"k_ele":[{"keb":"土師孝也"}],"r_ele":[{"reb":"はしたかや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hashi Takaya (1962.9.8-)"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5602387,"k_ele":[{"keb":"番匠田中町"}],"r_ele":[{"reb":"ばんじょうたなかちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōtanakachō"}]}]}
 {"ent_seq":5602388,"k_ele":[{"keb":"番匠鼻"}],"r_ele":[{"reb":"ばんしょうばな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banshoubana"}]}]}
 {"ent_seq":5602389,"k_ele":[{"keb":"番匠免"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}
+{"ent_seq":5602390,"k_ele":[{"keb":"番匠面"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}
+{"ent_seq":5602391,"k_ele":[{"keb":"番庄"}],"r_ele":[{"reb":"ぱんしょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Panshou"}]}]}

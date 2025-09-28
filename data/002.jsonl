@@ -42529,7 +42529,6 @@
 {"ent_seq":5143273,"k_ele":[{"keb":"円夫"}],"r_ele":[{"reb":"のぶお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nobuo"}]}]}
 {"ent_seq":5143274,"k_ele":[{"keb":"円富"}],"r_ele":[{"reb":"えんとみ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Entomi"}]}]}
 {"ent_seq":5143275,"k_ele":[{"keb":"円舞"}],"r_ele":[{"reb":"えま"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ema"}]}]}
-{"ent_seq":5143276,"k_ele":[{"keb":"円舞曲"}],"r_ele":[{"reb":"わるつ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Warutsu"}]}]}
 {"ent_seq":5143277,"k_ele":[{"keb":"円舞子"}],"r_ele":[{"reb":"えまこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Emako"}]}]}
 {"ent_seq":5143278,"k_ele":[{"keb":"円部"}],"r_ele":[{"reb":"えんぶ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Enbu"}]}]}
 {"ent_seq":5143279,"k_ele":[{"keb":"円福"}],"r_ele":[{"reb":"えんぷく"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Enpuku"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200926,"k_ele":[{"keb":"季一郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200927,"k_ele":[{"keb":"季壱"}],"r_ele":[{"reb":"きいち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiichi"}]}]}
 {"ent_seq":5200928,"k_ele":[{"keb":"季壱朗"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
+{"ent_seq":5200929,"k_ele":[{"keb":"季壱郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}

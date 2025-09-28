@@ -1,4 +1,3 @@
-{"ent_seq":5401541,"k_ele":[{"keb":"情司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401542,"k_ele":[{"keb":"情子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
 {"ent_seq":5401543,"k_ele":[{"keb":"情児"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401544,"k_ele":[{"keb":"情次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501920,"k_ele":[{"keb":"拓成橋"}],"r_ele":[{"reb":"たくせいばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseibashi"}]}]}
 {"ent_seq":5501921,"k_ele":[{"keb":"拓成町"}],"r_ele":[{"reb":"たくせいちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseichō"}]}]}
 {"ent_seq":5501922,"k_ele":[{"keb":"拓正"}],"r_ele":[{"reb":"たくまさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takumasa"}]}]}
+{"ent_seq":5501923,"k_ele":[{"keb":"拓生"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
