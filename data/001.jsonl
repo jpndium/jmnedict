@@ -33919,7 +33919,6 @@
 {"ent_seq":5034141,"k_ele":[{"keb":"ゴマ平ヒュッテ"}],"r_ele":[{"reb":"ゴマだいらヒュッテ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomadaira Hut"}]}]}
 {"ent_seq":5034142,"r_ele":[{"reb":"ゴミウ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomiu"}]}]}
 {"ent_seq":5034143,"k_ele":[{"keb":"ゴミキ谷"}],"r_ele":[{"reb":"ゴミキたに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomikitani"}]}]}
-{"ent_seq":5034144,"k_ele":[{"keb":"ゴミ処理場"}],"r_ele":[{"reb":"ゴミしょりじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomishorijō"}]}]}
 {"ent_seq":5034145,"k_ele":[{"keb":"ゴミ焼却場"}],"r_ele":[{"reb":"ゴミしょうきゃくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomishoukyakujō"}]}]}
 {"ent_seq":5034146,"k_ele":[{"keb":"ゴミ沢"}],"r_ele":[{"reb":"ゴミさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomisawa"}]}]}
 {"ent_seq":5034147,"k_ele":[{"keb":"ゴミ沢"}],"r_ele":[{"reb":"ゴミざわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gomizawa"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100611,"k_ele":[{"keb":"阿県"}],"r_ele":[{"reb":"あがた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Agata"}]}]}
 {"ent_seq":5100612,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あいみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Aimi"}]}]}
 {"ent_seq":5100613,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あみ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ami"}]}]}
+{"ent_seq":5100615,"k_ele":[{"keb":"阿見絵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}

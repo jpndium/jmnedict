@@ -1,4 +1,3 @@
-{"ent_seq":5301281,"k_ele":[{"keb":"佐藤嗣麻子"}],"r_ele":[{"reb":"さとうしまこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shimako"}]}]}
 {"ent_seq":5301282,"k_ele":[{"keb":"佐藤市郎"}],"r_ele":[{"reb":"さとういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Ichirō (1889.8.28-1958.4.14)"}]}]}
 {"ent_seq":5301283,"k_ele":[{"keb":"佐藤志満"}],"r_ele":[{"reb":"さとうしま"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shima"}]}]}
 {"ent_seq":5301284,"k_ele":[{"keb":"佐藤紫蘭"}],"r_ele":[{"reb":"さとうしらん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shiran"}]}]}
@@ -26929,7 +26928,6 @@
 {"ent_seq":5328307,"k_ele":[{"keb":"市橋駅"}],"r_ele":[{"reb":"いちはしえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Ichihashi Station"}]}]}
 {"ent_seq":5328308,"k_ele":[{"keb":"市橋若菜"}],"r_ele":[{"reb":"いちはしわかな"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ichihashi Wakana"}]}]}
 {"ent_seq":5328309,"k_ele":[{"keb":"市橋有里"}],"r_ele":[{"reb":"いちはしあり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ichihashi Ari (1977.11.22-)"}]}]}
-{"ent_seq":5328310,"k_ele":[{"keb":"市橋有里"}],"r_ele":[{"reb":"いちはしゆり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ichihashi Yuri (1977-)"}]}]}
 {"ent_seq":5328311,"k_ele":[{"keb":"市橋隆雄"}],"r_ele":[{"reb":"いちはしたかお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ichihashi Takao"}]}]}
 {"ent_seq":5328312,"k_ele":[{"keb":"市郷"}],"r_ele":[{"reb":"いちさと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ichisato"}]}]}
 {"ent_seq":5328313,"k_ele":[{"keb":"市金"}],"r_ele":[{"reb":"いちかね"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ichikane"}]}]}
@@ -87983,7 +87981,7 @@
 {"ent_seq":5389485,"k_ele":[{"keb":"笑喜"}],"r_ele":[{"reb":"しょうき"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Shouki"}]}]}
 {"ent_seq":5389486,"k_ele":[{"keb":"笑鞠"}],"r_ele":[{"reb":"えまり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Emari"}]}]}
 {"ent_seq":5389487,"k_ele":[{"keb":"笑久未"}],"r_ele":[{"reb":"ふくみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Fukumi"}]}]}
-{"ent_seq":5389488,"k_ele":[{"keb":"笑撃的電影箱"}],"r_ele":[{"reb":"しょうげきてきでんえいばこ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shougekitekiden'eibako"}]}]}
+{"ent_seq":5389488,"k_ele":[{"keb":"笑撃的電影箱"}],"r_ele":[{"reb":"しょうげきてきでんえいばこ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Shōgeki-teki Den'ei-bako (television program, 1991-1994)"}]}]}
 {"ent_seq":5389489,"k_ele":[{"keb":"笑結"}],"r_ele":[{"reb":"えみゆ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Emiyu"}]}]}
 {"ent_seq":5389490,"k_ele":[{"keb":"笑月"}],"r_ele":[{"reb":"しょうげつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Shougetsu"}]}]}
 {"ent_seq":5389491,"k_ele":[{"keb":"笑犬樓"}],"r_ele":[{"reb":"しょうけんろう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shoukenrou"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5401539,"k_ele":[{"keb":"情吉"}],"r_ele":[{"reb":"じょうきち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōkichi"}]}]}
 {"ent_seq":5401540,"k_ele":[{"keb":"情久"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401541,"k_ele":[{"keb":"情司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
+{"ent_seq":5401542,"k_ele":[{"keb":"情子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
+{"ent_seq":5401543,"k_ele":[{"keb":"情児"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}

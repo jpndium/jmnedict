@@ -1,5 +1,3 @@
-{"ent_seq":5401542,"k_ele":[{"keb":"情子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
-{"ent_seq":5401543,"k_ele":[{"keb":"情児"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401544,"k_ele":[{"keb":"情次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401545,"k_ele":[{"keb":"情赦"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
 {"ent_seq":5401546,"k_ele":[{"keb":"情多朗"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
@@ -22592,7 +22590,7 @@
 {"ent_seq":5424209,"k_ele":[{"keb":"水咲"}],"r_ele":[{"reb":"みさ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Misa"}]}]}
 {"ent_seq":5424210,"k_ele":[{"keb":"水咲"}],"r_ele":[{"reb":"みさき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Misaki"}]}]}
 {"ent_seq":5424211,"k_ele":[{"keb":"水崎"}],"r_ele":[{"reb":"みさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Misaki"}]}]}
-{"ent_seq":5424212,"k_ele":[{"keb":"水崎"}],"r_ele":[{"reb":"みずさき"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Mizusaki"}]}]}
+{"ent_seq":5424212,"k_ele":[{"keb":"水崎"},{"keb":"水﨑"}],"r_ele":[{"reb":"みずさき"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Mizusaki"}]}]}
 {"ent_seq":5424213,"k_ele":[{"keb":"水崎"}],"r_ele":[{"reb":"みずざき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Mizuzaki"}]}]}
 {"ent_seq":5424214,"k_ele":[{"keb":"水崎綾女"}],"r_ele":[{"reb":"みさきあやめ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Misaki Ayame (1989.4.26-)"}]}]}
 {"ent_seq":5424215,"k_ele":[{"keb":"水崎新開"}],"r_ele":[{"reb":"みずさきしんかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mizusakishinkai"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501921,"k_ele":[{"keb":"拓成町"}],"r_ele":[{"reb":"たくせいちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuseichō"}]}]}
 {"ent_seq":5501922,"k_ele":[{"keb":"拓正"}],"r_ele":[{"reb":"たくまさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takumasa"}]}]}
 {"ent_seq":5501923,"k_ele":[{"keb":"拓生"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
+{"ent_seq":5501924,"k_ele":[{"keb":"拓誠"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takumi"}]}]}
+{"ent_seq":5501925,"k_ele":[{"keb":"拓川"}],"r_ele":[{"reb":"たくせん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusen"}]}]}

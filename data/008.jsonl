@@ -1,5 +1,3 @@
-{"ent_seq":5702728,"k_ele":[{"keb":"隆作"}],"r_ele":[{"reb":"りゅうさく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūsaku"}]}]}
-{"ent_seq":5702729,"k_ele":[{"keb":"隆策"}],"r_ele":[{"reb":"りゅうさく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsaku"}]}]}
 {"ent_seq":5702730,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たいぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Taizou"}]}]}
 {"ent_seq":5702731,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takakazu"}]}]}
 {"ent_seq":5702732,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takazou"}]}]}
@@ -43082,4 +43080,7 @@
 {"ent_seq":5747416,"k_ele":[{"keb":"成奏"}],"r_ele":[{"reb":"せえな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Seena"}]}]}
 {"ent_seq":5747417,"k_ele":[{"keb":"画図百鬼夜行"}],"r_ele":[{"reb":"がずひゃっきやぎょう"},{"reb":"がずひゃっきやこう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Gazu Hyakki Yagyō (illustrated supernatural bestiary; published in 1776 by Toriyama Sekien)"},{"value":"Gazu Hyakki Yakō"}]}]}
 {"ent_seq":5747418,"r_ele":[{"reb":"ヴラド・ツェペシュ"},{"reb":"ヴラドツェペシュ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Vlad the Impaler"},{"value":"Vlad Țepeș"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-09-28"}]}]}
+{"ent_seq":5747419,"k_ele":[{"keb":"沼河姫命"}],"r_ele":[{"reb":"ぬなかわひめのみこと","re_pri":{"spec":1}}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Nunakawahime no Mikoto"}]}]}
+{"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁"}],"r_ele":[{"reb":"のぎつねいご","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Fox Weiqi (Chinese online go server)"}]}]}
+{"ent_seq":5747421,"k_ele":[{"keb":"野狐"}],"r_ele":[{"reb":"のぎつね","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Fox Weiqi (Chinese online go server) (abbr)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-10-05"}]}]}

@@ -1,5 +1,3 @@
-{"ent_seq":5602392,"k_ele":[{"keb":"番上"}],"r_ele":[{"reb":"ばんうえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ban'ue"}]}]}
-{"ent_seq":5602393,"k_ele":[{"keb":"番城"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
 {"ent_seq":5602394,"k_ele":[{"keb":"番城山"}],"r_ele":[{"reb":"ばんじょうやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjōyama"}]}]}
 {"ent_seq":5602395,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"はんば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hanba"}]}]}
 {"ent_seq":5602396,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Baba"}]}]}
@@ -15087,7 +15085,7 @@
 {"ent_seq":5617536,"k_ele":[{"keb":"富士秀"}],"r_ele":[{"reb":"ふじひで"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Fujihide"}]}]}
 {"ent_seq":5617537,"k_ele":[{"keb":"富士秋"}],"r_ele":[{"reb":"ふじあき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Fujiaki"}]}]}
 {"ent_seq":5617538,"k_ele":[{"keb":"富士重"}],"r_ele":[{"reb":"ふじしげ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Fujishige"}]}]}
-{"ent_seq":5617539,"k_ele":[{"keb":"富士重工"}],"r_ele":[{"reb":"ふじじゅうこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Fuji Heavy Industries"}]}]}
+{"ent_seq":5617539,"k_ele":[{"keb":"富士重工"}],"r_ele":[{"reb":"ふじじゅうこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Fuji Heavy Industries (former name of Subaru Corporation)"}]}]}
 {"ent_seq":5617540,"k_ele":[{"keb":"富士重工業工場"}],"r_ele":[{"reb":"ふじじゅうこうぎょうこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fujijuu Manufacturing Plant"}]}]}
 {"ent_seq":5617541,"k_ele":[{"keb":"富士重工業製作所"}],"r_ele":[{"reb":"ふじじゅうこうぎょうせいさくじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fujijuukougyouseisakujo"}]}]}
 {"ent_seq":5617542,"k_ele":[{"keb":"富士重工工場"}],"r_ele":[{"reb":"ふじじゅうこうこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fujijuukou Factory"}]}]}
@@ -78115,7 +78113,7 @@
 {"ent_seq":5680796,"k_ele":[{"keb":"友里"}],"r_ele":[{"reb":"ともさと"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Tomosato"}]}]}
 {"ent_seq":5680797,"k_ele":[{"keb":"友里"}],"r_ele":[{"reb":"ともり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Tomori"}]}]}
 {"ent_seq":5680798,"k_ele":[{"keb":"友里"}],"r_ele":[{"reb":"ゆうり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yūri"}]}]}
-{"ent_seq":5680799,"k_ele":[{"keb":"友里"}],"r_ele":[{"reb":"ゆり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yuri"}]}]}
+{"ent_seq":5680799,"k_ele":[{"keb":"友里"}],"r_ele":[{"reb":"ゆり"}],"trans":[{"name_type":["&fem;","&surname;"],"trans_det":[{"value":"Yuri"}]}]}
 {"ent_seq":5680800,"k_ele":[{"keb":"友里"}],"r_ele":[{"reb":"ゆりあ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Yuria"}]}]}
 {"ent_seq":5680801,"k_ele":[{"keb":"友里亜"}],"r_ele":[{"reb":"ゆりあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yuria"}]}]}
 {"ent_seq":5680802,"k_ele":[{"keb":"友里阿"}],"r_ele":[{"reb":"ゆりあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yuria"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702725,"k_ele":[{"keb":"隆哉"}],"r_ele":[{"reb":"りゅうさい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūsai"}]}]}
 {"ent_seq":5702726,"k_ele":[{"keb":"隆哉"}],"r_ele":[{"reb":"りゅうや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūya"}]}]}
 {"ent_seq":5702727,"k_ele":[{"keb":"隆埼"}],"r_ele":[{"reb":"おもき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Omoki"}]}]}
+{"ent_seq":5702728,"k_ele":[{"keb":"隆作"}],"r_ele":[{"reb":"りゅうさく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūsaku"}]}]}
+{"ent_seq":5702729,"k_ele":[{"keb":"隆策"}],"r_ele":[{"reb":"りゅうさく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsaku"}]}]}

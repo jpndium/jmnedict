@@ -1,5 +1,3 @@
-{"ent_seq":5501924,"k_ele":[{"keb":"拓誠"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takumi"}]}]}
-{"ent_seq":5501925,"k_ele":[{"keb":"拓川"}],"r_ele":[{"reb":"たくせん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusen"}]}]}
 {"ent_seq":5501926,"k_ele":[{"keb":"拓川町"}],"r_ele":[{"reb":"たくせんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takusenchō"}]}]}
 {"ent_seq":5501927,"k_ele":[{"keb":"拓宋"}],"r_ele":[{"reb":"たくそう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusou"}]}]}
 {"ent_seq":5501928,"k_ele":[{"keb":"拓蔵"}],"r_ele":[{"reb":"たくぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuzou"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5602389,"k_ele":[{"keb":"番匠免"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}
 {"ent_seq":5602390,"k_ele":[{"keb":"番匠面"}],"r_ele":[{"reb":"ばんしょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshoumen"}]}]}
 {"ent_seq":5602391,"k_ele":[{"keb":"番庄"}],"r_ele":[{"reb":"ぱんしょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Panshou"}]}]}
+{"ent_seq":5602392,"k_ele":[{"keb":"番上"}],"r_ele":[{"reb":"ばんうえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ban'ue"}]}]}
+{"ent_seq":5602393,"k_ele":[{"keb":"番城"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
