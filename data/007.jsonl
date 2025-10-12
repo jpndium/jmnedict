@@ -14461,7 +14461,7 @@
 {"ent_seq":5616908,"k_ele":[{"keb":"富岡鉄剤"}],"r_ele":[{"reb":"とみおかてっさい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Tomioka Tessai"}]}]}
 {"ent_seq":5616909,"k_ele":[{"keb":"富岡東"}],"r_ele":[{"reb":"とみおかひがし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tomiokahigashi"}]}]}
 {"ent_seq":5616910,"k_ele":[{"keb":"富岡南"}],"r_ele":[{"reb":"とみおかみなみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tomiokaminami"}]}]}
-{"ent_seq":5616911,"k_ele":[{"keb":"富岡八幡宮"}],"r_ele":[{"reb":"とみおかはちまんぐう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tomiokahachimanguu"}]}]}
+{"ent_seq":5616911,"k_ele":[{"keb":"富岡八幡宮"}],"r_ele":[{"reb":"とみおかはちまんぐう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tomioka Hachiman Shrine"}]}]}
 {"ent_seq":5616912,"k_ele":[{"keb":"富岡由夫"}],"r_ele":[{"reb":"とみおかよしお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Tomioka Yoshio"}]}]}
 {"ent_seq":5616913,"k_ele":[{"keb":"富岡和男"}],"r_ele":[{"reb":"とみおかかずお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Tomioka Kazuo"}]}]}
 {"ent_seq":5616914,"k_ele":[{"keb":"富岡湾"}],"r_ele":[{"reb":"とみおかわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tomiokawan"}]}]}

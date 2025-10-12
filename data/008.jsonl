@@ -43083,4 +43083,10 @@
 {"ent_seq":5747419,"k_ele":[{"keb":"沼河姫命"}],"r_ele":[{"reb":"ぬなかわひめのみこと","re_pri":{"spec":1}}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Nunakawahime no Mikoto"}]}]}
 {"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁"}],"r_ele":[{"reb":"のぎつねいご","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Fox Weiqi (Chinese online go server)"}]}]}
 {"ent_seq":5747421,"k_ele":[{"keb":"野狐"}],"r_ele":[{"reb":"のぎつね","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Fox Weiqi (Chinese online go server) (abbr)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-10-05"}]}]}
+{"ent_seq":5747422,"k_ele":[{"keb":"品川神社"}],"r_ele":[{"reb":"しながわじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shinagawa Shrine"}]}]}
+{"ent_seq":5747423,"k_ele":[{"keb":"芝大神宮"}],"r_ele":[{"reb":"しばだいじんぐう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiba Dai Shrine"}]}]}
+{"ent_seq":5747424,"k_ele":[{"keb":"亀戸天神社"}],"r_ele":[{"reb":"かめいどてんじんしゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kameido Tenjin Shrine"}]}]}
+{"ent_seq":5747425,"k_ele":[{"keb":"ＤｅｅｐＬ翻訳"},{"keb":"ディープエル翻訳"}],"r_ele":[{"reb":"ディープエルほんやく","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"DeepL Translator"}]}]}
+{"ent_seq":5747427,"r_ele":[{"reb":"テトリー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Tetley"}]}]}
+{"ent_seq":5747428,"k_ele":[{"keb":"兼戈"}],"r_ele":[{"reb":"かねたけ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanetake"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-10-12"}]}]}

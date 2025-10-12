@@ -62298,7 +62298,7 @@
 {"ent_seq":5564503,"k_ele":[{"keb":"道園"}],"r_ele":[{"reb":"みちその"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Michisono"}]}]}
 {"ent_seq":5564504,"k_ele":[{"keb":"道園"}],"r_ele":[{"reb":"みちぞの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Michizono"}]}]}
 {"ent_seq":5564505,"k_ele":[{"keb":"道遠"}],"r_ele":[{"reb":"みちとお"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Michitoo"}]}]}
-{"ent_seq":5564506,"k_ele":[{"keb":"道央"}],"r_ele":[{"reb":"どうおう"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Dōou"}]}]}
+{"ent_seq":5564506,"k_ele":[{"keb":"道央"}],"r_ele":[{"reb":"どうおう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Western and South-Central Hokkaidō"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Dōou"}]}]}
 {"ent_seq":5564507,"k_ele":[{"keb":"道央"}],"r_ele":[{"reb":"みちお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Michio"}]}]}
 {"ent_seq":5564508,"k_ele":[{"keb":"道央自動車道"}],"r_ele":[{"reb":"どうおうじどうしゃどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōou Expressway"}]}]}
 {"ent_seq":5564509,"k_ele":[{"keb":"道央地方卸売市場"}],"r_ele":[{"reb":"どうおうちほうおろしうりいちば"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōouchihouoroshiuriichiba"}]}]}
@@ -63027,7 +63027,7 @@
 {"ent_seq":5565235,"k_ele":[{"keb":"道頓堀川"}],"r_ele":[{"reb":"どうとんぼりがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōtonborigawa"}]}]}
 {"ent_seq":5565236,"k_ele":[{"keb":"道内"}],"r_ele":[{"reb":"みちうち"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Michiuchi"}]}]}
 {"ent_seq":5565237,"k_ele":[{"keb":"道内原"}],"r_ele":[{"reb":"どうないはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōnaihara"}]}]}
-{"ent_seq":5565238,"k_ele":[{"keb":"道南"}],"r_ele":[{"reb":"どうなん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōnan"}]}]}
+{"ent_seq":5565238,"k_ele":[{"keb":"道南"}],"r_ele":[{"reb":"どうなん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Southern Hokkadō"},{"value":"Dōnan"}]}]}
 {"ent_seq":5565239,"k_ele":[{"keb":"道南西"}],"r_ele":[{"reb":"どうなんにし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōnannishi"}]}]}
 {"ent_seq":5565240,"k_ele":[{"keb":"道南東"}],"r_ele":[{"reb":"どうなんひがし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dōnanhigashi"}]}]}
 {"ent_seq":5565241,"k_ele":[{"keb":"道二"}],"r_ele":[{"reb":"どうに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dōni"}]}]}
@@ -63133,7 +63133,7 @@
 {"ent_seq":5565341,"k_ele":[{"keb":"道芳"}],"r_ele":[{"reb":"みちまさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Michimasa"}]}]}
 {"ent_seq":5565342,"k_ele":[{"keb":"道邦"}],"r_ele":[{"reb":"みちくに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Michikuni"}]}]}
 {"ent_seq":5565343,"k_ele":[{"keb":"道房"}],"r_ele":[{"reb":"みちふさ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Michifusa"}]}]}
-{"ent_seq":5565344,"k_ele":[{"keb":"道北"}],"r_ele":[{"reb":"どうほく"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Dōhoku"}]}]}
+{"ent_seq":5565344,"k_ele":[{"keb":"道北"}],"r_ele":[{"reb":"どうほく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Northern Hokkaidō"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Dōhoku"}]}]}
 {"ent_seq":5565345,"k_ele":[{"keb":"道北"}],"r_ele":[{"reb":"みちきた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Michikita"}]}]}
 {"ent_seq":5565346,"k_ele":[{"keb":"道北町"}],"r_ele":[{"reb":"みちきたちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Michikitachō"}]}]}
 {"ent_seq":5565347,"k_ele":[{"keb":"道北町"}],"r_ele":[{"reb":"みちきたまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Michikitamachi"}]}]}

@@ -16342,7 +16342,7 @@
 {"ent_seq":5417948,"k_ele":[{"keb":"神田北陽"}],"r_ele":[{"reb":"かんだほくよう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kanda Hokuyou"}]}]}
 {"ent_seq":5417949,"k_ele":[{"keb":"神田牧場"}],"r_ele":[{"reb":"かんだぼくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kandabokujō"}]}]}
 {"ent_seq":5417950,"k_ele":[{"keb":"神田岬"}],"r_ele":[{"reb":"かんだみさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kandamisaki"}]}]}
-{"ent_seq":5417951,"k_ele":[{"keb":"神田明神"}],"r_ele":[{"reb":"かんだみょうじん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kanda myoujin - shrine near Ochanomizu station, Tokyo"}]}]}
+{"ent_seq":5417951,"k_ele":[{"keb":"神田明神"}],"r_ele":[{"reb":"かんだみょうじん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kanda Shrine"}]}]}
 {"ent_seq":5417952,"k_ele":[{"keb":"神田免"}],"r_ele":[{"reb":"こうだめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōdamen"}]}]}
 {"ent_seq":5417953,"k_ele":[{"keb":"神田木沢"}],"r_ele":[{"reb":"かんだきさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kandakisawa"}]}]}
 {"ent_seq":5417954,"k_ele":[{"keb":"神田陽子"}],"r_ele":[{"reb":"かんだようこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kanda Yōko (1958.5.19-)"}]}]}

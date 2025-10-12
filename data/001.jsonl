@@ -22836,7 +22836,7 @@
 {"ent_seq":5023006,"r_ele":[{"reb":"カラヴァッジオ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Caravaggio"}]}]}
 {"ent_seq":5023007,"r_ele":[{"reb":"カラヴァッジョ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Caravaggio"}]}]}
 {"ent_seq":5023008,"k_ele":[{"keb":"カラ海"}],"r_ele":[{"reb":"カラかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kara Sea"},{"value":"Karskoye More"}]}]}
-{"ent_seq":5023009,"k_ele":[{"keb":"カラ海峡"}],"r_ele":[{"reb":"カラかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Proliv Karskoye Vorota (channel)"}]}]}
+{"ent_seq":5023009,"k_ele":[{"keb":"カラ海峡"}],"r_ele":[{"reb":"カラかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kara Strait"}]}]}
 {"ent_seq":5023010,"k_ele":[{"keb":"カラ岳"}],"r_ele":[{"reb":"カラだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Karadake"}]}]}
 {"ent_seq":5023011,"k_ele":[{"keb":"カラ杉谷"}],"r_ele":[{"reb":"カラすぎだに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Karasugidani"}]}]}
 {"ent_seq":5023012,"k_ele":[{"keb":"カラ川"}],"r_ele":[{"reb":"カラがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kara (river)"}]}]}
@@ -23297,7 +23297,7 @@
 {"ent_seq":5023469,"r_ele":[{"reb":"カルメル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Carmel"},{"value":"Carmer"}]}]}
 {"ent_seq":5023470,"k_ele":[{"keb":"カルメル山"}],"r_ele":[{"reb":"カルメルさん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Carmel (mountain)"}]}]}
 {"ent_seq":5023471,"r_ele":[{"reb":"カルメロ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Carmelo"}]}]}
-{"ent_seq":5023472,"r_ele":[{"reb":"カルメン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Carmen"},{"value":"Karmen"}]}]}
+{"ent_seq":5023472,"r_ele":[{"reb":"カルメン"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Carmen (novel by Prosper Mérimée, opera by Georges Bizet)"}]}]}
 {"ent_seq":5023473,"r_ele":[{"reb":"カルモ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Carmo (Brazil)"},{"value":"Calmo"}]}]}
 {"ent_seq":5023474,"r_ele":[{"reb":"カルモナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Carmona (Angola)"}]}]}
 {"ent_seq":5023475,"r_ele":[{"reb":"カルモンテル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Carmontelle"}]}]}
@@ -47652,7 +47652,7 @@
 {"ent_seq":5047986,"r_ele":[{"reb":"タタールスク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tatarsk (Russia)"}]}]}
 {"ent_seq":5047987,"r_ele":[{"reb":"タタールスタン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tatarstan"}]}]}
 {"ent_seq":5047988,"k_ele":[{"keb":"タタールスタン共和国"}],"r_ele":[{"reb":"タタールスタンきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tatarskaya Respublika"}]}]}
-{"ent_seq":5047989,"k_ele":[{"keb":"タタール海峡"}],"r_ele":[{"reb":"タタールかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tatarskii Proliv (channel)"}]}]}
+{"ent_seq":5047989,"k_ele":[{"keb":"タタール海峡"}],"r_ele":[{"reb":"タタールかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tatar Strait"}]}]}
 {"ent_seq":5047990,"r_ele":[{"reb":"タタバーニャ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tatabanya (Hungary)"}]}]}
 {"ent_seq":5047991,"r_ele":[{"reb":"タタミ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Tatami"}]}]}
 {"ent_seq":5047992,"k_ele":[{"keb":"タタミの川"}],"r_ele":[{"reb":"タタミのかわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tataminokawa"}]}]}
@@ -91009,7 +91009,7 @@
 {"ent_seq":5091579,"r_ele":[{"reb":"リプソン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lipson"}]}]}
 {"ent_seq":5091580,"r_ele":[{"reb":"リプダル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rypdal"}]}]}
 {"ent_seq":5091581,"r_ele":[{"reb":"リプチンスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rybczynski"}]}]}
-{"ent_seq":5091582,"r_ele":[{"reb":"リプトン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lipton"}]}]}
+{"ent_seq":5091582,"r_ele":[{"reb":"リプトン","re_pri":{"spec":1}}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lipton"}]},{"name_type":["&product;"],"trans_det":[{"value":"Lipton (tea brand)"}]}]}
 {"ent_seq":5091583,"r_ele":[{"reb":"リプニッキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lipnitskii"}]}]}
 {"ent_seq":5091584,"r_ele":[{"reb":"リプノ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lipno (Poland)"}]}]}
 {"ent_seq":5091585,"r_ele":[{"reb":"リプマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lipman"}]}]}
