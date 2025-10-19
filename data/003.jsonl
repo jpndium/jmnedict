@@ -29154,8 +29154,7 @@
 {"ent_seq":5230199,"k_ele":[{"keb":"金鍾仁"}],"r_ele":[{"reb":"きむしょうに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kimushouni"}]}]}
 {"ent_seq":5230200,"k_ele":[{"keb":"金鍾大"}],"r_ele":[{"reb":"きんしょうだい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinshoudai"}]}]}
 {"ent_seq":5230201,"k_ele":[{"keb":"金鍾徳"}],"r_ele":[{"reb":"きんしょうとく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinshoutoku"}]}]}
-{"ent_seq":5230202,"k_ele":[{"keb":"金鍾泌"}],"r_ele":[{"reb":"きむじょんぴる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kimu Jonpiru (1926-)"}]}]}
-{"ent_seq":5230203,"k_ele":[{"keb":"金鍾泌"}],"r_ele":[{"reb":"きんしょうひつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinshouhitsu"}]}]}
+{"ent_seq":5230202,"k_ele":[{"keb":"金鍾泌"}],"r_ele":[{"reb":"キムジョンピル"},{"reb":"きんしょうひつ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kim Jong-pil (1926.7.1-2018.6.23; Prime Minister of South Korea)"}]}]}
 {"ent_seq":5230204,"k_ele":[{"keb":"金鐘"}],"r_ele":[{"reb":"きんしょう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kinshou"}]}]}
 {"ent_seq":5230205,"k_ele":[{"keb":"金鐘"}],"r_ele":[{"reb":"こんしゅ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Konshu"}]}]}
 {"ent_seq":5230206,"k_ele":[{"keb":"金鐘九"}],"r_ele":[{"reb":"きんしょうく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinshouku"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301279,"k_ele":[{"keb":"佐藤山"}],"r_ele":[{"reb":"さとやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Satoyama"}]}]}
 {"ent_seq":5301280,"k_ele":[{"keb":"佐藤史郎"}],"r_ele":[{"reb":"さとうしろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shirou (1932.8-)"}]}]}
 {"ent_seq":5301281,"k_ele":[{"keb":"佐藤嗣麻子"}],"r_ele":[{"reb":"さとうしまこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shimako"}]}]}
+{"ent_seq":5301282,"k_ele":[{"keb":"佐藤市郎"}],"r_ele":[{"reb":"さとういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Ichirō (1889.8.28-1958.4.14)"}]}]}

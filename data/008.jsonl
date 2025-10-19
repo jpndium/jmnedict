@@ -1,4 +1,3 @@
-{"ent_seq":5702730,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たいぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Taizou"}]}]}
 {"ent_seq":5702731,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takakazu"}]}]}
 {"ent_seq":5702732,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takazou"}]}]}
 {"ent_seq":5702733,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takami"}]}]}
@@ -43087,6 +43086,9 @@
 {"ent_seq":5747423,"k_ele":[{"keb":"芝大神宮"}],"r_ele":[{"reb":"しばだいじんぐう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiba Dai Shrine"}]}]}
 {"ent_seq":5747424,"k_ele":[{"keb":"亀戸天神社"}],"r_ele":[{"reb":"かめいどてんじんしゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kameido Tenjin Shrine"}]}]}
 {"ent_seq":5747425,"k_ele":[{"keb":"ＤｅｅｐＬ翻訳"},{"keb":"ディープエル翻訳"}],"r_ele":[{"reb":"ディープエルほんやく","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"DeepL Translator"}]}]}
+{"ent_seq":5747426,"r_ele":[{"reb":"オヴァートン"},{"reb":"オバートン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Overton"}]}]}
 {"ent_seq":5747427,"r_ele":[{"reb":"テトリー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Tetley"}]}]}
 {"ent_seq":5747428,"k_ele":[{"keb":"兼戈"}],"r_ele":[{"reb":"かねたけ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanetake"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-10-12"}]}]}
+{"ent_seq":5747429,"k_ele":[{"keb":"力都"}],"r_ele":[{"reb":"りきと"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Rikito"}]}]}
+{"ent_seq":5747430,"k_ele":[{"keb":"尹潽善"}],"r_ele":[{"reb":"いんふぜん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yun Po-sun (1897.8.26-1990.7.18; president of South Korea)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-10-19"}]}]}

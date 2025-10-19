@@ -1,4 +1,3 @@
-{"ent_seq":5301282,"k_ele":[{"keb":"佐藤市郎"}],"r_ele":[{"reb":"さとういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Ichirō (1889.8.28-1958.4.14)"}]}]}
 {"ent_seq":5301283,"k_ele":[{"keb":"佐藤志満"}],"r_ele":[{"reb":"さとうしま"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shima"}]}]}
 {"ent_seq":5301284,"k_ele":[{"keb":"佐藤紫蘭"}],"r_ele":[{"reb":"さとうしらん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shiran"}]}]}
 {"ent_seq":5301285,"k_ele":[{"keb":"佐藤時啓"}],"r_ele":[{"reb":"さとうときひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tokihiro"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5401541,"k_ele":[{"keb":"情司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401542,"k_ele":[{"keb":"情子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
 {"ent_seq":5401543,"k_ele":[{"keb":"情児"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
+{"ent_seq":5401544,"k_ele":[{"keb":"情次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
