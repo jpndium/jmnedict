@@ -53405,7 +53405,7 @@
 {"ent_seq":5455132,"k_ele":[{"keb":"石破"}],"r_ele":[{"reb":"いしば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ishiba"}]}]}
 {"ent_seq":5455133,"k_ele":[{"keb":"石破"}],"r_ele":[{"reb":"いしわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ishiwa"}]}]}
 {"ent_seq":5455134,"k_ele":[{"keb":"石破二朗"}],"r_ele":[{"reb":"いしばじろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ishiba Jirou (1908.7.29-1981.9.16)"}]}]}
-{"ent_seq":5455135,"k_ele":[{"keb":"石破茂"}],"r_ele":[{"reb":"いしばしげる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shigeru Ishiba (1957.2.4-; prime minister of Japan from 2024.9.30)"}]}]}
+{"ent_seq":5455135,"k_ele":[{"keb":"石破茂"}],"r_ele":[{"reb":"いしばしげる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shigeru Ishiba (1957.2.4-; prime minister of Japan from 2024.9.30-2025.10.21)"}]}]}
 {"ent_seq":5455136,"k_ele":[{"keb":"石馬"}],"r_ele":[{"reb":"いしうま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ishiuma"}]}]}
 {"ent_seq":5455137,"k_ele":[{"keb":"石馬"}],"r_ele":[{"reb":"いしば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ishiba"}]}]}
 {"ent_seq":5455138,"k_ele":[{"keb":"石馬"}],"r_ele":[{"reb":"いしま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ishima"}]}]}

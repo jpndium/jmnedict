@@ -88197,7 +88197,7 @@
 {"ent_seq":5289434,"k_ele":[{"keb":"高市山"}],"r_ele":[{"reb":"たかいちやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takaichiyama"}]}]}
 {"ent_seq":5289435,"k_ele":[{"keb":"高市場"}],"r_ele":[{"reb":"たかいちば"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takaichiba"}]}]}
 {"ent_seq":5289436,"k_ele":[{"keb":"高市川"}],"r_ele":[{"reb":"たかいちがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takaichigawa"}]}]}
-{"ent_seq":5289437,"k_ele":[{"keb":"高市早苗"}],"r_ele":[{"reb":"たかいちさなえ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sanae Takaichi (1961.3.7-; politician)"}]}]}
+{"ent_seq":5289437,"k_ele":[{"keb":"高市早苗"}],"r_ele":[{"reb":"たかいちさなえ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sanae Takaichi (1961.3.7-; prime minister of Japan)"}]}]}
 {"ent_seq":5289438,"k_ele":[{"keb":"高市智子"}],"r_ele":[{"reb":"たかいちともこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takaichi Tomoko (1976.5.2-)"}]}]}
 {"ent_seq":5289439,"k_ele":[{"keb":"高市麻呂"}],"r_ele":[{"reb":"たけちまろ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takechimaro"}]}]}
 {"ent_seq":5289440,"k_ele":[{"keb":"高市朗"}],"r_ele":[{"reb":"こういちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kōichirō"}]}]}
