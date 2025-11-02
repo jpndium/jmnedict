@@ -1,5 +1,3 @@
-{"ent_seq":5401545,"k_ele":[{"keb":"情赦"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
-{"ent_seq":5401546,"k_ele":[{"keb":"情多朗"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
 {"ent_seq":5401547,"k_ele":[{"keb":"情多郎"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
 {"ent_seq":5401548,"k_ele":[{"keb":"情太朗"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
 {"ent_seq":5401549,"k_ele":[{"keb":"情太郎"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
@@ -69322,7 +69320,7 @@
 {"ent_seq":5471114,"k_ele":[{"keb":"全二"}],"r_ele":[{"reb":"ぜんじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Zenji"}]}]}
 {"ent_seq":5471115,"k_ele":[{"keb":"全二朗"}],"r_ele":[{"reb":"ぜんじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Zenjirō"}]}]}
 {"ent_seq":5471116,"k_ele":[{"keb":"全二郎"}],"r_ele":[{"reb":"ぜんじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Zenjirō"}]}]}
-{"ent_seq":5471117,"k_ele":[{"keb":"全日空"}],"r_ele":[{"reb":"ぜんにっくう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"All Nippon Airways"},{"value":"ANA"}]}]}
+{"ent_seq":5471117,"k_ele":[{"keb":"全日空"}],"r_ele":[{"reb":"ぜんにっくう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"All Nippon Airways (abbr)"},{"value":"ANA"}]}]}
 {"ent_seq":5471118,"k_ele":[{"keb":"全日本菓子協会"}],"r_ele":[{"reb":"ぜんにほんかしきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"All Nippon Kashi Association"}]}]}
 {"ent_seq":5471119,"k_ele":[{"keb":"全日本教職員組合"}],"r_ele":[{"reb":"ぜんにほんきょうしょくいんくみあい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"All-Japan Federation of Teachers' and Staff's Unions"}]}]}
 {"ent_seq":5471120,"k_ele":[{"keb":"全日本金属情報機器労働組合"}],"r_ele":[{"reb":"ぜんにほんきんぞくじょうほうききろうどうくみあい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"All Japan Metal and Information Machinery Workers' Union"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501924,"k_ele":[{"keb":"拓誠"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takumi"}]}]}
 {"ent_seq":5501925,"k_ele":[{"keb":"拓川"}],"r_ele":[{"reb":"たくせん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusen"}]}]}
 {"ent_seq":5501926,"k_ele":[{"keb":"拓川町"}],"r_ele":[{"reb":"たくせんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takusenchō"}]}]}
+{"ent_seq":5501927,"k_ele":[{"keb":"拓宋"}],"r_ele":[{"reb":"たくそう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusou"}]}]}
+{"ent_seq":5501928,"k_ele":[{"keb":"拓蔵"}],"r_ele":[{"reb":"たくぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuzou"}]}]}

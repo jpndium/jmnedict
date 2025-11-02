@@ -1,5 +1,3 @@
-{"ent_seq":5702731,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takakazu"}]}]}
-{"ent_seq":5702732,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takazou"}]}]}
 {"ent_seq":5702733,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takami"}]}]}
 {"ent_seq":5702734,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takamitsu"}]}]}
 {"ent_seq":5702735,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りゅうぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzou"}]}]}
@@ -39090,7 +39088,7 @@
 {"ent_seq":5743344,"r_ele":[{"reb":"ローンドロマット","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Laundromat (brand name)"}]}]}
 {"ent_seq":5743345,"r_ele":[{"reb":"はあとめーる","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"heart mail (postcard for sending to elderly people on Respect-for-the-Aged Day)"}]}]}
 {"ent_seq":5743346,"k_ele":[{"keb":"たべっ子どうぶつ"},{"keb":"たべっこ動物"},{"keb":"食べっこ動物"},{"keb":"たべっ子動物"},{"keb":"食べっ子動物"}],"r_ele":[{"reb":"たべっこどうぶつ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Tabekko Dōbutsu (brand of animal cracker)"}]}]}
-{"ent_seq":5743347,"k_ele":[{"keb":"大谷翔平"}],"r_ele":[{"reb":"おおたにしょうへい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shohei Ohtani (1994.06.05-; Major League baseball pitcher)"}]}]}
+{"ent_seq":5743347,"k_ele":[{"keb":"大谷翔平"}],"r_ele":[{"reb":"おおたにしょうへい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shohei Ohtani (1994.06.05-; baseball player)"}]}]}
 {"ent_seq":5743348,"r_ele":[{"reb":"アップルウォッチ","re_pri":{"spec":1}},{"reb":"アップル・ウォッチ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Apple Watch"}]}]}
 {"ent_seq":5743349,"k_ele":[{"keb":"ピーチ姫"}],"r_ele":[{"reb":"ピーチひめ","re_pri":{"spec":1}}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Princess Peach (Nintendo character)"}]}]}
 {"ent_seq":5743350,"r_ele":[{"reb":"ドンキーコング","re_pri":{"spec":1}},{"reb":"ドンキー・コング"}],"trans":[{"name_type":["&char;","&work;"],"trans_det":[{"value":"Donkey Kong"}]}]}
@@ -43092,4 +43090,10 @@
 {"ent_seq":5747429,"k_ele":[{"keb":"力都"}],"r_ele":[{"reb":"りきと"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Rikito"}]}]}
 {"ent_seq":5747430,"k_ele":[{"keb":"尹潽善"}],"r_ele":[{"reb":"いんふぜん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yun Po-sun (1897.8.26-1990.7.18; president of South Korea)"}]}]}
 {"ent_seq":5747431,"r_ele":[{"reb":"ニジィン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nizhyn (Ukraine)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-10-26"}]}]}
+{"ent_seq":5747433,"k_ele":[{"keb":"株探"}],"r_ele":[{"reb":"かぶたん"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Kabutan (stock market website)"}]}]}
+{"ent_seq":5747434,"k_ele":[{"keb":"ガリガリ君"}],"r_ele":[{"reb":"ガリガリくん"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Garigari-kun (ice pop brand made by Akagi Nyugyo)"}]}]}
+{"ent_seq":5747435,"r_ele":[{"reb":"カルバンクライン"},{"reb":"カルバン・クライン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Calvin Klein"}]}]}
+{"ent_seq":5747436,"k_ele":[{"keb":"Ｐｉｘ"},{"keb":"ＰＩＸ"}],"r_ele":[{"reb":"ピックス","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Pix (Brazilian electronic payment system)"}]}]}
+{"ent_seq":5747437,"k_ele":[{"keb":"錦織圭"}],"r_ele":[{"reb":"にしこりけい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kei Nishikori (1989.12.29-; professional tennis player)"}]}]}
+{"ent_seq":5747439,"r_ele":[{"reb":"ラジコ"}],"trans":[{"name_type":["&company;","&serv;"],"trans_det":[{"value":"radiko (Internet radio streaming)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-02"}]}]}

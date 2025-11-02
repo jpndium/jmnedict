@@ -57558,7 +57558,7 @@
 {"ent_seq":5057949,"r_ele":[{"reb":"ナッサウジーゲン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nassau-Siegen"}]}]}
 {"ent_seq":5057950,"k_ele":[{"keb":"ナッサウ山脈"}],"r_ele":[{"reb":"ナッサウさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nassau Range"}]}]}
 {"ent_seq":5057951,"r_ele":[{"reb":"ナッシム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nassim"}]}]}
-{"ent_seq":5057952,"r_ele":[{"reb":"ナッシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nash"},{"value":"Nashe"}]}]}
+{"ent_seq":5057952,"r_ele":[{"reb":"ナッシュ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nash"},{"value":"Nashe"}]}]}
 {"ent_seq":5057953,"r_ele":[{"reb":"ナッシュビル"},{"reb":"ナッシュヴィル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nashville"}]}]}
 {"ent_seq":5057954,"r_ele":[{"reb":"ナッシュマルクト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Naschmarkt"}]}]}
 {"ent_seq":5057956,"r_ele":[{"reb":"ナッセリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nassery"}]}]}
@@ -96016,9 +96016,7 @@
 {"ent_seq":5096613,"k_ele":[{"keb":"ワトーガ川"}],"r_ele":[{"reb":"ワトーガがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Watauga (river)"}]}]}
 {"ent_seq":5096614,"r_ele":[{"reb":"ワトゥーチン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vatutin"}]}]}
 {"ent_seq":5096615,"r_ele":[{"reb":"ワトキン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Watkin"}]}]}
-{"ent_seq":5096616,"r_ele":[{"reb":"ワトキンス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Watokinsu"}]}]}
-{"ent_seq":5096617,"r_ele":[{"reb":"ワトキンスピッチフォード"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Watkins-Pitchford"}]}]}
-{"ent_seq":5096618,"r_ele":[{"reb":"ワトキンズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Watkins"}]}]}
+{"ent_seq":5096616,"r_ele":[{"reb":"ワトキンス"},{"reb":"ワトキンズ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Watkins"}]}]}
 {"ent_seq":5096619,"r_ele":[{"reb":"ワトキンズグレン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Watkins Glen"}]}]}
 {"ent_seq":5096620,"r_ele":[{"reb":"ワトキンソン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Watkinson"}]}]}
 {"ent_seq":5096621,"r_ele":[{"reb":"ワトスン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Watson"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5100612,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あいみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Aimi"}]}]}
 {"ent_seq":5100613,"k_ele":[{"keb":"阿見"}],"r_ele":[{"reb":"あみ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ami"}]}]}
 {"ent_seq":5100615,"k_ele":[{"keb":"阿見絵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
+{"ent_seq":5100616,"k_ele":[{"keb":"阿見恵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
+{"ent_seq":5100617,"k_ele":[{"keb":"阿見慧"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}

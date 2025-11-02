@@ -1,5 +1,3 @@
-{"ent_seq":5100616,"k_ele":[{"keb":"阿見恵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
-{"ent_seq":5100617,"k_ele":[{"keb":"阿見慧"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
 {"ent_seq":5100618,"k_ele":[{"keb":"阿見江"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
 {"ent_seq":5100619,"k_ele":[{"keb":"阿見子"}],"r_ele":[{"reb":"あみこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiko"}]}]}
 {"ent_seq":5100620,"k_ele":[{"keb":"阿見枝"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5200928,"k_ele":[{"keb":"季壱朗"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200929,"k_ele":[{"keb":"季壱郎"}],"r_ele":[{"reb":"きいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kiichirō"}]}]}
 {"ent_seq":5200930,"k_ele":[{"keb":"季韻"}],"r_ele":[{"reb":"ときね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokine"}]}]}
+{"ent_seq":5200931,"k_ele":[{"keb":"季羽"}],"r_ele":[{"reb":"きば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kiba"}]}]}
+{"ent_seq":5200932,"k_ele":[{"keb":"季羽倭文子"}],"r_ele":[{"reb":"きばしずこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiba Shizuko"}]}]}

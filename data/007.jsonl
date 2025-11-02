@@ -1,5 +1,3 @@
-{"ent_seq":5602395,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"はんば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hanba"}]}]}
-{"ent_seq":5602396,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Baba"}]}]}
 {"ent_seq":5602397,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
 {"ent_seq":5602398,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばんば"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Banba"}]}]}
 {"ent_seq":5602399,"k_ele":[{"keb":"番場ちひろ"}],"r_ele":[{"reb":"ばんばちひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Banba Chihiro (1958.3-)"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702728,"k_ele":[{"keb":"隆作"}],"r_ele":[{"reb":"りゅうさく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūsaku"}]}]}
 {"ent_seq":5702729,"k_ele":[{"keb":"隆策"}],"r_ele":[{"reb":"りゅうさく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsaku"}]}]}
 {"ent_seq":5702730,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たいぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Taizou"}]}]}
+{"ent_seq":5702731,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takakazu"}]}]}
+{"ent_seq":5702732,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takazou"}]}]}

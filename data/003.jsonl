@@ -1,5 +1,3 @@
-{"ent_seq":5200931,"k_ele":[{"keb":"季羽"}],"r_ele":[{"reb":"きば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kiba"}]}]}
-{"ent_seq":5200932,"k_ele":[{"keb":"季羽倭文子"}],"r_ele":[{"reb":"きばしずこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiba Shizuko"}]}]}
 {"ent_seq":5200933,"k_ele":[{"keb":"季映"}],"r_ele":[{"reb":"きえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kie"}]}]}
 {"ent_seq":5200934,"k_ele":[{"keb":"季栄"}],"r_ele":[{"reb":"としはる"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Toshiharu"}]}]}
 {"ent_seq":5200935,"k_ele":[{"keb":"季永"}],"r_ele":[{"reb":"すえひさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suehisa"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5301280,"k_ele":[{"keb":"佐藤史郎"}],"r_ele":[{"reb":"さとうしろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shirou (1932.8-)"}]}]}
 {"ent_seq":5301281,"k_ele":[{"keb":"佐藤嗣麻子"}],"r_ele":[{"reb":"さとうしまこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shimako"}]}]}
 {"ent_seq":5301282,"k_ele":[{"keb":"佐藤市郎"}],"r_ele":[{"reb":"さとういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Ichirō (1889.8.28-1958.4.14)"}]}]}
+{"ent_seq":5301283,"k_ele":[{"keb":"佐藤志満"}],"r_ele":[{"reb":"さとうしま"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shima"}]}]}
+{"ent_seq":5301284,"k_ele":[{"keb":"佐藤紫蘭"}],"r_ele":[{"reb":"さとうしらん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shiran"}]}]}
