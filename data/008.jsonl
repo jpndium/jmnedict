@@ -33901,7 +33901,7 @@
 {"ent_seq":5736694,"k_ele":[{"keb":"證眞"}],"r_ele":[{"reb":"しょうしん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shoushin"}]}]}
 {"ent_seq":5736695,"k_ele":[{"keb":"譛郎"}],"r_ele":[{"reb":"さんろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Sanrou"}]}]}
 {"ent_seq":5736696,"k_ele":[{"keb":"譚"}],"r_ele":[{"reb":"たん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tan"}]}]}
-{"ent_seq":5736697,"k_ele":[{"keb":"譚詠麟"}],"r_ele":[{"reb":"あらんたむ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Arantamu"}]}]}
+{"ent_seq":5736697,"k_ele":[{"keb":"譚詠麟"}],"r_ele":[{"reb":"アランタム"},{"reb":"アラン・タム"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Alan Tam Wing-lun (1950.8.23-; Hong Kong singer)"}]}]}
 {"ent_seq":5736698,"k_ele":[{"keb":"譚家明"}],"r_ele":[{"reb":"ぱとりっくたむ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Patorikkutamu"}]}]}
 {"ent_seq":5736699,"k_ele":[{"keb":"譚元元"}],"r_ele":[{"reb":"たんやんやん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tan'yan'yan"}]}]}
 {"ent_seq":5736700,"k_ele":[{"keb":"譚唐"}],"r_ele":[{"reb":"たんとう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tantou"}]}]}
@@ -43090,10 +43090,11 @@
 {"ent_seq":5747429,"k_ele":[{"keb":"力都"}],"r_ele":[{"reb":"りきと"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Rikito"}]}]}
 {"ent_seq":5747430,"k_ele":[{"keb":"尹潽善"}],"r_ele":[{"reb":"いんふぜん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yun Po-sun (1897.8.26-1990.7.18; president of South Korea)"}]}]}
 {"ent_seq":5747431,"r_ele":[{"reb":"ニジィン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nizhyn (Ukraine)"}]}]}
-{"ent_seq":5747433,"k_ele":[{"keb":"株探"}],"r_ele":[{"reb":"かぶたん"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Kabutan (stock market website)"}]}]}
+{"ent_seq":5747433,"k_ele":[{"keb":"株探"}],"r_ele":[{"reb":"かぶたん","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Kabutan (stock market information website)"}]}]}
 {"ent_seq":5747434,"k_ele":[{"keb":"ガリガリ君"}],"r_ele":[{"reb":"ガリガリくん"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Garigari-kun (ice pop brand made by Akagi Nyugyo)"}]}]}
 {"ent_seq":5747435,"r_ele":[{"reb":"カルバンクライン"},{"reb":"カルバン・クライン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Calvin Klein"}]}]}
 {"ent_seq":5747436,"k_ele":[{"keb":"Ｐｉｘ"},{"keb":"ＰＩＸ"}],"r_ele":[{"reb":"ピックス","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Pix (Brazilian electronic payment system)"}]}]}
 {"ent_seq":5747437,"k_ele":[{"keb":"錦織圭"}],"r_ele":[{"reb":"にしこりけい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kei Nishikori (1989.12.29-; professional tennis player)"}]}]}
 {"ent_seq":5747439,"r_ele":[{"reb":"ラジコ"}],"trans":[{"name_type":["&company;","&serv;"],"trans_det":[{"value":"radiko (Internet radio streaming)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-02"}]}]}
+{"ent_seq":5747441,"k_ele":[{"keb":"能士"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-09"}]}]}

@@ -35990,7 +35990,7 @@
 {"ent_seq":5036231,"k_ele":[{"keb":"サンデー海峡"}],"r_ele":[{"reb":"サンデーかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sunday Straits"}]}]}
 {"ent_seq":5036232,"k_ele":[{"keb":"サンデー島"}],"r_ele":[{"reb":"サンデーとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanday (island)"}]}]}
 {"ent_seq":5036233,"k_ele":[{"keb":"サンデー岬"}],"r_ele":[{"reb":"サンデーみさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sandy Cape"}]}]}
-{"ent_seq":5036234,"r_ele":[{"reb":"サンディ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sandi"},{"value":"Sandy"}]}]}
+{"ent_seq":5036234,"r_ele":[{"reb":"サンディ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sandy"},{"value":"Sandie"}]},{"name_type":["&company;"],"trans_det":[{"value":"Sundi (supermarket)"}]}]}
 {"ent_seq":5036235,"r_ele":[{"reb":"サンディー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sandie"}]}]}
 {"ent_seq":5036236,"r_ele":[{"reb":"サンディーン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sundeen"}]}]}
 {"ent_seq":5036237,"k_ele":[{"keb":"サンディア山脈"}],"r_ele":[{"reb":"サンディアさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sandia Mountains"}]}]}
