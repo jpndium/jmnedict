@@ -43167,7 +43167,7 @@
 {"ent_seq":5244272,"k_ele":[{"keb":"芸術文化短大"}],"r_ele":[{"reb":"げいじゅつぶんかたんだい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Geijutsubunkatandai"}]}]}
 {"ent_seq":5244273,"k_ele":[{"keb":"芸西"}],"r_ele":[{"reb":"げいせい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Geisei"}]}]}
 {"ent_seq":5244274,"k_ele":[{"keb":"芸西村"}],"r_ele":[{"reb":"げいせいむら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Geiseimura"}]}]}
-{"ent_seq":5244275,"k_ele":[{"keb":"芸大"}],"r_ele":[{"reb":"げいだい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo University of Arts and Music (abbr)"}]}]}
+{"ent_seq":5244275,"k_ele":[{"keb":"藝大"},{"keb":"芸大"}],"r_ele":[{"reb":"げいだい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo University of Arts (abbr)"}]}]}
 {"ent_seq":5244276,"k_ele":[{"keb":"芸大通駅"}],"r_ele":[{"reb":"げいだいどおりえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Geidaidoori Station"}]}]}
 {"ent_seq":5244277,"k_ele":[{"keb":"芸南ゴルフ場"}],"r_ele":[{"reb":"げいなんゴルフじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Geinan Golf Links"}]}]}
 {"ent_seq":5244278,"k_ele":[{"keb":"芸濃"}],"r_ele":[{"reb":"げいのう"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Geinou"}]}]}

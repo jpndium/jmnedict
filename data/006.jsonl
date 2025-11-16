@@ -19238,7 +19238,7 @@
 {"ent_seq":5521236,"k_ele":[{"keb":"仲太郎"}],"r_ele":[{"reb":"ちゅうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Chuutarō"}]}]}
 {"ent_seq":5521237,"k_ele":[{"keb":"仲太郎"}],"r_ele":[{"reb":"なかたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Nakatarō"}]}]}
 {"ent_seq":5521238,"k_ele":[{"keb":"仲代"}],"r_ele":[{"reb":"なかだい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nakadai"}]}]}
-{"ent_seq":5521239,"k_ele":[{"keb":"仲代達矢"}],"r_ele":[{"reb":"なかだいたつや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nakadai Tatsuya (1932.12-)"}]}]}
+{"ent_seq":5521239,"k_ele":[{"keb":"仲代達矢"}],"r_ele":[{"reb":"なかだいたつや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Tatsuya Nakadai (1932.12.13-2025.11.8; actor)"}]}]}
 {"ent_seq":5521240,"k_ele":[{"keb":"仲代文雄"}],"r_ele":[{"reb":"なかだいふみお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nakadai Fumio (1921.3.3-)"}]}]}
 {"ent_seq":5521241,"k_ele":[{"keb":"仲台"}],"r_ele":[{"reb":"なかだい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nakadai"}]}]}
 {"ent_seq":5521242,"k_ele":[{"keb":"仲大盛"}],"r_ele":[{"reb":"なかおおもり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nakaoomori"}]}]}

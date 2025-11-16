@@ -58574,7 +58574,7 @@
 {"ent_seq":5058970,"r_ele":[{"reb":"ニューデリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"New Delhi (India)"}]}]}
 {"ent_seq":5058971,"r_ele":[{"reb":"ニュートギングリッチ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Newt Gingrich"}]}]}
 {"ent_seq":5058972,"r_ele":[{"reb":"ニュートナーズ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Newtownards"}]}]}
-{"ent_seq":5058973,"r_ele":[{"reb":"ニュートン"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Newton"}]}]}
+{"ent_seq":5058973,"r_ele":[{"reb":"ニュートン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Newton"}]},{"name_type":["&person;"],"trans_det":[{"value":"Newton, Isaac (1643-1727; English physicist and mathematician)"}]}]}
 {"ent_seq":5058974,"r_ele":[{"reb":"ニュートンジョン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Newton-John"}]}]}
 {"ent_seq":5058975,"r_ele":[{"reb":"ニューナム"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Newnham"}]}]}
 {"ent_seq":5058976,"r_ele":[{"reb":"ニューネーデルラント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"New Netherland"}]}]}
@@ -60457,7 +60457,7 @@
 {"ent_seq":5060862,"r_ele":[{"reb":"ハイドリッヒ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heidrich"}]}]}
 {"ent_seq":5060863,"r_ele":[{"reb":"ハイドリヒ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heydrich"}]}]}
 {"ent_seq":5060864,"r_ele":[{"reb":"ハイドロン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heydron"}]}]}
-{"ent_seq":5060865,"r_ele":[{"reb":"ハイドン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Haidon"}]}]}
+{"ent_seq":5060865,"r_ele":[{"reb":"ハイドン","re_pri":{"spec":1}}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Haydn"}]},{"name_type":["&person;"],"trans_det":[{"value":"Haydn, Joseph (1732-1809; Austrian composer)"}]}]}
 {"ent_seq":5060866,"r_ele":[{"reb":"ハイナー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heinar"},{"value":"Heiner"}]}]}
 {"ent_seq":5060867,"r_ele":[{"reb":"ハイナウ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Haynau"}]}]}
 {"ent_seq":5060868,"k_ele":[{"keb":"ハイナン島"}],"r_ele":[{"reb":"ハイナンとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hainan"}]}]}

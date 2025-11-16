@@ -19397,7 +19397,7 @@
 {"ent_seq":5120082,"k_ele":[{"keb":"医大南"}],"r_ele":[{"reb":"いだいみなみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Idaiminami"}]}]}
 {"ent_seq":5120083,"k_ele":[{"keb":"医大南町"}],"r_ele":[{"reb":"いだいみなみまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Idaiminamimachi"}]}]}
 {"ent_seq":5120084,"k_ele":[{"keb":"医大病院"}],"r_ele":[{"reb":"いだいびょういん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Idai Hospital"}]}]}
-{"ent_seq":5120085,"k_ele":[{"keb":"医薬安全局"}],"r_ele":[{"reb":"いやくあんぜんきょく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Pharmaceutical and Food Safety Bureau (formerly Pharmaceutical and Medical Safety Bureau)"}]}]}
+{"ent_seq":5120085,"k_ele":[{"keb":"医薬安全局"}],"r_ele":[{"reb":"いやくあんぜんきょく"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Pharmaceutical and Medical Safety Bureau (1997-2001)"}]}]}
 {"ent_seq":5120086,"k_ele":[{"keb":"医薬工業協会"}],"r_ele":[{"reb":"いやくこうぎょうきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Ethical Manufacturers' Association"}]}]}
 {"ent_seq":5120087,"k_ele":[{"keb":"医薬品市場調査団体"}],"r_ele":[{"reb":"いやくひんしじょうちょうさだんたい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"British Pharmaceutical Market Research Group"}]}]}
 {"ent_seq":5120088,"k_ele":[{"keb":"医薬品情報協会"}],"r_ele":[{"reb":"いやくひんじょうほうきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Drug Information Association"},{"value":"DIA"}]}]}

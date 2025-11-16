@@ -43095,6 +43095,16 @@
 {"ent_seq":5747435,"r_ele":[{"reb":"カルバンクライン"},{"reb":"カルバン・クライン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Calvin Klein"}]}]}
 {"ent_seq":5747436,"k_ele":[{"keb":"Ｐｉｘ"},{"keb":"ＰＩＸ"}],"r_ele":[{"reb":"ピックス","re_pri":{"spec":1}}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Pix (Brazilian electronic payment system)"}]}]}
 {"ent_seq":5747437,"k_ele":[{"keb":"錦織圭"}],"r_ele":[{"reb":"にしこりけい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kei Nishikori (1989.12.29-; professional tennis player)"}]}]}
+{"ent_seq":5747438,"k_ele":[{"keb":"らじる★らじる"},{"keb":"らじる☆らじる"}],"r_ele":[{"reb":"らじるらじる"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Rajiru Rajiru (NHK Internet radio platform)"}]}]}
 {"ent_seq":5747439,"r_ele":[{"reb":"ラジコ"}],"trans":[{"name_type":["&company;","&serv;"],"trans_det":[{"value":"radiko (Internet radio streaming)"}]}]}
+{"ent_seq":5747440,"k_ele":[{"keb":"文プロ"}],"r_ele":[{"reb":"ぶんプロ"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Bunpro (Japanese grammar learning system)"}]}]}
 {"ent_seq":5747441,"k_ele":[{"keb":"能士"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-09"}]}]}
+{"ent_seq":5747443,"k_ele":[{"keb":"東京芸大"},{"keb":"東京藝大"}],"r_ele":[{"reb":"とうきょうげいだい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo University of the Arts (abbr)"}]}]}
+{"ent_seq":5747444,"k_ele":[{"keb":"医薬食品局"}],"r_ele":[{"reb":"いやくしょくひんきょく"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Pharmaceutical and Food Safety Bureau (2003-2015)"}]}]}
+{"ent_seq":5747445,"k_ele":[{"keb":"国民保健サービス"}],"r_ele":[{"reb":"こくみんほけんサービス"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Health Service (UK)"},{"value":"NHS"}]}]}
+{"ent_seq":5747446,"k_ele":[{"keb":"日本専門医機構"}],"r_ele":[{"reb":"にほんせんもんいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese Medical Specialty Board"}]}]}
+{"ent_seq":5747447,"k_ele":[{"keb":"日本歯科専門医機構"}],"r_ele":[{"reb":"にほんしかせんもんいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese Dental Specialty Board"}]}]}
+{"ent_seq":5747448,"k_ele":[{"keb":"沙怜"}],"r_ele":[{"reb":"さり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sari"}]}]}
+{"ent_seq":5747449,"k_ele":[{"keb":"ＵＮＥＦ"}],"r_ele":[{"reb":"ユネフ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"United Nations Emergency Force"},{"value":"UNEF"}]}]}
+{"ent_seq":5747450,"k_ele":[{"keb":"国連緊急軍"}],"r_ele":[{"reb":"こくれんきんきゅうぐん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"United Nations Emergency Force"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-16"}]}]}
