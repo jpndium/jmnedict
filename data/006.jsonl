@@ -1,16 +1,3 @@
-{"ent_seq":5501929,"k_ele":[{"keb":"拓造"}],"r_ele":[{"reb":"たくぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuzou"}]}]}
-{"ent_seq":5501930,"k_ele":[{"keb":"拓則"}],"r_ele":[{"reb":"たくのり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takunori"}]}]}
-{"ent_seq":5501931,"k_ele":[{"keb":"拓太郎"}],"r_ele":[{"reb":"たくたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takutarō"}]}]}
-{"ent_seq":5501932,"k_ele":[{"keb":"拓代"}],"r_ele":[{"reb":"たくよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuyo"}]}]}
-{"ent_seq":5501933,"k_ele":[{"keb":"拓代"}],"r_ele":[{"reb":"ひろよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Hiroyo"}]}]}
-{"ent_seq":5501934,"k_ele":[{"keb":"拓大"}],"r_ele":[{"reb":"たくだい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Takushoku University (abbr)"}]}]}
-{"ent_seq":5501935,"k_ele":[{"keb":"拓大"}],"r_ele":[{"reb":"たくひろ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuhiro"}]}]}
-{"ent_seq":5501936,"k_ele":[{"keb":"拓男"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
-{"ent_seq":5501937,"k_ele":[{"keb":"拓男"}],"r_ele":[{"reb":"ひろお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroo"}]}]}
-{"ent_seq":5501938,"k_ele":[{"keb":"拓暢"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuo"}]}]}
-{"ent_seq":5501939,"k_ele":[{"keb":"拓鉄"}],"r_ele":[{"reb":"たくてつ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takutetsu"}]}]}
-{"ent_seq":5501940,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
-{"ent_seq":5501941,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
 {"ent_seq":5501942,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
 {"ent_seq":5501943,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
 {"ent_seq":5501944,"k_ele":[{"keb":"拓都"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
@@ -51120,7 +51107,7 @@
 {"ent_seq":5553250,"k_ele":[{"keb":"東京工科大学"}],"r_ele":[{"reb":"とうきょうこうかだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo University of Technology"}]}]}
 {"ent_seq":5553251,"k_ele":[{"keb":"東京工学院専門学校"}],"r_ele":[{"reb":"とうきょうこうがくいんせんもんがっこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Technos International College"}]}]}
 {"ent_seq":5553252,"k_ele":[{"keb":"東京工業高専"}],"r_ele":[{"reb":"とうきょうこうぎょうこうせん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo Industrial College"}]}]}
-{"ent_seq":5553253,"k_ele":[{"keb":"東京工業大学"}],"r_ele":[{"reb":"とうきょうこうぎょうだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo Institute of Technology"},{"value":"TIT"}]}]}
+{"ent_seq":5553253,"k_ele":[{"keb":"東京工業大学"}],"r_ele":[{"reb":"とうきょうこうぎょうだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo Institute of Technology (until 2024)"},{"value":"TIT"}]}]}
 {"ent_seq":5553254,"k_ele":[{"keb":"東京工芸大学"}],"r_ele":[{"reb":"とうきょうこうげいだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo Polytechnic University"}]}]}
 {"ent_seq":5553255,"k_ele":[{"keb":"東京拘置所"}],"r_ele":[{"reb":"とうきょうこうちしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tōkyōkouchisho"}]}]}
 {"ent_seq":5553256,"k_ele":[{"keb":"東京港"}],"r_ele":[{"reb":"とうきょうこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Port of Tokyo"}]}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5602394,"k_ele":[{"keb":"番城山"}],"r_ele":[{"reb":"ばんじょうやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjōyama"}]}]}
 {"ent_seq":5602395,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"はんば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hanba"}]}]}
 {"ent_seq":5602396,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Baba"}]}]}
+{"ent_seq":5602397,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
+{"ent_seq":5602398,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばんば"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Banba"}]}]}
+{"ent_seq":5602399,"k_ele":[{"keb":"番場ちひろ"}],"r_ele":[{"reb":"ばんばちひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Banba Chihiro (1958.3-)"}]}]}
+{"ent_seq":5602400,"k_ele":[{"keb":"番場山"}],"r_ele":[{"reb":"ばんばやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banbayama"}]}]}
+{"ent_seq":5602401,"k_ele":[{"keb":"番場池"}],"r_ele":[{"reb":"ばんばいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banbaike"}]}]}
+{"ent_seq":5602402,"k_ele":[{"keb":"番場町"}],"r_ele":[{"reb":"ばんばちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banbachō"}]}]}
+{"ent_seq":5602403,"k_ele":[{"keb":"番場町"}],"r_ele":[{"reb":"ばんばまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banbamachi"}]}]}
+{"ent_seq":5602404,"k_ele":[{"keb":"番場要"}],"r_ele":[{"reb":"ばんばかなめ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Banba Kaname (1967.5.14-)"}]}]}
+{"ent_seq":5602405,"k_ele":[{"keb":"番条"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
+{"ent_seq":5602406,"k_ele":[{"keb":"番条町"}],"r_ele":[{"reb":"ばんじょうちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōchō"}]}]}
+{"ent_seq":5602407,"k_ele":[{"keb":"番尻"}],"r_ele":[{"reb":"ばんじり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjiri"}]}]}
+{"ent_seq":5602408,"k_ele":[{"keb":"番神"}],"r_ele":[{"reb":"ばんじん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjin"}]}]}
+{"ent_seq":5602409,"k_ele":[{"keb":"番神山"}],"r_ele":[{"reb":"ばんしんざん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banshinzan"}]}]}

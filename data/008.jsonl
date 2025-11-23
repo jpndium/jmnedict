@@ -1,16 +1,3 @@
-{"ent_seq":5702733,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takami"}]}]}
-{"ent_seq":5702734,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takamitsu"}]}]}
-{"ent_seq":5702735,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りゅうぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzou"}]}]}
-{"ent_seq":5702736,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りゆうぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūzou"}]}]}
-{"ent_seq":5702737,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りょうぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryōzou"}]}]}
-{"ent_seq":5702738,"k_ele":[{"keb":"隆三杉"}],"r_ele":[{"reb":"たかみすぎ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takamisugi"}]}]}
-{"ent_seq":5702739,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"たかさぶろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takasaburō"}]}]}
-{"ent_seq":5702740,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"りゅうさぶろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūsaburō"}]}]}
-{"ent_seq":5702741,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"りゅうざぶろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūzaburō"}]}]}
-{"ent_seq":5702742,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"りゆうざぶろう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūzaburō"}]}]}
-{"ent_seq":5702743,"k_ele":[{"keb":"隆参"}],"r_ele":[{"reb":"りゅうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzan"}]}]}
-{"ent_seq":5702744,"k_ele":[{"keb":"隆山"}],"r_ele":[{"reb":"りゅうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzan"}]}]}
-{"ent_seq":5702745,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&surname;","&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702746,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
 {"ent_seq":5702747,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかつか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takatsuka"}]}]}
 {"ent_seq":5702748,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
@@ -635,7 +622,7 @@
 {"ent_seq":5703368,"k_ele":[{"keb":"竜宮"}],"r_ele":[{"reb":"りゅうぐう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguu"}]}]}
 {"ent_seq":5703369,"k_ele":[{"keb":"竜宮の磯"}],"r_ele":[{"reb":"りゅうぐうのいそ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguunoiso"}]}]}
 {"ent_seq":5703370,"k_ele":[{"keb":"竜宮岩"}],"r_ele":[{"reb":"りゅうぐういわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguuiwa"}]}]}
-{"ent_seq":5703371,"k_ele":[{"keb":"竜宮橋"}],"r_ele":[{"reb":"りゅうぐうばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguubashi"}]}]}
+{"ent_seq":5703371,"k_ele":[{"keb":"竜宮橋"}],"r_ele":[{"reb":"りゅうぐうばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūgūbashi"}]}]}
 {"ent_seq":5703372,"k_ele":[{"keb":"竜宮崎"}],"r_ele":[{"reb":"りゅうぐうさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguusaki"}]}]}
 {"ent_seq":5703373,"k_ele":[{"keb":"竜宮崎"}],"r_ele":[{"reb":"りゅうぐうざき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguuzaki"}]}]}
 {"ent_seq":5703374,"k_ele":[{"keb":"竜宮山"}],"r_ele":[{"reb":"りゅうぐうざん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūguuzan"}]}]}
@@ -33983,7 +33970,7 @@
 {"ent_seq":5736776,"k_ele":[{"keb":"貮又"}],"r_ele":[{"reb":"ふたまた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Futamata"}]}]}
 {"ent_seq":5736777,"k_ele":[{"keb":"賈"}],"r_ele":[{"reb":"か"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ka"}]}]}
 {"ent_seq":5736778,"k_ele":[{"keb":"賈誼"}],"r_ele":[{"reb":"かぎ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kagi"}]}]}
-{"ent_seq":5736779,"k_ele":[{"keb":"賈島"}],"r_ele":[{"reb":"かとう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Katō"}]}]}
+{"ent_seq":5736779,"k_ele":[{"keb":"賈島"}],"r_ele":[{"reb":"かとう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Katō"}]},{"name_type":["&person;"],"trans_det":[{"value":"Jia Dao (779-843; Chinese monk and poet)"}]}]}
 {"ent_seq":5736780,"k_ele":[{"keb":"賈島憲治"}],"r_ele":[{"reb":"かとうけんじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Katou Kenji"}]}]}
 {"ent_seq":5736781,"k_ele":[{"keb":"賁夫"}],"r_ele":[{"reb":"あやお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ayao"}]}]}
 {"ent_seq":5736782,"k_ele":[{"keb":"賤ノ田"}],"r_ele":[{"reb":"しつのた"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shitsunota"}]}]}
@@ -43107,4 +43094,11 @@
 {"ent_seq":5747448,"k_ele":[{"keb":"沙怜"}],"r_ele":[{"reb":"さり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sari"}]}]}
 {"ent_seq":5747449,"k_ele":[{"keb":"ＵＮＥＦ"}],"r_ele":[{"reb":"ユネフ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"United Nations Emergency Force"},{"value":"UNEF"}]}]}
 {"ent_seq":5747450,"k_ele":[{"keb":"国連緊急軍"}],"r_ele":[{"reb":"こくれんきんきゅうぐん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"United Nations Emergency Force"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-16"}]}]}
+{"ent_seq":5747451,"k_ele":[{"keb":"３１"}],"r_ele":[{"reb":"サーティワン","re_pri":{"spec":1}},{"reb":"サーティーワン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Baskin-Robbins (abbr)"}]}]}
+{"ent_seq":5747452,"k_ele":[{"keb":"３１アイスクリーム"}],"r_ele":[{"reb":"サーティワンアイスクリーム","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Baskin-Robbins"}]}]}
+{"ent_seq":5747453,"k_ele":[{"keb":"名探偵コナン"}],"r_ele":[{"reb":"めいたんていコナン","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Detective Conan (manga series and media franchise)"},{"value":"Case Closed"}]}]}
+{"ent_seq":5747454,"r_ele":[{"reb":"ブルアカ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Blue Archive (abbr) (video game)"}]}]}
+{"ent_seq":5747455,"r_ele":[{"reb":"ブルーアーカイブ"},{"reb":"ブルー・アーカイブ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Blue Archive (video game)"}]}]}
+{"ent_seq":5747456,"r_ele":[{"reb":"ビーハイブ"},{"reb":"ビーハイヴ"}],"trans":[{"trans_det":[{"value":"Beehive"}]}]}
+{"ent_seq":5747457,"k_ele":[{"keb":"東京科学大学"}],"r_ele":[{"reb":"とうきょうかがくだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute of Science Tokyo"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-23"}]}]}

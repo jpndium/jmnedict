@@ -54994,20 +54994,7 @@
 {"ent_seq":5055371,"r_ele":[{"reb":"トヨイベツ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyoibetsu"}]}]}
 {"ent_seq":5055372,"r_ele":[{"reb":"トヨコ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Toyoko"}]}]}
 {"ent_seq":5055373,"r_ele":[{"reb":"トヨタ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Toyota"}]}]}
-{"ent_seq":5055374,"k_ele":[{"keb":"トヨタ自動車"}],"r_ele":[{"reb":"トヨタじどうしゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Toyota Motor"}]}]}
-{"ent_seq":5055375,"k_ele":[{"keb":"トヨタ自動車下山工場"}],"r_ele":[{"reb":"トヨタじどうしゃしもやまこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushashimoyama Factory"}]}]}
-{"ent_seq":5055376,"k_ele":[{"keb":"トヨタ自動車九州工場"}],"r_ele":[{"reb":"トヨタじどうしゃきゅうしゅうこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushakyūshuu Factory"}]}]}
-{"ent_seq":5055377,"k_ele":[{"keb":"トヨタ自動車研究所"}],"r_ele":[{"reb":"トヨタじどうしゃけんきゅうじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushakenkyūjo"}]}]}
-{"ent_seq":5055378,"k_ele":[{"keb":"トヨタ自動車元町工場"}],"r_ele":[{"reb":"トヨタじどうしゃもとまちこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushamotomachi Factory"}]}]}
-{"ent_seq":5055379,"k_ele":[{"keb":"トヨタ自動車工場"}],"r_ele":[{"reb":"トヨタじどうしゃこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidousha Factory"}]}]}
-{"ent_seq":5055380,"k_ele":[{"keb":"トヨタ自動車高岡工場"}],"r_ele":[{"reb":"トヨタじどうしゃたかおかこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushatakaoka Factory"}]}]}
-{"ent_seq":5055381,"k_ele":[{"keb":"トヨタ自動車三好工場"}],"r_ele":[{"reb":"トヨタじどうしゃみよしこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushamiyoshi Factory"}]}]}
-{"ent_seq":5055382,"k_ele":[{"keb":"トヨタ自動車試験場"}],"r_ele":[{"reb":"トヨタじどうしゃしけんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushashikenjō"}]}]}
-{"ent_seq":5055383,"k_ele":[{"keb":"トヨタ自動車上郷工場"}],"r_ele":[{"reb":"トヨタじどうしゃかみごうこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushakamigou Factory"}]}]}
-{"ent_seq":5055384,"k_ele":[{"keb":"トヨタ自動車貞宝工場"}],"r_ele":[{"reb":"トヨタじどうしゃていほうこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushateihou Factory"}]}]}
-{"ent_seq":5055385,"k_ele":[{"keb":"トヨタ自動車堤工場"}],"r_ele":[{"reb":"トヨタじどうしゃつつみこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushatsutsumi Factory"}]}]}
-{"ent_seq":5055386,"k_ele":[{"keb":"トヨタ自動車本社工場"}],"r_ele":[{"reb":"トヨタじどうしゃほんしゃこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushahonsha Factory"}]}]}
-{"ent_seq":5055387,"k_ele":[{"keb":"トヨタ自動車明知工場"}],"r_ele":[{"reb":"トヨタじどうしゃあけちこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushaakechi Factory"}]}]}
+{"ent_seq":5055374,"k_ele":[{"keb":"トヨタ自動車"}],"r_ele":[{"reb":"トヨタじどうしゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Toyota"},{"value":"Toyota Motor Corporation"}]}]}
 {"ent_seq":5055388,"k_ele":[{"keb":"トヨタ車体工場"}],"r_ele":[{"reb":"トヨタしゃたいこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotashatai Factory"}]}]}
 {"ent_seq":5055389,"k_ele":[{"keb":"トヨタ町"}],"r_ele":[{"reb":"トヨタちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotachō"}]}]}
 {"ent_seq":5055390,"k_ele":[{"keb":"トヨニ岳"}],"r_ele":[{"reb":"トヨニだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyonidake"}]}]}
@@ -60469,7 +60456,7 @@
 {"ent_seq":5060874,"r_ele":[{"reb":"ハイヌル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heinl"}]}]}
 {"ent_seq":5060875,"r_ele":[{"reb":"ハイネ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heine"},{"value":"Heyne"}]}]}
 {"ent_seq":5060876,"r_ele":[{"reb":"ハイネクツィウス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heineccius"}]}]}
-{"ent_seq":5060877,"r_ele":[{"reb":"ハイネケン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Heineken"}]}]}
+{"ent_seq":5060877,"r_ele":[{"reb":"ハイネケン","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Heineken"}]}]}
 {"ent_seq":5060878,"r_ele":[{"reb":"ハイネゲルデルン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heine-Geldern"}]}]}
 {"ent_seq":5060879,"r_ele":[{"reb":"ハイネセン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Heinesen"}]}]}
 {"ent_seq":5060880,"r_ele":[{"reb":"ハイネック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hynek"}]}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5100615,"k_ele":[{"keb":"阿見絵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
 {"ent_seq":5100616,"k_ele":[{"keb":"阿見恵"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
 {"ent_seq":5100617,"k_ele":[{"keb":"阿見慧"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
+{"ent_seq":5100618,"k_ele":[{"keb":"阿見江"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
+{"ent_seq":5100619,"k_ele":[{"keb":"阿見子"}],"r_ele":[{"reb":"あみこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiko"}]}]}
+{"ent_seq":5100620,"k_ele":[{"keb":"阿見枝"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
+{"ent_seq":5100621,"k_ele":[{"keb":"阿見寺"}],"r_ele":[{"reb":"あみじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Amiji"}]}]}
+{"ent_seq":5100622,"k_ele":[{"keb":"阿見世"}],"r_ele":[{"reb":"あみよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiyo"}]}]}
+{"ent_seq":5100623,"k_ele":[{"keb":"阿見代"}],"r_ele":[{"reb":"あみよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiyo"}]}]}
+{"ent_seq":5100624,"k_ele":[{"keb":"阿見台"}],"r_ele":[{"reb":"あみだい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amidai"}]}]}
+{"ent_seq":5100625,"k_ele":[{"keb":"阿見町"}],"r_ele":[{"reb":"あみまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amimachi"}]}]}
+{"ent_seq":5100626,"k_ele":[{"keb":"阿見乃"}],"r_ele":[{"reb":"あみの"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amino"}]}]}
+{"ent_seq":5100627,"k_ele":[{"keb":"阿見飛行場"}],"r_ele":[{"reb":"あみひこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ami Airport"}]}]}
+{"ent_seq":5100628,"k_ele":[{"keb":"阿見野"}],"r_ele":[{"reb":"あみの"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amino"}]}]}
+{"ent_seq":5100629,"k_ele":[{"keb":"阿見李"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
+{"ent_seq":5100630,"k_ele":[{"keb":"阿見梨"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}

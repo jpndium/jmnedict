@@ -1,16 +1,3 @@
-{"ent_seq":5301285,"k_ele":[{"keb":"佐藤時啓"}],"r_ele":[{"reb":"さとうときひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tokihiro"}]}]}
-{"ent_seq":5301286,"k_ele":[{"keb":"佐藤次高"}],"r_ele":[{"reb":"さとうつぎたか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Tsugitaka"}]}]}
-{"ent_seq":5301287,"k_ele":[{"keb":"佐藤次郎"}],"r_ele":[{"reb":"さとうじろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jirou (1908.1.5-1934.4.5)"}]}]}
-{"ent_seq":5301288,"k_ele":[{"keb":"佐藤治"}],"r_ele":[{"reb":"さとうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Satouji"}]}]}
-{"ent_seq":5301289,"k_ele":[{"keb":"佐藤治彦"}],"r_ele":[{"reb":"さとうはるひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruhiko (1961.4.23-)"}]}]}
-{"ent_seq":5301290,"k_ele":[{"keb":"佐藤若菜"}],"r_ele":[{"reb":"さとうわかな"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Wakana"}]}]}
-{"ent_seq":5301291,"k_ele":[{"keb":"佐藤主光"}],"r_ele":[{"reb":"さとうもとひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Motohiro"}]}]}
-{"ent_seq":5301292,"k_ele":[{"keb":"佐藤守良"}],"r_ele":[{"reb":"さとうもりよし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Moriyoshi (1922.3.28-1996.3.7)"}]}]}
-{"ent_seq":5301293,"k_ele":[{"keb":"佐藤朱"}],"r_ele":[{"reb":"さとうあけみ"}],"trans":[{"name_type":["&fem;","&person;"],"trans_det":[{"value":"Satou Akemi"}]}]}
-{"ent_seq":5301294,"k_ele":[{"keb":"佐藤寿人"}],"r_ele":[{"reb":"さとうひさと"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hisato (1982.3-)"}]}]}
-{"ent_seq":5301295,"k_ele":[{"keb":"佐藤周子"}],"r_ele":[{"reb":"さとうちかこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Chikako (1938.2.18-1988.6.23)"}]}]}
-{"ent_seq":5301296,"k_ele":[{"keb":"佐藤就之"}],"r_ele":[{"reb":"さとうしゅうし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuushi"}]}]}
-{"ent_seq":5301297,"k_ele":[{"keb":"佐藤修"}],"r_ele":[{"reb":"さとうおさむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Osamu"}]}]}
 {"ent_seq":5301298,"k_ele":[{"keb":"佐藤秀"}],"r_ele":[{"reb":"さとうしゅう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Satohide Corporation"}]}]}
 {"ent_seq":5301299,"k_ele":[{"keb":"佐藤秀司"}],"r_ele":[{"reb":"さとうしゅうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shūji Satō (1967.6.8-; professional shogi player)"}]}]}
 {"ent_seq":5301300,"k_ele":[{"keb":"佐藤秀樹"}],"r_ele":[{"reb":"さとうひでき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hideki (1950.11.5-)"}]}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5401544,"k_ele":[{"keb":"情次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401545,"k_ele":[{"keb":"情赦"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
 {"ent_seq":5401546,"k_ele":[{"keb":"情多朗"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
+{"ent_seq":5401547,"k_ele":[{"keb":"情多郎"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
+{"ent_seq":5401548,"k_ele":[{"keb":"情太朗"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
+{"ent_seq":5401549,"k_ele":[{"keb":"情太郎"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
+{"ent_seq":5401550,"k_ele":[{"keb":"情島"}],"r_ele":[{"reb":"せいしま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seishima"}]}]}
+{"ent_seq":5401551,"k_ele":[{"keb":"情島"}],"r_ele":[{"reb":"なさけじま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nasakejima"}]}]}
+{"ent_seq":5401552,"k_ele":[{"keb":"情奈"}],"r_ele":[{"reb":"じょんな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jonna"}]}]}
+{"ent_seq":5401553,"k_ele":[{"keb":"情二"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
+{"ent_seq":5401554,"k_ele":[{"keb":"情二朗"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
+{"ent_seq":5401555,"k_ele":[{"keb":"情二郎"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
+{"ent_seq":5401556,"k_ele":[{"keb":"情之介"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
+{"ent_seq":5401557,"k_ele":[{"keb":"情之助"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
+{"ent_seq":5401558,"k_ele":[{"keb":"情之丞"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
+{"ent_seq":5401559,"k_ele":[{"keb":"情之甫"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}

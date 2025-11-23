@@ -1,16 +1,3 @@
-{"ent_seq":5602397,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
-{"ent_seq":5602398,"k_ele":[{"keb":"番場"}],"r_ele":[{"reb":"ばんば"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Banba"}]}]}
-{"ent_seq":5602399,"k_ele":[{"keb":"番場ちひろ"}],"r_ele":[{"reb":"ばんばちひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Banba Chihiro (1958.3-)"}]}]}
-{"ent_seq":5602400,"k_ele":[{"keb":"番場山"}],"r_ele":[{"reb":"ばんばやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banbayama"}]}]}
-{"ent_seq":5602401,"k_ele":[{"keb":"番場池"}],"r_ele":[{"reb":"ばんばいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banbaike"}]}]}
-{"ent_seq":5602402,"k_ele":[{"keb":"番場町"}],"r_ele":[{"reb":"ばんばちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banbachō"}]}]}
-{"ent_seq":5602403,"k_ele":[{"keb":"番場町"}],"r_ele":[{"reb":"ばんばまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banbamachi"}]}]}
-{"ent_seq":5602404,"k_ele":[{"keb":"番場要"}],"r_ele":[{"reb":"ばんばかなめ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Banba Kaname (1967.5.14-)"}]}]}
-{"ent_seq":5602405,"k_ele":[{"keb":"番条"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
-{"ent_seq":5602406,"k_ele":[{"keb":"番条町"}],"r_ele":[{"reb":"ばんじょうちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjōchō"}]}]}
-{"ent_seq":5602407,"k_ele":[{"keb":"番尻"}],"r_ele":[{"reb":"ばんじり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjiri"}]}]}
-{"ent_seq":5602408,"k_ele":[{"keb":"番神"}],"r_ele":[{"reb":"ばんじん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjin"}]}]}
-{"ent_seq":5602409,"k_ele":[{"keb":"番神山"}],"r_ele":[{"reb":"ばんしんざん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banshinzan"}]}]}
 {"ent_seq":5602410,"k_ele":[{"keb":"番神山"}],"r_ele":[{"reb":"ばんじんざん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjinzan"}]}]}
 {"ent_seq":5602411,"k_ele":[{"keb":"番神堂"}],"r_ele":[{"reb":"ばんじんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjindou"}]}]}
 {"ent_seq":5602412,"k_ele":[{"keb":"番神岬"}],"r_ele":[{"reb":"ばんじんみさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjinmisaki"}]}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5702730,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たいぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Taizou"}]}]}
 {"ent_seq":5702731,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takakazu"}]}]}
 {"ent_seq":5702732,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takazou"}]}]}
+{"ent_seq":5702733,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takami"}]}]}
+{"ent_seq":5702734,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"たかみつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takamitsu"}]}]}
+{"ent_seq":5702735,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りゅうぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzou"}]}]}
+{"ent_seq":5702736,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りゆうぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūzou"}]}]}
+{"ent_seq":5702737,"k_ele":[{"keb":"隆三"}],"r_ele":[{"reb":"りょうぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryōzou"}]}]}
+{"ent_seq":5702738,"k_ele":[{"keb":"隆三杉"}],"r_ele":[{"reb":"たかみすぎ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takamisugi"}]}]}
+{"ent_seq":5702739,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"たかさぶろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takasaburō"}]}]}
+{"ent_seq":5702740,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"りゅうさぶろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūsaburō"}]}]}
+{"ent_seq":5702741,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"りゅうざぶろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūzaburō"}]}]}
+{"ent_seq":5702742,"k_ele":[{"keb":"隆三郎"}],"r_ele":[{"reb":"りゆうざぶろう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūzaburō"}]}]}
+{"ent_seq":5702743,"k_ele":[{"keb":"隆参"}],"r_ele":[{"reb":"りゅうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzan"}]}]}
+{"ent_seq":5702744,"k_ele":[{"keb":"隆山"}],"r_ele":[{"reb":"りゅうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzan"}]}]}
+{"ent_seq":5702745,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&surname;","&masc;"],"trans_det":[{"value":"Takashi"}]}]}

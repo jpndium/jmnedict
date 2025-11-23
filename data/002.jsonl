@@ -1,16 +1,3 @@
-{"ent_seq":5100618,"k_ele":[{"keb":"阿見江"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
-{"ent_seq":5100619,"k_ele":[{"keb":"阿見子"}],"r_ele":[{"reb":"あみこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiko"}]}]}
-{"ent_seq":5100620,"k_ele":[{"keb":"阿見枝"}],"r_ele":[{"reb":"あみえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amie"}]}]}
-{"ent_seq":5100621,"k_ele":[{"keb":"阿見寺"}],"r_ele":[{"reb":"あみじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Amiji"}]}]}
-{"ent_seq":5100622,"k_ele":[{"keb":"阿見世"}],"r_ele":[{"reb":"あみよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiyo"}]}]}
-{"ent_seq":5100623,"k_ele":[{"keb":"阿見代"}],"r_ele":[{"reb":"あみよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiyo"}]}]}
-{"ent_seq":5100624,"k_ele":[{"keb":"阿見台"}],"r_ele":[{"reb":"あみだい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amidai"}]}]}
-{"ent_seq":5100625,"k_ele":[{"keb":"阿見町"}],"r_ele":[{"reb":"あみまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amimachi"}]}]}
-{"ent_seq":5100626,"k_ele":[{"keb":"阿見乃"}],"r_ele":[{"reb":"あみの"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amino"}]}]}
-{"ent_seq":5100627,"k_ele":[{"keb":"阿見飛行場"}],"r_ele":[{"reb":"あみひこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ami Airport"}]}]}
-{"ent_seq":5100628,"k_ele":[{"keb":"阿見野"}],"r_ele":[{"reb":"あみの"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amino"}]}]}
-{"ent_seq":5100629,"k_ele":[{"keb":"阿見李"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
-{"ent_seq":5100630,"k_ele":[{"keb":"阿見梨"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
 {"ent_seq":5100631,"k_ele":[{"keb":"阿見理"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
 {"ent_seq":5100632,"k_ele":[{"keb":"阿見里"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
 {"ent_seq":5100633,"k_ele":[{"keb":"阿見莉"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5200930,"k_ele":[{"keb":"季韻"}],"r_ele":[{"reb":"ときね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokine"}]}]}
 {"ent_seq":5200931,"k_ele":[{"keb":"季羽"}],"r_ele":[{"reb":"きば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kiba"}]}]}
 {"ent_seq":5200932,"k_ele":[{"keb":"季羽倭文子"}],"r_ele":[{"reb":"きばしずこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiba Shizuko"}]}]}
+{"ent_seq":5200933,"k_ele":[{"keb":"季映"}],"r_ele":[{"reb":"きえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kie"}]}]}
+{"ent_seq":5200934,"k_ele":[{"keb":"季栄"}],"r_ele":[{"reb":"としはる"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Toshiharu"}]}]}
+{"ent_seq":5200935,"k_ele":[{"keb":"季永"}],"r_ele":[{"reb":"すえひさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suehisa"}]}]}
+{"ent_seq":5200936,"k_ele":[{"keb":"季央"}],"r_ele":[{"reb":"きお"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kio"}]}]}
+{"ent_seq":5200937,"k_ele":[{"keb":"季欧依"}],"r_ele":[{"reb":"きおい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kioi"}]}]}
+{"ent_seq":5200938,"k_ele":[{"keb":"季音"}],"r_ele":[{"reb":"ときね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokine"}]}]}
+{"ent_seq":5200939,"k_ele":[{"keb":"季音"}],"r_ele":[{"reb":"としね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshine"}]}]}
+{"ent_seq":5200940,"k_ele":[{"keb":"季音"}],"r_ele":[{"reb":"みのり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Minori"}]}]}
+{"ent_seq":5200941,"k_ele":[{"keb":"季音"}],"r_ele":[{"reb":"りおん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Rion"}]}]}
+{"ent_seq":5200942,"k_ele":[{"keb":"季佳"}],"r_ele":[{"reb":"としか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Toshika"}]}]}
+{"ent_seq":5200943,"k_ele":[{"keb":"季可"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kika"}]}]}
+{"ent_seq":5200944,"k_ele":[{"keb":"季嘉"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
+{"ent_seq":5200945,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kika"}]}]}

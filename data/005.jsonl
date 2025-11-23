@@ -1,16 +1,3 @@
-{"ent_seq":5401547,"k_ele":[{"keb":"情多郎"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
-{"ent_seq":5401548,"k_ele":[{"keb":"情太朗"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
-{"ent_seq":5401549,"k_ele":[{"keb":"情太郎"}],"r_ele":[{"reb":"じょうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōtarō"}]}]}
-{"ent_seq":5401550,"k_ele":[{"keb":"情島"}],"r_ele":[{"reb":"せいしま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seishima"}]}]}
-{"ent_seq":5401551,"k_ele":[{"keb":"情島"}],"r_ele":[{"reb":"なさけじま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nasakejima"}]}]}
-{"ent_seq":5401552,"k_ele":[{"keb":"情奈"}],"r_ele":[{"reb":"じょんな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jonna"}]}]}
-{"ent_seq":5401553,"k_ele":[{"keb":"情二"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
-{"ent_seq":5401554,"k_ele":[{"keb":"情二朗"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
-{"ent_seq":5401555,"k_ele":[{"keb":"情二郎"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
-{"ent_seq":5401556,"k_ele":[{"keb":"情之介"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
-{"ent_seq":5401557,"k_ele":[{"keb":"情之助"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
-{"ent_seq":5401558,"k_ele":[{"keb":"情之丞"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
-{"ent_seq":5401559,"k_ele":[{"keb":"情之甫"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401560,"k_ele":[{"keb":"情之輔"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401561,"k_ele":[{"keb":"情之佑"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401562,"k_ele":[{"keb":"情之祐"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
@@ -99926,7 +99913,7 @@
 {"ent_seq":5501854,"k_ele":[{"keb":"拓恒"}],"r_ele":[{"reb":"ひろひさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hirohisa"}]}]}
 {"ent_seq":5501855,"k_ele":[{"keb":"拓行"}],"r_ele":[{"reb":"たくゆき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuyuki"}]}]}
 {"ent_seq":5501856,"k_ele":[{"keb":"拓行"}],"r_ele":[{"reb":"ひろゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hiroyuki"}]}]}
-{"ent_seq":5501857,"k_ele":[{"keb":"拓哉"}],"r_ele":[{"reb":"たくや"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuya"}]}]}
+{"ent_seq":5501857,"k_ele":[{"keb":"拓哉"}],"r_ele":[{"reb":"たくや"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuya"}]}]}
 {"ent_seq":5501858,"k_ele":[{"keb":"拓才"}],"r_ele":[{"reb":"ひろかた"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hirokata"}]}]}
 {"ent_seq":5501859,"k_ele":[{"keb":"拓三"}],"r_ele":[{"reb":"たくぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuzou"}]}]}
 {"ent_seq":5501860,"k_ele":[{"keb":"拓司"}],"r_ele":[{"reb":"たくじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuji"}]}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5501926,"k_ele":[{"keb":"拓川町"}],"r_ele":[{"reb":"たくせんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takusenchō"}]}]}
 {"ent_seq":5501927,"k_ele":[{"keb":"拓宋"}],"r_ele":[{"reb":"たくそう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takusou"}]}]}
 {"ent_seq":5501928,"k_ele":[{"keb":"拓蔵"}],"r_ele":[{"reb":"たくぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuzou"}]}]}
+{"ent_seq":5501929,"k_ele":[{"keb":"拓造"}],"r_ele":[{"reb":"たくぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuzou"}]}]}
+{"ent_seq":5501930,"k_ele":[{"keb":"拓則"}],"r_ele":[{"reb":"たくのり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takunori"}]}]}
+{"ent_seq":5501931,"k_ele":[{"keb":"拓太郎"}],"r_ele":[{"reb":"たくたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takutarō"}]}]}
+{"ent_seq":5501932,"k_ele":[{"keb":"拓代"}],"r_ele":[{"reb":"たくよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuyo"}]}]}
+{"ent_seq":5501933,"k_ele":[{"keb":"拓代"}],"r_ele":[{"reb":"ひろよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Hiroyo"}]}]}
+{"ent_seq":5501934,"k_ele":[{"keb":"拓大"}],"r_ele":[{"reb":"たくだい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Takushoku University (abbr)"}]}]}
+{"ent_seq":5501935,"k_ele":[{"keb":"拓大"}],"r_ele":[{"reb":"たくひろ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuhiro"}]}]}
+{"ent_seq":5501936,"k_ele":[{"keb":"拓男"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
+{"ent_seq":5501937,"k_ele":[{"keb":"拓男"}],"r_ele":[{"reb":"ひろお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroo"}]}]}
+{"ent_seq":5501938,"k_ele":[{"keb":"拓暢"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuo"}]}]}
+{"ent_seq":5501939,"k_ele":[{"keb":"拓鉄"}],"r_ele":[{"reb":"たくてつ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takutetsu"}]}]}
+{"ent_seq":5501940,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
+{"ent_seq":5501941,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
