@@ -1,5 +1,3 @@
-{"ent_seq":5301298,"k_ele":[{"keb":"佐藤秀"}],"r_ele":[{"reb":"さとうしゅう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Satohide Corporation"}]}]}
-{"ent_seq":5301299,"k_ele":[{"keb":"佐藤秀司"}],"r_ele":[{"reb":"さとうしゅうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shūji Satō (1967.6.8-; professional shogi player)"}]}]}
 {"ent_seq":5301300,"k_ele":[{"keb":"佐藤秀樹"}],"r_ele":[{"reb":"さとうひでき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hideki (1950.11.5-)"}]}]}
 {"ent_seq":5301301,"k_ele":[{"keb":"佐藤秀美"}],"r_ele":[{"reb":"さとうひでみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hidemi"}]}]}
 {"ent_seq":5301302,"k_ele":[{"keb":"佐藤秀輔"}],"r_ele":[{"reb":"さとうしゅうすけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuusuke"}]}]}
@@ -44756,7 +44754,7 @@
 {"ent_seq":5346200,"k_ele":[{"keb":"若乃"}],"r_ele":[{"reb":"わかの"}],"trans":[{"name_type":["&fem;","&place;"],"trans_det":[{"value":"Wakano"}]}]}
 {"ent_seq":5346201,"k_ele":[{"keb":"若乃花"}],"r_ele":[{"reb":"わかのはな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Wakanohana"}]}]}
 {"ent_seq":5346202,"k_ele":[{"keb":"若乃花幹士"}],"r_ele":[{"reb":"わかのはなかんじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wakanohana I Kanji, 45th sumo grand champion"}]},{"name_type":["&person;"],"trans_det":[{"value":"Wakanohana II Kanji, 56th sumo grand champion"}]}]}
-{"ent_seq":5346203,"k_ele":[{"keb":"若乃花勝"}],"r_ele":[{"reb":"わかのはなまさる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wakanohana III Masaru, 66th sumo grand champion (1971.1-)"}]}]}
+{"ent_seq":5346203,"k_ele":[{"keb":"若乃花勝"}],"r_ele":[{"reb":"わかのはなまさる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wakanohana Masaru (sumo name of Hanada Masaru, 66th sumo grand champion)"}]}]}
 {"ent_seq":5346204,"k_ele":[{"keb":"若乃海"}],"r_ele":[{"reb":"わかのうみ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Wakanoumi"}]}]}
 {"ent_seq":5346205,"k_ele":[{"keb":"若乃洲"}],"r_ele":[{"reb":"わかのしま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Wakanoshima"}]}]}
 {"ent_seq":5346206,"k_ele":[{"keb":"若乃森"}],"r_ele":[{"reb":"わかのもり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Wakanomori"}]}]}
@@ -64968,7 +64966,7 @@
 {"ent_seq":5366450,"k_ele":[{"keb":"曙生"}],"r_ele":[{"reb":"あけみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Akemi"}]}]}
 {"ent_seq":5366451,"k_ele":[{"keb":"曙川"}],"r_ele":[{"reb":"あけぼのがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akebonogawa"}]}]}
 {"ent_seq":5366452,"k_ele":[{"keb":"曙川東"}],"r_ele":[{"reb":"あけがわひがし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akegawahigashi"}]}]}
-{"ent_seq":5366453,"k_ele":[{"keb":"曙太郎"}],"r_ele":[{"reb":"あけぼのたろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Akebono Tarō, 64th sumo grand champion (1969.5-)"}]}]}
+{"ent_seq":5366453,"k_ele":[{"keb":"曙太郎"}],"r_ele":[{"reb":"あけぼのたろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Akebono Tarō (sumo name of Chad George Haaheo Rowan, 64th sumo grand champion)"}]}]}
 {"ent_seq":5366454,"k_ele":[{"keb":"曙台"}],"r_ele":[{"reb":"あけぼのだい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akebonodai"}]}]}
 {"ent_seq":5366455,"k_ele":[{"keb":"曙大橋"}],"r_ele":[{"reb":"あけぼのおおはし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akebonooohashi"}]}]}
 {"ent_seq":5366456,"k_ele":[{"keb":"曙男"}],"r_ele":[{"reb":"あきお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Akio"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5401557,"k_ele":[{"keb":"情之助"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401558,"k_ele":[{"keb":"情之丞"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401559,"k_ele":[{"keb":"情之甫"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
+{"ent_seq":5401560,"k_ele":[{"keb":"情之輔"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
+{"ent_seq":5401561,"k_ele":[{"keb":"情之佑"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}

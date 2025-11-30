@@ -5576,8 +5576,7 @@
 {"ent_seq":5106237,"k_ele":[{"keb":"旭浜"}],"r_ele":[{"reb":"あさひはま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Asahihama"}]}]}
 {"ent_seq":5106238,"k_ele":[{"keb":"旭夫"}],"r_ele":[{"reb":"あきお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Akio"}]}]}
 {"ent_seq":5106239,"k_ele":[{"keb":"旭富士"}],"r_ele":[{"reb":"あさひふじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Asahifuji"}]}]}
-{"ent_seq":5106240,"k_ele":[{"keb":"旭富士正也"}],"r_ele":[{"reb":"あさひふじせいや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asahifuji Seiya, 63rd sumo grand champion"}]}]}
-{"ent_seq":5106241,"k_ele":[{"keb":"旭富士正也"}],"r_ele":[{"reb":"あさひふじまさや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asahifuji Masaya (1960.7.6-)"}]}]}
+{"ent_seq":5106240,"k_ele":[{"keb":"旭富士正也"}],"r_ele":[{"reb":"あさひふじせいや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asahifuji Seiya (sumo name of Suginomori Seiya, 63rd sumo grand champion)"}]}]}
 {"ent_seq":5106242,"k_ele":[{"keb":"旭平"}],"r_ele":[{"reb":"あさひだいら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Asahidaira"}]}]}
 {"ent_seq":5106243,"k_ele":[{"keb":"旭弁天"}],"r_ele":[{"reb":"あさひべんてん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Asahibenten"}]}]}
 {"ent_seq":5106244,"k_ele":[{"keb":"旭保"}],"r_ele":[{"reb":"あきほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Akiho"}]}]}
@@ -37972,7 +37971,7 @@
 {"ent_seq":5138716,"k_ele":[{"keb":"永淵"}],"r_ele":[{"reb":"ながぶち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nagabuchi"}]}]}
 {"ent_seq":5138717,"k_ele":[{"keb":"永淵幸利"}],"r_ele":[{"reb":"ながぶちゆきとし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nagabuchi Yukitoshi (1955.11.7-)"}]}]}
 {"ent_seq":5138718,"k_ele":[{"keb":"永平"}],"r_ele":[{"reb":"ながひら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nagahira"}]}]}
-{"ent_seq":5138719,"k_ele":[{"keb":"永平寺"}],"r_ele":[{"reb":"えいへいじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Eiheiji"}]}]}
+{"ent_seq":5138719,"k_ele":[{"keb":"永平寺"}],"r_ele":[{"reb":"えいへいじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Eiheiji (temple)"}]}]}
 {"ent_seq":5138720,"k_ele":[{"keb":"永平寺口駅"}],"r_ele":[{"reb":"えいへいじぐちえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Eiheijiguchi Station"}]}]}
 {"ent_seq":5138721,"k_ele":[{"keb":"永平寺川"}],"r_ele":[{"reb":"えいへいじがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Eiheijigawa"}]}]}
 {"ent_seq":5138722,"k_ele":[{"keb":"永平寺線"}],"r_ele":[{"reb":"えいへいじせん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Eiheijisen"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200943,"k_ele":[{"keb":"季可"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kika"}]}]}
 {"ent_seq":5200944,"k_ele":[{"keb":"季嘉"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
 {"ent_seq":5200945,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kika"}]}]}
+{"ent_seq":5200946,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kina"}]}]}

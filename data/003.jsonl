@@ -1,4 +1,3 @@
-{"ent_seq":5200946,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kina"}]}]}
 {"ent_seq":5200947,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きなつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinatsu"}]}]}
 {"ent_seq":5200948,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"すえか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sueka"}]}]}
 {"ent_seq":5200949,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"ときなつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokinatsu"}]}]}
@@ -643,7 +642,7 @@
 {"ent_seq":5201589,"k_ele":[{"keb":"稀心々"}],"r_ele":[{"reb":"まれここ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Marekoko"}]}]}
 {"ent_seq":5201590,"k_ele":[{"keb":"稀世"}],"r_ele":[{"reb":"きよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiyo"}]}]}
 {"ent_seq":5201591,"k_ele":[{"keb":"稀勢の里"}],"r_ele":[{"reb":"きせのさと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kisenosato"}]}]}
-{"ent_seq":5201592,"k_ele":[{"keb":"稀勢の里寛"}],"r_ele":[{"reb":"きせのさとゆたか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kisenosato Yutaka (1986.7.3-)"}]}]}
+{"ent_seq":5201592,"k_ele":[{"keb":"稀勢の里寛"}],"r_ele":[{"reb":"きせのさとゆたか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kisenosato Yutaka (sumo name of Hagiwara Yutaka, 72nd sumo grand champion)"}]}]}
 {"ent_seq":5201593,"k_ele":[{"keb":"稀星"}],"r_ele":[{"reb":"きせ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kise"}]}]}
 {"ent_seq":5201594,"k_ele":[{"keb":"稀星"}],"r_ele":[{"reb":"きらら"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kirara"}]}]}
 {"ent_seq":5201595,"k_ele":[{"keb":"稀星"}],"r_ele":[{"reb":"きらり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kirari"}]}]}
@@ -2308,7 +2307,6 @@
 {"ent_seq":5203257,"k_ele":[{"keb":"貴"}],"r_ele":[{"reb":"もとむ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Motomu"}]}]}
 {"ent_seq":5203258,"k_ele":[{"keb":"貴ひろ"}],"r_ele":[{"reb":"たかひろ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takahiro"}]}]}
 {"ent_seq":5203259,"k_ele":[{"keb":"貴ノ花"}],"r_ele":[{"reb":"たかのはな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takanohana"}]}]}
-{"ent_seq":5203260,"k_ele":[{"keb":"貴ノ花光司"}],"r_ele":[{"reb":"たかのはなこうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takanohana Kōji"}]}]}
 {"ent_seq":5203261,"k_ele":[{"keb":"貴ノ花利彰"}],"r_ele":[{"reb":"たかのはなとしあき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takanohana Toshiaki (1950.2.19-2005.5.30)"}]}]}
 {"ent_seq":5203262,"k_ele":[{"keb":"貴ノ湖"}],"r_ele":[{"reb":"たかのうみ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takanoumi (Sumo shikona)"}]}]}
 {"ent_seq":5203263,"k_ele":[{"keb":"貴ノ山"}],"r_ele":[{"reb":"たかのやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takanoyama"}]}]}
@@ -3031,7 +3029,7 @@
 {"ent_seq":5203981,"k_ele":[{"keb":"貴乃"}],"r_ele":[{"reb":"きない"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinai"}]}]}
 {"ent_seq":5203982,"k_ele":[{"keb":"貴乃"}],"r_ele":[{"reb":"たかの"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takano"}]}]}
 {"ent_seq":5203983,"k_ele":[{"keb":"貴乃花"}],"r_ele":[{"reb":"たかのはな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takanohana"}]}]}
-{"ent_seq":5203984,"k_ele":[{"keb":"貴乃花光司"}],"r_ele":[{"reb":"たかのはなこうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takanohana Kōji, 65th sumo grand champion (1972.8-)"}]}]}
+{"ent_seq":5203984,"k_ele":[{"keb":"貴乃花光司"},{"keb":"貴ノ花光司"}],"r_ele":[{"reb":"たかのはなこうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takanohana Kōji (sumo name of Hanada Kōji, 65th sumo grand champion)"}]}]}
 {"ent_seq":5203985,"k_ele":[{"keb":"貴乃若"}],"r_ele":[{"reb":"たかのわか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takanowaka"}]}]}
 {"ent_seq":5203986,"k_ele":[{"keb":"貴乃濱"}],"r_ele":[{"reb":"たかのはま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takanohama"}]}]}
 {"ent_seq":5203987,"k_ele":[{"keb":"貴之"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5301295,"k_ele":[{"keb":"佐藤周子"}],"r_ele":[{"reb":"さとうちかこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Chikako (1938.2.18-1988.6.23)"}]}]}
 {"ent_seq":5301296,"k_ele":[{"keb":"佐藤就之"}],"r_ele":[{"reb":"さとうしゅうし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuushi"}]}]}
 {"ent_seq":5301297,"k_ele":[{"keb":"佐藤修"}],"r_ele":[{"reb":"さとうおさむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Osamu"}]}]}
+{"ent_seq":5301298,"k_ele":[{"keb":"佐藤秀"}],"r_ele":[{"reb":"さとうしゅう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Satohide Corporation"}]}]}
+{"ent_seq":5301299,"k_ele":[{"keb":"佐藤秀司"}],"r_ele":[{"reb":"さとうしゅうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shūji Satō (1967.6.8-; professional shogi player)"}]}]}

@@ -1,5 +1,3 @@
-{"ent_seq":5401560,"k_ele":[{"keb":"情之輔"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
-{"ent_seq":5401561,"k_ele":[{"keb":"情之佑"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401562,"k_ele":[{"keb":"情之祐"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401563,"k_ele":[{"keb":"情之亮"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401564,"k_ele":[{"keb":"情埜"}],"r_ele":[{"reb":"せいの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seino"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501939,"k_ele":[{"keb":"拓鉄"}],"r_ele":[{"reb":"たくてつ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takutetsu"}]}]}
 {"ent_seq":5501940,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
 {"ent_seq":5501941,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
+{"ent_seq":5501942,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
+{"ent_seq":5501943,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}

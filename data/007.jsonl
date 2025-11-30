@@ -1,5 +1,3 @@
-{"ent_seq":5602410,"k_ele":[{"keb":"番神山"}],"r_ele":[{"reb":"ばんじんざん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjinzan"}]}]}
-{"ent_seq":5602411,"k_ele":[{"keb":"番神堂"}],"r_ele":[{"reb":"ばんじんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjindou"}]}]}
 {"ent_seq":5602412,"k_ele":[{"keb":"番神岬"}],"r_ele":[{"reb":"ばんじんみさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjinmisaki"}]}]}
 {"ent_seq":5602413,"k_ele":[{"keb":"番水"}],"r_ele":[{"reb":"ばんすい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bansui"}]}]}
 {"ent_seq":5602414,"k_ele":[{"keb":"番随"}],"r_ele":[{"reb":"ばんずい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banzui"}]}]}
@@ -18834,7 +18832,7 @@
 {"ent_seq":5621321,"k_ele":[{"keb":"武蔵関"}],"r_ele":[{"reb":"むさしせき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Musashiseki"}]}]}
 {"ent_seq":5621322,"k_ele":[{"keb":"武蔵関駅"}],"r_ele":[{"reb":"むさしせきえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Musashiseki Station"}]}]}
 {"ent_seq":5621323,"k_ele":[{"keb":"武蔵丸"}],"r_ele":[{"reb":"むさしまる"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Musashimaru"}]}]}
-{"ent_seq":5621324,"k_ele":[{"keb":"武蔵丸光洋"}],"r_ele":[{"reb":"むさしまるこうよう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Musashimaru Kōyou, 67th sumo grand champion"}]}]}
+{"ent_seq":5621324,"k_ele":[{"keb":"武蔵丸光洋"}],"r_ele":[{"reb":"むさしまるこうよう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Musashimaru Kōyō (sumo name of Fiamalu Penitani, 67th sumo grand champion)"}]}]}
 {"ent_seq":5621325,"k_ele":[{"keb":"武蔵丘"}],"r_ele":[{"reb":"むさしがおか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Musashigaoka"}]}]}
 {"ent_seq":5621327,"k_ele":[{"keb":"武蔵丘陵ゴルフ場"}],"r_ele":[{"reb":"むさしきゅうりょうゴルフじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Musashikyūryō Golf Links"}]}]}
 {"ent_seq":5621328,"k_ele":[{"keb":"武蔵丘陵森林公園"}],"r_ele":[{"reb":"むさしきゅうりょうしんりんこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Musashikyūryōshinrin Park"}]}]}
@@ -94409,7 +94407,7 @@
 {"ent_seq":5697144,"k_ele":[{"keb":"李留佳"}],"r_ele":[{"reb":"りるか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Riruka"}]}]}
 {"ent_seq":5697145,"k_ele":[{"keb":"李良"}],"r_ele":[{"reb":"りよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Riyo"}]}]}
 {"ent_seq":5697146,"k_ele":[{"keb":"李良枝"}],"r_ele":[{"reb":"いやんじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"I Yanji (1955-)"}]}]}
-{"ent_seq":5697147,"k_ele":[{"keb":"李陵"}],"r_ele":[{"reb":"りりょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riryō"}]}]}
+{"ent_seq":5697147,"k_ele":[{"keb":"李陵"}],"r_ele":[{"reb":"りりょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Li Ling (?-74 BCE; Chinese general)"}]}]}
 {"ent_seq":5697148,"k_ele":[{"keb":"李厘"}],"r_ele":[{"reb":"りりん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ririn"}]}]}
 {"ent_seq":5697149,"k_ele":[{"keb":"李瑠喪"}],"r_ele":[{"reb":"りるも"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Rirumo"}]}]}
 {"ent_seq":5697150,"k_ele":[{"keb":"李瑠夢"}],"r_ele":[{"reb":"りるむ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Rirumu"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702743,"k_ele":[{"keb":"隆参"}],"r_ele":[{"reb":"りゅうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzan"}]}]}
 {"ent_seq":5702744,"k_ele":[{"keb":"隆山"}],"r_ele":[{"reb":"りゅうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūzan"}]}]}
 {"ent_seq":5702745,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&surname;","&masc;"],"trans_det":[{"value":"Takashi"}]}]}
+{"ent_seq":5702746,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
+{"ent_seq":5702747,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"たかつか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takatsuka"}]}]}
