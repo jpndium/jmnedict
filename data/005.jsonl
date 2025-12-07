@@ -1,5 +1,3 @@
-{"ent_seq":5401562,"k_ele":[{"keb":"情之祐"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
-{"ent_seq":5401563,"k_ele":[{"keb":"情之亮"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401564,"k_ele":[{"keb":"情埜"}],"r_ele":[{"reb":"せいの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seino"}]}]}
 {"ent_seq":5401565,"k_ele":[{"keb":"情報処理教育研修助成財団"}],"r_ele":[{"reb":"じょうほうしょりきょういくけんしゅうじょせいざいだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Foundation for International Information Processing Education"},{"value":"FINIPED"}]}]}
 {"ent_seq":5401566,"k_ele":[{"keb":"情報処理推進機構"}],"r_ele":[{"reb":"じょうほうしょりすいしんきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Information-technology Promotion Agency"}]}]}
@@ -30379,7 +30377,7 @@
 {"ent_seq":5432040,"k_ele":[{"keb":"成吉"}],"r_ele":[{"reb":"せいきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Seikichi"}]}]}
 {"ent_seq":5432041,"k_ele":[{"keb":"成吉"}],"r_ele":[{"reb":"なりよし"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Nariyoshi"}]}]}
 {"ent_seq":5432042,"k_ele":[{"keb":"成吉"}],"r_ele":[{"reb":"なるよし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Naruyoshi"}]}]}
-{"ent_seq":5432043,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"じんぎすかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan"}]}]}
+{"ent_seq":5432043,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"じんぎすかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
 {"ent_seq":5432044,"k_ele":[{"keb":"成久"}],"r_ele":[{"reb":"しげひさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Shigehisa"}]}]}
 {"ent_seq":5432045,"k_ele":[{"keb":"成久"}],"r_ele":[{"reb":"せいじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seiji"}]}]}
 {"ent_seq":5432046,"k_ele":[{"keb":"成久"}],"r_ele":[{"reb":"なりひさ"}],"trans":[{"name_type":["&place;","&surname;","&given;"],"trans_det":[{"value":"Narihisa"}]}]}
@@ -77488,7 +77486,7 @@
 {"ent_seq":5479324,"k_ele":[{"keb":"藻岩下"}],"r_ele":[{"reb":"もいわした"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moiwashita"}]}]}
 {"ent_seq":5479325,"k_ele":[{"keb":"藻岩橋"}],"r_ele":[{"reb":"もいわばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moiwabashi"}]}]}
 {"ent_seq":5479326,"k_ele":[{"keb":"藻岩原始林"}],"r_ele":[{"reb":"もいわげんしりん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moiwagenshirin"}]}]}
-{"ent_seq":5479327,"k_ele":[{"keb":"藻岩山"}],"r_ele":[{"reb":"もいわやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moiwayama"}]}]}
+{"ent_seq":5479327,"k_ele":[{"keb":"藻岩山"}],"r_ele":[{"reb":"もいわやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mount Moiwa (Sapporo, Hokkaido)"}]}]}
 {"ent_seq":5479328,"k_ele":[{"keb":"藻岩川"}],"r_ele":[{"reb":"もいわがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moiwagawa"}]}]}
 {"ent_seq":5479329,"k_ele":[{"keb":"藻岩発電所"}],"r_ele":[{"reb":"もいわはつでんしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moiwa Power Station"}]}]}
 {"ent_seq":5479330,"k_ele":[{"keb":"藻岩岬"}],"r_ele":[{"reb":"もいわみさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Moiwamisaki"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501941,"k_ele":[{"keb":"拓斗"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
 {"ent_seq":5501942,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
 {"ent_seq":5501943,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
+{"ent_seq":5501944,"k_ele":[{"keb":"拓都"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
+{"ent_seq":5501945,"k_ele":[{"keb":"拓土"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}

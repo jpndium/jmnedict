@@ -1,5 +1,3 @@
-{"ent_seq":5702748,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
-{"ent_seq":5702749,"k_ele":[{"keb":"隆司"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}
 {"ent_seq":5702750,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702751,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかちか"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takachika"}]}]}
 {"ent_seq":5702752,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかひと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takahito"}]}]}
@@ -43113,4 +43111,12 @@
 {"ent_seq":5747469,"k_ele":[{"keb":"松竹喜生子"}],"r_ele":[{"reb":"まつたけきみこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kimiko Matsutake (1958.1.10-; weaver and textile artist)"}]}]}
 {"ent_seq":5747470,"k_ele":[{"keb":"喜生子"}],"r_ele":[{"reb":"きみこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kimiko"}]}]}
 {"ent_seq":5747471,"k_ele":[{"keb":"李在明"}],"r_ele":[{"reb":"イジェミョン"},{"reb":"りざいめい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lee Jae Myung (1964.12.22-; 21st president of South Korea)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-11-30"}]}]}
+{"ent_seq":5747472,"k_ele":[{"keb":"松岡静雄"}],"r_ele":[{"reb":"まつおかしずお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shizuo Matsuoka (1878.5.1-1936.5.23; naval officer, linguist and ethnologist)"}]}]}
+{"ent_seq":5747473,"r_ele":[{"reb":"クリスタ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Clip Studio Paint (graphics software) (abbr)"}]}]}
+{"ent_seq":5747474,"k_ele":[{"keb":"Ｆｌｏｏｒｐ"}],"r_ele":[{"reb":"フロープ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Floorp (web browser)"}]}]}
+{"ent_seq":5747475,"k_ele":[{"keb":"第一三共"}],"r_ele":[{"reb":"だいいちさんきょう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Daiichi Sankyo (pharmaceutical company)"}]}]}
+{"ent_seq":5747476,"k_ele":[{"keb":"海佑"}],"r_ele":[{"reb":"みゆ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Miyu"}]}]}
+{"ent_seq":5747477,"k_ele":[{"keb":"伽那汰"}],"r_ele":[{"reb":"かなた"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanata"}]}]}
+{"ent_seq":5747478,"k_ele":[{"keb":"加那多"},{"keb":"伽那多"}],"r_ele":[{"reb":"かなた"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanata"}]}]}
+{"ent_seq":5747479,"k_ele":[{"keb":"窮奇"}],"r_ele":[{"reb":"きゅうき"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Qiongqi (beast in Chinese mythology; one of the Four Perils)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-12-07"}]}]}
