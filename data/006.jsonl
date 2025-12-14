@@ -1,7 +1,3 @@
-{"ent_seq":5501946,"k_ele":[{"keb":"拓道"}],"r_ele":[{"reb":"たくどう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takudō"}]}]}
-{"ent_seq":5501947,"k_ele":[{"keb":"拓道"}],"r_ele":[{"reb":"ひろみち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hiromichi"}]}]}
-{"ent_seq":5501948,"k_ele":[{"keb":"拓二"}],"r_ele":[{"reb":"たくじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuji"}]}]}
-{"ent_seq":5501949,"k_ele":[{"keb":"拓二郎"}],"r_ele":[{"reb":"たくじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takujirō"}]}]}
 {"ent_seq":5501950,"k_ele":[{"keb":"拓之"}],"r_ele":[{"reb":"たくゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuyuki"}]}]}
 {"ent_seq":5501951,"k_ele":[{"keb":"拓之"}],"r_ele":[{"reb":"ひろし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hiroshi"}]}]}
 {"ent_seq":5501952,"k_ele":[{"keb":"拓農"}],"r_ele":[{"reb":"たくのう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takunou"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5602411,"k_ele":[{"keb":"番神堂"}],"r_ele":[{"reb":"ばんじんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banjindou"}]}]}
 {"ent_seq":5602412,"k_ele":[{"keb":"番神岬"}],"r_ele":[{"reb":"ばんじんみさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Banjinmisaki"}]}]}
 {"ent_seq":5602413,"k_ele":[{"keb":"番水"}],"r_ele":[{"reb":"ばんすい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bansui"}]}]}
+{"ent_seq":5602414,"k_ele":[{"keb":"番随"}],"r_ele":[{"reb":"ばんずい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banzui"}]}]}
+{"ent_seq":5602415,"k_ele":[{"keb":"番正"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
+{"ent_seq":5602416,"k_ele":[{"keb":"番清"}],"r_ele":[{"reb":"ばんきよ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bankiyo"}]}]}
+{"ent_seq":5602417,"k_ele":[{"keb":"番生寺"}],"r_ele":[{"reb":"ばんしょうじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshouji"}]}]}

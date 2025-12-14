@@ -1,7 +1,3 @@
-{"ent_seq":5702750,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
-{"ent_seq":5702751,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかちか"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takachika"}]}]}
-{"ent_seq":5702752,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかひと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takahito"}]}]}
-{"ent_seq":5702753,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかふみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takafumi"}]}]}
 {"ent_seq":5702754,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかぶみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takabumi"}]}]}
 {"ent_seq":5702755,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゅうし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūshi"}]}]}
 {"ent_seq":5702756,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūji"}]}]}
@@ -43119,4 +43115,7 @@
 {"ent_seq":5747477,"k_ele":[{"keb":"伽那汰"}],"r_ele":[{"reb":"かなた"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanata"}]}]}
 {"ent_seq":5747478,"k_ele":[{"keb":"加那多"},{"keb":"伽那多"}],"r_ele":[{"reb":"かなた"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanata"}]}]}
 {"ent_seq":5747479,"k_ele":[{"keb":"窮奇"}],"r_ele":[{"reb":"きゅうき"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Qiongqi (beast in Chinese mythology; one of the Four Perils)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-12-07"}]}]}
+{"ent_seq":5747480,"k_ele":[{"keb":"方計"}],"r_ele":[{"reb":"みちかず"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Michikazu"}]}]}
+{"ent_seq":5747481,"r_ele":[{"reb":"ドルビーアトモス"},{"reb":"ドルビー・アトモス"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Dolby Atmos"}]}]}
+{"ent_seq":5747482,"k_ele":[{"keb":"法条"}],"r_ele":[{"reb":"ほうじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hōjō"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-12-14"}]}]}

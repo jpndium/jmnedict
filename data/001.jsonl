@@ -42405,7 +42405,6 @@
 {"ent_seq":5042695,"r_ele":[{"reb":"ジンガー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Singer"}]}]}
 {"ent_seq":5042696,"k_ele":[{"keb":"ジンガラン湾"}],"r_ele":[{"reb":"ジンガランわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dingalan Bay"}]}]}
 {"ent_seq":5042697,"r_ele":[{"reb":"ジンガレッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zingaretti"}]}]}
-{"ent_seq":5042699,"r_ele":[{"reb":"ジンギスカン"},{"reb":"ジンギス・カン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
 {"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗"}],"r_ele":[{"reb":"ジンギスかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
 {"ent_seq":5042701,"r_ele":[{"reb":"ジンク"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zinc"}]}]}
 {"ent_seq":5042702,"r_ele":[{"reb":"ジンクス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jinks"}]}]}
@@ -50830,10 +50829,8 @@
 {"ent_seq":5051179,"r_ele":[{"reb":"チン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chin (Burmah)"},{"value":"Ching"},{"value":"Chinn"},{"value":"Zinn"}]}]}
 {"ent_seq":5051180,"r_ele":[{"reb":"チンアセン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chin-a-sen"}]}]}
 {"ent_seq":5051181,"r_ele":[{"reb":"チンウォース"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chinworth"}]}]}
-{"ent_seq":5051182,"r_ele":[{"reb":"チンギス・ハン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
-{"ent_seq":5051183,"r_ele":[{"reb":"チンギスハン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
-{"ent_seq":5051184,"k_ele":[{"keb":"チンギス汗"}],"r_ele":[{"reb":"チンギスかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan"}]}]}
-{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗"},{"keb":"チンギス汗"}],"r_ele":[{"reb":"チンギス・ハーン"},{"reb":"チンギスハーン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (c. 1162-1227)"}]}]}
+{"ent_seq":5051184,"k_ele":[{"keb":"チンギス汗"}],"r_ele":[{"reb":"チンギスかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
+{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"ジンギスカン"},{"reb":"ジンギス・カン"},{"reb":"チンギスハーン"},{"reb":"チンギス・ハーン"},{"reb":"チンギスハン"},{"reb":"チンギス・ハン"},{"reb":"チンギスカン"},{"reb":"チンギス・カン"},{"reb":"ジンギスハン"},{"reb":"ジンギス・ハン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (c. 1162-1227)"}]}]}
 {"ent_seq":5051186,"r_ele":[{"reb":"チンギタナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tingitana (Africa)"}]}]}
 {"ent_seq":5051187,"k_ele":[{"keb":"チンギリリカ川"}],"r_ele":[{"reb":"チンギリリカがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tinguiririca (river)"}]}]}
 {"ent_seq":5051188,"k_ele":[{"keb":"チンギ島"}],"r_ele":[{"reb":"チンギとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pulau Tinggi (island)"}]}]}
@@ -81556,7 +81553,7 @@
 {"ent_seq":5082085,"r_ele":[{"reb":"マリエンハーフェ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Marienhafe"}]}]}
 {"ent_seq":5082086,"r_ele":[{"reb":"マリエンバッハ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Marienback"}]}]}
 {"ent_seq":5082087,"r_ele":[{"reb":"マリエンブルク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Marienburg"}]}]}
-{"ent_seq":5082088,"r_ele":[{"reb":"マリオ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mario"}]}]}
+{"ent_seq":5082088,"r_ele":[{"reb":"マリオ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Mario"}]}]}
 {"ent_seq":5082089,"r_ele":[{"reb":"マリオット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mariotte"},{"value":"Marriott"}]}]}
 {"ent_seq":5082090,"r_ele":[{"reb":"マリオブラザーズ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Mario Bros. (video game series)"}]}]}
 {"ent_seq":5082091,"r_ele":[{"reb":"マリオラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mariola"}]}]}
@@ -91869,7 +91866,7 @@
 {"ent_seq":5092459,"r_ele":[{"reb":"ルィブニコフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rybnikiov"}]}]}
 {"ent_seq":5092460,"r_ele":[{"reb":"ルイ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Rui"},{"value":"Louie"}]},{"name_type":["&masc;"],"trans_det":[{"value":"Ruy"},{"value":"Rui"},{"value":"Louis"},{"value":"Louie"}]}]}
 {"ent_seq":5092461,"r_ele":[{"reb":"ルイーザ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Louisa"},{"value":"Luisa"}]}]}
-{"ent_seq":5092462,"r_ele":[{"reb":"ルイージ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ruisi"}]}]}
+{"ent_seq":5092462,"r_ele":[{"reb":"ルイージ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Luigi"}]}]}
 {"ent_seq":5092463,"r_ele":[{"reb":"ルイーズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Louise"}]}]}
 {"ent_seq":5092464,"r_ele":[{"reb":"ルイーズとケリー","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Two Friends (film)"}]}]}
 {"ent_seq":5092465,"r_ele":[{"reb":"ルイーズフレッチャー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Louise Fletcher"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5100630,"k_ele":[{"keb":"阿見梨"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
 {"ent_seq":5100631,"k_ele":[{"keb":"阿見理"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
 {"ent_seq":5100632,"k_ele":[{"keb":"阿見里"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
+{"ent_seq":5100633,"k_ele":[{"keb":"阿見莉"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
+{"ent_seq":5100634,"k_ele":[{"keb":"阿元"}],"r_ele":[{"reb":"あげん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Agen"}]}]}
+{"ent_seq":5100635,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あはら"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Ahara"}]}]}

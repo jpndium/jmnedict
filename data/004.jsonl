@@ -1,6 +1,3 @@
-{"ent_seq":5301302,"k_ele":[{"keb":"佐藤秀輔"}],"r_ele":[{"reb":"さとうしゅうすけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuusuke"}]}]}
-{"ent_seq":5301303,"k_ele":[{"keb":"佐藤秀峰"}],"r_ele":[{"reb":"さとうしゅうほう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuuhou"}]}]}
-{"ent_seq":5301304,"k_ele":[{"keb":"佐藤秀明"}],"r_ele":[{"reb":"さとうひであき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hideaki"}]}]}
 {"ent_seq":5301305,"k_ele":[{"keb":"佐藤秀雄"}],"r_ele":[{"reb":"さとうひでお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hideo"}]}]}
 {"ent_seq":5301306,"k_ele":[{"keb":"佐藤秀廊"}],"r_ele":[{"reb":"さとうひでろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hiderou"}]}]}
 {"ent_seq":5301307,"k_ele":[{"keb":"佐藤充"}],"r_ele":[{"reb":"さとうみつる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Mitsuru"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5401561,"k_ele":[{"keb":"情之佑"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401562,"k_ele":[{"keb":"情之祐"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
 {"ent_seq":5401563,"k_ele":[{"keb":"情之亮"}],"r_ele":[{"reb":"じょうのすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōnosuke"}]}]}
+{"ent_seq":5401564,"k_ele":[{"keb":"情埜"}],"r_ele":[{"reb":"せいの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seino"}]}]}
+{"ent_seq":5401565,"k_ele":[{"keb":"情報処理教育研修助成財団"}],"r_ele":[{"reb":"じょうほうしょりきょういくけんしゅうじょせいざいだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Foundation for International Information Processing Education"},{"value":"FINIPED"}]}]}
+{"ent_seq":5401566,"k_ele":[{"keb":"情報処理推進機構"}],"r_ele":[{"reb":"じょうほうしょりすいしんきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Information-technology Promotion Agency"}]}]}

@@ -1,6 +1,3 @@
-{"ent_seq":5100633,"k_ele":[{"keb":"阿見莉"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
-{"ent_seq":5100634,"k_ele":[{"keb":"阿元"}],"r_ele":[{"reb":"あげん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Agen"}]}]}
-{"ent_seq":5100635,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あはら"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Ahara"}]}]}
 {"ent_seq":5100636,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あばら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Abara"}]}]}
 {"ent_seq":5100637,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あわら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awara"}]}]}
 {"ent_seq":5100638,"k_ele":[{"keb":"阿原口"}],"r_ele":[{"reb":"あわらぐち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awaraguchi"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5200946,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kina"}]}]}
 {"ent_seq":5200947,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"きなつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kinatsu"}]}]}
 {"ent_seq":5200948,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"すえか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sueka"}]}]}
+{"ent_seq":5200949,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"ときなつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokinatsu"}]}]}
+{"ent_seq":5200950,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"としな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshina"}]}]}
+{"ent_seq":5200951,"k_ele":[{"keb":"季夏子"}],"r_ele":[{"reb":"きかこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kikako"}]}]}

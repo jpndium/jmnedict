@@ -1,6 +1,3 @@
-{"ent_seq":5200949,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"ときなつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokinatsu"}]}]}
-{"ent_seq":5200950,"k_ele":[{"keb":"季夏"}],"r_ele":[{"reb":"としな"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshina"}]}]}
-{"ent_seq":5200951,"k_ele":[{"keb":"季夏子"}],"r_ele":[{"reb":"きかこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kikako"}]}]}
 {"ent_seq":5200952,"k_ele":[{"keb":"季果"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kika"}]}]}
 {"ent_seq":5200953,"k_ele":[{"keb":"季果"}],"r_ele":[{"reb":"としか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Toshika"}]}]}
 {"ent_seq":5200954,"k_ele":[{"keb":"季歌"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kika"}]}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5301299,"k_ele":[{"keb":"佐藤秀司"}],"r_ele":[{"reb":"さとうしゅうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shūji Satō (1967.6.8-; professional shogi player)"}]}]}
 {"ent_seq":5301300,"k_ele":[{"keb":"佐藤秀樹"}],"r_ele":[{"reb":"さとうひでき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hideki (1950.11.5-)"}]}]}
 {"ent_seq":5301301,"k_ele":[{"keb":"佐藤秀美"}],"r_ele":[{"reb":"さとうひでみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hidemi"}]}]}
+{"ent_seq":5301302,"k_ele":[{"keb":"佐藤秀輔"}],"r_ele":[{"reb":"さとうしゅうすけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuusuke"}]}]}
+{"ent_seq":5301303,"k_ele":[{"keb":"佐藤秀峰"}],"r_ele":[{"reb":"さとうしゅうほう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shuuhou"}]}]}
+{"ent_seq":5301304,"k_ele":[{"keb":"佐藤秀明"}],"r_ele":[{"reb":"さとうひであき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hideaki"}]}]}

@@ -1,6 +1,3 @@
-{"ent_seq":5401564,"k_ele":[{"keb":"情埜"}],"r_ele":[{"reb":"せいの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seino"}]}]}
-{"ent_seq":5401565,"k_ele":[{"keb":"情報処理教育研修助成財団"}],"r_ele":[{"reb":"じょうほうしょりきょういくけんしゅうじょせいざいだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Foundation for International Information Processing Education"},{"value":"FINIPED"}]}]}
-{"ent_seq":5401566,"k_ele":[{"keb":"情報処理推進機構"}],"r_ele":[{"reb":"じょうほうしょりすいしんきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Information-technology Promotion Agency"}]}]}
 {"ent_seq":5401567,"k_ele":[{"keb":"情報処理相互運用技術協会"}],"r_ele":[{"reb":"じょうほうしょりそうごうんようぎじゅつきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Interoperability Technology Association for Information Processing, Japan"}]}]}
 {"ent_seq":5401568,"k_ele":[{"keb":"情報図書館"}],"r_ele":[{"reb":"じょうほうとしょかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jōhoutoshokan"}]}]}
 {"ent_seq":5401569,"k_ele":[{"keb":"情報知識学会"}],"r_ele":[{"reb":"じょうほうちしきがっかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Society of Information and Knowledge"},{"value":"JSIK"}]}]}
@@ -30377,7 +30374,6 @@
 {"ent_seq":5432040,"k_ele":[{"keb":"成吉"}],"r_ele":[{"reb":"せいきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Seikichi"}]}]}
 {"ent_seq":5432041,"k_ele":[{"keb":"成吉"}],"r_ele":[{"reb":"なりよし"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Nariyoshi"}]}]}
 {"ent_seq":5432042,"k_ele":[{"keb":"成吉"}],"r_ele":[{"reb":"なるよし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Naruyoshi"}]}]}
-{"ent_seq":5432043,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"じんぎすかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
 {"ent_seq":5432044,"k_ele":[{"keb":"成久"}],"r_ele":[{"reb":"しげひさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Shigehisa"}]}]}
 {"ent_seq":5432045,"k_ele":[{"keb":"成久"}],"r_ele":[{"reb":"せいじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seiji"}]}]}
 {"ent_seq":5432046,"k_ele":[{"keb":"成久"}],"r_ele":[{"reb":"なりひさ"}],"trans":[{"name_type":["&place;","&surname;","&given;"],"trans_det":[{"value":"Narihisa"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5501943,"k_ele":[{"keb":"拓登"}],"r_ele":[{"reb":"ひろと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroto"}]}]}
 {"ent_seq":5501944,"k_ele":[{"keb":"拓都"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
 {"ent_seq":5501945,"k_ele":[{"keb":"拓土"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
+{"ent_seq":5501946,"k_ele":[{"keb":"拓道"}],"r_ele":[{"reb":"たくどう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takudō"}]}]}
+{"ent_seq":5501947,"k_ele":[{"keb":"拓道"}],"r_ele":[{"reb":"ひろみち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hiromichi"}]}]}
+{"ent_seq":5501948,"k_ele":[{"keb":"拓二"}],"r_ele":[{"reb":"たくじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuji"}]}]}
+{"ent_seq":5501949,"k_ele":[{"keb":"拓二郎"}],"r_ele":[{"reb":"たくじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takujirō"}]}]}
