@@ -62540,7 +62540,7 @@
 {"ent_seq":5062978,"r_ele":[{"reb":"バチカン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vatican"}]}]}
 {"ent_seq":5062979,"k_ele":[{"keb":"バチカン市国"}],"r_ele":[{"reb":"バチカンしこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Citta del Vaticano"},{"value":"Vatican City State"}]}]}
 {"ent_seq":5062980,"k_ele":[{"keb":"バチカン美術館"}],"r_ele":[{"reb":"バチカンびじゅつかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vatican Museums and Galleries"}]}]}
-{"ent_seq":5062981,"r_ele":[{"reb":"バチスタ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Batisuta"}]}]}
+{"ent_seq":5062981,"r_ele":[{"reb":"バチスタ"},{"reb":"バティスタ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Batista"}]}]}
 {"ent_seq":5062982,"r_ele":[{"reb":"バチャーニイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bacsanyi"}]}]}
 {"ent_seq":5062983,"k_ele":[{"keb":"バチャン島"}],"r_ele":[{"reb":"バチャンとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Batjan (island)"}]}]}
 {"ent_seq":5062984,"r_ele":[{"reb":"バチョッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Paciotti"}]}]}
@@ -62635,7 +62635,6 @@
 {"ent_seq":5063074,"k_ele":[{"keb":"バツ諸島"}],"r_ele":[{"reb":"バツしょとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kepulauan Batu (islands)"}]}]}
 {"ent_seq":5063076,"r_ele":[{"reb":"バティカン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vatican"}]}]}
 {"ent_seq":5063077,"r_ele":[{"reb":"バティキオティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vatikioti"}]}]}
-{"ent_seq":5063078,"r_ele":[{"reb":"バティスタ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Batista"}]}]}
 {"ent_seq":5063079,"r_ele":[{"reb":"バティスティ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Battisti"}]}]}
 {"ent_seq":5063080,"r_ele":[{"reb":"バティスト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Baptiste"}]}]}
 {"ent_seq":5063081,"r_ele":[{"reb":"バティラーナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vatirana"}]}]}
@@ -73006,8 +73005,7 @@
 {"ent_seq":5073494,"r_ele":[{"reb":"プレナイ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Prenai"}]}]}
 {"ent_seq":5073495,"r_ele":[{"reb":"プレネ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pleynet"}]}]}
 {"ent_seq":5073496,"r_ele":[{"reb":"プレネル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Plenel"}]}]}
-{"ent_seq":5073497,"r_ele":[{"reb":"プレハーノフ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Georgi Plekhanov"}]}]}
-{"ent_seq":5073498,"r_ele":[{"reb":"プレハノフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Plekhanov"}]}]}
+{"ent_seq":5073497,"r_ele":[{"reb":"プレハーノフ"},{"reb":"プレハノフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Plekhanov"}]},{"name_type":["&person;"],"trans_det":[{"value":"Plekhanov, Georgi (1856-1918; Russian revolutionary)"}]}]}
 {"ent_seq":5073499,"r_ele":[{"reb":"プレビターリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Previtali"}]}]}
 {"ent_seq":5073500,"r_ele":[{"reb":"プレビッシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Prebisch"}]}]}
 {"ent_seq":5073501,"r_ele":[{"reb":"プレビッツ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Previts"}]}]}
@@ -87120,7 +87118,7 @@
 {"ent_seq":5087689,"r_ele":[{"reb":"ユタエ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yutae"}]}]}
 {"ent_seq":5087690,"r_ele":[{"reb":"ユタカ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yutaka"}]}]}
 {"ent_seq":5087691,"r_ele":[{"reb":"ユタン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hutin"}]}]}
-{"ent_seq":5087692,"r_ele":[{"reb":"ユダ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Judas"}]}]}
+{"ent_seq":5087692,"r_ele":[{"reb":"ユダ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Judas Iscariot (one of the Twelve Apostles of Jesus Christ)"}]},{"name_type":["&person;"],"trans_det":[{"value":"Judah (son of Jacob according to the Book of Genesis)"}]}]}
 {"ent_seq":5087693,"r_ele":[{"reb":"ユダヤ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Judaea"}]}]}
 {"ent_seq":5087694,"k_ele":[{"keb":"ユダ王国"}],"r_ele":[{"reb":"ユダおうこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kingdom of Judah"}]}]}
 {"ent_seq":5087695,"r_ele":[{"reb":"ユッカ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jukka"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5100633,"k_ele":[{"keb":"阿見莉"}],"r_ele":[{"reb":"あみり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Amiri"}]}]}
 {"ent_seq":5100634,"k_ele":[{"keb":"阿元"}],"r_ele":[{"reb":"あげん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Agen"}]}]}
 {"ent_seq":5100635,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あはら"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Ahara"}]}]}
+{"ent_seq":5100636,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あばら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Abara"}]}]}
+{"ent_seq":5100637,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あわら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awara"}]}]}
