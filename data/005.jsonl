@@ -29369,7 +29369,6 @@
 {"ent_seq":5431028,"k_ele":[{"keb":"制伸"}],"r_ele":[{"reb":"せいや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seiya"}]}]}
 {"ent_seq":5431029,"k_ele":[{"keb":"制心"}],"r_ele":[{"reb":"せいしん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Seishin"}]}]}
 {"ent_seq":5431030,"k_ele":[{"keb":"制蔵"}],"r_ele":[{"reb":"せいぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seizou"}]}]}
-{"ent_seq":5431031,"k_ele":[{"keb":"制造"}],"r_ele":[{"reb":"せいぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seizou"}]}]}
 {"ent_seq":5431032,"k_ele":[{"keb":"制多"}],"r_ele":[{"reb":"せいた"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seita"}]}]}
 {"ent_seq":5431033,"k_ele":[{"keb":"制多朗"}],"r_ele":[{"reb":"せいたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Seitarō"}]}]}
 {"ent_seq":5431034,"k_ele":[{"keb":"制多郎"}],"r_ele":[{"reb":"せいたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Seitarō"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501949,"k_ele":[{"keb":"拓二郎"}],"r_ele":[{"reb":"たくじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takujirō"}]}]}
 {"ent_seq":5501950,"k_ele":[{"keb":"拓之"}],"r_ele":[{"reb":"たくゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuyuki"}]}]}
 {"ent_seq":5501951,"k_ele":[{"keb":"拓之"}],"r_ele":[{"reb":"ひろし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hiroshi"}]}]}
+{"ent_seq":5501952,"k_ele":[{"keb":"拓農"}],"r_ele":[{"reb":"たくのう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takunou"}]}]}

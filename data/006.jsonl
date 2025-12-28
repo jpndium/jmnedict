@@ -1,4 +1,3 @@
-{"ent_seq":5501952,"k_ele":[{"keb":"拓農"}],"r_ele":[{"reb":"たくのう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takunou"}]}]}
 {"ent_seq":5501953,"k_ele":[{"keb":"拓馬"}],"r_ele":[{"reb":"たくま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuma"}]}]}
 {"ent_seq":5501954,"k_ele":[{"keb":"拓飛"}],"r_ele":[{"reb":"たくと"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuto"}]}]}
 {"ent_seq":5501955,"k_ele":[{"keb":"拓美"}],"r_ele":[{"reb":"たくみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takumi"}]}]}
@@ -38657,7 +38656,7 @@
 {"ent_seq":5540729,"k_ele":[{"keb":"天津"}],"r_ele":[{"reb":"あまず"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Amazu"}]}]}
 {"ent_seq":5540730,"k_ele":[{"keb":"天津"}],"r_ele":[{"reb":"あまつ"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Amatsu"}]}]}
 {"ent_seq":5540731,"k_ele":[{"keb":"天津"}],"r_ele":[{"reb":"あまづ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Amazu"}]}]}
-{"ent_seq":5540732,"k_ele":[{"keb":"天津"}],"r_ele":[{"reb":"てんしん"},{"reb":"ティエンチン"},{"reb":"ティエンジン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tianjin (China)"},{"value":"Tientsin"}]}]}
+{"ent_seq":5540732,"k_ele":[{"keb":"天津"}],"r_ele":[{"reb":"てんしん","re_pri":{"spec":1}},{"reb":"ティエンチン"},{"reb":"ティエンジン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tianjin (China)"},{"value":"Tientsin"}]}]}
 {"ent_seq":5540733,"k_ele":[{"keb":"天津トンネル"}],"r_ele":[{"reb":"あまつトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amatsu Tunnel"}]}]}
 {"ent_seq":5540734,"k_ele":[{"keb":"天津駅"}],"r_ele":[{"reb":"あまつえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Amatsu Station"}]}]}
 {"ent_seq":5540735,"k_ele":[{"keb":"天津乙女"}],"r_ele":[{"reb":"あまつおとめ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Amatsu Otome (1905.10.9-1980.5.30)"}]}]}
@@ -89387,7 +89386,7 @@
 {"ent_seq":5591764,"k_ele":[{"keb":"柏崎"}],"r_ele":[{"reb":"かしわざき"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Kashiwazaki"}]}]}
 {"ent_seq":5591765,"k_ele":[{"keb":"柏崎トンネル"}],"r_ele":[{"reb":"かしわざきトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kashiwazaki Tunnel"}]}]}
 {"ent_seq":5591766,"k_ele":[{"keb":"柏崎駅"}],"r_ele":[{"reb":"かしわざきえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kashiwazaki Station"}]}]}
-{"ent_seq":5591767,"k_ele":[{"keb":"柏崎刈羽"}],"r_ele":[{"reb":"かしさきかりわ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Kashiwazaki Kariwa"}]}]}
+{"ent_seq":5591767,"k_ele":[{"keb":"柏崎刈羽"}],"r_ele":[{"reb":"かしわざきかりわ","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kashiwazaki Kariwa"}]}]}
 {"ent_seq":5591768,"k_ele":[{"keb":"柏崎刈羽原子力発電所"}],"r_ele":[{"reb":"かしわざきかりわげんしりょくはつでんしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kashiwazakikariwa Nuclear Power Station"}]}]}
 {"ent_seq":5591769,"k_ele":[{"keb":"柏崎港"}],"r_ele":[{"reb":"かしわざきこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kashiwazakikou"}]}]}
 {"ent_seq":5591770,"k_ele":[{"keb":"柏崎市"}],"r_ele":[{"reb":"かしわざきし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kashiwazaki (city)"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602417,"k_ele":[{"keb":"番生寺"}],"r_ele":[{"reb":"ばんしょうじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banshouji"}]}]}
 {"ent_seq":5602418,"k_ele":[{"keb":"番川"}],"r_ele":[{"reb":"ばんかわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bankawa"}]}]}
 {"ent_seq":5602419,"k_ele":[{"keb":"番川原"}],"r_ele":[{"reb":"ばんがわはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bangawahara"}]}]}
+{"ent_seq":5602420,"k_ele":[{"keb":"番前"}],"r_ele":[{"reb":"ばんまえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banmae"}]}]}

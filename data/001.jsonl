@@ -25512,7 +25512,7 @@
 {"ent_seq":5025697,"r_ele":[{"reb":"キューブ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cube"}]}]}
 {"ent_seq":5025698,"r_ele":[{"reb":"キューブラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kubler"}]}]}
 {"ent_seq":5025699,"r_ele":[{"reb":"キューブラーロス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kubler-Ross"}]}]}
-{"ent_seq":5025700,"r_ele":[{"reb":"キューブリック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kubrick"}]}]}
+{"ent_seq":5025700,"r_ele":[{"reb":"キューブリック"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kubrick"}]},{"name_type":["&person;"],"trans_det":[{"value":"Kubrick, Stanley (1928.7.26-1999.3.7; American film director)"}]}]}
 {"ent_seq":5025701,"r_ele":[{"reb":"キューラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kurer"}]}]}
 {"ent_seq":5025702,"r_ele":[{"reb":"キューリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Currie"},{"value":"Curry"}]}]}
 {"ent_seq":5025703,"r_ele":[{"reb":"キューリー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Curie"}]}]}
@@ -65390,7 +65390,7 @@
 {"ent_seq":5065841,"r_ele":[{"reb":"ヒューペリオン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hyperion"}]}]}
 {"ent_seq":5065842,"r_ele":[{"reb":"ヒューマーストンヘフナー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hugh Marston Hefner"}]}]}
 {"ent_seq":5065843,"r_ele":[{"reb":"ヒューマンスドルプ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Humansdorp"}]}]}
-{"ent_seq":5065844,"r_ele":[{"reb":"ヒューム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hulme"},{"value":"Hume"}]}]}
+{"ent_seq":5065844,"r_ele":[{"reb":"ヒューム"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hume"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Hulme"}]},{"name_type":["&person;"],"trans_det":[{"value":"Hume, David (1711-1776; Scottish philosopher)"}]}]}
 {"ent_seq":5065845,"r_ele":[{"reb":"ヒュームズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Humes"}]}]}
 {"ent_seq":5065846,"r_ele":[{"reb":"ヒュームロザリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hume-Rothery"}]}]}
 {"ent_seq":5065847,"r_ele":[{"reb":"ヒューリー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Feury"}]}]}

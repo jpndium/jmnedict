@@ -1,4 +1,3 @@
-{"ent_seq":5602420,"k_ele":[{"keb":"番前"}],"r_ele":[{"reb":"ばんまえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banmae"}]}]}
 {"ent_seq":5602421,"k_ele":[{"keb":"番組"}],"r_ele":[{"reb":"ばんぐみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bangumi"}]}]}
 {"ent_seq":5602422,"k_ele":[{"keb":"番組町"}],"r_ele":[{"reb":"ばんぐみちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bangumichō"}]}]}
 {"ent_seq":5602423,"k_ele":[{"keb":"番組頭"}],"r_ele":[{"reb":"ばんぐみがしら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bangumigashira"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5702753,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかふみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takafumi"}]}]}
 {"ent_seq":5702754,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"たかぶみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takabumi"}]}]}
 {"ent_seq":5702755,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゅうし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūshi"}]}]}
+{"ent_seq":5702756,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūji"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5702756,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūji"}]}]}
 {"ent_seq":5702757,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}
 {"ent_seq":5702758,"k_ele":[{"keb":"隆嗣"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702759,"k_ele":[{"keb":"隆嗣"}],"r_ele":[{"reb":"たかつぐ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatsugu"}]}]}
@@ -36622,7 +36621,7 @@
 {"ent_seq":5740761,"k_ele":[{"keb":"結李"}],"r_ele":[{"reb":"ゆうり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yūri"}]}]}
 {"ent_seq":5740762,"k_ele":[{"keb":"結李"}],"r_ele":[{"reb":"ゆいり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yuiri"}]}]}
 {"ent_seq":5740763,"k_ele":[{"keb":"下総国"}],"r_ele":[{"reb":"しもうさのくに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shimōsa Province (historical)"}]}]}
-{"ent_seq":5740764,"r_ele":[{"reb":"ワンピース","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"One Piece (popular manga series)"}]}]}
+{"ent_seq":5740764,"r_ele":[{"reb":"ワンピース","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"One Piece (manga series and media franchise)"}]}]}
 {"ent_seq":5740765,"k_ele":[{"keb":"ＫＬＭ"}],"r_ele":[{"reb":"ケーエルエム"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Royal Dutch Airlines (Koninklijke Luchtvaart Maatschappij)"},{"value":"KLM"}]}]}
 {"ent_seq":5740766,"k_ele":[{"keb":"ＧＰＵ"}],"r_ele":[{"reb":"ゲーペーウー","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"State Political Directorate (USSR)"},{"value":"State Political Administration"},{"value":"GPU"}]}]}
 {"ent_seq":5740767,"r_ele":[{"reb":"コーザノストラ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Cosa Nostra"}]}]}
@@ -43123,4 +43122,9 @@
 {"ent_seq":5747488,"k_ele":[{"keb":"任男"}],"r_ele":[{"reb":"たかお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takao"}]}]}
 {"ent_seq":5747489,"k_ele":[{"keb":"瞬馬"}],"r_ele":[{"reb":"しゅんま"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Shunma"}]}]}
 {"ent_seq":5747490,"k_ele":[{"keb":"圡屋"}],"r_ele":[{"reb":"つちや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tsuchiya"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-12-21"}]}]}
+{"ent_seq":5747491,"r_ele":[{"reb":"ワンピ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"One Piece (manga series and media franchise) (abbr)"}]}]}
+{"ent_seq":5747492,"k_ele":[{"keb":"人間本性論"}],"r_ele":[{"reb":"にんげんほんせいろん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Treatise of Human Nature (book by David Hume; publ. 1739-40)"}]}]}
+{"ent_seq":5747493,"k_ele":[{"keb":"人性論"}],"r_ele":[{"reb":"じんせいろん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Treatise of Human Nature (book by David Hume; publ. 1739-40)"}]}]}
+{"ent_seq":5747494,"r_ele":[{"reb":"オッポ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"OPPO"}]}]}
+{"ent_seq":5747495,"k_ele":[{"keb":"ピルトダウン事件"}],"r_ele":[{"reb":"ピルトダウンじけん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Piltdown hoax (1912 discovery of a fossilized ape-human missing-link skull, later revealed to be fraudulent)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-12-28"}]}]}
