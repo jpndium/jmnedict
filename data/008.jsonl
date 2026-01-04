@@ -43127,4 +43127,15 @@
 {"ent_seq":5747493,"k_ele":[{"keb":"人性論"}],"r_ele":[{"reb":"じんせいろん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Treatise of Human Nature (book by David Hume; publ. 1739-40)"}]}]}
 {"ent_seq":5747494,"r_ele":[{"reb":"オッポ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"OPPO"}]}]}
 {"ent_seq":5747495,"k_ele":[{"keb":"ピルトダウン事件"}],"r_ele":[{"reb":"ピルトダウンじけん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Piltdown hoax (1912 discovery of a fossilized ape-human missing-link skull, later revealed to be fraudulent)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2025-12-28"}]}]}
+{"ent_seq":5747496,"k_ele":[{"keb":"淳八"}],"r_ele":[{"reb":"じゅんぱち"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Junpachi"}]}]}
+{"ent_seq":5747497,"k_ele":[{"keb":"平治物語"}],"r_ele":[{"reb":"へいじものがたり"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Tale of Heiji"}]}]}
+{"ent_seq":5747498,"r_ele":[{"reb":"ゴーストハウス"},{"reb":"ゴースト・ハウス"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Ghost House"},{"value":"The Messengers"}]}]}
+{"ent_seq":5747499,"k_ele":[{"keb":"草邑"}],"r_ele":[{"reb":"くさむら"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Kusamura"}]}]}
+{"ent_seq":5747500,"r_ele":[{"reb":"モンスターエナジー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Monster Energy"}]}]}
+{"ent_seq":5747501,"r_ele":[{"reb":"コクタ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Cockta"}]}]}
+{"ent_seq":5747502,"r_ele":[{"reb":"フレスカ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Fresca"}]}]}
+{"ent_seq":5747503,"r_ele":[{"reb":"メローイエロー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Mello Yello"}]}]}
+{"ent_seq":5747504,"r_ele":[{"reb":"マウンテンデュー"},{"reb":"マウンテン・デュー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Mountain Dew"}]}]}
+{"ent_seq":5747505,"k_ele":[{"keb":"国立印刷局"}],"r_ele":[{"reb":"こくりついんさつきょく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Printing Bureau"}]}]}
+{"ent_seq":5747506,"k_ele":[{"keb":"玉篇"}],"r_ele":[{"reb":"ぎょくへん"},{"reb":"ごくへん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Yupian (ancient dictionary of Chinese characters; 543 CE)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-04"}]}]}

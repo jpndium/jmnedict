@@ -28841,7 +28841,7 @@
 {"ent_seq":5029045,"r_ele":[{"reb":"グーツムーツ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Guts Muths"}]}]}
 {"ent_seq":5029046,"r_ele":[{"reb":"グーティエール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gouthiere"}]}]}
 {"ent_seq":5029047,"r_ele":[{"reb":"グーテンドルフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gutendorf"}]}]}
-{"ent_seq":5029048,"r_ele":[{"reb":"グーテンベルク"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Johannes Gutenberg"}]}]}
+{"ent_seq":5029048,"r_ele":[{"reb":"グーテンベルク"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Gutenberg"}]},{"name_type":["&person;"],"trans_det":[{"value":"Gutenberg, Johannes (c. 1400-1468; German inventor and craftsman)"}]}]}
 {"ent_seq":5029049,"r_ele":[{"reb":"グーテンベルグ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gutenberg"}]}]}
 {"ent_seq":5029050,"r_ele":[{"reb":"グーデ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gude"}]}]}
 {"ent_seq":5029051,"r_ele":[{"reb":"グーディー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Goudie"}]}]}
@@ -38938,7 +38938,7 @@
 {"ent_seq":5039198,"r_ele":[{"reb":"シュウェービッシェアルプ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Schwabische Alb (Germany)"}]}]}
 {"ent_seq":5039199,"r_ele":[{"reb":"シュウェービッシュグミュント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Schwabisch Gmund"}]}]}
 {"ent_seq":5039200,"r_ele":[{"reb":"シュウェービッシュハル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Schwabisch-Hall"}]}]}
-{"ent_seq":5039201,"r_ele":[{"reb":"シュウェップス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Schweppes"}]}]}
+{"ent_seq":5039201,"r_ele":[{"reb":"シュウェップス"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Schweppes"}]}]}
 {"ent_seq":5039202,"r_ele":[{"reb":"シュウェニンゲン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Schwenningen"}]}]}
 {"ent_seq":5039203,"r_ele":[{"reb":"シュウェハト"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Schwechat"}]}]}
 {"ent_seq":5039204,"r_ele":[{"reb":"シュウェリン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Schwerin"}]}]}
@@ -56258,7 +56258,7 @@
 {"ent_seq":5056657,"r_ele":[{"reb":"ドクシアディス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Doxiadis"}]}]}
 {"ent_seq":5056658,"r_ele":[{"reb":"ドクシツィ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dokshitsy"}]}]}
 {"ent_seq":5056659,"r_ele":[{"reb":"ドクシツェル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dokshitser"}]}]}
-{"ent_seq":5056660,"r_ele":[{"reb":"ドクターペッパー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Dr Pepper"}]}]}
+{"ent_seq":5056660,"r_ele":[{"reb":"ドクターペッパー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Dr Pepper"}]}]}
 {"ent_seq":5056661,"r_ele":[{"reb":"ドクチャーエフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dokuchaev"}]}]}
 {"ent_seq":5056662,"r_ele":[{"reb":"ドクトロー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Doctorow"}]}]}
 {"ent_seq":5056663,"k_ele":[{"keb":"ドクミズノ沢"}],"r_ele":[{"reb":"ドクミズノさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dokumizunosawa"}]}]}
@@ -83332,7 +83332,7 @@
 {"ent_seq":5083880,"r_ele":[{"reb":"ミリン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Millin"}]}]}
 {"ent_seq":5083881,"r_ele":[{"reb":"ミリング"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Miling"}]}]}
 {"ent_seq":5083882,"r_ele":[{"reb":"ミリンコビチ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Milinkovic"}]}]}
-{"ent_seq":5083883,"r_ele":[{"reb":"ミリンダ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Milinda"}]}]}
+{"ent_seq":5083883,"r_ele":[{"reb":"ミリンダ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Mirinda"}]}]}
 {"ent_seq":5083884,"r_ele":[{"reb":"ミリントン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Millington"}]}]}
 {"ent_seq":5083885,"k_ele":[{"keb":"ミリン湖"}],"r_ele":[{"reb":"ミリンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lagoa Mirim"}]}]}
 {"ent_seq":5083886,"r_ele":[{"reb":"ミル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mil"},{"value":"Mill"},{"value":"Mille"}]},{"name_type":["&fem;"],"trans_det":[{"value":"Miru"}]}]}

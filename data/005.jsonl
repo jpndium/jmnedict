@@ -56571,7 +56571,7 @@
 {"ent_seq":5458332,"k_ele":[{"keb":"説美"}],"r_ele":[{"reb":"せつみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Setsumi"}]}]}
 {"ent_seq":5458333,"k_ele":[{"keb":"説夫"}],"r_ele":[{"reb":"せつお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Setsuo"}]}]}
 {"ent_seq":5458334,"k_ele":[{"keb":"説文"}],"r_ele":[{"reb":"のりふみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Norifumi"}]}]}
-{"ent_seq":5458335,"k_ele":[{"keb":"説文解字"}],"r_ele":[{"reb":"せつもんかいじ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Shuowen Jiezi (first comprehensive dictionary of Chinese characters; 121 CE)"}]}]}
+{"ent_seq":5458335,"k_ele":[{"keb":"説文解字"}],"r_ele":[{"reb":"せつもんかいじ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Shuowen Jiezi (first comprehensive dictionary of Chinese characters; 121 CE)"}]}]}
 {"ent_seq":5458336,"k_ele":[{"keb":"説未"}],"r_ele":[{"reb":"せつみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Setsumi"}]}]}
 {"ent_seq":5458337,"k_ele":[{"keb":"説巳"}],"r_ele":[{"reb":"せつみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Setsumi"}]}]}
 {"ent_seq":5458338,"k_ele":[{"keb":"説冶"}],"r_ele":[{"reb":"せつや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Setsuya"}]}]}
