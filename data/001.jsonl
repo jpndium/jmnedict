@@ -32987,7 +32987,7 @@
 {"ent_seq":5033205,"r_ele":[{"reb":"コルドー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cordoue"}]}]}
 {"ent_seq":5033206,"r_ele":[{"reb":"コルドゥス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cordus"}]}]}
 {"ent_seq":5033207,"r_ele":[{"reb":"コルドウェル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Caldwell"}]}]}
-{"ent_seq":5033208,"r_ele":[{"reb":"コルドバ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cordoba (Colombia)"}]}]}
+{"ent_seq":5033208,"r_ele":[{"reb":"コルドバ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Córdoba (Argentina)"}]},{"name_type":["&place;"],"trans_det":[{"value":"Córdoba (Spain)"},{"value":"Cordova"}]}]}
 {"ent_seq":5033209,"r_ele":[{"reb":"コルドバリバス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cordova Rivas"}]}]}
 {"ent_seq":5033210,"k_ele":[{"keb":"コルドバ山脈"}],"r_ele":[{"reb":"コルドバさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sierra de Cordoba"}]}]}
 {"ent_seq":5033211,"r_ele":[{"reb":"コルドファン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kordofan (Sudan)"}]}]}
@@ -55148,7 +55148,7 @@
 {"ent_seq":5055543,"k_ele":[{"keb":"トランブラン山"}],"r_ele":[{"reb":"トランブランさん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tremblant (mountain)"}]}]}
 {"ent_seq":5055544,"r_ele":[{"reb":"トランブル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Trumble"},{"value":"Trumbull"}]}]}
 {"ent_seq":5055545,"r_ele":[{"reb":"トランブレ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tremblay"}]}]}
-{"ent_seq":5055546,"r_ele":[{"reb":"トランプ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Trump"}]},{"name_type":["&person;"],"trans_det":[{"value":"Trump, Donald (1946.6.14-; American businessman and politician)"}]}]}
+{"ent_seq":5055546,"r_ele":[{"reb":"トランプ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Trump"}]},{"name_type":["&person;"],"trans_det":[{"value":"Trump, Donald (1946.6.14-; US president)"}]}]}
 {"ent_seq":5055547,"r_ele":[{"reb":"トランプラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Trampler"}]}]}
 {"ent_seq":5055548,"r_ele":[{"reb":"トランボ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Trumbo"}]}]}
 {"ent_seq":5055549,"r_ele":[{"reb":"トランボー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Trumbo"}]}]}
@@ -55340,7 +55340,6 @@
 {"ent_seq":5055737,"r_ele":[{"reb":"トルクアト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Torcuato"}]}]}
 {"ent_seq":5055738,"r_ele":[{"reb":"トルクノフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tolkunov"}]}]}
 {"ent_seq":5055739,"r_ele":[{"reb":"トルクメニスタン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Turkmenistan"}]}]}
-{"ent_seq":5055740,"r_ele":[{"reb":"トルクメン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Turkmen people"}]}]}
 {"ent_seq":5055741,"r_ele":[{"reb":"トルクメンカラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Turkmen-Kala"}]}]}
 {"ent_seq":5055742,"r_ele":[{"reb":"トルグト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Turgut"}]}]}
 {"ent_seq":5055743,"r_ele":[{"reb":"トルケマダ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Torquemada"}]}]}
@@ -90082,7 +90081,6 @@
 {"ent_seq":5090667,"r_ele":[{"reb":"リーバーヒューム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Leverhulme"}]}]}
 {"ent_seq":5090668,"r_ele":[{"reb":"リーバーマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lieberman"}]}]}
 {"ent_seq":5090669,"r_ele":[{"reb":"リーバイス"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Levi's"}]}]}
-{"ent_seq":5090670,"r_ele":[{"reb":"リーバイズ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Levi's"}]}]}
 {"ent_seq":5090671,"r_ele":[{"reb":"リーバス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rivas"}]}]}
 {"ent_seq":5090672,"r_ele":[{"reb":"リーバン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lieban"}]}]}
 {"ent_seq":5090673,"r_ele":[{"reb":"リーパー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Leaper"}]}]}
@@ -90179,8 +90177,6 @@
 {"ent_seq":5090764,"k_ele":[{"keb":"リーン湖"}],"r_ele":[{"reb":"リーンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rhinner See (lake)"}]}]}
 {"ent_seq":5090765,"r_ele":[{"reb":"リーヴ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Reeve"},{"value":"Liev"}]}]}
 {"ent_seq":5090766,"r_ele":[{"reb":"リーヴァイ"},{"reb":"リヴァイ"}],"trans":[{"name_type":["&masc;","&surname;"],"trans_det":[{"value":"Levi"}]}]}
-{"ent_seq":5090767,"r_ele":[{"reb":"リーヴァイス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Levi's"}]}]}
-{"ent_seq":5090768,"r_ele":[{"reb":"リーヴァイズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Levi's"}]}]}
 {"ent_seq":5090769,"r_ele":[{"reb":"リーヴィー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ri-bi"},{"value":"Ri-vi-"}]}]}
 {"ent_seq":5090770,"r_ele":[{"reb":"リーヴィス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Reevis"}]}]}
 {"ent_seq":5090771,"r_ele":[{"reb":"リーヴィット"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Leavitt"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5100635,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あはら"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Ahara"}]}]}
 {"ent_seq":5100636,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あばら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Abara"}]}]}
 {"ent_seq":5100637,"k_ele":[{"keb":"阿原"}],"r_ele":[{"reb":"あわら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awara"}]}]}
+{"ent_seq":5100638,"k_ele":[{"keb":"阿原口"}],"r_ele":[{"reb":"あわらぐち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awaraguchi"}]}]}
+{"ent_seq":5100639,"k_ele":[{"keb":"阿原山"}],"r_ele":[{"reb":"あばらやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Abarayama"}]}]}
+{"ent_seq":5100640,"k_ele":[{"keb":"阿原山牧場"}],"r_ele":[{"reb":"あばらやまぼくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarayamabokujō"}]}]}
+{"ent_seq":5100641,"k_ele":[{"keb":"阿原池"}],"r_ele":[{"reb":"あばらいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaraike"}]}]}

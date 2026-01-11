@@ -1,7 +1,3 @@
-{"ent_seq":5100638,"k_ele":[{"keb":"阿原口"}],"r_ele":[{"reb":"あわらぐち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awaraguchi"}]}]}
-{"ent_seq":5100639,"k_ele":[{"keb":"阿原山"}],"r_ele":[{"reb":"あばらやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Abarayama"}]}]}
-{"ent_seq":5100640,"k_ele":[{"keb":"阿原山牧場"}],"r_ele":[{"reb":"あばらやまぼくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarayamabokujō"}]}]}
-{"ent_seq":5100641,"k_ele":[{"keb":"阿原池"}],"r_ele":[{"reb":"あばらいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaraike"}]}]}
 {"ent_seq":5100642,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あはらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aharachō"}]}]}
 {"ent_seq":5100643,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あわらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarachō"}]}]}
 {"ent_seq":5100644,"k_ele":[{"keb":"阿原田"}],"r_ele":[{"reb":"あわらだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarada"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5200951,"k_ele":[{"keb":"季夏子"}],"r_ele":[{"reb":"きかこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kikako"}]}]}
 {"ent_seq":5200952,"k_ele":[{"keb":"季果"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kika"}]}]}
 {"ent_seq":5200953,"k_ele":[{"keb":"季果"}],"r_ele":[{"reb":"としか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Toshika"}]}]}
+{"ent_seq":5200954,"k_ele":[{"keb":"季歌"}],"r_ele":[{"reb":"きか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kika"}]}]}
+{"ent_seq":5200955,"k_ele":[{"keb":"季歌"}],"r_ele":[{"reb":"としか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshika"}]}]}
+{"ent_seq":5200956,"k_ele":[{"keb":"季花"}],"r_ele":[{"reb":"のりか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Norika"}]}]}
+{"ent_seq":5200957,"k_ele":[{"keb":"季華"}],"r_ele":[{"reb":"すえか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sueka"}]}]}

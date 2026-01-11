@@ -1,7 +1,3 @@
-{"ent_seq":5301307,"k_ele":[{"keb":"佐藤充"}],"r_ele":[{"reb":"さとうみつる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Mitsuru"}]}]}
-{"ent_seq":5301308,"k_ele":[{"keb":"佐藤充宏"}],"r_ele":[{"reb":"さとうみつひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Mitsuhiro"}]}]}
-{"ent_seq":5301309,"k_ele":[{"keb":"佐藤淑子"}],"r_ele":[{"reb":"さとうよしこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Yoshiko"}]}]}
-{"ent_seq":5301310,"k_ele":[{"keb":"佐藤俊一"}],"r_ele":[{"reb":"さとうしゅんいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shun'ichi (1941-)"}]}]}
 {"ent_seq":5301311,"k_ele":[{"keb":"佐藤俊樹"}],"r_ele":[{"reb":"さとうとしき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Toshiki"}]}]}
 {"ent_seq":5301312,"k_ele":[{"keb":"佐藤春男"}],"r_ele":[{"reb":"さとうはるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruo (1892-1964)"}]}]}
 {"ent_seq":5301313,"k_ele":[{"keb":"佐藤春夫"}],"r_ele":[{"reb":"さとうはるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruo (1892.4.9-1964.5.6)"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5401566,"k_ele":[{"keb":"情報処理推進機構"}],"r_ele":[{"reb":"じょうほうしょりすいしんきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Information-technology Promotion Agency"}]}]}
 {"ent_seq":5401567,"k_ele":[{"keb":"情報処理相互運用技術協会"}],"r_ele":[{"reb":"じょうほうしょりそうごうんようぎじゅつきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Interoperability Technology Association for Information Processing, Japan"}]}]}
 {"ent_seq":5401568,"k_ele":[{"keb":"情報図書館"}],"r_ele":[{"reb":"じょうほうとしょかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jōhoutoshokan"}]}]}
+{"ent_seq":5401569,"k_ele":[{"keb":"情報知識学会"}],"r_ele":[{"reb":"じょうほうちしきがっかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Society of Information and Knowledge"},{"value":"JSIK"}]}]}
+{"ent_seq":5401570,"k_ele":[{"keb":"情報通信政策研究所"}],"r_ele":[{"reb":"じょうほうつうしんせいさくけんきゅうじょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute for Information and Communications Policy"},{"value":"IICP"}]}]}
+{"ent_seq":5401571,"k_ele":[{"keb":"情報文化学会"}],"r_ele":[{"reb":"じょうほうぶんかがっかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Information-Culture Society"}]}]}
+{"ent_seq":5401572,"k_ele":[{"keb":"情報本部"}],"r_ele":[{"reb":"じょうほうほんぶ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Defense Intelligence Headquarters"}]}]}

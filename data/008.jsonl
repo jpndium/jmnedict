@@ -1,7 +1,3 @@
-{"ent_seq":5702757,"k_ele":[{"keb":"隆史"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}
-{"ent_seq":5702758,"k_ele":[{"keb":"隆嗣"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
-{"ent_seq":5702759,"k_ele":[{"keb":"隆嗣"}],"r_ele":[{"reb":"たかつぐ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatsugu"}]}]}
-{"ent_seq":5702760,"k_ele":[{"keb":"隆嗣"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūji"}]}]}
 {"ent_seq":5702761,"k_ele":[{"keb":"隆四郎"}],"r_ele":[{"reb":"たかしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashirou"}]}]}
 {"ent_seq":5702762,"k_ele":[{"keb":"隆士"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702763,"k_ele":[{"keb":"隆士"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
@@ -43138,4 +43134,7 @@
 {"ent_seq":5747504,"r_ele":[{"reb":"マウンテンデュー"},{"reb":"マウンテン・デュー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Mountain Dew"}]}]}
 {"ent_seq":5747505,"k_ele":[{"keb":"国立印刷局"}],"r_ele":[{"reb":"こくりついんさつきょく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Printing Bureau"}]}]}
 {"ent_seq":5747506,"k_ele":[{"keb":"玉篇"}],"r_ele":[{"reb":"ぎょくへん"},{"reb":"ごくへん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Yupian (ancient dictionary of Chinese characters; 543 CE)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-04"}]}]}
+{"ent_seq":5747507,"r_ele":[{"reb":"マドゥロ"},{"reb":"マドゥーロ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Maduro"}]},{"name_type":["&person;"],"trans_det":[{"value":"Maduro, Nicolás (1962.11.23; Venezuelan president)"}]}]}
+{"ent_seq":5747508,"k_ele":[{"keb":"進歩同盟"}],"r_ele":[{"reb":"しんぽどうめい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Progressive Alliance"},{"value":"PA"}]}]}
+{"ent_seq":5747509,"r_ele":[{"reb":"ローヤルクラウンコーラ"},{"reb":"ローヤルクラウン・コーラ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Royal Crown Cola"},{"value":"RC Cola"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-11"}]}]}
