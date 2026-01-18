@@ -92982,7 +92982,7 @@
 {"ent_seq":5294260,"k_ele":[{"keb":"国共"}],"r_ele":[{"reb":"くにとも"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kunitomo"}]}]}
 {"ent_seq":5294261,"k_ele":[{"keb":"国卿"}],"r_ele":[{"reb":"こくけい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kokukei"}]}]}
 {"ent_seq":5294262,"k_ele":[{"keb":"国境"}],"r_ele":[{"reb":"くにざかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kunizakai"}]}]}
-{"ent_seq":5294263,"k_ele":[{"keb":"国境なき医師団"}],"r_ele":[{"reb":"こっきょうなきいしだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Medecins Sans Frontieres (MSF)"}]}]}
+{"ent_seq":5294263,"k_ele":[{"keb":"国境なき医師団"}],"r_ele":[{"reb":"こっきょうなきいしだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Médecins Sans Frontières"},{"value":"MSF"},{"value":"Doctors Without Borders"}]}]}
 {"ent_seq":5294264,"k_ele":[{"keb":"国境山"}],"r_ele":[{"reb":"こっきょうやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kokkyōyama"}]}]}
 {"ent_seq":5294265,"k_ele":[{"keb":"国境峠"}],"r_ele":[{"reb":"くにざかいとうげ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kunizakaitōge"}]}]}
 {"ent_seq":5294266,"k_ele":[{"keb":"国境平"}],"r_ele":[{"reb":"こっきょうだいら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kokkyōdaira"}]}]}

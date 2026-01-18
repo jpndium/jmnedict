@@ -43137,4 +43137,12 @@
 {"ent_seq":5747507,"r_ele":[{"reb":"マドゥロ"},{"reb":"マドゥーロ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Maduro"}]},{"name_type":["&person;"],"trans_det":[{"value":"Maduro, Nicolás (1962.11.23; Venezuelan president)"}]}]}
 {"ent_seq":5747508,"k_ele":[{"keb":"進歩同盟"}],"r_ele":[{"reb":"しんぽどうめい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Progressive Alliance"},{"value":"PA"}]}]}
 {"ent_seq":5747509,"r_ele":[{"reb":"ローヤルクラウンコーラ"},{"reb":"ローヤルクラウン・コーラ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Royal Crown Cola"},{"value":"RC Cola"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-11"}]}]}
+{"ent_seq":5747510,"r_ele":[{"reb":"プリンキピア","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Principia (1687 book by Isaac Newton)"},{"value":"Philosophiae Naturalis Principia Mathematica"}]}]}
+{"ent_seq":5747511,"k_ele":[{"keb":"カテゴリー論"}],"r_ele":[{"reb":"カテゴリーろん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Categories (treatise by Aristotle)"}]}]}
+{"ent_seq":5747513,"k_ele":[{"keb":"袋"}],"r_ele":[{"reb":"ブクロ"},{"reb":"ぶくろ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ikebukuro (abbr)"}]}]}
+{"ent_seq":5747514,"r_ele":[{"reb":"イスカリオテのユダ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Judas Iscariot"}]}]}
+{"ent_seq":5747515,"k_ele":[{"keb":"東京税関"}],"r_ele":[{"reb":"とうきょうぜいかん"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo Customs"}]}]}
+{"ent_seq":5747516,"k_ele":[{"keb":"ニコライ堂"}],"r_ele":[{"reb":"ニコライどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Holy Resurrection Cathedral (in Chiyoda, Tokyo)"}]}]}
+{"ent_seq":5747517,"r_ele":[{"reb":"デイリーニュース"},{"reb":"デイリー・ニュース"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"The Daily News (newspaper)"}]}]}
+{"ent_seq":5747518,"r_ele":[{"reb":"カルケット","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Karuketto (nutritionally fortified cookie)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-18"}]}]}

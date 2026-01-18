@@ -38022,7 +38022,7 @@
 {"ent_seq":5038277,"r_ele":[{"reb":"シフュース"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Cepheus"}]}]}
 {"ent_seq":5038278,"r_ele":[{"reb":"シフラ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Cziffra"}]}]}
 {"ent_seq":5038279,"r_ele":[{"reb":"シフリン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Schifrin"}]}]}
-{"ent_seq":5038280,"r_ele":[{"reb":"シフル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shihr"}]}]}
+{"ent_seq":5038280,"r_ele":[{"reb":"シフル"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Sifr"}]}]}
 {"ent_seq":5038281,"r_ele":[{"reb":"シフレ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chiflet"}]}]}
 {"ent_seq":5038282,"r_ele":[{"reb":"シブ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sibu (Malaysia)"}]}]}
 {"ent_seq":5038283,"r_ele":[{"reb":"シブール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sibour"}]}]}
@@ -53727,7 +53727,7 @@
 {"ent_seq":5054100,"r_ele":[{"reb":"デュモンデュルヴィル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dumont d'Urville"}]}]}
 {"ent_seq":5054101,"r_ele":[{"reb":"デュラーノ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Durano"}]}]}
 {"ent_seq":5054102,"r_ele":[{"reb":"デュラス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Duras"}]}]}
-{"ent_seq":5054103,"r_ele":[{"reb":"デュラセル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Duracell"}]}]}
+{"ent_seq":5054103,"r_ele":[{"reb":"デュラセル"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Duracell"}]}]}
 {"ent_seq":5054104,"r_ele":[{"reb":"デュラック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dulac"}]}]}
 {"ent_seq":5054105,"r_ele":[{"reb":"デュラハン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dullahan"}]}]}
 {"ent_seq":5054106,"r_ele":[{"reb":"デュラフォア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dieulafoy"}]}]}

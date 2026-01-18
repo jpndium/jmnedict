@@ -14007,7 +14007,7 @@
 {"ent_seq":5315359,"k_ele":[{"keb":"三井之江"}],"r_ele":[{"reb":"みいのえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Miinoe"}]}]}
 {"ent_seq":5315360,"k_ele":[{"keb":"三井比佐子"}],"r_ele":[{"reb":"みついひさこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Mitsui Hisako (1963.12.20-)"}]}]}
 {"ent_seq":5315361,"k_ele":[{"keb":"三井病院"}],"r_ele":[{"reb":"みついびょういん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mitsui Hospital"}]}]}
-{"ent_seq":5315362,"k_ele":[{"keb":"三井物産"}],"r_ele":[{"reb":"みついぶっさん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Mitsui and Co."}]}]}
+{"ent_seq":5315362,"k_ele":[{"keb":"三井物産"}],"r_ele":[{"reb":"みついぶっさん","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Mitsui and Co."}]}]}
 {"ent_seq":5315363,"k_ele":[{"keb":"三井北"}],"r_ele":[{"reb":"みいきた"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Miikita"}]}]}
 {"ent_seq":5315364,"k_ele":[{"keb":"三井北町"}],"r_ele":[{"reb":"みいきたまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Miikitamachi"}]}]}
 {"ent_seq":5315365,"k_ele":[{"keb":"三井名"}],"r_ele":[{"reb":"みいな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Miina"}]}]}
