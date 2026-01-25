@@ -43139,10 +43139,22 @@
 {"ent_seq":5747509,"r_ele":[{"reb":"ローヤルクラウンコーラ"},{"reb":"ローヤルクラウン・コーラ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Royal Crown Cola"},{"value":"RC Cola"}]}]}
 {"ent_seq":5747510,"r_ele":[{"reb":"プリンキピア","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Principia (1687 book by Isaac Newton)"},{"value":"Philosophiae Naturalis Principia Mathematica"}]}]}
 {"ent_seq":5747511,"k_ele":[{"keb":"カテゴリー論"}],"r_ele":[{"reb":"カテゴリーろん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Categories (treatise by Aristotle)"}]}]}
+{"ent_seq":5747512,"r_ele":[{"reb":"カロナール"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Calonal (brand name for acetaminophen)"}]}]}
 {"ent_seq":5747513,"k_ele":[{"keb":"袋"}],"r_ele":[{"reb":"ブクロ"},{"reb":"ぶくろ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ikebukuro (abbr)"}]}]}
 {"ent_seq":5747514,"r_ele":[{"reb":"イスカリオテのユダ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Judas Iscariot"}]}]}
 {"ent_seq":5747515,"k_ele":[{"keb":"東京税関"}],"r_ele":[{"reb":"とうきょうぜいかん"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Tokyo Customs"}]}]}
 {"ent_seq":5747516,"k_ele":[{"keb":"ニコライ堂"}],"r_ele":[{"reb":"ニコライどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Holy Resurrection Cathedral (in Chiyoda, Tokyo)"}]}]}
 {"ent_seq":5747517,"r_ele":[{"reb":"デイリーニュース"},{"reb":"デイリー・ニュース"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"The Daily News (newspaper)"}]}]}
-{"ent_seq":5747518,"r_ele":[{"reb":"カルケット","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Karuketto (nutritionally fortified cookie)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-18"}]}]}
+{"ent_seq":5747518,"r_ele":[{"reb":"カルケット","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Karuketto (nutritionally fortified cookies produced by Ito Biscuits)"}]}]}
+{"ent_seq":5747520,"r_ele":[{"reb":"ワンカップ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"One Cup (cup sake)"}]}]}
+{"ent_seq":5747521,"k_ele":[{"keb":"幸善"}],"r_ele":[{"reb":"こうぜん"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kōzen"}]}]}
+{"ent_seq":5747522,"k_ele":[{"keb":"国際文化振興会"}],"r_ele":[{"reb":"こくさいぶんかしんこうかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Cultural Association (1934-1947)"}]}]}
+{"ent_seq":5747523,"k_ele":[{"keb":"尚拓"}],"r_ele":[{"reb":"なおたく"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Naotaku"}]}]}
+{"ent_seq":5747524,"k_ele":[{"keb":"波瑠杜"}],"r_ele":[{"reb":"はると"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Haruto"}]}]}
+{"ent_seq":5747525,"k_ele":[{"keb":"橙咲"}],"r_ele":[{"reb":"ゆずさ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yuzusa"}]}]}
+{"ent_seq":5747526,"k_ele":[{"keb":"紫暖"}],"r_ele":[{"reb":"しのん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shinon"}]}]}
+{"ent_seq":5747527,"k_ele":[{"keb":"米艦コール襲撃事件"}],"r_ele":[{"reb":"べいかんコールしゅうげきじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"USS Cole bombing (October 12, 2000)"}]}]}
+{"ent_seq":5747528,"k_ele":[{"keb":"コロンバイン高校銃乱射事件"}],"r_ele":[{"reb":"コロンバインこうこうじゅうらんしゃじけん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Columbine High School massacre (April 20, 1999)"}]}]}
+{"ent_seq":5747529,"k_ele":[{"keb":"附属池田小事件"}],"r_ele":[{"reb":"ふぞくいけだしょうじけん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Ikeda school massacre (June 8, 2001)"}]}]}
+{"ent_seq":5747530,"r_ele":[{"reb":"シーター"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Sita (Hindu goddess)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-25"}]}]}

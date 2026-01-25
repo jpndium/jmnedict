@@ -96690,7 +96690,7 @@
 {"ent_seq":5297985,"k_ele":[{"keb":"今朝晴"}],"r_ele":[{"reb":"けさはる"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kesaharu"}]}]}
 {"ent_seq":5297986,"k_ele":[{"keb":"今朝生"}],"r_ele":[{"reb":"けさお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kesao"}]}]}
 {"ent_seq":5297987,"k_ele":[{"keb":"今朝石"}],"r_ele":[{"reb":"けさいし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kesaishi"}]}]}
-{"ent_seq":5297988,"k_ele":[{"keb":"今朝蔵"}],"r_ele":[{"reb":"けさぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kesazou"}]}]}
+{"ent_seq":5297988,"k_ele":[{"keb":"今朝蔵"}],"r_ele":[{"reb":"けさぞう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kesazō"}]}]}
 {"ent_seq":5297989,"k_ele":[{"keb":"今朝造"}],"r_ele":[{"reb":"けさぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kesazou"}]}]}
 {"ent_seq":5297990,"k_ele":[{"keb":"今朝太"}],"r_ele":[{"reb":"けさた"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kesata"}]}]}
 {"ent_seq":5297991,"k_ele":[{"keb":"今朝太郎"}],"r_ele":[{"reb":"けさたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kesatarō"}]}]}
