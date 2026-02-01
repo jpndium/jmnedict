@@ -90892,7 +90892,7 @@
 {"ent_seq":5191813,"k_ele":[{"keb":"閑院宮兼仁親王"}],"r_ele":[{"reb":"かんいんのみやともひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kan'innomiya Tomohitoshinnou"}]}]}
 {"ent_seq":5191814,"k_ele":[{"keb":"閑院宮載仁親王"}],"r_ele":[{"reb":"かんいんのみやことひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kotohito, Prince Kan'in (1865.11.10-1945.5.20)"}]}]}
 {"ent_seq":5191815,"k_ele":[{"keb":"閑院宮春仁親王"}],"r_ele":[{"reb":"かんいんのみやはるひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kan'innomiya Haruhitoshinnou"}]}]}
-{"ent_seq":5191816,"k_ele":[{"keb":"閑院宮典仁親王"}],"r_ele":[{"reb":"かんいんのみやすけひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kan'innomiya Sukehitoshinnou"}]}]}
+{"ent_seq":5191816,"k_ele":[{"keb":"閑院宮典仁親王"}],"r_ele":[{"reb":"かんいんのみやすけひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sukehito, Prince Kan'in (1733-1794)"}]}]}
 {"ent_seq":5191817,"k_ele":[{"keb":"閑右衛門"}],"r_ele":[{"reb":"かんえもん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kan'emon"}]}]}
 {"ent_seq":5191818,"k_ele":[{"keb":"閑音"}],"r_ele":[{"reb":"かのん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kanon"}]}]}
 {"ent_seq":5191819,"k_ele":[{"keb":"閑音"}],"r_ele":[{"reb":"しずね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shizune"}]}]}

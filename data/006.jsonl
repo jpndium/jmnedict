@@ -64832,7 +64832,7 @@
 {"ent_seq":5567079,"k_ele":[{"keb":"特手"}],"r_ele":[{"reb":"こつて"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kotsute"}]}]}
 {"ent_seq":5567080,"k_ele":[{"keb":"特手"}],"r_ele":[{"reb":"とくて"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tokute"}]}]}
 {"ent_seq":5567081,"k_ele":[{"keb":"特手"}],"r_ele":[{"reb":"とくで"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tokude"}]}]}
-{"ent_seq":5567082,"k_ele":[{"keb":"特殊空挺部隊"}],"r_ele":[{"reb":"とくしゅくうていぶたい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Special Air Service (UK, Australia, etc.)"},{"value":"SAS"}]}]}
+{"ent_seq":5567082,"k_ele":[{"keb":"特殊空挺部隊"}],"r_ele":[{"reb":"とくしゅくうていぶたい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Special Air Service"},{"value":"SAS"}]}]}
 {"ent_seq":5567083,"k_ele":[{"keb":"特石法"}],"r_ele":[{"reb":"とくせきほう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokusekihou"}]}]}
 {"ent_seq":5567084,"k_ele":[{"keb":"特定健康保険組合"}],"r_ele":[{"reb":"とくていけんこうほけんくみあい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Specific insurance Society for the retired"}]}]}
 {"ent_seq":5567085,"k_ele":[{"keb":"特定船舶整備公団"}],"r_ele":[{"reb":"とくていせんぱくせいびこうだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Passenger Ship Corporation"}]}]}

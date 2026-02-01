@@ -43157,4 +43157,10 @@
 {"ent_seq":5747528,"k_ele":[{"keb":"コロンバイン高校銃乱射事件"}],"r_ele":[{"reb":"コロンバインこうこうじゅうらんしゃじけん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Columbine High School massacre (April 20, 1999)"}]}]}
 {"ent_seq":5747529,"k_ele":[{"keb":"附属池田小事件"}],"r_ele":[{"reb":"ふぞくいけだしょうじけん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Ikeda school massacre (June 8, 2001)"}]}]}
 {"ent_seq":5747530,"r_ele":[{"reb":"シーター"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Sita (Hindu goddess)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-01-25"}]}]}
+{"ent_seq":5747531,"k_ele":[{"keb":"飛空艇"}],"r_ele":[{"reb":"ひくうてい"}],"trans":[{"name_type":["&obj;","&fict;"],"trans_det":[{"value":"airship (in Final Fantasy)"}]}]}
+{"ent_seq":5747532,"k_ele":[{"keb":"大日本愛国党"}],"r_ele":[{"reb":"だいにっぽんあいこくとう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Greater Japan Patriotic Party"}]}]}
+{"ent_seq":5747533,"k_ele":[{"keb":"閑院宮美仁親王"}],"r_ele":[{"reb":"かんいんのみやはるひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Haruhito, Prince Kan'in (1758-1818)"}]}]}
+{"ent_seq":5747534,"k_ele":[{"keb":"ネットゴーストＰＩＰＯＰＡ"}],"r_ele":[{"reb":"ネットゴーストピポパ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Net Ghost PiPoPa (anime series)"}]}]}
+{"ent_seq":5747535,"r_ele":[{"reb":"ジョン・ディクスン・カー"},{"reb":"ジョンディクスンカー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"John Dickson Carr (1906-1977; American author of mystery novels)"}]}]}
+{"ent_seq":5747536,"r_ele":[{"reb":"アイプチ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"eye putti (eyelid glue brand)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-02-01"}]}]}

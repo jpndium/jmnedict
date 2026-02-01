@@ -88414,7 +88414,7 @@
 {"ent_seq":5289680,"k_ele":[{"keb":"高松岳"}],"r_ele":[{"reb":"たかまつだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takamatsudake"}]}]}
 {"ent_seq":5289681,"k_ele":[{"keb":"高松宮"}],"r_ele":[{"reb":"たかまつのみや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takamatsunomiya"}]}]}
 {"ent_seq":5289682,"k_ele":[{"keb":"高松宮宣仁"}],"r_ele":[{"reb":"たかまつのみやのぶひと"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takamatsunomiya Nobuhito (1905.1.3-1987.2.3)"}]}]}
-{"ent_seq":5289683,"k_ele":[{"keb":"高松宮宣仁親王"}],"r_ele":[{"reb":"たかまつのみやのぶひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takamatsunomiya Nobuhitoshinnou (Prince) (1905.1.3-1987.2.3)"}]}]}
+{"ent_seq":5289683,"k_ele":[{"keb":"高松宮宣仁親王"}],"r_ele":[{"reb":"たかまつのみやのぶひとしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nobuhito, Prince Takamatsu (1905.1.3-1987.2.3)"}]}]}
 {"ent_seq":5289684,"k_ele":[{"keb":"高松宮妃喜久子"}],"r_ele":[{"reb":"たかまつのみやひきくこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takamatsunomiyahi Kikuko (1911.12.26-2004.12.18)"}]}]}
 {"ent_seq":5289685,"k_ele":[{"keb":"高松橋"}],"r_ele":[{"reb":"たかまつばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takamatsubashi"}]}]}
 {"ent_seq":5289686,"k_ele":[{"keb":"高松錦之助"}],"r_ele":[{"reb":"たかまつきんのすけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takamatsu Kinnosuke"}]}]}
