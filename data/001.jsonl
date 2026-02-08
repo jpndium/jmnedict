@@ -63722,7 +63722,7 @@
 {"ent_seq":5064169,"r_ele":[{"reb":"パージェル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pargels"}]}]}
 {"ent_seq":5064170,"r_ele":[{"reb":"パージター"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Pargeter"}]}]}
 {"ent_seq":5064171,"r_ele":[{"reb":"パージュ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Page"}]}]}
-{"ent_seq":5064172,"r_ele":[{"reb":"パース"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Perth"},{"value":"Purce"}]}]}
+{"ent_seq":5064172,"r_ele":[{"reb":"パース"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Perth (Scotland, Australia, Canada, USA)"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Peirce"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Purce"}]}]}
 {"ent_seq":5064173,"r_ele":[{"reb":"パースアンボイ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Perth Amboy"}]}]}
 {"ent_seq":5064174,"r_ele":[{"reb":"パースィ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Parse"}]}]}
 {"ent_seq":5064175,"r_ele":[{"reb":"パースキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Persky"}]}]}

@@ -29833,7 +29833,7 @@
 {"ent_seq":5331250,"k_ele":[{"keb":"指柳"}],"r_ele":[{"reb":"さしやなぎ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sashiyanagi"}]}]}
 {"ent_seq":5331251,"k_ele":[{"keb":"指柳町"}],"r_ele":[{"reb":"さしやなぎちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sashiyanagichō"}]}]}
 {"ent_seq":5331252,"k_ele":[{"keb":"指輪"}],"r_ele":[{"reb":"さしわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sashiwa"}]}]}
-{"ent_seq":5331253,"k_ele":[{"keb":"指輪物語"}],"r_ele":[{"reb":"ゆびわものがたり","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Lord of the Rings (trilogy by J.R.R. Tolkien)"}]}]}
+{"ent_seq":5331253,"k_ele":[{"keb":"指輪物語"}],"r_ele":[{"reb":"ゆびわものがたり","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Lord of the Rings (novel by J.R.R. Tolkien)"}]}]}
 {"ent_seq":5331254,"k_ele":[{"keb":"指浪"}],"r_ele":[{"reb":"さしなみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sashinami"}]}]}
 {"ent_seq":5331255,"k_ele":[{"keb":"指籏"}],"r_ele":[{"reb":"さしはた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sashihata"}]}]}
 {"ent_seq":5331256,"k_ele":[{"keb":"支"}],"r_ele":[{"reb":"ささえ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sasae"}]}]}
