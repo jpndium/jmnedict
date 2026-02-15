@@ -1,7 +1,3 @@
-{"ent_seq":5702761,"k_ele":[{"keb":"隆四郎"}],"r_ele":[{"reb":"たかしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashirou"}]}]}
-{"ent_seq":5702762,"k_ele":[{"keb":"隆士"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
-{"ent_seq":5702763,"k_ele":[{"keb":"隆士"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
-{"ent_seq":5702764,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"たかこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takako"}]}]}
 {"ent_seq":5702765,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"りゅうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ryūko"}]}]}
 {"ent_seq":5702766,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"りゆうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Riyūko"}]}]}
 {"ent_seq":5702767,"k_ele":[{"keb":"隆子女王墓"}],"r_ele":[{"reb":"たかこじょおうのはか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takakojoounohaka"}]}]}
@@ -36874,7 +36870,7 @@
 {"ent_seq":5741023,"r_ele":[{"reb":"クイーンメリー","re_pri":{"spec":1}},{"reb":"クイーン・メリー"}],"trans":[{"name_type":["&ship;"],"trans_det":[{"value":"Queen Mary"}]}]}
 {"ent_seq":5741024,"r_ele":[{"reb":"クラリーノ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Clarino (brand-name synthetic leather)"}]}]}
 {"ent_seq":5741025,"r_ele":[{"reb":"クリプケ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kripke"}]}]}
-{"ent_seq":5741026,"r_ele":[{"reb":"クリボー","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Goomba (enemy in Mario games)"}]}]}
+{"ent_seq":5741026,"r_ele":[{"reb":"クリボー","re_pri":{"spec":1}}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Goomba (enemy in Mario games)"}]}]}
 {"ent_seq":5741027,"k_ele":[{"keb":"ＫＫＫ"}],"r_ele":[{"reb":"ケーケーケー","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Ku Klux Klan"},{"value":"KKK"}]}]}
 {"ent_seq":5741028,"r_ele":[{"reb":"クークラックスクラン","re_pri":{"spec":1}},{"reb":"クー・クラックス・クラン"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Ku Klux Klan"},{"value":"KKK"}]}]}
 {"ent_seq":5741029,"r_ele":[{"reb":"ゲンツェン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Gentzen"}]}]}
@@ -37257,8 +37253,7 @@
 {"ent_seq":5741444,"r_ele":[{"reb":"たまごっち","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Tamagotchi (handheld digital pet) (trademark)"}]}]}
 {"ent_seq":5741445,"r_ele":[{"reb":"ヴァンゼー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Wannsee (lake in Berlin)"}]}]}
 {"ent_seq":5741446,"r_ele":[{"reb":"メドヴェージェフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Medvedev"}]}]}
-{"ent_seq":5741447,"r_ele":[{"reb":"エヴゲニーオネーギン","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Eugene Onegin (novel by Pushkin, opera by Tchaikovsky)"}]}]}
-{"ent_seq":5741448,"r_ele":[{"reb":"エヴゲニー・オネーギン","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Eugene Onegin (novel by Pushkin, opera by Tchaikovsky)"}]}]}
+{"ent_seq":5741447,"r_ele":[{"reb":"エヴゲニーオネーギン","re_pri":{"spec":1}},{"reb":"エヴゲニー・オネーギン"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Eugene Onegin (novel by Pushkin, opera by Tchaikovsky)"}]}]}
 {"ent_seq":5741449,"r_ele":[{"reb":"チョープー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Teahupo'o (Tahiti)"}]}]}
 {"ent_seq":5741450,"r_ele":[{"reb":"オリコン","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Oricon"}]}]}
 {"ent_seq":5741451,"k_ele":[{"keb":"王立協会"}],"r_ele":[{"reb":"おうりつきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Royal Society"}]}]}
@@ -43165,4 +43160,11 @@
 {"ent_seq":5747537,"k_ele":[{"keb":"警視庁公安部"}],"r_ele":[{"reb":"けいしちょうこうあんぶ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Public Safety Bureau of the Tokyo Metropolitan Police Department"}]}]}
 {"ent_seq":5747538,"k_ele":[{"keb":"ホビット庄"}],"r_ele":[{"reb":"ホビットしょう"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"the Shire (in J.R.R. Tolkien's works)"}]}]}
 {"ent_seq":5747539,"r_ele":[{"reb":"ジェンスン・フアン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jensen Huang (1963.2.17; founder of NVIDIA)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-02-08"}]}]}
+{"ent_seq":5747540,"r_ele":[{"reb":"ヘグセス"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hegseth"}]}]}
+{"ent_seq":5747542,"k_ele":[{"keb":"唄菜"}],"r_ele":[{"reb":"うたな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Utana"}]}]}
+{"ent_seq":5747543,"r_ele":[{"reb":"ディートハルト"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Diethard"}]}]}
+{"ent_seq":5747544,"k_ele":[{"keb":"教皇選挙"}],"r_ele":[{"reb":"きょうこうせんきょ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Conclave (2024 film)"}]}]}
+{"ent_seq":5747545,"k_ele":[{"keb":"王塚"}],"r_ele":[{"reb":"おうづか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ouzuka"}]}]}
+{"ent_seq":5747546,"r_ele":[{"reb":"ニーズヘッグ"},{"reb":"ニーズホッグ"},{"reb":"ニドヘグ"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Nidhogg"}]}]}
+{"ent_seq":5747547,"r_ele":[{"reb":"ラグナロク"},{"reb":"ラグナレク"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Ragnarök"},{"value":"Ragnarok"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-02-15"}]}]}

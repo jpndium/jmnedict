@@ -1,7 +1,3 @@
-{"ent_seq":5301311,"k_ele":[{"keb":"佐藤俊樹"}],"r_ele":[{"reb":"さとうとしき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Toshiki"}]}]}
-{"ent_seq":5301312,"k_ele":[{"keb":"佐藤春男"}],"r_ele":[{"reb":"さとうはるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruo (1892-1964)"}]}]}
-{"ent_seq":5301313,"k_ele":[{"keb":"佐藤春夫"}],"r_ele":[{"reb":"さとうはるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruo (1892.4.9-1964.5.6)"}]}]}
-{"ent_seq":5301314,"k_ele":[{"keb":"佐藤準"}],"r_ele":[{"reb":"さとうじゅん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun (1955.3.7-)"}]}]}
 {"ent_seq":5301315,"k_ele":[{"keb":"佐藤純"}],"r_ele":[{"reb":"さとうじゅん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun (1977.12.9-)"}]}]}
 {"ent_seq":5301316,"k_ele":[{"keb":"佐藤純一"}],"r_ele":[{"reb":"さとうじゅんいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun'ichi (1948-)"}]}]}
 {"ent_seq":5301317,"k_ele":[{"keb":"佐藤純弥"}],"r_ele":[{"reb":"さとうじゅんや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun'ya (1932.11.6-)"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5401570,"k_ele":[{"keb":"情報通信政策研究所"}],"r_ele":[{"reb":"じょうほうつうしんせいさくけんきゅうじょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute for Information and Communications Policy"},{"value":"IICP"}]}]}
 {"ent_seq":5401571,"k_ele":[{"keb":"情報文化学会"}],"r_ele":[{"reb":"じょうほうぶんかがっかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Information-Culture Society"}]}]}
 {"ent_seq":5401572,"k_ele":[{"keb":"情報本部"}],"r_ele":[{"reb":"じょうほうほんぶ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Defense Intelligence Headquarters"}]}]}
+{"ent_seq":5401573,"k_ele":[{"keb":"情民"}],"r_ele":[{"reb":"じょんみん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jonmin"}]}]}
+{"ent_seq":5401574,"k_ele":[{"keb":"情野"}],"r_ele":[{"reb":"しょうの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Shouno"}]}]}
+{"ent_seq":5401575,"k_ele":[{"keb":"情野"}],"r_ele":[{"reb":"じょうの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōno"}]}]}
+{"ent_seq":5401576,"k_ele":[{"keb":"情野"}],"r_ele":[{"reb":"せいの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Seino"}]}]}

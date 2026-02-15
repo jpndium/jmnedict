@@ -1,7 +1,3 @@
-{"ent_seq":5100642,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あはらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aharachō"}]}]}
-{"ent_seq":5100643,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あわらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarachō"}]}]}
-{"ent_seq":5100644,"k_ele":[{"keb":"阿原田"}],"r_ele":[{"reb":"あわらだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarada"}]}]}
-{"ent_seq":5100645,"k_ele":[{"keb":"阿原峠"}],"r_ele":[{"reb":"あばらとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaratōge"}]}]}
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目"}],"r_ele":[{"reb":"あばらめ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarame"}]}]}
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古"}],"r_ele":[{"reb":"あこ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ako"}]}]}
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋"}],"r_ele":[{"reb":"あこや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akoya"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5200955,"k_ele":[{"keb":"季歌"}],"r_ele":[{"reb":"としか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshika"}]}]}
 {"ent_seq":5200956,"k_ele":[{"keb":"季花"}],"r_ele":[{"reb":"のりか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Norika"}]}]}
 {"ent_seq":5200957,"k_ele":[{"keb":"季華"}],"r_ele":[{"reb":"すえか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sueka"}]}]}
+{"ent_seq":5200958,"k_ele":[{"keb":"季介"}],"r_ele":[{"reb":"きすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kisuke"}]}]}
+{"ent_seq":5200959,"k_ele":[{"keb":"季海可"}],"r_ele":[{"reb":"きみか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kimika"}]}]}
+{"ent_seq":5200960,"k_ele":[{"keb":"季絵"}],"r_ele":[{"reb":"きえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kie"}]}]}
+{"ent_seq":5200961,"k_ele":[{"keb":"季絵子"}],"r_ele":[{"reb":"きえこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kieko"}]}]}

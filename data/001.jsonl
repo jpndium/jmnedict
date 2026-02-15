@@ -9201,7 +9201,7 @@
 {"ent_seq":5009238,"r_ele":[{"reb":"アシュビー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ashbee"},{"value":"Ashby"}]}]}
 {"ent_seq":5009239,"r_ele":[{"reb":"アシュビーデラズーシュ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ashby-de-la-Zouch"}]}]}
 {"ent_seq":5009240,"r_ele":[{"reb":"アシュビル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Asheville"}]}]}
-{"ent_seq":5009241,"r_ele":[{"reb":"アシュフォード"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ashford (UK)"}]}]}
+{"ent_seq":5009241,"r_ele":[{"reb":"アッシュフォード"},{"reb":"アシュフォード"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ashford (UK)"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Ashford"}]}]}
 {"ent_seq":5009242,"r_ele":[{"reb":"アシュベリー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ashbery"}]}]}
 {"ent_seq":5009243,"r_ele":[{"reb":"アシュボーン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ashbourne"}]}]}
 {"ent_seq":5009244,"r_ele":[{"reb":"アシュマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ashmun"}]}]}
@@ -90621,7 +90621,7 @@
 {"ent_seq":5091212,"r_ele":[{"reb":"リッチフィールド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Leitchfield"},{"value":"Lichfield (UK)"},{"value":"Litchfield"},{"value":"Richfield"}]}]}
 {"ent_seq":5091213,"r_ele":[{"reb":"リッチフォード"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Richiford"}]}]}
 {"ent_seq":5091214,"r_ele":[{"reb":"リッチマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Richman"}]}]}
-{"ent_seq":5091215,"r_ele":[{"reb":"リッチモンド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Richmond"}]}]}
+{"ent_seq":5091215,"r_ele":[{"reb":"リッチモンド"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Richmond"}]}]}
 {"ent_seq":5091216,"r_ele":[{"reb":"リッチモンドセンター"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Richimond Center"}]}]}
 {"ent_seq":5091217,"r_ele":[{"reb":"リッチモンドビーチ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Richimond Beach"}]}]}
 {"ent_seq":5091218,"k_ele":[{"keb":"リッチモンド公園"}],"r_ele":[{"reb":"リッチモンドこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Richmond Park"}]}]}
@@ -91685,9 +91685,8 @@
 {"ent_seq":5092283,"r_ele":[{"reb":"ルースタン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Roustang"}]}]}
 {"ent_seq":5092284,"r_ele":[{"reb":"ルースベン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ruthven"}]}]}
 {"ent_seq":5092285,"r_ele":[{"reb":"ルースラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ruseler"}]}]}
-{"ent_seq":5092286,"r_ele":[{"reb":"ルーズベルト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Roosevelt"}]}]}
+{"ent_seq":5092286,"r_ele":[{"reb":"ルーズベルト"},{"reb":"ルーズヴェルト"},{"reb":"ローズヴェルト"},{"reb":"ローズベルト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Roosevelt"}]}]}
 {"ent_seq":5092287,"r_ele":[{"reb":"ルーズベルトアイランド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Roosevelt Island"}]}]}
-{"ent_seq":5092288,"r_ele":[{"reb":"ルーズヴェルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Roosevelt"}]}]}
 {"ent_seq":5092289,"r_ele":[{"reb":"ルーセ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rousset"}]}]}
 {"ent_seq":5092290,"r_ele":[{"reb":"ルーセッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Luisetti"}]}]}
 {"ent_seq":5092291,"r_ele":[{"reb":"ルーセラーレ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Roeselare (Belgium)"}]}]}
@@ -94052,7 +94051,6 @@
 {"ent_seq":5094664,"r_ele":[{"reb":"ローズビル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Roseville"}]}]}
 {"ent_seq":5094665,"r_ele":[{"reb":"ローズベリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rosebery"}]}]}
 {"ent_seq":5094666,"r_ele":[{"reb":"ローズベリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rosebery (Australia)"}]}]}
-{"ent_seq":5094667,"r_ele":[{"reb":"ローズベルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Roosevelt"}]}]}
 {"ent_seq":5094668,"k_ele":[{"keb":"ローズベルト湖"}],"r_ele":[{"reb":"ローズベルトこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Roosevelt Lake"}]}]}
 {"ent_seq":5094669,"k_ele":[{"keb":"ローズベル川"}],"r_ele":[{"reb":"ローズベルがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rio Theodore Roosevelt"}]}]}
 {"ent_seq":5094670,"r_ele":[{"reb":"ローズボーム"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Roozeboom"}]}]}
@@ -94062,7 +94060,6 @@
 {"ent_seq":5094674,"r_ele":[{"reb":"ローズメリー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rosemary"}]}]}
 {"ent_seq":5094675,"r_ele":[{"reb":"ローズモント"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rosemont"}]}]}
 {"ent_seq":5094676,"r_ele":[{"reb":"ローズリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Loosli"}]}]}
-{"ent_seq":5094677,"r_ele":[{"reb":"ローズヴェルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Roosevelt"}]}]}
 {"ent_seq":5094678,"k_ele":[{"keb":"ローズヴェルトカンポベロ国際公園"}],"r_ele":[{"reb":"ローズヴェルトカンポベロこくさいこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Roosevelt Campobello International Park"}]}]}
 {"ent_seq":5094679,"r_ele":[{"reb":"ローセンダール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Roosendaal (The Netherlands)"}]}]}
 {"ent_seq":5094680,"r_ele":[{"reb":"ローセンダル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rosendal (South Africa)"}]}]}
@@ -94433,7 +94430,6 @@
 {"ent_seq":5095047,"r_ele":[{"reb":"ロウエナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rowena"}]}]}
 {"ent_seq":5095048,"r_ele":[{"reb":"ロウズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rhoades"},{"value":"Rhodes"}]}]}
 {"ent_seq":5095049,"r_ele":[{"reb":"ロウズナウ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rosenau"}]}]}
-{"ent_seq":5095050,"r_ele":[{"reb":"ロウズヴェルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Roosevelt"}]}]}
 {"ent_seq":5095051,"k_ele":[{"keb":"ロウソク岩"}],"r_ele":[{"reb":"ロウソクいわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rousokuiwa"}]}]}
 {"ent_seq":5095052,"r_ele":[{"reb":"ロウドン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rowdon"}]}]}
 {"ent_seq":5095053,"r_ele":[{"reb":"ロウニー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rowny"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5100639,"k_ele":[{"keb":"阿原山"}],"r_ele":[{"reb":"あばらやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Abarayama"}]}]}
 {"ent_seq":5100640,"k_ele":[{"keb":"阿原山牧場"}],"r_ele":[{"reb":"あばらやまぼくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarayamabokujō"}]}]}
 {"ent_seq":5100641,"k_ele":[{"keb":"阿原池"}],"r_ele":[{"reb":"あばらいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaraike"}]}]}
+{"ent_seq":5100642,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あはらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aharachō"}]}]}
+{"ent_seq":5100643,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あわらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarachō"}]}]}
+{"ent_seq":5100644,"k_ele":[{"keb":"阿原田"}],"r_ele":[{"reb":"あわらだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarada"}]}]}
+{"ent_seq":5100645,"k_ele":[{"keb":"阿原峠"}],"r_ele":[{"reb":"あばらとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaratōge"}]}]}
