@@ -1,8 +1,3 @@
-{"ent_seq":5602429,"k_ele":[{"keb":"番沢"}],"r_ele":[{"reb":"ばんさわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bansawa"}]}]}
-{"ent_seq":5602430,"k_ele":[{"keb":"番沢"}],"r_ele":[{"reb":"ばんざわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banzawa"}]}]}
-{"ent_seq":5602431,"k_ele":[{"keb":"番谷"}],"r_ele":[{"reb":"ばんや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ban'ya"}]}]}
-{"ent_seq":5602432,"k_ele":[{"keb":"番地"}],"r_ele":[{"reb":"ばんち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banchi"}]}]}
-{"ent_seq":5602433,"k_ele":[{"keb":"番中"}],"r_ele":[{"reb":"ばんなか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannaka"}]}]}
 {"ent_seq":5602434,"k_ele":[{"keb":"番酎"}],"r_ele":[{"reb":"ばんちゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchuu"}]}]}
 {"ent_seq":5602435,"k_ele":[{"keb":"番帳免"}],"r_ele":[{"reb":"ばんちょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchōmen"}]}]}
 {"ent_seq":5602436,"k_ele":[{"keb":"番町"}],"r_ele":[{"reb":"ばんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchō"}]}]}
@@ -43013,7 +43008,7 @@
 {"ent_seq":5645635,"k_ele":[{"keb":"北大西洋"}],"r_ele":[{"reb":"きたたいせいよう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitataiseiyou"}]}]}
 {"ent_seq":5645636,"k_ele":[{"keb":"北大西洋議会"}],"r_ele":[{"reb":"きたたいせいようぎかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"North Atlantic Assembly"}]}]}
 {"ent_seq":5645637,"k_ele":[{"keb":"北大西洋漁業機構"}],"r_ele":[{"reb":"きたたいせいようぎょぎょうきこう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"North Atlantic Fishery Organization"}]}]}
-{"ent_seq":5645638,"k_ele":[{"keb":"北大西洋条約機構"}],"r_ele":[{"reb":"きたたいせいようじょうやくきこう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"NATO"},{"value":"North Atlantic Treaty Organization (Organisation)"}]}]}
+{"ent_seq":5645638,"k_ele":[{"keb":"北大西洋条約機構"}],"r_ele":[{"reb":"きたたいせいようじょうやくきこう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"North Atlantic Treaty Organization"},{"value":"NATO"}]}]}
 {"ent_seq":5645639,"k_ele":[{"keb":"北大石田駅"}],"r_ele":[{"reb":"きたおおいしだえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kitaooishida Station"}]}]}
 {"ent_seq":5645640,"k_ele":[{"keb":"北大宅"}],"r_ele":[{"reb":"きたおおや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kitaooya"}]}]}
 {"ent_seq":5645641,"k_ele":[{"keb":"北大沢"}],"r_ele":[{"reb":"きたおおさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitaoosawa"}]}]}
@@ -66653,7 +66648,7 @@
 {"ent_seq":5669356,"k_ele":[{"keb":"木落"}],"r_ele":[{"reb":"きおと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kioto"}]}]}
 {"ent_seq":5669357,"k_ele":[{"keb":"木落"}],"r_ele":[{"reb":"きおとし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kiotoshi"}]}]}
 {"ent_seq":5669358,"k_ele":[{"keb":"木落牧場"}],"r_ele":[{"reb":"きおとしぼくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kiotoshibokujō"}]}]}
-{"ent_seq":5669359,"k_ele":[{"keb":"木蘭"}],"r_ele":[{"reb":"もくれん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mokuren"}]}]}
+{"ent_seq":5669359,"k_ele":[{"keb":"木蘭"}],"r_ele":[{"reb":"もくれん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hua Mulan (legendary Chinese folk heroine)"}]}]}
 {"ent_seq":5669360,"k_ele":[{"keb":"木利"}],"r_ele":[{"reb":"きとし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kitoshi"}]}]}
 {"ent_seq":5669361,"k_ele":[{"keb":"木利子"}],"r_ele":[{"reb":"きりこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiriko"}]}]}
 {"ent_seq":5669362,"k_ele":[{"keb":"木履"}],"r_ele":[{"reb":"きり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kiri"}]}]}
@@ -99998,3 +99993,8 @@
 {"ent_seq":5702762,"k_ele":[{"keb":"隆士"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702763,"k_ele":[{"keb":"隆士"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
 {"ent_seq":5702764,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"たかこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takako"}]}]}
+{"ent_seq":5702765,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"りゅうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ryūko"}]}]}
+{"ent_seq":5702766,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"りゆうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Riyūko"}]}]}
+{"ent_seq":5702767,"k_ele":[{"keb":"隆子女王墓"}],"r_ele":[{"reb":"たかこじょおうのはか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takakojoounohaka"}]}]}
+{"ent_seq":5702768,"k_ele":[{"keb":"隆市"}],"r_ele":[{"reb":"たかいち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaichi"}]}]}
+{"ent_seq":5702769,"k_ele":[{"keb":"隆市"}],"r_ele":[{"reb":"りゅういち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūichi"}]}]}

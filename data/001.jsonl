@@ -12805,7 +12805,7 @@
 {"ent_seq":5012897,"r_ele":[{"reb":"イスラデマイポ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Isla de Maipo"}]}]}
 {"ent_seq":5012898,"r_ele":[{"reb":"イスラマバード"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Islamabad (Pakistan)"}]}]}
 {"ent_seq":5012899,"r_ele":[{"reb":"イスラム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Islam"}]}]}
-{"ent_seq":5012900,"k_ele":[{"keb":"イスラム諸国会議機構"}],"r_ele":[{"reb":"イスラムしょこくかいぎきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Islamic Conference Organization (Organisation)"}]}]}
+{"ent_seq":5012900,"k_ele":[{"keb":"イスラム諸国会議機構"}],"r_ele":[{"reb":"イスラムしょこくかいぎきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organisation of the Islamic Conference"}]}]}
 {"ent_seq":5012901,"r_ele":[{"reb":"イスランディ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Islandi"}]}]}
 {"ent_seq":5012902,"r_ele":[{"reb":"イスラント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Island"}]}]}
 {"ent_seq":5012903,"r_ele":[{"reb":"イスリメ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jislime"}]}]}
@@ -18658,13 +18658,12 @@
 {"ent_seq":5018797,"r_ele":[{"reb":"オーステンデ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Oostende (Belgium)"}]}]}
 {"ent_seq":5018798,"r_ele":[{"reb":"オースト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Oost"}]}]}
 {"ent_seq":5018799,"r_ele":[{"reb":"オーストラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Oastler"}]}]}
-{"ent_seq":5018800,"r_ele":[{"reb":"オーストラリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australia"}]}]}
+{"ent_seq":5018800,"r_ele":[{"reb":"オーストラリア"},{"reb":"オーストラリヤ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australia"}]}]}
 {"ent_seq":5018801,"r_ele":[{"reb":"オーストラリアアルプス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australian Alps"}]}]}
 {"ent_seq":5018802,"r_ele":[{"reb":"オーストラリアンキャピタルテリトリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australian Capital Territory (Australia)"}]}]}
 {"ent_seq":5018803,"k_ele":[{"keb":"オーストラリア首相官邸"}],"r_ele":[{"reb":"オーストラリアしゅしょうかんてい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"official residence of the Prime Minister of Australia"},{"value":"The Lodge"}]}]}
 {"ent_seq":5018804,"k_ele":[{"keb":"オーストラリア首都特別地域"}],"r_ele":[{"reb":"オーストラリアしゅととくべつちいき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australian Capital Territory"},{"value":"ACT"}]}]}
 {"ent_seq":5018805,"k_ele":[{"keb":"オーストラリア連邦"}],"r_ele":[{"reb":"オーストラリアれんぽう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Commonwealth of Australia"}]}]}
-{"ent_seq":5018806,"r_ele":[{"reb":"オーストラリヤ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australia"}]}]}
 {"ent_seq":5018807,"r_ele":[{"reb":"オーストラル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Austral"}]}]}
 {"ent_seq":5018808,"r_ele":[{"reb":"オーストリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Austria (new kana form)"}]}]}
 {"ent_seq":5018809,"r_ele":[{"reb":"オーストリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Austria (old kana form)"}]}]}
@@ -38115,7 +38114,7 @@
 {"ent_seq":5038371,"k_ele":[{"keb":"シマロン川"}],"r_ele":[{"reb":"シマロンがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cimarron (river)"}]}]}
 {"ent_seq":5038372,"r_ele":[{"reb":"シマンカス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Simancas (Spain)"}]}]}
 {"ent_seq":5038373,"k_ele":[{"keb":"シマング川"}],"r_ele":[{"reb":"シマングがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chemung (river)"}]}]}
-{"ent_seq":5038374,"r_ele":[{"reb":"シマンテック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Symantec"}]}]}
+{"ent_seq":5038374,"r_ele":[{"reb":"シマンテック"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Symantec"}]}]}
 {"ent_seq":5038375,"r_ele":[{"reb":"シマント"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Simont"}]}]}
 {"ent_seq":5038376,"r_ele":[{"reb":"シマンドル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Simandl"}]}]}
 {"ent_seq":5038377,"k_ele":[{"keb":"シマン川"}],"r_ele":[{"reb":"シマンがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shimangawa"}]}]}
@@ -46905,7 +46904,7 @@
 {"ent_seq":5047234,"r_ele":[{"reb":"ソルトポンド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Saltpond"}]}]}
 {"ent_seq":5047235,"r_ele":[{"reb":"ソルトマーシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Saltmarsh"}]}]}
 {"ent_seq":5047236,"r_ele":[{"reb":"ソルトレークシティー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Salt Lake City"}]}]}
-{"ent_seq":5047237,"r_ele":[{"reb":"ソルトレイクシティ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Salt Lake City"}]}]}
+{"ent_seq":5047237,"r_ele":[{"reb":"ソルトレークシティ"},{"reb":"ソルトレイクシティ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Salt Lake City"}]}]}
 {"ent_seq":5047238,"k_ele":[{"keb":"ソルトン湖"}],"r_ele":[{"reb":"ソルトンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Salton Sea"}]}]}
 {"ent_seq":5047239,"k_ele":[{"keb":"ソルト川"}],"r_ele":[{"reb":"ソルトがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Salt (river)"}]}]}
 {"ent_seq":5047240,"r_ele":[{"reb":"ソルニック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Solnik"}]}]}
@@ -59489,7 +59488,7 @@
 {"ent_seq":5059910,"r_ele":[{"reb":"ノートヘルファー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Notehelfer"}]}]}
 {"ent_seq":5059911,"k_ele":[{"keb":"ノートルダム山脈"}],"r_ele":[{"reb":"ノートルダムさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Notre Dame Mountains"}]}]}
 {"ent_seq":5059912,"k_ele":[{"keb":"ノートルダム湾"}],"r_ele":[{"reb":"ノートルダムわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Notre Dame Bay"}]}]}
-{"ent_seq":5059913,"r_ele":[{"reb":"ノートン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Norton"}]}]}
+{"ent_seq":5059913,"r_ele":[{"reb":"ノートン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Norton"}]},{"name_type":["&product;"],"trans_det":[{"value":"Norton (software)"}]}]}
 {"ent_seq":5059914,"r_ele":[{"reb":"ノートンテイラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Norton-Taylor"}]}]}
 {"ent_seq":5059915,"k_ele":[{"keb":"ノートン湾"}],"r_ele":[{"reb":"ノートンわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Norton Sound"}]}]}
 {"ent_seq":5059916,"r_ele":[{"reb":"ノードストローム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nordstrom"}]}]}
@@ -70521,7 +70520,7 @@
 {"ent_seq":5070994,"r_ele":[{"reb":"フレース"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Fraisse"}]}]}
 {"ent_seq":5070995,"r_ele":[{"reb":"フレースワイク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vreeswijk"}]}]}
 {"ent_seq":5070996,"r_ele":[{"reb":"フレーゼ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Freese"},{"value":"Frese"}]}]}
-{"ent_seq":5070997,"r_ele":[{"reb":"フレータス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Freitas"}]}]}
+{"ent_seq":5070997,"r_ele":[{"reb":"フレータス"},{"reb":"フレイタス"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Freitas"}]}]}
 {"ent_seq":5070998,"r_ele":[{"reb":"フレータスブランコ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Freitas Branco"}]}]}
 {"ent_seq":5070999,"r_ele":[{"reb":"フレーチェット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Frechett"}]}]}
 {"ent_seq":5071000,"r_ele":[{"reb":"フレーディング"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Froding"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100643,"k_ele":[{"keb":"阿原町"}],"r_ele":[{"reb":"あわらちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarachō"}]}]}
 {"ent_seq":5100644,"k_ele":[{"keb":"阿原田"}],"r_ele":[{"reb":"あわらだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarada"}]}]}
 {"ent_seq":5100645,"k_ele":[{"keb":"阿原峠"}],"r_ele":[{"reb":"あばらとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaratōge"}]}]}
+{"ent_seq":5100646,"k_ele":[{"keb":"阿原目"}],"r_ele":[{"reb":"あばらめ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarame"}]}]}

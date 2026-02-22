@@ -1,4 +1,3 @@
-{"ent_seq":5200962,"k_ele":[{"keb":"季楽"}],"r_ele":[{"reb":"きらく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kiraku"}]}]}
 {"ent_seq":5200963,"k_ele":[{"keb":"季干"}],"r_ele":[{"reb":"りか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Rika"}]}]}
 {"ent_seq":5200964,"k_ele":[{"keb":"季喜"}],"r_ele":[{"reb":"すえき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sueki"}]}]}
 {"ent_seq":5200965,"k_ele":[{"keb":"季希"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
@@ -42401,7 +42400,7 @@
 {"ent_seq":5243533,"k_ele":[{"keb":"経済安定本部"}],"r_ele":[{"reb":"けいざいあんていほんぶ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Economic Stabilization Agency"},{"value":"Economic Stabilization Board"}]}]}
 {"ent_seq":5243534,"k_ele":[{"keb":"経済開発財団"}],"r_ele":[{"reb":"けいざいかいはつざいだん"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Economic Development Foundation"}]}]}
 {"ent_seq":5243535,"k_ele":[{"keb":"経済開発庁"}],"r_ele":[{"reb":"けいざいかいはつちょう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Economic and Development Authority"}]}]}
-{"ent_seq":5243536,"k_ele":[{"keb":"経済協力開発機構"}],"r_ele":[{"reb":"けいざいきょうりょくかいはつきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization for Economic Cooperation and Development (Organisation)"},{"value":"OECD"}]}]}
+{"ent_seq":5243536,"k_ele":[{"keb":"経済協力開発機構"}],"r_ele":[{"reb":"けいざいきょうりょくかいはつきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organisation for Economic Cooperation and Development"},{"value":"OECD"}]}]}
 {"ent_seq":5243537,"k_ele":[{"keb":"経済財政諮問会議"}],"r_ele":[{"reb":"けいざいざいせいしもんかいぎ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Council on Economic and Fiscal Policy"},{"value":"CEFP"}]}]}
 {"ent_seq":5243538,"k_ele":[{"keb":"経済産業省"}],"r_ele":[{"reb":"けいざいさんぎょうしょう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Ministry of Economy, Trade and Industry"}]}]}
 {"ent_seq":5243539,"k_ele":[{"keb":"経済社会開発庁"}],"r_ele":[{"reb":"けいざいしゃかいかいはつちょう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Economic and Social Development Board"}]}]}
@@ -92029,8 +92028,6 @@
 {"ent_seq":5293310,"k_ele":[{"keb":"濠"}],"r_ele":[{"reb":"ほり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hori"}]}]}
 {"ent_seq":5293311,"k_ele":[{"keb":"濠州"}],"r_ele":[{"reb":"ごうしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australia"}]}]}
 {"ent_seq":5293312,"k_ele":[{"keb":"濠晶"}],"r_ele":[{"reb":"ほりあきら"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hori Akira"}]}]}
-{"ent_seq":5293313,"k_ele":[{"keb":"濠太剌利"}],"r_ele":[{"reb":"おーすとらりあ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australia"}]}]}
-{"ent_seq":5293314,"k_ele":[{"keb":"濠太剌利"}],"r_ele":[{"reb":"おうすとらりあ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Australia"}]}]}
 {"ent_seq":5293315,"k_ele":[{"keb":"濠溪"}],"r_ele":[{"reb":"ごうけい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Goukei"}]}]}
 {"ent_seq":5293317,"k_ele":[{"keb":"豪"}],"r_ele":[{"reb":"ごう"}],"trans":[{"name_type":["&fem;","&masc;","&surname;"],"trans_det":[{"value":"Gō"}]}]}
 {"ent_seq":5293318,"k_ele":[{"keb":"豪"}],"r_ele":[{"reb":"ごうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gouji"}]}]}
@@ -93098,7 +93095,7 @@
 {"ent_seq":5294380,"k_ele":[{"keb":"国際ターミナル駅"}],"r_ele":[{"reb":"こくさいターミナルえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kokusai Terminal Station"}]}]}
 {"ent_seq":5294381,"k_ele":[{"keb":"国際ペンクラブ"}],"r_ele":[{"reb":"こくさいペンクラブ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International PEN (International Association of Poets, Playwrights, Editors, Essayists and Novelists)"}]}]}
 {"ent_seq":5294382,"k_ele":[{"keb":"国際亜鉛協会"}],"r_ele":[{"reb":"こくさいあえんきょうかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Zinc Association"},{"value":"IZA"}]}]}
-{"ent_seq":5294383,"k_ele":[{"keb":"国際移動通信衛星機構"}],"r_ele":[{"reb":"こくさいいどうつうしんえいせいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Mobile Satellite Organization"}]}]}
+{"ent_seq":5294383,"k_ele":[{"keb":"国際移動通信衛星機構"}],"r_ele":[{"reb":"こくさいいどうつうしんえいせいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Mobile Satellite Organization"},{"value":"IMSO"}]}]}
 {"ent_seq":5294384,"k_ele":[{"keb":"国際医療福祉大学"}],"r_ele":[{"reb":"こくさいいりょうふくしだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International University of Health and Welfare"}]}]}
 {"ent_seq":5294385,"k_ele":[{"keb":"国際一の瀬キャンプ場"}],"r_ele":[{"reb":"こくさいいちのせキャンプじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kokusaiichinose Camping Ground"}]}]}
 {"ent_seq":5294386,"k_ele":[{"keb":"国際宇宙航空学会"}],"r_ele":[{"reb":"こくさいうちゅうこうくうがっかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Academy of Astronautics"}]}]}
@@ -98136,9 +98133,7 @@
 {"ent_seq":5299436,"k_ele":[{"keb":"佐々辺"}],"r_ele":[{"reb":"ささべ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sasabe"}]}]}
 {"ent_seq":5299437,"k_ele":[{"keb":"佐々勉"}],"r_ele":[{"reb":"さっさつとむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sassa Tsutomu"}]}]}
 {"ent_seq":5299438,"k_ele":[{"keb":"佐々本"}],"r_ele":[{"reb":"ささもと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sasamoto"}]}]}
-{"ent_seq":5299439,"k_ele":[{"keb":"佐々木"}],"r_ele":[{"reb":"いしだ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ishida"}]}]}
 {"ent_seq":5299440,"k_ele":[{"keb":"佐々木"}],"r_ele":[{"reb":"ささき"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Sasaki"}]}]}
-{"ent_seq":5299441,"k_ele":[{"keb":"佐々木"}],"r_ele":[{"reb":"にいくら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Niikura"}]}]}
 {"ent_seq":5299442,"k_ele":[{"keb":"佐々木かをり"}],"r_ele":[{"reb":"ささきかをり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sasaki Kawori (Kaori) (1965-)"}]}]}
 {"ent_seq":5299443,"k_ele":[{"keb":"佐々木すぐる"}],"r_ele":[{"reb":"ささきすぐる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sasaki Suguru (1892.4.16-1966.1.13)"}]}]}
 {"ent_seq":5299444,"k_ele":[{"keb":"佐々木すみ江"}],"r_ele":[{"reb":"ささきすみえ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sasaki Sumie (1928.6.22-)"}]}]}
@@ -99998,3 +99993,8 @@
 {"ent_seq":5301312,"k_ele":[{"keb":"佐藤春男"}],"r_ele":[{"reb":"さとうはるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruo (1892-1964)"}]}]}
 {"ent_seq":5301313,"k_ele":[{"keb":"佐藤春夫"}],"r_ele":[{"reb":"さとうはるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Haruo (1892.4.9-1964.5.6)"}]}]}
 {"ent_seq":5301314,"k_ele":[{"keb":"佐藤準"}],"r_ele":[{"reb":"さとうじゅん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun (1955.3.7-)"}]}]}
+{"ent_seq":5301315,"k_ele":[{"keb":"佐藤純"}],"r_ele":[{"reb":"さとうじゅん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun (1977.12.9-)"}]}]}
+{"ent_seq":5301316,"k_ele":[{"keb":"佐藤純一"}],"r_ele":[{"reb":"さとうじゅんいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun'ichi (1948-)"}]}]}
+{"ent_seq":5301317,"k_ele":[{"keb":"佐藤純弥"}],"r_ele":[{"reb":"さとうじゅんや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun'ya (1932.11.6-)"}]}]}
+{"ent_seq":5301318,"k_ele":[{"keb":"佐藤順一"}],"r_ele":[{"reb":"さとうじゅんいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun'ichi (1960-)"}]}]}
+{"ent_seq":5301319,"k_ele":[{"keb":"佐藤順子"}],"r_ele":[{"reb":"さとうじゅんこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Junko"}]}]}

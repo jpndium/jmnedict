@@ -1,8 +1,3 @@
-{"ent_seq":5401577,"k_ele":[{"keb":"情野"}],"r_ele":[{"reb":"ぜいの"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zeino"}]}]}
-{"ent_seq":5401578,"k_ele":[{"keb":"情野"}],"r_ele":[{"reb":"なさけの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nasakeno"}]}]}
-{"ent_seq":5401579,"k_ele":[{"keb":"条"}],"r_ele":[{"reb":"えだ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Eda"}]}]}
-{"ent_seq":5401580,"k_ele":[{"keb":"条"}],"r_ele":[{"reb":"こえだ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Koeda"}]}]}
-{"ent_seq":5401581,"k_ele":[{"keb":"条"}],"r_ele":[{"reb":"じょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jō"}]}]}
 {"ent_seq":5401582,"k_ele":[{"keb":"条"}],"r_ele":[{"reb":"ながし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nagashi"}]}]}
 {"ent_seq":5401583,"k_ele":[{"keb":"条々"}],"r_ele":[{"reb":"じょうじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōjō"}]}]}
 {"ent_seq":5401584,"k_ele":[{"keb":"条井"}],"r_ele":[{"reb":"じょうい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōi"}]}]}
@@ -8092,7 +8087,7 @@
 {"ent_seq":5409700,"k_ele":[{"keb":"新和"}],"r_ele":[{"reb":"にいな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Niina"}]}]}
 {"ent_seq":5409701,"k_ele":[{"keb":"新和"}],"r_ele":[{"reb":"にいわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Niiwa"}]}]}
 {"ent_seq":5409702,"k_ele":[{"keb":"新和"}],"r_ele":[{"reb":"よしかず"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yoshikazu"}]}]}
-{"ent_seq":5409703,"k_ele":[{"keb":"新和英大辞典"}],"r_ele":[{"reb":"しんわえいだいじてん","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"New Japanese-English Dictionary (published by Kenkyusha; known colloquially as the Green Goddess )"}]}]}
+{"ent_seq":5409703,"k_ele":[{"keb":"新和英大辞典"}],"r_ele":[{"reb":"しんわえいだいじてん","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"New Japanese-English Dictionary (published by Kenkyusha; known colloquially as the Green Goddess)"}]}]}
 {"ent_seq":5409704,"k_ele":[{"keb":"新和歌浦"}],"r_ele":[{"reb":"しんわかうら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shinwakaura"}]}]}
 {"ent_seq":5409705,"k_ele":[{"keb":"新和男"}],"r_ele":[{"reb":"しんかずお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shin Kazuo"}]}]}
 {"ent_seq":5409706,"k_ele":[{"keb":"新和町"}],"r_ele":[{"reb":"しんわちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shinwachō"}]}]}
@@ -16966,7 +16961,7 @@
 {"ent_seq":5418606,"k_ele":[{"keb":"神葉"}],"r_ele":[{"reb":"かみは"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kamiha"}]}]}
 {"ent_seq":5418607,"k_ele":[{"keb":"神葉沢"}],"r_ele":[{"reb":"かんばさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kanbasawa"}]}]}
 {"ent_seq":5418608,"k_ele":[{"keb":"神葉沢"}],"r_ele":[{"reb":"かんばざわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kanbazawa"}]}]}
-{"ent_seq":5418609,"k_ele":[{"keb":"神羅"}],"r_ele":[{"reb":"しんら"}],"trans":[{"name_type":["&fict;"],"trans_det":[{"value":"Shinra (fictional corporation featured in the video game \"Final Fantasy VII\" and its derivatives)"}]}]}
+{"ent_seq":5418609,"k_ele":[{"keb":"神羅"}],"r_ele":[{"reb":"しんら","re_pri":{"spec":1}}],"trans":[{"name_type":["&fict;","&company;"],"trans_det":[{"value":"Shinra (corporation in the \"Final Fantasy VII\" franchise)"}]}]}
 {"ent_seq":5418610,"k_ele":[{"keb":"神来"}],"r_ele":[{"reb":"かみく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamiku"}]}]}
 {"ent_seq":5418611,"k_ele":[{"keb":"神来社"}],"r_ele":[{"reb":"からいと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Karaito"}]}]}
 {"ent_seq":5418612,"k_ele":[{"keb":"神来町"}],"r_ele":[{"reb":"かみくまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamikumachi"}]}]}
@@ -53671,7 +53666,7 @@
 {"ent_seq":5455432,"k_ele":[{"keb":"石油埠頭駅"}],"r_ele":[{"reb":"せきゆふとうえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Sekiyufutou Station"}]}]}
 {"ent_seq":5455433,"k_ele":[{"keb":"石油保険協会"}],"r_ele":[{"reb":"せきゆほけんきょうかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Oil Insurance Association"}]}]}
 {"ent_seq":5455434,"k_ele":[{"keb":"石油油槽所"}],"r_ele":[{"reb":"せきゆゆそうじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sekiyuyusoujo"}]}]}
-{"ent_seq":5455435,"k_ele":[{"keb":"石油輸出国機構"}],"r_ele":[{"reb":"せきゆゆしゅつこくきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization of Petroleum Exporting Countries (Organisation)"},{"value":"OPEC"}]}]}
+{"ent_seq":5455435,"k_ele":[{"keb":"石油輸出国機構"}],"r_ele":[{"reb":"せきゆゆしゅつこくきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization of Petroleum Exporting Countries"},{"value":"OPEC"}]}]}
 {"ent_seq":5455436,"k_ele":[{"keb":"石油連盟"}],"r_ele":[{"reb":"せきゆれんめい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Petroleum Association of Japan"},{"value":"PAJ"}]}]}
 {"ent_seq":5455437,"k_ele":[{"keb":"石友"}],"r_ele":[{"reb":"いしとも"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ishitomo"}]}]}
 {"ent_seq":5455438,"k_ele":[{"keb":"石有"}],"r_ele":[{"reb":"いしゆう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ishiyū"}]}]}
@@ -99998,3 +99993,8 @@
 {"ent_seq":5501958,"k_ele":[{"keb":"拓彦"}],"r_ele":[{"reb":"たくひこ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takuhiko"}]}]}
 {"ent_seq":5501959,"k_ele":[{"keb":"拓敏"}],"r_ele":[{"reb":"たくとし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takutoshi"}]}]}
 {"ent_seq":5501960,"k_ele":[{"keb":"拓夫"}],"r_ele":[{"reb":"たくお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuo"}]}]}
+{"ent_seq":5501961,"k_ele":[{"keb":"拓舞"}],"r_ele":[{"reb":"たくま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuma"}]}]}
+{"ent_seq":5501962,"k_ele":[{"keb":"拓文"}],"r_ele":[{"reb":"たくふみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takufumi"}]}]}
+{"ent_seq":5501963,"k_ele":[{"keb":"拓文"}],"r_ele":[{"reb":"ひろふみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hirofumi"}]}]}
+{"ent_seq":5501964,"k_ele":[{"keb":"拓文川"}],"r_ele":[{"reb":"たくぶんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takubungawa"}]}]}
+{"ent_seq":5501965,"k_ele":[{"keb":"拓平"}],"r_ele":[{"reb":"たくひら"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuhira"}]}]}

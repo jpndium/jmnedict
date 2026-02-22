@@ -1,8 +1,3 @@
-{"ent_seq":5702765,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"りゅうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ryūko"}]}]}
-{"ent_seq":5702766,"k_ele":[{"keb":"隆子"}],"r_ele":[{"reb":"りゆうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Riyūko"}]}]}
-{"ent_seq":5702767,"k_ele":[{"keb":"隆子女王墓"}],"r_ele":[{"reb":"たかこじょおうのはか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takakojoounohaka"}]}]}
-{"ent_seq":5702768,"k_ele":[{"keb":"隆市"}],"r_ele":[{"reb":"たかいち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaichi"}]}]}
-{"ent_seq":5702769,"k_ele":[{"keb":"隆市"}],"r_ele":[{"reb":"りゅういち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūichi"}]}]}
 {"ent_seq":5702770,"k_ele":[{"keb":"隆志"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&surname;","&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702771,"k_ele":[{"keb":"隆志"}],"r_ele":[{"reb":"たかゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takayuki"}]}]}
 {"ent_seq":5702772,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"たかしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashirou"}]}]}
@@ -36804,7 +36799,7 @@
 {"ent_seq":5740954,"k_ele":[{"keb":"ＮＨＫ"}],"r_ele":[{"reb":"エヌエイチケー","re_pri":{"spec":1}},{"reb":"エヌエッチケー"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Broadcasting Corporation"},{"value":"Nihon Hōsō Kyōkai"},{"value":"NHK"}]}]}
 {"ent_seq":5740955,"k_ele":[{"keb":"ＮＴＴ"}],"r_ele":[{"reb":"エヌティティ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Nippon Telegraph and Telephone Corporation"},{"value":"NTT"}]}]}
 {"ent_seq":5740956,"k_ele":[{"keb":"ＡＳＥＡＮ"}],"r_ele":[{"reb":"アセアン","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Association of Southeast Asian Nations"},{"value":"ASEAN"}]}]}
-{"ent_seq":5740957,"k_ele":[{"keb":"ＪＥＴＲＯ"}],"r_ele":[{"reb":"ジェトロ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese External Trade Organization (Organisation)"},{"value":"JETRO"}]}]}
+{"ent_seq":5740957,"k_ele":[{"keb":"ＪＥＴＲＯ"}],"r_ele":[{"reb":"ジェトロ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese External Trade Organization"},{"value":"JETRO"}]}]}
 {"ent_seq":5740959,"k_ele":[{"keb":"ＩＥＥＥ"}],"r_ele":[{"reb":"アイトリプルイー","re_pri":{"spec":1}},{"reb":"アイイーイーイー"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute of Electrical and Electronics Engineers"},{"value":"IEEE"}]}]}
 {"ent_seq":5740960,"k_ele":[{"keb":"米国規格協会"}],"r_ele":[{"reb":"べいこくきかくきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"American National Standards Institute"},{"value":"ANSI"}]}]}
 {"ent_seq":5740961,"r_ele":[{"reb":"ミシュラン","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Michelin (tyre manufacturer)"}]},{"name_type":["&product;"],"trans_det":[{"value":"Michelin Guide (rating hotels and restaurants)"}]}]}
@@ -36834,8 +36829,8 @@
 {"ent_seq":5740986,"r_ele":[{"reb":"インスタマチックカメラ","re_pri":{"spec":1}},{"reb":"インスタマチック・カメラ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Instamatic camera"}]}]}
 {"ent_seq":5740987,"k_ele":[{"keb":"インタファクス通信"}],"r_ele":[{"reb":"インタファクスつうしん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Interfax (Russian news agency)"}]}]}
 {"ent_seq":5740988,"r_ele":[{"reb":"インツーリスト","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Intourist"},{"value":"Inturist"}]}]}
-{"ent_seq":5740989,"r_ele":[{"reb":"インテルサット","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Intelsat"},{"value":"International Telecommunications Satellite Organization (Organisation)"}]}]}
-{"ent_seq":5740990,"r_ele":[{"reb":"インマルサット","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Maritime Satellite Organization (Organisation)"},{"value":"INMARSAT"}]}]}
+{"ent_seq":5740989,"r_ele":[{"reb":"インテルサット","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Intelsat"}]},{"name_type":["&organization;"],"trans_det":[{"value":"International Telecommunications Satellite Organization"}]}]}
+{"ent_seq":5740990,"r_ele":[{"reb":"インマルサット","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Inmarsat"}]},{"name_type":["&organization;"],"trans_det":[{"value":"International Maritime Satellite Organization"},{"value":"INMARSAT"}]}]}
 {"ent_seq":5740991,"r_ele":[{"reb":"ウエスティングハウス","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Westinghouse"}]}]}
 {"ent_seq":5740992,"r_ele":[{"reb":"ウオークマン","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Walkman (incorrect kana)"}]}]}
 {"ent_seq":5740993,"r_ele":[{"reb":"ウォークマン","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Walkman"}]}]}
@@ -36846,8 +36841,8 @@
 {"ent_seq":5740998,"r_ele":[{"reb":"エンパイア・ステート・ビル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Empire State Building"}]}]}
 {"ent_seq":5740999,"r_ele":[{"reb":"エンパイアステートビル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Empire State Building"}]}]}
 {"ent_seq":5741000,"r_ele":[{"reb":"エールフランス","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Air France"}]}]}
-{"ent_seq":5741001,"k_ele":[{"keb":"ＯＡＰＥＣ"}],"r_ele":[{"reb":"オアペック"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization of Arab Petroleum Exporting Countries (Organisation)"},{"value":"OAPEC"}]}]}
-{"ent_seq":5741002,"k_ele":[{"keb":"ＯＰＥＣ"}],"r_ele":[{"reb":"オペック","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization of Petroleum Exporting Countries (Organisation)"},{"value":"OPEC"}]}]}
+{"ent_seq":5741001,"k_ele":[{"keb":"ＯＡＰＥＣ"}],"r_ele":[{"reb":"オアペック"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization of Arab Petroleum Exporting Countries"},{"value":"OAPEC"}]}]}
+{"ent_seq":5741002,"k_ele":[{"keb":"ＯＰＥＣ"}],"r_ele":[{"reb":"オペック","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organization of Petroleum Exporting Countries"},{"value":"OPEC"}]}]}
 {"ent_seq":5741003,"r_ele":[{"reb":"オムロン","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Omron Corporation (Japanese electronics firm)"}]}]}
 {"ent_seq":5741004,"r_ele":[{"reb":"オリザニン","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Oryzanin (brand-name vitamin B1, extracted from rice)"}]}]}
 {"ent_seq":5741005,"r_ele":[{"reb":"カリコム","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Caribbean Community"},{"value":"CARICOM"}]}]}
@@ -43165,6 +43160,20 @@
 {"ent_seq":5747543,"r_ele":[{"reb":"ディートハルト"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Diethard"}]}]}
 {"ent_seq":5747544,"k_ele":[{"keb":"教皇選挙"}],"r_ele":[{"reb":"きょうこうせんきょ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Conclave (2024 film)"}]}]}
 {"ent_seq":5747545,"k_ele":[{"keb":"王塚"}],"r_ele":[{"reb":"おうづか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ouzuka"}]}]}
-{"ent_seq":5747546,"r_ele":[{"reb":"ニーズヘッグ"},{"reb":"ニーズホッグ"},{"reb":"ニドヘグ"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Nidhogg"}]}]}
-{"ent_seq":5747547,"r_ele":[{"reb":"ラグナロク"},{"reb":"ラグナレク"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Ragnarök"},{"value":"Ragnarok"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-02-15"}]}]}
+{"ent_seq":5747546,"r_ele":[{"reb":"ニーズヘッグ","re_pri":{"spec":1}},{"reb":"ニーズホッグ"},{"reb":"ニドヘグ"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Nidhogg"}]}]}
+{"ent_seq":5747547,"r_ele":[{"reb":"ラグナロク","re_pri":{"spec":1}},{"reb":"ラグナレク"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Ragnarök"},{"value":"Ragnarok"}]}]}
+{"ent_seq":5747548,"k_ele":[{"keb":"巫山"}],"r_ele":[{"reb":"ふざん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Wushan (China)"}]}]}
+{"ent_seq":5747549,"r_ele":[{"reb":"ラプア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lapua (Finland)"}]}]}
+{"ent_seq":5747550,"k_ele":[{"keb":"国際電気通信衛星機構"}],"r_ele":[{"reb":"こくさいでんきつうしんえいせいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"International Telecommunications Satellite Organization"},{"value":"ITSO"}]}]}
+{"ent_seq":5747551,"k_ele":[{"keb":"イスラム協力機構"}],"r_ele":[{"reb":"イスラムきょうりょくきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organisation of Islamic Cooperation"},{"value":"OIC"}]}]}
+{"ent_seq":5747552,"k_ele":[{"keb":"瞬獄殺"}],"r_ele":[{"reb":"しゅんごくさつ"}],"trans":[{"name_type":["&fict;"],"trans_det":[{"value":"Shun Goku Satsu (technique in the Street Fighter series)"},{"value":"Raging Demon"}]}]}
+{"ent_seq":5747553,"k_ele":[{"keb":"心椛"}],"r_ele":[{"reb":"ここも"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kokomo"}]}]}
+{"ent_seq":5747554,"k_ele":[{"keb":"ユーコン準州"}],"r_ele":[{"reb":"ユーコンじゅんしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yukon Territory (Canada)"}]}]}
+{"ent_seq":5747555,"k_ele":[{"keb":"燕太郎"}],"r_ele":[{"reb":"えんたろう"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Entaro (mascot of the baseball team Tokyo Yakult Swallows)"}]}]}
+{"ent_seq":5747556,"k_ele":[{"keb":"阿智太郎"}],"r_ele":[{"reb":"あちたろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Taro Achi (1978.10.3-; novelist and screenwriter)"}]}]}
+{"ent_seq":5747557,"k_ele":[{"keb":"黄信"}],"r_ele":[{"reb":"こうしん"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Huang Xin (character in the Chinese novel Water Margin)"}]}]}
+{"ent_seq":5747558,"k_ele":[{"keb":"井上トロ"}],"r_ele":[{"reb":"いのうえトロ"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Toro Inoue (feline character in the Doko Demo Issyo series)"}]}]}
+{"ent_seq":5747559,"r_ele":[{"reb":"キングストンテクノロジー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Kingston Technology"}]}]}
+{"ent_seq":5747560,"r_ele":[{"reb":"インプ","re_pri":{"spec":1}}],"trans":[{"name_type":["&myth;","&creat;"],"trans_det":[{"value":"imp (creature in European folklore)"}]}]}
+{"ent_seq":5747561,"k_ele":[{"keb":"妖蛆"}],"r_ele":[{"reb":"ようしゅ"},{"reb":"ようそ"}],"trans":[{"name_type":["&fict;","&creat;"],"trans_det":[{"value":"demonic maggot (esp. in Cthulhu mythology)"},{"value":"supernatural maggot"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-02-22"}]}]}
