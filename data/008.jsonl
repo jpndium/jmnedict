@@ -36705,7 +36705,7 @@
 {"ent_seq":5740860,"k_ele":[{"keb":"日本経営者団体連盟"}],"r_ele":[{"reb":"にほんけいえいしゃだんたいれんめい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Federation of Employers' Associations"}]}]}
 {"ent_seq":5740861,"k_ele":[{"keb":"日本規格協会"}],"r_ele":[{"reb":"にっぽんきかくきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Standards Association"},{"value":"JSA"}]}]}
 {"ent_seq":5740862,"k_ele":[{"keb":"日本道路公団"}],"r_ele":[{"reb":"にほんどうろこうだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Highway Public Corporation"},{"value":"JHPC"}]}]}
-{"ent_seq":5740863,"k_ele":[{"keb":"日本航空"}],"r_ele":[{"reb":"にっぽんこうくう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Japan Air Lines"},{"value":"JAL"}]}]}
+{"ent_seq":5740863,"k_ele":[{"keb":"日本航空"}],"r_ele":[{"reb":"にほんこうくう"},{"reb":"にっぽんこうくう"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Japan Air Lines"},{"value":"JAL"}]}]}
 {"ent_seq":5740864,"k_ele":[{"keb":"産環協"}],"r_ele":[{"reb":"さんかんきょう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Environmental Management Association for Industry (abbr)"},{"value":"JEMAI"}]}]}
 {"ent_seq":5740865,"k_ele":[{"keb":"産業環境管理協会"}],"r_ele":[{"reb":"さんぎょうかんきょうかんりきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Environmental Management Association for Industry"},{"value":"JEMAI"}]}]}
 {"ent_seq":5740866,"k_ele":[{"keb":"日本郵政株式会社"}],"r_ele":[{"reb":"にほんゆうせいかぶしきがいしゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Post Holdings Co. Ltd"}]}]}
@@ -43176,4 +43176,31 @@
 {"ent_seq":5747559,"r_ele":[{"reb":"キングストンテクノロジー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Kingston Technology"}]}]}
 {"ent_seq":5747560,"r_ele":[{"reb":"インプ","re_pri":{"spec":1}}],"trans":[{"name_type":["&myth;","&creat;"],"trans_det":[{"value":"imp (creature in European folklore)"}]}]}
 {"ent_seq":5747561,"k_ele":[{"keb":"妖蛆"}],"r_ele":[{"reb":"ようしゅ"},{"reb":"ようそ"}],"trans":[{"name_type":["&fict;","&creat;"],"trans_det":[{"value":"demonic maggot (esp. in Cthulhu mythology)"},{"value":"supernatural maggot"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-02-22"}]}]}
+{"ent_seq":5747562,"k_ele":[{"keb":"光慈"}],"r_ele":[{"reb":"みつちか"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Mitsuchika"}]}]}
+{"ent_seq":5747563,"k_ele":[{"keb":"光慈"}],"r_ele":[{"reb":"みつじ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Mitsuji"}]}]}
+{"ent_seq":5747564,"k_ele":[{"keb":"光慈"}],"r_ele":[{"reb":"こうじ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kōji"}]}]}
+{"ent_seq":5747565,"k_ele":[{"keb":"ＧＮＵ一般公衆ライセンス"},{"keb":"グヌー一般公衆ライセンス"}],"r_ele":[{"reb":"グヌーいっぱんこうしゅうライセンス","re_pri":{"spec":1}}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"GNU General Public License"}]}]}
+{"ent_seq":5747566,"k_ele":[{"keb":"湘南ベルマーレ"}],"r_ele":[{"reb":"しょうなんベルマーレ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Shonan Bellmare (professional football club based in Kanagawa)"}]}]}
+{"ent_seq":5747567,"k_ele":[{"keb":"鶴の恩返し"}],"r_ele":[{"reb":"つるのおんがえし"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Crane's Return of a Favor (folklore story)"},{"value":"Tsuru no Ongaeshi"}]}]}
+{"ent_seq":5747568,"k_ele":[{"keb":"ベッテルン湖"}],"r_ele":[{"reb":"ベッテルンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lake Vättern (Sweden)"}]}]}
+{"ent_seq":5747569,"r_ele":[{"reb":"サブウェイ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Subway (fast food chain)"}]}]}
+{"ent_seq":5747570,"r_ele":[{"reb":"リアルドール"}],"trans":[{"name_type":["&obj;"],"trans_det":[{"value":"Realdoll (American brand of life-size sex dolls)"}]}]}
+{"ent_seq":5747571,"k_ele":[{"keb":"アメリカ村"}],"r_ele":[{"reb":"アメリカむら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amerikamura (entertainment area in Shinsaibashi, Osaka)"}]}]}
+{"ent_seq":5747572,"k_ele":[{"keb":"アメ村"}],"r_ele":[{"reb":"アメむら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amerikamura (entertainment area in Shinsaibashi, Osaka) (abbr)"}]}]}
+{"ent_seq":5747573,"r_ele":[{"reb":"ベルトルト"},{"reb":"ベルトルド"}],"trans":[{"name_type":["&given;","&masc;"],"trans_det":[{"value":"Berthold"},{"value":"Bertoldo"},{"value":"Bertolt"}]}]}
+{"ent_seq":5747575,"r_ele":[{"reb":"エミリコ"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Emilico"}]}]}
+{"ent_seq":5747576,"k_ele":[{"keb":"高ボッチ"}],"r_ele":[{"reb":"たかボッチ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takabocchiyama (abbr)"}]}]}
+{"ent_seq":5747577,"k_ele":[{"keb":"三平三平"}],"r_ele":[{"reb":"みひらさんぺい"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Sanpei Mihira (protagonist of the manga Fisherman Sanpei)"}]}]}
+{"ent_seq":5747578,"k_ele":[{"keb":"姚明"}],"r_ele":[{"reb":"ヤオ・ミン"},{"reb":"ヤオミン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yao Ming (Chinese basketball player)"}]}]}
+{"ent_seq":5747579,"k_ele":[{"keb":"受水走水"}],"r_ele":[{"reb":"うきんじゅはいんじゅ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ukinju-Hainju"}]}]}
+{"ent_seq":5747580,"r_ele":[{"reb":"アンスロピック","re_pri":{"spec":1}},{"reb":"アンソロピック"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Anthropic"}]}]}
+{"ent_seq":5747581,"r_ele":[{"reb":"メンサ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Mensa"}]}]}
+{"ent_seq":5747582,"k_ele":[{"keb":"幽平"}],"r_ele":[{"reb":"ゆうへい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yūhei"}]}]}
+{"ent_seq":5747584,"r_ele":[{"reb":"サンドシェルト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sandshelt"}]}]}
+{"ent_seq":5747586,"r_ele":[{"reb":"カーミラ"}],"trans":[{"name_type":["&given;","&fem;"],"trans_det":[{"value":"Carmilla"}]}]}
+{"ent_seq":5747587,"k_ele":[{"keb":"予告殺人"}],"r_ele":[{"reb":"よこくさつじん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Murder is Announced (1950 mystery novel by Agatha Christie)"}]}]}
+{"ent_seq":5747589,"k_ele":[{"keb":"九瑠璃"}],"r_ele":[{"reb":"くるり"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kururi"}]}]}
+{"ent_seq":5747591,"r_ele":[{"reb":"ナンジャタウン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Namco Namja Town (theme park)"}]}]}
+{"ent_seq":5747595,"k_ele":[{"keb":"女子高生コンクリート詰め殺人事件"}],"r_ele":[{"reb":"じょしこうせいコンクリートづめさつじんじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Murder of Junko Furuta (1989)"},{"value":"concrete-encased high school girl murder case"}]}]}
+{"ent_seq":5747596,"k_ele":[{"keb":"阿部定事件"}],"r_ele":[{"reb":"あべさだじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Sada Abe incident (1936; geisha murders her lover and mutilates his genitals)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-01"}]}]}

@@ -39721,7 +39721,7 @@
 {"ent_seq":5541813,"k_ele":[{"keb":"伝田郷"}],"r_ele":[{"reb":"でんだごう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dendagou"}]}]}
 {"ent_seq":5541814,"k_ele":[{"keb":"伝田原"}],"r_ele":[{"reb":"でんだはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dendahara"}]}]}
 {"ent_seq":5541815,"k_ele":[{"keb":"伝刀"}],"r_ele":[{"reb":"でんどう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Dendou"}]}]}
-{"ent_seq":5541816,"k_ele":[{"keb":"伝灯録"}],"r_ele":[{"reb":"でんとうろく","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Chuandeng Lu (Record of the Transmission of the Lamp, 1004 CE Buddhist scripture)"}]}]}
+{"ent_seq":5541816,"k_ele":[{"keb":"伝灯録"}],"r_ele":[{"reb":"でんとうろく","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Chuandeng Lu (Record of the Transmission of the Lamp, 1004 CE Buddhist scripture)"}]}]}
 {"ent_seq":5541817,"k_ele":[{"keb":"伝燈寺"}],"r_ele":[{"reb":"でんどうじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dendouji"}]}]}
 {"ent_seq":5541818,"k_ele":[{"keb":"伝燈寺町"}],"r_ele":[{"reb":"でんどうじまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dendoujimachi"}]}]}
 {"ent_seq":5541819,"k_ele":[{"keb":"伝統工芸館"}],"r_ele":[{"reb":"でんとうこうげいかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dentoukougeikan"}]}]}
@@ -69917,7 +69917,7 @@
 {"ent_seq":5572204,"k_ele":[{"keb":"灘南通"}],"r_ele":[{"reb":"なだみなみどおり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nadaminamidoori"}]}]}
 {"ent_seq":5572205,"k_ele":[{"keb":"灘乃"}],"r_ele":[{"reb":"なだの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nadano"}]}]}
 {"ent_seq":5572206,"k_ele":[{"keb":"灘之"}],"r_ele":[{"reb":"なだゆき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nadayuki"}]}]}
-{"ent_seq":5572207,"k_ele":[{"keb":"灘波"}],"r_ele":[{"reb":"なんば"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nanba (Osaka district stretching from the Osaka central ward to the Naniwa ward)"},{"value":"Namba"}]}]}
+{"ent_seq":5572207,"k_ele":[{"keb":"灘波"}],"r_ele":[{"reb":"なんば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nanba"}]}]}
 {"ent_seq":5572208,"k_ele":[{"keb":"灘波田橋"}],"r_ele":[{"reb":"なばたばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nabatabashi"}]}]}
 {"ent_seq":5572209,"k_ele":[{"keb":"灘白崎"}],"r_ele":[{"reb":"なだしろさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nadashirosaki"}]}]}
 {"ent_seq":5572210,"k_ele":[{"keb":"灘尾"}],"r_ele":[{"reb":"なだお"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nadao"}]}]}
@@ -74911,10 +74911,10 @@
 {"ent_seq":5577243,"k_ele":[{"keb":"難波"}],"r_ele":[{"reb":"なにわの"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Naniwano"}]}]}
 {"ent_seq":5577244,"k_ele":[{"keb":"難波"}],"r_ele":[{"reb":"なは"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Naha"}]}]}
 {"ent_seq":5577245,"k_ele":[{"keb":"難波"}],"r_ele":[{"reb":"なみば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Namiba"}]}]}
-{"ent_seq":5577246,"k_ele":[{"keb":"難波"}],"r_ele":[{"reb":"なんば"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Nanba"},{"value":"Namba"}]}]}
+{"ent_seq":5577246,"k_ele":[{"keb":"難波"}],"r_ele":[{"reb":"なんば"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nanba (Osaka district stretching from the Osaka central ward to the Naniwa ward)"},{"value":"Namba"}]}]}
 {"ent_seq":5577247,"k_ele":[{"keb":"難波"}],"r_ele":[{"reb":"なんぱ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nanpa"}]}]}
 {"ent_seq":5577248,"k_ele":[{"keb":"難波英樹"}],"r_ele":[{"reb":"なんばひでき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nanba Hideki (1976.7.8-)"}]}]}
-{"ent_seq":5577249,"k_ele":[{"keb":"難波駅"}],"r_ele":[{"reb":"なんばえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Nanba Station"}]}]}
+{"ent_seq":5577249,"k_ele":[{"keb":"難波駅"},{"keb":"なんば駅"}],"r_ele":[{"reb":"なんばえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Namba Station (in the Minami area, Osaka)"},{"value":"Nanba Station"}]}]}
 {"ent_seq":5577250,"k_ele":[{"keb":"難波宮跡"}],"r_ele":[{"reb":"なんばきゅうあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nanbakyūato"}]}]}
 {"ent_seq":5577251,"k_ele":[{"keb":"難波橋"}],"r_ele":[{"reb":"なにわばし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Naniwabashi"}]}]}
 {"ent_seq":5577252,"k_ele":[{"keb":"難波啓一"}],"r_ele":[{"reb":"なんばけいいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Nanba Keiichi"}]}]}
@@ -76113,7 +76113,7 @@
 {"ent_seq":5578447,"k_ele":[{"keb":"二神能基"}],"r_ele":[{"reb":"ふたがみのうき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Futagami Nouki"}]}]}
 {"ent_seq":5578448,"k_ele":[{"keb":"二人"}],"r_ele":[{"reb":"つぐと"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Tsuguto"}]}]}
 {"ent_seq":5578449,"k_ele":[{"keb":"二人"}],"r_ele":[{"reb":"ふたり"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Futari"}]}]}
-{"ent_seq":5578450,"k_ele":[{"keb":"二人袴"}],"r_ele":[{"reb":"ふたりばかま","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Futaribakama (noh farce)"}]}]}
+{"ent_seq":5578450,"k_ele":[{"keb":"二人袴"}],"r_ele":[{"reb":"ふたりばかま","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Futaribakama (noh farce)"}]}]}
 {"ent_seq":5578451,"k_ele":[{"keb":"二人司"}],"r_ele":[{"reb":"ににんつかさ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ninintsukasa"}]}]}
 {"ent_seq":5578452,"k_ele":[{"keb":"二人司町"}],"r_ele":[{"reb":"ににんつかさちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ninintsukasachō"}]}]}
 {"ent_seq":5578453,"k_ele":[{"keb":"二仁"}],"r_ele":[{"reb":"つぐひと"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Tsuguhito"}]}]}
@@ -84974,7 +84974,7 @@
 {"ent_seq":5587358,"k_ele":[{"keb":"播磨釜"}],"r_ele":[{"reb":"はりまがま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harimagama"}]}]}
 {"ent_seq":5587359,"k_ele":[{"keb":"播磨高岡"}],"r_ele":[{"reb":"はりまたかおか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harimatakaoka"}]}]}
 {"ent_seq":5587360,"k_ele":[{"keb":"播磨高岡駅"}],"r_ele":[{"reb":"はりまたかおかえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Harimatakaoka Station"}]}]}
-{"ent_seq":5587361,"k_ele":[{"keb":"播磨国風土記"}],"r_ele":[{"reb":"はりまのくにふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Harima Fudoki (description of the culture, climate, etc. of Harima province; 715 CE)"}]}]}
+{"ent_seq":5587361,"k_ele":[{"keb":"播磨国風土記"}],"r_ele":[{"reb":"はりまのくにふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Harima Fudoki (description of the culture, climate, etc. of Harima province; 715 CE)"}]}]}
 {"ent_seq":5587362,"k_ele":[{"keb":"播磨国分寺跡"}],"r_ele":[{"reb":"はりまこくぶんじあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harimakokubunjiato"}]}]}
 {"ent_seq":5587363,"k_ele":[{"keb":"播磨自然高原別荘地"}],"r_ele":[{"reb":"はりましぜんこうげんべっそうち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harimashizenkougen holiday home area"}]}]}
 {"ent_seq":5587364,"k_ele":[{"keb":"播磨勝原駅"}],"r_ele":[{"reb":"はりまかつはらえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Harimakatsuhara Station"}]}]}
@@ -84990,7 +84990,7 @@
 {"ent_seq":5587374,"k_ele":[{"keb":"播磨田町"}],"r_ele":[{"reb":"はりまだちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harimadachō"}]}]}
 {"ent_seq":5587375,"k_ele":[{"keb":"播磨徳久駅"}],"r_ele":[{"reb":"はりまとくさえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Harimatokusa Station"}]}]}
 {"ent_seq":5587377,"k_ele":[{"keb":"播磨灘"}],"r_ele":[{"reb":"はりまなだ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harimanada"}]}]}
-{"ent_seq":5587378,"k_ele":[{"keb":"播磨風土記"}],"r_ele":[{"reb":"はりまふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Harima Fudoki (description of the culture, climate, etc. of Harima province; 715 CE)"}]}]}
+{"ent_seq":5587378,"k_ele":[{"keb":"播磨風土記"}],"r_ele":[{"reb":"はりまふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Harima Fudoki (description of the culture, climate, etc. of Harima province; 715 CE)"}]}]}
 {"ent_seq":5587379,"k_ele":[{"keb":"播磨平野"}],"r_ele":[{"reb":"はりまへいや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harimaheiya"}]}]}
 {"ent_seq":5587380,"k_ele":[{"keb":"播磨六郎"}],"r_ele":[{"reb":"はりまろくろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Harima Rokurou (1929.11.22-1999.11.28)"}]}]}
 {"ent_seq":5587381,"k_ele":[{"keb":"播磨掾"}],"r_ele":[{"reb":"はりまのじょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harimanojō"}]}]}

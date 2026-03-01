@@ -8333,7 +8333,7 @@
 {"ent_seq":5008366,"r_ele":[{"reb":"アーミニア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Erminia"}]}]}
 {"ent_seq":5008367,"r_ele":[{"reb":"アーミル"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Amir"}]}]}
 {"ent_seq":5008368,"r_ele":[{"reb":"アーミルカーン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Aamir Khan"}]}]}
-{"ent_seq":5008369,"r_ele":[{"reb":"アーミン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Armin"}]}]}
+{"ent_seq":5008369,"r_ele":[{"reb":"アルミン"},{"reb":"アーミン"},{"reb":"アミン"},{"reb":"アルミーン"}],"trans":[{"name_type":["&given;","&surname;"],"trans_det":[{"value":"Armin"}]}]}
 {"ent_seq":5008370,"r_ele":[{"reb":"アーミンストリート"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ermine Street"}]}]}
 {"ent_seq":5008371,"r_ele":[{"reb":"アームステッド"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Armstead"}]}]}
 {"ent_seq":5008372,"r_ele":[{"reb":"アームストロング"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Armstrong"}]}]}
@@ -18283,7 +18283,7 @@
 {"ent_seq":5018418,"r_ele":[{"reb":"エレライレイシッグ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Herrera y Reissig"}]}]}
 {"ent_seq":5018419,"r_ele":[{"reb":"エレラカンピンス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Herrera Campins"}]}]}
 {"ent_seq":5018420,"r_ele":[{"reb":"エレリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ereli"}]}]}
-{"ent_seq":5018421,"r_ele":[{"reb":"エレン"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Elen"},{"value":"Ellen"},{"value":"Eren"}]}]}
+{"ent_seq":5018421,"r_ele":[{"reb":"エレン"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Elen"},{"value":"Ellen"}]},{"name_type":["&masc;"],"trans_det":[{"value":"Eren"}]}]}
 {"ent_seq":5018422,"r_ele":[{"reb":"エレング"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ereng"}]}]}
 {"ent_seq":5018423,"r_ele":[{"reb":"エレンシア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Herencia"}]}]}
 {"ent_seq":5018424,"r_ele":[{"reb":"エレンステン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Elleinstein"}]}]}
@@ -28509,7 +28509,7 @@
 {"ent_seq":5028712,"r_ele":[{"reb":"クローデット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Claudette"}]}]}
 {"ent_seq":5028713,"r_ele":[{"reb":"クローデットコルベール"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Claudette Colbert"}]}]}
 {"ent_seq":5028714,"r_ele":[{"reb":"クローデル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Claudel"}]}]}
-{"ent_seq":5028715,"r_ele":[{"reb":"クロード"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Claud"},{"value":"Claude"}]}]}
+{"ent_seq":5028715,"r_ele":[{"reb":"クロード","re_pri":{"spec":1}}],"trans":[{"name_type":["&given;","&surname;"],"trans_det":[{"value":"Claude"}]},{"name_type":["&product;"],"trans_det":[{"value":"Claude (large language model developed by Anthropic)"}]}]}
 {"ent_seq":5028716,"r_ele":[{"reb":"クロード・シャノン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Claude Shannon"}]}]}
 {"ent_seq":5028717,"r_ele":[{"reb":"クロード・モネ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Claude Monet"}]}]}
 {"ent_seq":5028718,"r_ele":[{"reb":"クロードシャノン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Claude Shannon"}]}]}
@@ -47336,7 +47336,7 @@
 {"ent_seq":5047671,"r_ele":[{"reb":"タイムール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Taymur"}]}]}
 {"ent_seq":5047672,"r_ele":[{"reb":"タイムイル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Taimyrskii"}]}]}
 {"ent_seq":5047673,"r_ele":[{"reb":"タイムズ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"The Times (British newspaper)"}]}]}
-{"ent_seq":5047674,"r_ele":[{"reb":"タイムズスクェア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Times Square"}]}]}
+{"ent_seq":5047674,"r_ele":[{"reb":"タイムズスクエア"},{"reb":"タイムズスクェア"},{"reb":"タイムズ・スクエア"},{"reb":"タイムズ・スクェア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Times Square (New York)"}]}]}
 {"ent_seq":5047675,"k_ele":[{"keb":"タイムマシーンにお願い"}],"r_ele":[{"reb":"タイムマシーンにおねがい","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Quantum Leap (television series)"}]}]}
 {"ent_seq":5047676,"r_ele":[{"reb":"タイメックス","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Timex Corporation"}]}]}
 {"ent_seq":5047677,"r_ele":[{"reb":"タイヤー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thayer"}]}]}
@@ -72397,7 +72397,7 @@
 {"ent_seq":5072884,"r_ele":[{"reb":"プタセク"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ptacek"}]}]}
 {"ent_seq":5072885,"k_ele":[{"keb":"プチチ川"}],"r_ele":[{"reb":"プチチがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ptich (river)"}]}]}
 {"ent_seq":5072886,"r_ele":[{"reb":"プチフィス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Petitfils"}]}]}
-{"ent_seq":5072887,"r_ele":[{"reb":"プチプチ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"bubble wrap (trademark of Kawakami Sangyo Co.)"}]}]}
+{"ent_seq":5072887,"r_ele":[{"reb":"プチプチ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Putiputi (brand of bubble wrap manufactured by Kawakami Sangyo)"}]}]}
 {"ent_seq":5072888,"r_ele":[{"reb":"プチムツェフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Putimtsev"}]}]}
 {"ent_seq":5072889,"r_ele":[{"reb":"プチャーチン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Putyatin"}]}]}
 {"ent_seq":5072891,"k_ele":[{"keb":"プチン岬"}],"r_ele":[{"reb":"プチンみさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tandjung Puting (cape)"}]}]}
@@ -74386,7 +74386,7 @@
 {"ent_seq":5074885,"r_ele":[{"reb":"ベッティナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bettina"}]}]}
 {"ent_seq":5074886,"r_ele":[{"reb":"ベッテル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vettel"}]}]}
 {"ent_seq":5074887,"r_ele":[{"reb":"ベッテルハイム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bettelheim"}]}]}
-{"ent_seq":5074888,"k_ele":[{"keb":"ヴェッテルン湖"},{"keb":"ベッテルン湖"}],"r_ele":[{"reb":"ヴェッテルンこ","re_restr":["ヴェッテルン湖"]},{"reb":"ベッテルンこ","re_restr":["ベッテルン湖"]}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lake Vättern (Sweden)"}]}]}
+{"ent_seq":5074888,"k_ele":[{"keb":"ヴェッテルン湖"}],"r_ele":[{"reb":"ヴェッテルンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lake Vättern (Sweden)"}]}]}
 {"ent_seq":5074889,"r_ele":[{"reb":"ベッテンドーフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bettendorf"}]}]}
 {"ent_seq":5074890,"r_ele":[{"reb":"ベット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bette"}]}]}
 {"ent_seq":5074891,"r_ele":[{"reb":"ベットーリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vettori"}]}]}
@@ -82957,7 +82957,7 @@
 {"ent_seq":5083506,"r_ele":[{"reb":"ミナト"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Minato"}]}]}
 {"ent_seq":5083507,"r_ele":[{"reb":"ミナハン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Minahan"}]}]}
 {"ent_seq":5083508,"r_ele":[{"reb":"ミナブ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minab"}]}]}
-{"ent_seq":5083509,"r_ele":[{"reb":"ミナミ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Minami"}]}]}
+{"ent_seq":5083509,"r_ele":[{"reb":"ミナミ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Minami"}]},{"name_type":["&place;"],"trans_det":[{"value":"Minami (entertainment district in Osaka)"}]}]}
 {"ent_seq":5083510,"r_ele":[{"reb":"ミナモ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Minamo"}]}]}
 {"ent_seq":5083511,"r_ele":[{"reb":"ミナリック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Minarik"},{"value":"Minarikku"}]}]}
 {"ent_seq":5083512,"k_ele":[{"keb":"ミナ子"}],"r_ele":[{"reb":"ミナこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Minako"}]}]}

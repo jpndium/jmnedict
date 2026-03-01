@@ -86326,7 +86326,7 @@
 {"ent_seq":5287584,"k_ele":[{"keb":"高ノ峰"}],"r_ele":[{"reb":"こうのみね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kōnomine"}]}]}
 {"ent_seq":5287585,"k_ele":[{"keb":"高バエ"}],"r_ele":[{"reb":"たかバエ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takabae"}]}]}
 {"ent_seq":5287586,"k_ele":[{"keb":"高バチ"}],"r_ele":[{"reb":"たかバチ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takabachi"}]}]}
-{"ent_seq":5287587,"k_ele":[{"keb":"高ボッチ山"}],"r_ele":[{"reb":"たかボッチやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takabocchiyama"}]}]}
+{"ent_seq":5287587,"k_ele":[{"keb":"高ボッチ山"}],"r_ele":[{"reb":"たかボッチやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takabocchiyama"}]}]}
 {"ent_seq":5287588,"k_ele":[{"keb":"高ボッチ牧場"}],"r_ele":[{"reb":"たかボッチぼくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takabocchibokujō"}]}]}
 {"ent_seq":5287589,"k_ele":[{"keb":"高ヶ原"}],"r_ele":[{"reb":"たかがはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takagahara"}]}]}
 {"ent_seq":5287590,"k_ele":[{"keb":"高ヶ坂"}],"r_ele":[{"reb":"こがさか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kogasaka"}]}]}
@@ -90903,7 +90903,7 @@
 {"ent_seq":5292181,"k_ele":[{"keb":"高林由紀子"}],"r_ele":[{"reb":"たかばやしゆきこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takabayashi Yukiko (1945.12.10-)"}]}]}
 {"ent_seq":5292182,"k_ele":[{"keb":"高輪"}],"r_ele":[{"reb":"たかなわ"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Takanawa"}]}]}
 {"ent_seq":5292183,"k_ele":[{"keb":"高輪"}],"r_ele":[{"reb":"たかわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takawa"}]}]}
-{"ent_seq":5292184,"k_ele":[{"keb":"高輪プリンスホテル"}],"r_ele":[{"reb":"たかなわプリンスホテル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takanawapurinsuhoteru"}]}]}
+{"ent_seq":5292184,"k_ele":[{"keb":"高輪プリンスホテル"}],"r_ele":[{"reb":"たかなわプリンスホテル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Grand Prince Hotel Takanawa"}]}]}
 {"ent_seq":5292185,"k_ele":[{"keb":"高輪台"}],"r_ele":[{"reb":"たかなわだい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takanawadai"}]}]}
 {"ent_seq":5292186,"k_ele":[{"keb":"高輪台駅"}],"r_ele":[{"reb":"たかなわだいえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Takanawadai Station"}]}]}
 {"ent_seq":5292187,"k_ele":[{"keb":"高輪大木戸跡"}],"r_ele":[{"reb":"たかなわおおきどあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takanawaookidoato"}]}]}
@@ -93896,7 +93896,7 @@
 {"ent_seq":5295183,"k_ele":[{"keb":"国包"}],"r_ele":[{"reb":"くにかね"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Kunikane"}]}]}
 {"ent_seq":5295184,"k_ele":[{"keb":"国宝"}],"r_ele":[{"reb":"くにたか"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kunitaka"}]}]}
 {"ent_seq":5295185,"k_ele":[{"keb":"国宝"}],"r_ele":[{"reb":"くにとみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kunitomi"}]}]}
-{"ent_seq":5295186,"k_ele":[{"keb":"国宝"}],"r_ele":[{"reb":"こくほう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kokuhou"}]}]}
+{"ent_seq":5295186,"k_ele":[{"keb":"国宝"}],"r_ele":[{"reb":"こくほう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kokuhō"}]},{"name_type":["&work;"],"trans_det":[{"value":"Kokuho (2018 novel by Shuichi Yoshida; 2025 film)"}]}]}
 {"ent_seq":5295187,"k_ele":[{"keb":"国峰"}],"r_ele":[{"reb":"くにみね"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Kunimine"}]}]}
 {"ent_seq":5295188,"k_ele":[{"keb":"国峯"}],"r_ele":[{"reb":"くにみね"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kunimine"}]}]}
 {"ent_seq":5295189,"k_ele":[{"keb":"国方"}],"r_ele":[{"reb":"くにかた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kunikata"}]}]}

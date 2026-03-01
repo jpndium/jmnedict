@@ -29703,7 +29703,7 @@
 {"ent_seq":5130450,"k_ele":[{"keb":"宇宙実"}],"r_ele":[{"reb":"そらみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sorami"}]}]}
 {"ent_seq":5130451,"k_ele":[{"keb":"宇宙線観測所"}],"r_ele":[{"reb":"うちゅうせんかんそくじょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Cosmic-ray Observatory"}]}]}
 {"ent_seq":5130452,"k_ele":[{"keb":"宇宙線地下観測所"}],"r_ele":[{"reb":"うちゅうせんちかかんそくじょ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Underground Cosmic-ray Observatory"}]}]}
-{"ent_seq":5130453,"k_ele":[{"keb":"宇宙船エンタープライズ号"}],"r_ele":[{"reb":"うちゅうせんエンタープライズごう","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Spaceship Enterprise"}]}]}
+{"ent_seq":5130453,"r_ele":[{"reb":"エンタープライズ","re_pri":{"spec":1}}],"trans":[{"name_type":["&ship;"],"trans_det":[{"value":"USS Enterprise"}]},{"name_type":["&ship;","&fict;"],"trans_det":[{"value":"Starship Enterprise (Star Trek)"}]}]}
 {"ent_seq":5130454,"k_ele":[{"keb":"宇宙太"}],"r_ele":[{"reb":"うちゅうた"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Uchuuta"}]}]}
 {"ent_seq":5130455,"k_ele":[{"keb":"宇宙大作戦"}],"r_ele":[{"reb":"うちゅうだいさくせん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Star Trek (1966 American science-fiction television series)"},{"value":"Star Trek: The Original Series"}]}]}
 {"ent_seq":5130456,"k_ele":[{"keb":"宇宙通信株式会社"}],"r_ele":[{"reb":"うちゅうつうしんかぶしきがいしゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Space Communications Corporation"}]}]}

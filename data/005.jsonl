@@ -74821,7 +74821,7 @@
 {"ent_seq":5476663,"k_ele":[{"keb":"相合"}],"r_ele":[{"reb":"あいおう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aiou"}]}]}
 {"ent_seq":5476664,"k_ele":[{"keb":"相合"}],"r_ele":[{"reb":"そうごう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sougou"}]}]}
 {"ent_seq":5476665,"k_ele":[{"keb":"相合橋"}],"r_ele":[{"reb":"あいあいばし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Aiaibashi"}]}]}
-{"ent_seq":5476666,"k_ele":[{"keb":"相合袴"}],"r_ele":[{"reb":"あいあいばかま","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Aiaibakama (noh farce)"}]}]}
+{"ent_seq":5476666,"k_ele":[{"keb":"相合袴"}],"r_ele":[{"reb":"あいあいばかま","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Aiaibakama (noh farce)"}]}]}
 {"ent_seq":5476667,"k_ele":[{"keb":"相合川"}],"r_ele":[{"reb":"そうごうがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sougougawa"}]}]}
 {"ent_seq":5476668,"k_ele":[{"keb":"相合谷"}],"r_ele":[{"reb":"あいあたに"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Aiatani"}]}]}
 {"ent_seq":5476669,"k_ele":[{"keb":"相合谷"}],"r_ele":[{"reb":"あおだに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aodani"}]}]}
