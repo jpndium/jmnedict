@@ -1,4 +1,3 @@
-{"ent_seq":5401582,"k_ele":[{"keb":"条"}],"r_ele":[{"reb":"ながし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nagashi"}]}]}
 {"ent_seq":5401583,"k_ele":[{"keb":"条々"}],"r_ele":[{"reb":"じょうじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōjō"}]}]}
 {"ent_seq":5401584,"k_ele":[{"keb":"条井"}],"r_ele":[{"reb":"じょうい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōi"}]}]}
 {"ent_seq":5401585,"k_ele":[{"keb":"条吉"}],"r_ele":[{"reb":"じょうきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōkichi"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501963,"k_ele":[{"keb":"拓文"}],"r_ele":[{"reb":"ひろふみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hirofumi"}]}]}
 {"ent_seq":5501964,"k_ele":[{"keb":"拓文川"}],"r_ele":[{"reb":"たくぶんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takubungawa"}]}]}
 {"ent_seq":5501965,"k_ele":[{"keb":"拓平"}],"r_ele":[{"reb":"たくひら"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuhira"}]}]}
+{"ent_seq":5501966,"k_ele":[{"keb":"拓平"}],"r_ele":[{"reb":"たくへい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuhei"}]}]}

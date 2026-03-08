@@ -17576,7 +17576,7 @@
 {"ent_seq":5017704,"k_ele":[{"keb":"エブロ川"}],"r_ele":[{"reb":"エブロがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rio Ebro"}]}]}
 {"ent_seq":5017705,"r_ele":[{"reb":"エプコット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Epcot"}]}]}
 {"ent_seq":5017706,"r_ele":[{"reb":"エプサム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Epsom"}]}]}
-{"ent_seq":5017707,"r_ele":[{"reb":"エプスタイン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Epstein"}]}]}
+{"ent_seq":5017707,"r_ele":[{"reb":"エプスタイン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Epstein"}]}]}
 {"ent_seq":5017708,"r_ele":[{"reb":"エプステイン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Epstein"}]}]}
 {"ent_seq":5017709,"r_ele":[{"reb":"エプソム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Epsom"}]}]}
 {"ent_seq":5017710,"r_ele":[{"reb":"エプソムユーエル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Epsom and Ewell (UK)"}]}]}
@@ -56617,7 +56617,7 @@
 {"ent_seq":5057020,"r_ele":[{"reb":"ドミトレフスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dmitrevskii"}]}]}
 {"ent_seq":5057021,"r_ele":[{"reb":"ドミトロフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dmitrov"}]}]}
 {"ent_seq":5057022,"r_ele":[{"reb":"ドミニ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Domini"}]}]}
-{"ent_seq":5057023,"r_ele":[{"reb":"ドミニカ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dominica"}]}]}
+{"ent_seq":5057023,"r_ele":[{"reb":"ドミニカ","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dominica"},{"value":"Commonwealth of Dominica"}]}]}
 {"ent_seq":5057024,"k_ele":[{"keb":"ドミニカ共和国"}],"r_ele":[{"reb":"ドミニカきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dominican Republic"}]}]}
 {"ent_seq":5057025,"k_ele":[{"keb":"ドミニカ島"}],"r_ele":[{"reb":"ドミニカとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dominica"}]}]}
 {"ent_seq":5057026,"r_ele":[{"reb":"ドミニク"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Dominic"},{"value":"Dominick"},{"value":"Dominik"}]}]}
@@ -60674,7 +60674,7 @@
 {"ent_seq":5061101,"r_ele":[{"reb":"ハグマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hagman"}]}]}
 {"ent_seq":5061102,"r_ele":[{"reb":"ハグラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hagler"}]}]}
 {"ent_seq":5061103,"r_ele":[{"reb":"ハグラス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hagras"}]}]}
-{"ent_seq":5061104,"r_ele":[{"reb":"ハグリッド"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hagrid"}]}]}
+{"ent_seq":5061104,"r_ele":[{"reb":"ハグリッド"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Hagrid"}]}]}
 {"ent_seq":5061105,"r_ele":[{"reb":"ハグレルガム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Haglelgam"}]}]}
 {"ent_seq":5061106,"r_ele":[{"reb":"ハケット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hacket"},{"value":"Hackett"}]}]}
 {"ent_seq":5061107,"k_ele":[{"keb":"ハケノ下"}],"r_ele":[{"reb":"ハケノした"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hakenoshita"}]}]}
@@ -61198,7 +61198,7 @@
 {"ent_seq":5061629,"r_ele":[{"reb":"ハメカ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hameka"}]}]}
 {"ent_seq":5061630,"r_ele":[{"reb":"ハメット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hammett"}]}]}
 {"ent_seq":5061631,"r_ele":[{"reb":"ハメド"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hamed"}]}]}
-{"ent_seq":5061632,"r_ele":[{"reb":"ハメネイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Khamenei"}]}]}
+{"ent_seq":5061632,"r_ele":[{"reb":"ハメネイ"},{"reb":"ハーメネイー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Khamenei"}]},{"name_type":["&person;"],"trans_det":[{"value":"Khamenei, Ali Hosseini (1939-2026; supreme leader of Iran)"}]}]}
 {"ent_seq":5061633,"r_ele":[{"reb":"ハメリンプール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hamelin Pool"}]}]}
 {"ent_seq":5061634,"r_ele":[{"reb":"ハメル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hamel"}]}]}
 {"ent_seq":5061635,"r_ele":[{"reb":"ハメルボー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hammelboe"}]}]}
@@ -64265,7 +64265,7 @@
 {"ent_seq":5064716,"r_ele":[{"reb":"パディーヤ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Padilla"}]}]}
 {"ent_seq":5064717,"r_ele":[{"reb":"パディラック"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Padirac"}]}]}
 {"ent_seq":5064718,"r_ele":[{"reb":"パディリャ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Padilla"}]}]}
-{"ent_seq":5064719,"r_ele":[{"reb":"パディントン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Paddington"}]}]}
+{"ent_seq":5064719,"r_ele":[{"reb":"パディントン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Paddington (London)"}]},{"name_type":["&char;"],"trans_det":[{"value":"Paddington (Bear)"}]},{"name_type":["&work;"],"trans_det":[{"value":"Paddington (2014 film)"}]}]}
 {"ent_seq":5064720,"r_ele":[{"reb":"パデューカ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Paducah"}]}]}
 {"ent_seq":5064721,"r_ele":[{"reb":"パデレフスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Paderewski"}]}]}
 {"ent_seq":5064722,"r_ele":[{"reb":"パト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pato"}]}]}
@@ -75180,7 +75180,7 @@
 {"ent_seq":5075683,"k_ele":[{"keb":"ベンマクドーイ山"}],"r_ele":[{"reb":"ベンマクドーイさん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ben Macdhui (mountain)"}]}]}
 {"ent_seq":5075684,"k_ele":[{"keb":"ベンモアアシント山"}],"r_ele":[{"reb":"ベンモアアシントさん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ben More Assynt (mountain)"}]}]}
 {"ent_seq":5075685,"r_ele":[{"reb":"ベンヤミン"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Benjamin"}]}]}
-{"ent_seq":5075686,"r_ele":[{"reb":"ベンヤミンネタニヤフ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Benjamin Netanyahu"}]}]}
+{"ent_seq":5075686,"r_ele":[{"reb":"ベンヤミン・ネタニヤフ"},{"reb":"ベンヤミンネタニヤフ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Benjamin Netanyahu (1949.10.21-; prime minister of Israel)"}]}]}
 {"ent_seq":5075687,"r_ele":[{"reb":"ベンラス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Benrath"}]}]}
 {"ent_seq":5075688,"r_ele":[{"reb":"ベンヴェヌート"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Benvenuto"}]}]}
 {"ent_seq":5075689,"k_ele":[{"keb":"ベン潔士"}],"r_ele":[{"reb":"ベンきよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Benkiyoshi"}]}]}
@@ -76662,7 +76662,7 @@
 {"ent_seq":5077170,"r_ele":[{"reb":"ホムス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Homs (Syria)"}]}]}
 {"ent_seq":5077171,"r_ele":[{"reb":"ホムトフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chomutov"}]}]}
 {"ent_seq":5077172,"r_ele":[{"reb":"ホメーロス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Homer (Greek poet)"}]}]}
-{"ent_seq":5077173,"r_ele":[{"reb":"ホメイニ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Homeini"}]}]}
+{"ent_seq":5077173,"r_ele":[{"reb":"ホメイニ"},{"reb":"ホメイニー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Khomeini"}]},{"name_type":["&person;"],"trans_det":[{"value":"Khomeini, Ruhollah Musavi (1900-1989; supreme leader of Iran)"}]}]}
 {"ent_seq":5077174,"k_ele":[{"keb":"ホメイニ師"}],"r_ele":[{"reb":"ほめいにし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Homei Nishi"}]}]}
 {"ent_seq":5077175,"r_ele":[{"reb":"ホメロス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Homer (Greek poet)"}]}]}
 {"ent_seq":5077176,"r_ele":[{"reb":"ホメンコフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Khomenkov"}]}]}
@@ -80207,7 +80207,6 @@
 {"ent_seq":5080739,"r_ele":[{"reb":"マジバナリ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Majibanari"}]}]}
 {"ent_seq":5080740,"r_ele":[{"reb":"マジプラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Madhipura"}]}]}
 {"ent_seq":5080741,"r_ele":[{"reb":"マジメル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Magimel"}]}]}
-{"ent_seq":5080742,"r_ele":[{"reb":"マジャール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Magyar"}]}]}
 {"ent_seq":5080743,"r_ele":[{"reb":"マジャールオルサーグ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Magyarorszag"}]}]}
 {"ent_seq":5080744,"r_ele":[{"reb":"マジャンディ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Magendie"}]}]}
 {"ent_seq":5080745,"r_ele":[{"reb":"マジヤール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Madiar"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100644,"k_ele":[{"keb":"阿原田"}],"r_ele":[{"reb":"あわらだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Awarada"}]}]}
 {"ent_seq":5100645,"k_ele":[{"keb":"阿原峠"}],"r_ele":[{"reb":"あばらとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaratōge"}]}]}
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目"}],"r_ele":[{"reb":"あばらめ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarame"}]}]}
+{"ent_seq":5100647,"k_ele":[{"keb":"阿古"}],"r_ele":[{"reb":"あこ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ako"}]}]}

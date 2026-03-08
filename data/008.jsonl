@@ -1,5 +1,3 @@
-{"ent_seq":5702770,"k_ele":[{"keb":"隆志"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&surname;","&masc;"],"trans_det":[{"value":"Takashi"}]}]}
-{"ent_seq":5702771,"k_ele":[{"keb":"隆志"}],"r_ele":[{"reb":"たかゆき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takayuki"}]}]}
 {"ent_seq":5702772,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"たかしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashirou"}]}]}
 {"ent_seq":5702773,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"りゅうしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūshirou"}]}]}
 {"ent_seq":5702774,"k_ele":[{"keb":"隆旨"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
@@ -37481,7 +37479,7 @@
 {"ent_seq":5741685,"k_ele":[{"keb":"埼玉銀行"}],"r_ele":[{"reb":"さいたまぎんこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Saitama Bank"}]}]}
 {"ent_seq":5741686,"k_ele":[{"keb":"埼銀"}],"r_ele":[{"reb":"さいぎん","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Saitama Bank (abbr)"}]}]}
 {"ent_seq":5741687,"r_ele":[{"reb":"ムーランルージュ","re_pri":{"spec":1}},{"reb":"ムーラン・ルージュ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moulin Rouge (Paris)"}]},{"name_type":["&work;"],"trans_det":[{"value":"Moulin Rouge! (film)"}]}]}
-{"ent_seq":5741689,"r_ele":[{"reb":"ヴォルデモート"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Voldemort"}]}]}
+{"ent_seq":5741689,"r_ele":[{"reb":"ヴォルデモート"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Voldemort"}]}]}
 {"ent_seq":5741690,"r_ele":[{"reb":"レッドアローズ","re_pri":{"spec":1}},{"reb":"レッド・アローズ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Red Arrows (aerobatics display team)"}]}]}
 {"ent_seq":5741691,"k_ele":[{"keb":"日本ライン"}],"r_ele":[{"reb":"にほんライン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Japanese Rhine (gorge section of the Kiso River between Minokamo, Gifu and Inuyama, Aichi)"},{"value":"Japan Rhine"}]}]}
 {"ent_seq":5741692,"k_ele":[{"keb":"昌磨"}],"r_ele":[{"reb":"しょうま"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Shōma"}]}]}
@@ -43197,10 +43195,29 @@
 {"ent_seq":5747581,"r_ele":[{"reb":"メンサ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Mensa"}]}]}
 {"ent_seq":5747582,"k_ele":[{"keb":"幽平"}],"r_ele":[{"reb":"ゆうへい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yūhei"}]}]}
 {"ent_seq":5747584,"r_ele":[{"reb":"サンドシェルト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sandshelt"}]}]}
+{"ent_seq":5747585,"r_ele":[{"reb":"ドタチン"},{"reb":"どたちん"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Dotachin (nickname of Kyouhei Kadota)"}]}]}
 {"ent_seq":5747586,"r_ele":[{"reb":"カーミラ"}],"trans":[{"name_type":["&given;","&fem;"],"trans_det":[{"value":"Carmilla"}]}]}
 {"ent_seq":5747587,"k_ele":[{"keb":"予告殺人"}],"r_ele":[{"reb":"よこくさつじん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Murder is Announced (1950 mystery novel by Agatha Christie)"}]}]}
+{"ent_seq":5747588,"k_ele":[{"keb":"舞流"}],"r_ele":[{"reb":"まいる"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Mairu"}]}]}
 {"ent_seq":5747589,"k_ele":[{"keb":"九瑠璃"}],"r_ele":[{"reb":"くるり"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kururi"}]}]}
 {"ent_seq":5747591,"r_ele":[{"reb":"ナンジャタウン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Namco Namja Town (theme park)"}]}]}
+{"ent_seq":5747592,"r_ele":[{"reb":"パウリーネ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Pauline"}]}]}
+{"ent_seq":5747594,"r_ele":[{"reb":"シュヴェルトライテ"}],"trans":[{"trans_det":[{"value":"Schwertleite (horse)"}]}]}
 {"ent_seq":5747595,"k_ele":[{"keb":"女子高生コンクリート詰め殺人事件"}],"r_ele":[{"reb":"じょしこうせいコンクリートづめさつじんじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Murder of Junko Furuta (1989)"},{"value":"concrete-encased high school girl murder case"}]}]}
 {"ent_seq":5747596,"k_ele":[{"keb":"阿部定事件"}],"r_ele":[{"reb":"あべさだじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Sada Abe incident (1936; geisha murders her lover and mutilates his genitals)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-01"}]}]}
+{"ent_seq":5747597,"r_ele":[{"reb":"コンコルド","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Concorde (aircraft)"}]},{"name_type":["&place;"],"trans_det":[{"value":"Concord"}]}]}
+{"ent_seq":5747598,"k_ele":[{"keb":"大宮区"}],"r_ele":[{"reb":"おおみやく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ōmiya ward (in Saitama city)"},{"value":"Ōmiya-ku"}]}]}
+{"ent_seq":5747599,"r_ele":[{"reb":"ゲヘナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gehenna"}]}]}
+{"ent_seq":5747600,"r_ele":[{"reb":"ジャハンナム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jahannam"}]}]}
+{"ent_seq":5747601,"r_ele":[{"reb":"アメミット"},{"reb":"アーマーン"},{"reb":"アメミト"},{"reb":"アンムト"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Ammit"},{"value":"Ammut"}]}]}
+{"ent_seq":5747602,"k_ele":[{"keb":"英国航空"}],"r_ele":[{"reb":"えいこくこうくう","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"British Airways"}]}]}
+{"ent_seq":5747603,"r_ele":[{"reb":"ペルビチン"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Pervitin (early methamphetamine)"}]}]}
+{"ent_seq":5747604,"r_ele":[{"reb":"デモポン"},{"reb":"デーモポーン"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Demophon"}]}]}
+{"ent_seq":5747605,"r_ele":[{"reb":"ベッセント"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bessent"}]}]}
+{"ent_seq":5747606,"r_ele":[{"reb":"ハビアン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Fabian Fucan (c. 1565–1621; writer of Christianity and Buddhism)"}]}]}
+{"ent_seq":5747607,"k_ele":[{"keb":"神戸連続児童殺傷事件"}],"r_ele":[{"reb":"こうべれんぞくじどうさっしょうじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Kobe child murders (1997)"}]}]}
+{"ent_seq":5747608,"k_ele":[{"keb":"酒鬼薔薇聖斗"}],"r_ele":[{"reb":"さかきばらせいと"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sakakibara Seito (alias used by the perpetrator of the Kobe child murders)"}]}]}
+{"ent_seq":5747609,"k_ele":[{"keb":"酒鬼薔薇"}],"r_ele":[{"reb":"さかきばら"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sakakibara Seito (alias used by the perpetrator of the Kobe child murders)"}]}]}
+{"ent_seq":5747610,"k_ele":[{"keb":"絶歌"}],"r_ele":[{"reb":"ぜっか"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Zekka (2015 autobiography by the perpetrator of the Kobe child murders)"}]}]}
+{"ent_seq":5747611,"r_ele":[{"reb":"ポートピア"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Portopia"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-08"}]}]}
