@@ -7085,7 +7085,7 @@
 {"ent_seq":5208065,"k_ele":[{"keb":"菊地武朝"}],"r_ele":[{"reb":"きくちたけとも"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Taketomo"}]}]}
 {"ent_seq":5208066,"k_ele":[{"keb":"菊地麻衣子"}],"r_ele":[{"reb":"きくちまいこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Maiko (1974.7-)"}]}]}
 {"ent_seq":5208067,"k_ele":[{"keb":"菊地優花"}],"r_ele":[{"reb":"きくちゆうか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Yūka"}]}]}
-{"ent_seq":5208068,"k_ele":[{"keb":"菊地幽芳"}],"r_ele":[{"reb":"きくちゆうほう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Yūhou"}]}]}
+{"ent_seq":5208068,"k_ele":[{"keb":"菊池幽芳"},{"keb":"菊地幽芳"}],"r_ele":[{"reb":"きくちゆうほう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yūhō Kikuchi (1870-1947; novelist)"}]}]}
 {"ent_seq":5208069,"k_ele":[{"keb":"菊地由美"}],"r_ele":[{"reb":"きくちゆみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Yumi (1976.3-)"}]}]}
 {"ent_seq":5208070,"k_ele":[{"keb":"菊地容斎"}],"r_ele":[{"reb":"きくちようさい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Yōsai"}]}]}
 {"ent_seq":5208071,"k_ele":[{"keb":"菊地和正"}],"r_ele":[{"reb":"きくちかずまさ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kikuchi Kazumasa"}]}]}
@@ -45199,7 +45199,7 @@
 {"ent_seq":5246341,"k_ele":[{"keb":"月稱"}],"r_ele":[{"reb":"げっしょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gesshou"}]}]}
 {"ent_seq":5246342,"k_ele":[{"keb":"月繩"}],"r_ele":[{"reb":"つきなわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tsukinawa"}]}]}
 {"ent_seq":5246343,"k_ele":[{"keb":"月邨"}],"r_ele":[{"reb":"つきむら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tsukimura"}]}]}
-{"ent_seq":5246344,"k_ele":[{"keb":"月魄"}],"r_ele":[{"reb":"つきしろ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Tsukishiro"}]}]}
+{"ent_seq":5246344,"k_ele":[{"keb":"月魄"}],"r_ele":[{"reb":"つきしろ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Tsukishiro (1908 novel by Yūhō Kikuchi)"}]}]}
 {"ent_seq":5246345,"k_ele":[{"keb":"件"}],"r_ele":[{"reb":"くだん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kudan"}]}]}
 {"ent_seq":5246346,"k_ele":[{"keb":"倹"}],"r_ele":[{"reb":"けん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ken"}]}]}
 {"ent_seq":5246347,"k_ele":[{"keb":"倹儀谷"}],"r_ele":[{"reb":"けぎや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kegiya"}]}]}

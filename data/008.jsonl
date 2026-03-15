@@ -1,5 +1,3 @@
-{"ent_seq":5702772,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"たかしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashirou"}]}]}
-{"ent_seq":5702773,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"りゅうしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūshirou"}]}]}
 {"ent_seq":5702774,"k_ele":[{"keb":"隆旨"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702775,"k_ele":[{"keb":"隆枝"}],"r_ele":[{"reb":"たかえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takae"}]}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
@@ -43194,12 +43192,14 @@
 {"ent_seq":5747580,"r_ele":[{"reb":"アンスロピック","re_pri":{"spec":1}},{"reb":"アンソロピック"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Anthropic"}]}]}
 {"ent_seq":5747581,"r_ele":[{"reb":"メンサ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Mensa"}]}]}
 {"ent_seq":5747582,"k_ele":[{"keb":"幽平"}],"r_ele":[{"reb":"ゆうへい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yūhei"}]}]}
+{"ent_seq":5747583,"r_ele":[{"reb":"スリーピー・ホロウ"},{"reb":"スリーピーホロウ"}],"trans":[{"name_type":["&place;","&work;"],"trans_det":[{"value":"Sleepy Hollow"}]}]}
 {"ent_seq":5747584,"r_ele":[{"reb":"サンドシェルト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sandshelt"}]}]}
 {"ent_seq":5747585,"r_ele":[{"reb":"ドタチン"},{"reb":"どたちん"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Dotachin (nickname of Kyouhei Kadota)"}]}]}
 {"ent_seq":5747586,"r_ele":[{"reb":"カーミラ"}],"trans":[{"name_type":["&given;","&fem;"],"trans_det":[{"value":"Carmilla"}]}]}
 {"ent_seq":5747587,"k_ele":[{"keb":"予告殺人"}],"r_ele":[{"reb":"よこくさつじん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Murder is Announced (1950 mystery novel by Agatha Christie)"}]}]}
 {"ent_seq":5747588,"k_ele":[{"keb":"舞流"}],"r_ele":[{"reb":"まいる"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Mairu"}]}]}
 {"ent_seq":5747589,"k_ele":[{"keb":"九瑠璃"}],"r_ele":[{"reb":"くるり"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kururi"}]}]}
+{"ent_seq":5747590,"r_ele":[{"reb":"スワロウテイル","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Swallowtail Butterfly (1996 Japanese crime film)"}]}]}
 {"ent_seq":5747591,"r_ele":[{"reb":"ナンジャタウン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Namco Namja Town (theme park)"}]}]}
 {"ent_seq":5747592,"r_ele":[{"reb":"パウリーネ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Pauline"}]}]}
 {"ent_seq":5747594,"r_ele":[{"reb":"シュヴェルトライテ"}],"trans":[{"trans_det":[{"value":"Schwertleite (horse)"}]}]}
@@ -43220,4 +43220,21 @@
 {"ent_seq":5747609,"k_ele":[{"keb":"酒鬼薔薇"}],"r_ele":[{"reb":"さかきばら"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Sakakibara Seito (alias used by the perpetrator of the Kobe child murders)"}]}]}
 {"ent_seq":5747610,"k_ele":[{"keb":"絶歌"}],"r_ele":[{"reb":"ぜっか"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Zekka (2015 autobiography by the perpetrator of the Kobe child murders)"}]}]}
 {"ent_seq":5747611,"r_ele":[{"reb":"ポートピア"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Portopia"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-08"}]}]}
+{"ent_seq":5747612,"r_ele":[{"reb":"コルゲートパーモリーブ"},{"reb":"コルゲート・パーモリーブ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Colgate-Palmolive"}]}]}
+{"ent_seq":5747613,"k_ele":[{"keb":"不二咲"}],"r_ele":[{"reb":"ふじさき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Fujisaki"}]}]}
+{"ent_seq":5747614,"k_ele":[{"keb":"げっちゅ屋"}],"r_ele":[{"reb":"げっちゅや"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Getchu"}]}]}
+{"ent_seq":5747615,"k_ele":[{"keb":"成歩堂龍一"}],"r_ele":[{"reb":"なるほどうりゅういち"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Ryūichi Naruhodō (protagonist of the videogame series Gyakuten Saiban)"},{"value":"Phoenix Wright"}]}]}
+{"ent_seq":5747616,"k_ele":[{"keb":"成歩堂"}],"r_ele":[{"reb":"なるほどう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Naruhodō"}]}]}
+{"ent_seq":5747617,"k_ele":[{"keb":"アメリカ同時多発テロ"}],"r_ele":[{"reb":"アメリカどうじたはつテロ","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"September 11 attacks (2001)"},{"value":"9/11"}]}]}
+{"ent_seq":5747618,"k_ele":[{"keb":"アメリカ同時多発テロ事件"}],"r_ele":[{"reb":"アメリカどうじたはつテロじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"September 11 attacks (2001)"}]}]}
+{"ent_seq":5747619,"k_ele":[{"keb":"坂崎紫瀾"}],"r_ele":[{"reb":"さかざきしらん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shiran Sakazaki (1853-1913; journalist, novelist and political activist)"}]}]}
+{"ent_seq":5747620,"k_ele":[{"keb":"汗血千里駒"},{"keb":"汗血千里の駒"}],"r_ele":[{"reb":"かんけつせんりのこま"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Kanketsu Senri no Koma (1883 novel by Sakazaki Shiran)"}]}]}
+{"ent_seq":5747621,"k_ele":[{"keb":"竜馬がゆく"}],"r_ele":[{"reb":"りょうまがゆく","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Ryōma ga Yuku (1963-1966 novel by Shiba Ryōtarō)"}]}]}
+{"ent_seq":5747622,"k_ele":[{"keb":"精神現象学"}],"r_ele":[{"reb":"せいしんげんしょうがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Phenomenology of Spirit (1807 book by Georg Wilhelm Friedrich Hegel)"},{"value":"The Phenomenology of Mind"}]}]}
+{"ent_seq":5747624,"k_ele":[{"keb":"プラダを着た悪魔"}],"r_ele":[{"reb":"プラダをきたあくま","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Devil Wears Prada (2003 novel by Lauren Weisberger; 2006 film)"}]}]}
+{"ent_seq":5747625,"r_ele":[{"reb":"モジタバ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Mojtaba"}]},{"name_type":["&person;"],"trans_det":[{"value":"Mojtaba Hosseini Khamenei (1969.9.8-; supreme leader of Iran)"}]}]}
+{"ent_seq":5747626,"r_ele":[{"reb":"カニエ・ウェスト"},{"reb":"カニエウェスト"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kanye West (1977.6.8-; American rapper)"}]}]}
+{"ent_seq":5747627,"r_ele":[{"reb":"カニエ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanye"}]},{"name_type":["&place;"],"trans_det":[{"value":"Kanye (village in Botswana)"}]}]}
+{"ent_seq":5747628,"k_ele":[{"keb":"日本法医学会"}],"r_ele":[{"reb":"にほんほういがっかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese Society of Legal Medicine"},{"value":"JSLM"}]}]}
+{"ent_seq":5747629,"k_ele":[{"keb":"予言集"}],"r_ele":[{"reb":"よげんしゅう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Les Prophéties (collection of prophecies by Nostradamus)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-15"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5501967,"k_ele":[{"keb":"拓歩"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501968,"k_ele":[{"keb":"拓甫"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501969,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501970,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たこほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takoho"}]}]}
@@ -61817,7 +61816,7 @@
 {"ent_seq":5564062,"k_ele":[{"keb":"洞ヶ瀬"}],"r_ele":[{"reb":"どうがせ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Dougase"}]}]}
 {"ent_seq":5564063,"k_ele":[{"keb":"洞ヶ沢"}],"r_ele":[{"reb":"どうがさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dougasawa"}]}]}
 {"ent_seq":5564064,"k_ele":[{"keb":"洞ヶ沢"}],"r_ele":[{"reb":"どうがざわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dougazawa"}]}]}
-{"ent_seq":5564065,"k_ele":[{"keb":"洞ヶ峠"}],"r_ele":[{"reb":"とうがとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tougatōge"}]}]}
+{"ent_seq":5564065,"k_ele":[{"keb":"洞ヶ峠"}],"r_ele":[{"reb":"ほらがとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Horagatōge"}]}]}
 {"ent_seq":5564066,"k_ele":[{"keb":"洞ヶ嶽"}],"r_ele":[{"reb":"ほらがたけ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Horagatake"}]}]}
 {"ent_seq":5564067,"k_ele":[{"keb":"洞井"}],"r_ele":[{"reb":"どうい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Doui"}]}]}
 {"ent_seq":5564068,"k_ele":[{"keb":"洞井"}],"r_ele":[{"reb":"ほらい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Horai"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602432,"k_ele":[{"keb":"番地"}],"r_ele":[{"reb":"ばんち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banchi"}]}]}
 {"ent_seq":5602433,"k_ele":[{"keb":"番中"}],"r_ele":[{"reb":"ばんなか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannaka"}]}]}
 {"ent_seq":5602434,"k_ele":[{"keb":"番酎"}],"r_ele":[{"reb":"ばんちゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchuu"}]}]}
+{"ent_seq":5602435,"k_ele":[{"keb":"番帳免"}],"r_ele":[{"reb":"ばんちょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchōmen"}]}]}

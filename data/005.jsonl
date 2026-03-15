@@ -49311,7 +49311,6 @@
 {"ent_seq":5451054,"k_ele":[{"keb":"青少年山の家"}],"r_ele":[{"reb":"せいしょうねんやまのいえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seishounenyamanoie"}]}]}
 {"ent_seq":5451055,"k_ele":[{"keb":"青少年自然の家"}],"r_ele":[{"reb":"せいしょうねんしぜんのいえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seishounenshizennoie"}]}]}
 {"ent_seq":5451056,"k_ele":[{"keb":"青少年対策本部"}],"r_ele":[{"reb":"せいしょうねんたいさくほんぶ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Youth Affairs Administration"}]}]}
-{"ent_seq":5451057,"k_ele":[{"keb":"青少年保護育成条例"}],"r_ele":[{"reb":"せいしょうねんほごいくせいじょうれい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Seishounenhogoikuseijōrei"}]}]}
 {"ent_seq":5451058,"k_ele":[{"keb":"青少年野営訓練所"}],"r_ele":[{"reb":"せいしょうねんやえいくんれんじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seishounenyaeikunrenjo"}]}]}
 {"ent_seq":5451059,"k_ele":[{"keb":"青少年野外活動センター"}],"r_ele":[{"reb":"せいしょうねんやがいかつどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seishounenyagaikatsudou"}]}]}
 {"ent_seq":5451060,"k_ele":[{"keb":"青少年旅行村"}],"r_ele":[{"reb":"せいしょうねんりょこうむら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seishounenryokoumura"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501964,"k_ele":[{"keb":"拓文川"}],"r_ele":[{"reb":"たくぶんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takubungawa"}]}]}
 {"ent_seq":5501965,"k_ele":[{"keb":"拓平"}],"r_ele":[{"reb":"たくひら"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuhira"}]}]}
 {"ent_seq":5501966,"k_ele":[{"keb":"拓平"}],"r_ele":[{"reb":"たくへい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuhei"}]}]}
+{"ent_seq":5501967,"k_ele":[{"keb":"拓歩"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuho"}]}]}

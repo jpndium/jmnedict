@@ -31113,7 +31113,7 @@
 {"ent_seq":5031329,"r_ele":[{"reb":"ゲーステ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Geeste"}]}]}
 {"ent_seq":5031330,"r_ele":[{"reb":"ゲーズフォード"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gaisford"}]}]}
 {"ent_seq":5031331,"r_ele":[{"reb":"ゲーゼ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Geese"}]}]}
-{"ent_seq":5031332,"r_ele":[{"reb":"ゲータレード"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gatorade"}]}]}
+{"ent_seq":5031332,"r_ele":[{"reb":"ゲータレード"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Gatorade"}]}]}
 {"ent_seq":5031333,"r_ele":[{"reb":"ゲーチ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Geczy"}]}]}
 {"ent_seq":5031334,"r_ele":[{"reb":"ゲーチル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Goetschl"}]}]}
 {"ent_seq":5031335,"r_ele":[{"reb":"ゲーツ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Gates"}]}]}
@@ -56702,7 +56702,7 @@
 {"ent_seq":5057106,"r_ele":[{"reb":"ドラガン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dragan"}]}]}
 {"ent_seq":5057107,"r_ele":[{"reb":"ドラキ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Delaquis"}]}]}
 {"ent_seq":5057108,"r_ele":[{"reb":"ドラキア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dholakia"}]}]}
-{"ent_seq":5057109,"r_ele":[{"reb":"ドラキュラ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Dracula (novel, film, etc.)"}]}]}
+{"ent_seq":5057109,"r_ele":[{"reb":"ドラキュラ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Dracula (novel, film, etc.)"}]},{"name_type":["&char;"],"trans_det":[{"value":"Count Dracula"}]}]}
 {"ent_seq":5057110,"r_ele":[{"reb":"ドラギ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Draghi"}]}]}
 {"ent_seq":5057111,"r_ele":[{"reb":"ドラギニャン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Draguignan (France)"}]}]}
 {"ent_seq":5057112,"r_ele":[{"reb":"ドラクスラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Draksler"}]}]}
@@ -72582,7 +72582,7 @@
 {"ent_seq":5073071,"r_ele":[{"reb":"プラタイア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Plataea"}]}]}
 {"ent_seq":5073072,"r_ele":[{"reb":"プラタイアイ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Plataea"}]}]}
 {"ent_seq":5073073,"k_ele":[{"keb":"プラタニ川"}],"r_ele":[{"reb":"プラタニがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Platani (river)"}]}]}
-{"ent_seq":5073074,"r_ele":[{"reb":"プラダ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Prada"}]}]}
+{"ent_seq":5073074,"r_ele":[{"reb":"プラダ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Prada"}]}]}
 {"ent_seq":5073075,"r_ele":[{"reb":"プラダーレム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pura Dalem"}]}]}
 {"ent_seq":5073076,"r_ele":[{"reb":"プラダス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pradas"}]}]}
 {"ent_seq":5073077,"r_ele":[{"reb":"プラダル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pradal"}]}]}
@@ -96955,7 +96955,7 @@
 {"ent_seq":5097597,"r_ele":[{"reb":"ヴォネッタ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vonetta"}]}]}
 {"ent_seq":5097598,"r_ele":[{"reb":"ヴォヤジス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Voyagis"}]}]}
 {"ent_seq":5097599,"r_ele":[{"reb":"ヴォリスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Volsky"}]}]}
-{"ent_seq":5097600,"r_ele":[{"reb":"ヴォル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Voildemort"}]}]}
+{"ent_seq":5097600,"r_ele":[{"reb":"ヴォル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Võru (Estonia)"}]},{"name_type":["&dei;"],"trans_det":[{"value":"Vör (Norse goddess)"}]}]}
 {"ent_seq":5097601,"r_ele":[{"reb":"ヴォルカピッチ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vorkapich"}]}]}
 {"ent_seq":5097602,"r_ele":[{"reb":"ヴォルガ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Volga"}]}]}
 {"ent_seq":5097603,"k_ele":[{"keb":"ヴォルガ川"}],"r_ele":[{"reb":"ヴォルガがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Volga River"}]}]}
