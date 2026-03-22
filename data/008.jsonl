@@ -43237,4 +43237,5 @@
 {"ent_seq":5747627,"r_ele":[{"reb":"カニエ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kanye"}]},{"name_type":["&place;"],"trans_det":[{"value":"Kanye (village in Botswana)"}]}]}
 {"ent_seq":5747628,"k_ele":[{"keb":"日本法医学会"}],"r_ele":[{"reb":"にほんほういがっかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese Society of Legal Medicine"},{"value":"JSLM"}]}]}
 {"ent_seq":5747629,"k_ele":[{"keb":"予言集"}],"r_ele":[{"reb":"よげんしゅう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Les Prophéties (collection of prophecies by Nostradamus)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-15"}]}]}
+{"ent_seq":5747630,"r_ele":[{"reb":"デューン","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Dune (series of novels by Frank Herbert)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-22"}]}]}

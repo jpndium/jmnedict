@@ -8287,7 +8287,7 @@
 {"ent_seq":5008320,"r_ele":[{"reb":"アーノー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Arnow"}]}]}
 {"ent_seq":5008321,"r_ele":[{"reb":"アーノット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Arnot"}]}]}
 {"ent_seq":5008322,"r_ele":[{"reb":"アーノルト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Arnold"}]}]}
-{"ent_seq":5008323,"r_ele":[{"reb":"アーノルド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Arnold"}]}]}
+{"ent_seq":5008323,"r_ele":[{"reb":"アーノルド"}],"trans":[{"name_type":["&masc;","&surname;"],"trans_det":[{"value":"Arnold"}]}]}
 {"ent_seq":5008324,"r_ele":[{"reb":"アーノルドシュワルツェネッガー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Arnold Schwarzenegger"}]}]}
 {"ent_seq":5008325,"r_ele":[{"reb":"アーノルドダニエルパーマー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Arnold Daniel Palmer"}]}]}
 {"ent_seq":5008326,"r_ele":[{"reb":"アーノルドトインビー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Arnold Toynbee"}]}]}
@@ -76828,7 +76828,7 @@
 {"ent_seq":5077336,"r_ele":[{"reb":"ホルムステン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Holmsten"}]}]}
 {"ent_seq":5077337,"r_ele":[{"reb":"ホルムスブ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Holmsbu"}]}]}
 {"ent_seq":5077338,"r_ele":[{"reb":"ホルムズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Holmes"}]}]}
-{"ent_seq":5077339,"k_ele":[{"keb":"ホルムズ海峡"}],"r_ele":[{"reb":"ホルムズかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Strait of Hormuz"}]}]}
+{"ent_seq":5077339,"k_ele":[{"keb":"ホルムズ海峡"}],"r_ele":[{"reb":"ホルムズかいきょう","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Strait of Hormuz"}]}]}
 {"ent_seq":5077340,"k_ele":[{"keb":"ホルム湖"}],"r_ele":[{"reb":"ホルムこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Holmsjon (lake)"}]}]}
 {"ent_seq":5077341,"r_ele":[{"reb":"ホルメストラン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Holmestrand"}]}]}
 {"ent_seq":5077342,"r_ele":[{"reb":"ホルモフスカヤ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kholmovskoi"}]}]}
@@ -78147,7 +78147,7 @@
 {"ent_seq":5078663,"r_ele":[{"reb":"ポエリオ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Poerio"}]}]}
 {"ent_seq":5078664,"r_ele":[{"reb":"ポオ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Poe"}]}]}
 {"ent_seq":5078665,"r_ele":[{"reb":"ポカテロ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pocatello"},{"value":"Pocattelo"}]}]}
-{"ent_seq":5078666,"r_ele":[{"reb":"ポカホンタス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pocahontas"}]}]}
+{"ent_seq":5078666,"r_ele":[{"reb":"ポカホンタス","re_pri":{"spec":1}}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Pocahontas (1595?-1617)"}]}]}
 {"ent_seq":5078667,"r_ele":[{"reb":"ポカラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pokhara (Nepal)"}]}]}
 {"ent_seq":5078668,"r_ele":[{"reb":"ポカラン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pokaran"}]}]}
 {"ent_seq":5078670,"r_ele":[{"reb":"ポカンティコ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pocantico"}]}]}
