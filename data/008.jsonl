@@ -43238,4 +43238,11 @@
 {"ent_seq":5747628,"k_ele":[{"keb":"日本法医学会"}],"r_ele":[{"reb":"にほんほういがっかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japanese Society of Legal Medicine"},{"value":"JSLM"}]}]}
 {"ent_seq":5747629,"k_ele":[{"keb":"予言集"}],"r_ele":[{"reb":"よげんしゅう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Les Prophéties (collection of prophecies by Nostradamus)"}]}]}
 {"ent_seq":5747630,"r_ele":[{"reb":"デューン","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Dune (series of novels by Frank Herbert)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-22"}]}]}
+{"ent_seq":5747631,"k_ele":[{"keb":"旺佑"}],"r_ele":[{"reb":"おおすけ"},{"reb":"おうすけ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ōsuke"}]}]}
+{"ent_seq":5747632,"k_ele":[{"keb":"出目男"}],"r_ele":[{"reb":"でめお"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Demeo"}]}]}
+{"ent_seq":5747633,"r_ele":[{"reb":"いらすとや"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Irasutoya"}]}]}
+{"ent_seq":5747634,"r_ele":[{"reb":"セントマリー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Saint Mary"}]}]}
+{"ent_seq":5747635,"r_ele":[{"reb":"セントマリア"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Saint Maria"},{"value":"Saint Mary"}]}]}
+{"ent_seq":5747636,"r_ele":[{"reb":"ロキシー"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Roxy"},{"value":"Roxie"}]}]}
+{"ent_seq":5747637,"k_ele":[{"keb":"一九八四年"},{"keb":"１９８４年"}],"r_ele":[{"reb":"せんきゅうひゃくはちじゅうよねん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Nineteen Eighty-Four (1949 novel by George Orwell)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-29"}]}]}

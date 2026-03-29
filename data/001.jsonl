@@ -71800,7 +71800,7 @@
 {"ent_seq":5072284,"r_ele":[{"reb":"ブルガール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bulghar"}]}]}
 {"ent_seq":5072285,"r_ele":[{"reb":"ブルガス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Burgas"}]}]}
 {"ent_seq":5072286,"k_ele":[{"keb":"ブルガス湾"}],"r_ele":[{"reb":"ブルガスわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Burgaski Zaliv (bay)"}]}]}
-{"ent_seq":5072287,"r_ele":[{"reb":"ブルガリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bulgari"}]}]}
+{"ent_seq":5072287,"r_ele":[{"reb":"ブルガリ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Bulgari"}]}]}
 {"ent_seq":5072288,"r_ele":[{"reb":"ブルガリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bulgaria"},{"value":"Republic of Bulgaria"}]}]}
 {"ent_seq":5072289,"k_ele":[{"keb":"ブルガリア共和国"}],"r_ele":[{"reb":"ブルガリアきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Republic of Bulgaria"}]}]}
 {"ent_seq":5072290,"k_ele":[{"keb":"ブルガリア人民共和国"}],"r_ele":[{"reb":"ブルガリアじんみんきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"(former) People's Republic of Bulgaria"},{"value":"PRB"}]}]}
@@ -79942,7 +79942,7 @@
 {"ent_seq":5080473,"r_ele":[{"reb":"マグダ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Magda"}]}]}
 {"ent_seq":5080474,"r_ele":[{"reb":"マグダガチ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Magdagachi"}]}]}
 {"ent_seq":5080475,"r_ele":[{"reb":"マグダネル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"McDonnell"}]}]}
-{"ent_seq":5080476,"r_ele":[{"reb":"マグダラのマリア"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Mary Magdalen"}]}]}
+{"ent_seq":5080476,"r_ele":[{"reb":"マグダラのマリア"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Mary Magdalene"}]}]}
 {"ent_seq":5080477,"r_ele":[{"reb":"マグダレナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Magdalena (Colombia)"},{"value":"Magdlena (Mexico)"}]}]}
 {"ent_seq":5080478,"r_ele":[{"reb":"マグダレナデルマル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Magdalena del Mar (Peru)"}]}]}
 {"ent_seq":5080479,"k_ele":[{"keb":"マグダレナ川"}],"r_ele":[{"reb":"マグダレナがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rio Magdalena"}]}]}

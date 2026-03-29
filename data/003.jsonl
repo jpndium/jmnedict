@@ -45199,7 +45199,7 @@
 {"ent_seq":5246341,"k_ele":[{"keb":"月稱"}],"r_ele":[{"reb":"げっしょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gesshou"}]}]}
 {"ent_seq":5246342,"k_ele":[{"keb":"月繩"}],"r_ele":[{"reb":"つきなわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tsukinawa"}]}]}
 {"ent_seq":5246343,"k_ele":[{"keb":"月邨"}],"r_ele":[{"reb":"つきむら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tsukimura"}]}]}
-{"ent_seq":5246344,"k_ele":[{"keb":"月魄"}],"r_ele":[{"reb":"つきしろ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Tsukishiro (1908 novel by Yūhō Kikuchi)"}]}]}
+{"ent_seq":5246344,"k_ele":[{"keb":"月魄"}],"r_ele":[{"reb":"つきしろ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Tsukishiro (1908 novel by Yūhō Kikuchi)"}]}]}
 {"ent_seq":5246345,"k_ele":[{"keb":"件"}],"r_ele":[{"reb":"くだん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kudan"}]}]}
 {"ent_seq":5246346,"k_ele":[{"keb":"倹"}],"r_ele":[{"reb":"けん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ken"}]}]}
 {"ent_seq":5246347,"k_ele":[{"keb":"倹儀谷"}],"r_ele":[{"reb":"けぎや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kegiya"}]}]}
