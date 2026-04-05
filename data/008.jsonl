@@ -1,4 +1,3 @@
-{"ent_seq":5702774,"k_ele":[{"keb":"隆旨"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702775,"k_ele":[{"keb":"隆枝"}],"r_ele":[{"reb":"たかえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takae"}]}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
@@ -440,7 +439,7 @@
 {"ent_seq":5703214,"k_ele":[{"keb":"竜ヶ尾山"}],"r_ele":[{"reb":"たつがおやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tatsugaoyama"}]}]}
 {"ent_seq":5703215,"k_ele":[{"keb":"竜ヶ鼻"}],"r_ele":[{"reb":"りゅうがはな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ryūgahana"}]}]}
 {"ent_seq":5703216,"k_ele":[{"keb":"竜ヶ鼻"}],"r_ele":[{"reb":"りゅうがばな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ryūgabana"}]}]}
-{"ent_seq":5703217,"k_ele":[{"keb":"竜ヶ峰"}],"r_ele":[{"reb":"りゅうがみね"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ryūgamine"}]}]}
+{"ent_seq":5703217,"k_ele":[{"keb":"竜ヶ峰"}],"r_ele":[{"reb":"りゅうがみね"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Ryūgamine"}]}]}
 {"ent_seq":5703218,"k_ele":[{"keb":"竜ヶ岬"}],"r_ele":[{"reb":"りゅうがさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūgasaki"}]}]}
 {"ent_seq":5703219,"k_ele":[{"keb":"竜ヶ嵜"}],"r_ele":[{"reb":"りゅうがさき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ryūgasaki"}]}]}
 {"ent_seq":5703220,"k_ele":[{"keb":"竜ヶ嶽"}],"r_ele":[{"reb":"りゅうがたけ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ryūgatake"}]}]}
@@ -39009,7 +39008,7 @@
 {"ent_seq":5743301,"k_ele":[{"keb":"鳥獣戯画"}],"r_ele":[{"reb":"ちょうじゅうぎが","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Scrolls of Frolicking Animals (set of 12th and 13th century picture scrolls)"}]}]}
 {"ent_seq":5743302,"r_ele":[{"reb":"フジロックフェスティバル","re_pri":{"spec":1}},{"reb":"フジ・ロック・フェスティバル"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Fuji Rock Festival (music festival)"}]}]}
 {"ent_seq":5743303,"r_ele":[{"reb":"フジロック","re_pri":{"spec":1}},{"reb":"フジ・ロック"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Fuji Rock Festival (music festival) (abbr)"}]}]}
-{"ent_seq":5743304,"k_ele":[{"keb":"わらしべ長者"},{"keb":"藁稭長者"}],"r_ele":[{"reb":"わらしべちょうしゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Straw Millionaire (Japanese Buddhist folk tale)"}]}]}
+{"ent_seq":5743304,"k_ele":[{"keb":"わらしべ長者"},{"keb":"藁稭長者"}],"r_ele":[{"reb":"わらしべちょうじゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Straw Millionaire (Japanese Buddhist folk tale)"}]}]}
 {"ent_seq":5743305,"k_ele":[{"keb":"羅葡日対訳辞書"}],"r_ele":[{"reb":"らぽにちたいやくじしょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Dictionarium Latino Lusitanicum, Ac Iaponicum (1595 trilingual Latin-Portuguese-Japanese dictionary)"}]}]}
 {"ent_seq":5743306,"k_ele":[{"keb":"茉秋"}],"r_ele":[{"reb":"ましゅう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Matthew"},{"value":"Mashū"}]}]}
 {"ent_seq":5743307,"k_ele":[{"keb":"伊曽保物語"},{"keb":"伊曾保物語"}],"r_ele":[{"reb":"いそほものがたり","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Aesop's Fables (published initially by the Jesuits in 1593)"}]}]}
@@ -43245,4 +43244,23 @@
 {"ent_seq":5747635,"r_ele":[{"reb":"セントマリア"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Saint Maria"},{"value":"Saint Mary"}]}]}
 {"ent_seq":5747636,"r_ele":[{"reb":"ロキシー"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Roxy"},{"value":"Roxie"}]}]}
 {"ent_seq":5747637,"k_ele":[{"keb":"一九八四年"},{"keb":"１９８４年"}],"r_ele":[{"reb":"せんきゅうひゃくはちじゅうよねん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Nineteen Eighty-Four (1949 novel by George Orwell)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-03-29"}]}]}
+{"ent_seq":5747638,"r_ele":[{"reb":"ブラシュコ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Blaschko"}]}]}
+{"ent_seq":5747639,"r_ele":[{"reb":"アズーリ","re_pri":{"spec":1}}],"trans":[{"name_type":["&group;"],"trans_det":[{"value":"Azzurri (nickname for Italian national teams, esp. soccer)"}]}]}
+{"ent_seq":5747640,"k_ele":[{"keb":"奈良井宿"}],"r_ele":[{"reb":"ならいじゅく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Narai-juku"}]}]}
+{"ent_seq":5747641,"k_ele":[{"keb":"司馬懿"}],"r_ele":[{"reb":"しばい"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Sima Yi"}]}]}
+{"ent_seq":5747642,"k_ele":[{"keb":"街亭"}],"r_ele":[{"reb":"がいてい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jieting (ancient strategic pass in present-day Gansu Province, China; site of the Battle of Jieting in 228 CE)"}]}]}
+{"ent_seq":5747644,"k_ele":[{"keb":"倭人伝"}],"r_ele":[{"reb":"わじんでん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Wajinden (passages in Records of the Three Kingdoms describing the Wa people)"}]}]}
+{"ent_seq":5747645,"k_ele":[{"keb":"石兵八陣"}],"r_ele":[{"reb":"せきへいはちじん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Stone Sentinel Maze (Three Kingdoms)"}]}]}
+{"ent_seq":5747646,"k_ele":[{"keb":"兵法三十六計"}],"r_ele":[{"reb":"へいほうさんじゅうろっけい"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Thirty-Six Stratagems"}]}]}
+{"ent_seq":5747647,"k_ele":[{"keb":"赤兎馬"}],"r_ele":[{"reb":"せきとば"}],"trans":[{"name_type":["&creat;","&leg;"],"trans_det":[{"value":"the Red Hare (beloved horse of Lü Bu)"}]}]}
+{"ent_seq":5747648,"k_ele":[{"keb":"諸葛孔明"}],"r_ele":[{"reb":"しょかつこうめい"}],"trans":[{"name_type":["&person;","&work;"],"trans_det":[{"value":"Zhuge Kongming"}]}]}
+{"ent_seq":5747649,"k_ele":[{"keb":"五虎大将軍"}],"r_ele":[{"reb":"ごこだいしょうぐん"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Five Tiger Generals (in the Romance of the Three Kingdoms)"}]}]}
+{"ent_seq":5747650,"k_ele":[{"keb":"五虎大将"}],"r_ele":[{"reb":"ごこたいしょう"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Five Tiger Generals (in the Romance of the Three Kingdoms)"}]}]}
+{"ent_seq":5747651,"k_ele":[{"keb":"五虎将軍"}],"r_ele":[{"reb":"ごこしょうぐん"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Five Tiger Generals (in the Romance of the Three Kingdoms)"}]}]}
+{"ent_seq":5747652,"k_ele":[{"keb":"五虎将"}],"r_ele":[{"reb":"ごこしょう"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Five Tiger Generals (in the Romance of the Three Kingdoms)"}]}]}
+{"ent_seq":5747653,"k_ele":[{"keb":"戦艦ポチョムキン"}],"r_ele":[{"reb":"せんかんポチョムキン"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Battleship Potemkin (1925 film by Sergei Eisenstein)"}]}]}
+{"ent_seq":5747654,"k_ele":[{"keb":"張遼"}],"r_ele":[{"reb":"ちょうりょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Zhang Liao"}]}]}
+{"ent_seq":5747655,"r_ele":[{"reb":"ななみん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nanamin"}]}]}
+{"ent_seq":5747656,"k_ele":[{"keb":"呂蒙"}],"r_ele":[{"reb":"りょもう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lü Meng (178-220 CE)"}]}]}
+{"ent_seq":5747657,"k_ele":[{"keb":"魯粛"}],"r_ele":[{"reb":"ろしゅく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lu Su (172-217 CE)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-04-05"}]}]}

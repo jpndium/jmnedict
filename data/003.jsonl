@@ -76137,7 +76137,7 @@
 {"ent_seq":5277378,"k_ele":[{"keb":"弘甫"}],"r_ele":[{"reb":"こうすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kōsuke"}]}]}
 {"ent_seq":5277379,"k_ele":[{"keb":"弘輔"}],"r_ele":[{"reb":"こうすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kōsuke"}]}]}
 {"ent_seq":5277380,"k_ele":[{"keb":"弘輔"}],"r_ele":[{"reb":"ひろすけ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hirosuke"}]}]}
-{"ent_seq":5277381,"k_ele":[{"keb":"弘法"}],"r_ele":[{"reb":"こうぼう"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Kōbou"}]}]}
+{"ent_seq":5277381,"k_ele":[{"keb":"弘法"}],"r_ele":[{"reb":"こうぼう"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Kōbō"}]},{"name_type":["&person;"],"trans_det":[{"value":"Kōbō Daishi (774-835 CE; founder of Shingon Buddhism and renowned calligrapher)"}]}]}
 {"ent_seq":5277382,"k_ele":[{"keb":"弘法浦"}],"r_ele":[{"reb":"こうぼううら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōbouura"}]}]}
 {"ent_seq":5277383,"k_ele":[{"keb":"弘法岳"}],"r_ele":[{"reb":"こうぼうだけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kōboudake"}]}]}
 {"ent_seq":5277384,"k_ele":[{"keb":"弘法岩"}],"r_ele":[{"reb":"こうぼういわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōbouiwa"}]}]}
@@ -76149,8 +76149,7 @@
 {"ent_seq":5277390,"k_ele":[{"keb":"弘法杉"}],"r_ele":[{"reb":"こうぼうすぎ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōbousugi"}]}]}
 {"ent_seq":5277391,"k_ele":[{"keb":"弘法清水"}],"r_ele":[{"reb":"こうぼうしみず"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōboushimizu"}]}]}
 {"ent_seq":5277392,"k_ele":[{"keb":"弘法清水小屋"}],"r_ele":[{"reb":"こうぼうしみずごや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōboushimizugoya"}]}]}
-{"ent_seq":5277393,"k_ele":[{"keb":"弘法大師"}],"r_ele":[{"reb":"こうぼうだいし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kōbou Daishi"}]}]}
-{"ent_seq":5277394,"k_ele":[{"keb":"弘法大師の像"}],"r_ele":[{"reb":"こうぼうだいしのぞう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōboudaishinozou"}]}]}
+{"ent_seq":5277393,"k_ele":[{"keb":"弘法大師"}],"r_ele":[{"reb":"こうぼうだいし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kōbō Daishi (774-835 CE; founder of Shingon Buddhism and renowned calligrapher)"}]}]}
 {"ent_seq":5277395,"k_ele":[{"keb":"弘法大師堂"}],"r_ele":[{"reb":"こうぼうたいしどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōboutaishidou"}]}]}
 {"ent_seq":5277396,"k_ele":[{"keb":"弘法大師堂"}],"r_ele":[{"reb":"こうぼうだいしどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōboudaishidou"}]}]}
 {"ent_seq":5277397,"k_ele":[{"keb":"弘法大師廟"}],"r_ele":[{"reb":"こうぼうだいしびょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kōboudaishibyō"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301318,"k_ele":[{"keb":"佐藤順一"}],"r_ele":[{"reb":"さとうじゅんいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Jun'ichi (1960-)"}]}]}
 {"ent_seq":5301319,"k_ele":[{"keb":"佐藤順子"}],"r_ele":[{"reb":"さとうじゅんこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Junko"}]}]}
 {"ent_seq":5301320,"k_ele":[{"keb":"佐藤初女"}],"r_ele":[{"reb":"さとうはつめ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hatsume"}]}]}
+{"ent_seq":5301321,"k_ele":[{"keb":"佐藤初雄"}],"r_ele":[{"reb":"さとうはつお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hatsuo"}]}]}

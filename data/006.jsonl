@@ -1,4 +1,3 @@
-{"ent_seq":5501968,"k_ele":[{"keb":"拓甫"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501969,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501970,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たこほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takoho"}]}]}
 {"ent_seq":5501971,"k_ele":[{"keb":"拓北"}],"r_ele":[{"reb":"たくほく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhoku"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602433,"k_ele":[{"keb":"番中"}],"r_ele":[{"reb":"ばんなか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannaka"}]}]}
 {"ent_seq":5602434,"k_ele":[{"keb":"番酎"}],"r_ele":[{"reb":"ばんちゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchuu"}]}]}
 {"ent_seq":5602435,"k_ele":[{"keb":"番帳免"}],"r_ele":[{"reb":"ばんちょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchōmen"}]}]}
+{"ent_seq":5602436,"k_ele":[{"keb":"番町"}],"r_ele":[{"reb":"ばんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchō"}]}]}

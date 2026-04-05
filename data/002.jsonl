@@ -50032,7 +50032,7 @@
 {"ent_seq":5150844,"k_ele":[{"keb":"岡田あーみん"}],"r_ele":[{"reb":"おかだあーみん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Okada Āmin (1965.8.14-)"}]}]}
 {"ent_seq":5150845,"k_ele":[{"keb":"岡田ひとみ"}],"r_ele":[{"reb":"おかだひとみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Okada Hitomi (1982.9.8-)"}]}]}
 {"ent_seq":5150846,"k_ele":[{"keb":"岡田めぐみ"}],"r_ele":[{"reb":"おかだめぐみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Okada Megumi (1986.9.30-)"}]}]}
-{"ent_seq":5150847,"k_ele":[{"keb":"岡田ジャパン"}],"r_ele":[{"reb":"おかだジャパン","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan National Soccer Team"}]}]}
+{"ent_seq":5150847,"k_ele":[{"keb":"岡田ジャパン"}],"r_ele":[{"reb":"おかだジャパン"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan national football team under manager Takeshi Okada (1997-1998, 2007-2010)"}]}]}
 {"ent_seq":5150848,"k_ele":[{"keb":"岡田愛詩"}],"r_ele":[{"reb":"おかだあいじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Okada Aiji (1935.10.28-)"}]}]}
 {"ent_seq":5150849,"k_ele":[{"keb":"岡田伊深"}],"r_ele":[{"reb":"おかだいぶか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Okadaibuka"}]}]}
 {"ent_seq":5150850,"k_ele":[{"keb":"岡田一彦"}],"r_ele":[{"reb":"おかだかずひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Okada Kazuhiko"}]}]}
