@@ -1,4 +1,3 @@
-{"ent_seq":5100648,"k_ele":[{"keb":"阿古屋"}],"r_ele":[{"reb":"あこや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akoya"}]}]}
 {"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野"}],"r_ele":[{"reb":"あこやの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano"}]}]}
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル"}],"r_ele":[{"reb":"あこやのトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano Tunnel"}]}]}
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下"}],"r_ele":[{"reb":"あこした"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoshita"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200961,"k_ele":[{"keb":"季絵子"}],"r_ele":[{"reb":"きえこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kieko"}]}]}
 {"ent_seq":5200962,"k_ele":[{"keb":"季楽"}],"r_ele":[{"reb":"きらく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kiraku"}]}]}
 {"ent_seq":5200963,"k_ele":[{"keb":"季干"}],"r_ele":[{"reb":"りか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Rika"}]}]}
+{"ent_seq":5200964,"k_ele":[{"keb":"季喜"}],"r_ele":[{"reb":"すえき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sueki"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5501969,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501970,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たこほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takoho"}]}]}
 {"ent_seq":5501971,"k_ele":[{"keb":"拓北"}],"r_ele":[{"reb":"たくほく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhoku"}]}]}
 {"ent_seq":5501972,"k_ele":[{"keb":"拓北一条"}],"r_ele":[{"reb":"たくほくいちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuichijō"}]}]}
@@ -77613,7 +77612,7 @@
 {"ent_seq":5579954,"k_ele":[{"keb":"日の口"}],"r_ele":[{"reb":"ひのくち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hinokuchi"}]}]}
 {"ent_seq":5579955,"k_ele":[{"keb":"日の崎大橋"}],"r_ele":[{"reb":"ひのさきおおはし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hinosakioohashi"}]}]}
 {"ent_seq":5579956,"k_ele":[{"keb":"日の出"}],"r_ele":[{"reb":"ひので"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Hinode"}]}]}
-{"ent_seq":5579957,"k_ele":[{"keb":"日の出ふ頭"}],"r_ele":[{"reb":"ひのでふとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hinodefutou"}]}]}
+{"ent_seq":5579957,"k_ele":[{"keb":"日の出埠頭"},{"keb":"日の出ふ頭"}],"r_ele":[{"reb":"ひのでふとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hinode Pier (Tokyo)"}]},{"name_type":["&place;"],"trans_det":[{"value":"Hinode Wharf (Shizuoka)"}]}]}
 {"ent_seq":5579958,"k_ele":[{"keb":"日の出ダム"}],"r_ele":[{"reb":"ひのでダム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hinode Dam"}]}]}
 {"ent_seq":5579959,"k_ele":[{"keb":"日の出一条南"}],"r_ele":[{"reb":"ひのでいちじょうみなみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hinodeichijōminami"}]}]}
 {"ent_seq":5579960,"k_ele":[{"keb":"日の出駅"}],"r_ele":[{"reb":"ひのでえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hinode Station"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602434,"k_ele":[{"keb":"番酎"}],"r_ele":[{"reb":"ばんちゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchuu"}]}]}
 {"ent_seq":5602435,"k_ele":[{"keb":"番帳免"}],"r_ele":[{"reb":"ばんちょうめん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchōmen"}]}]}
 {"ent_seq":5602436,"k_ele":[{"keb":"番町"}],"r_ele":[{"reb":"ばんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banchō"}]}]}
+{"ent_seq":5602437,"k_ele":[{"keb":"番長"}],"r_ele":[{"reb":"はお"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hao"}]}]}

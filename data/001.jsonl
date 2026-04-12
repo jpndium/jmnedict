@@ -1589,7 +1589,6 @@
 {"ent_seq":5001593,"k_ele":[{"keb":"お台場海浜公園駅"}],"r_ele":[{"reb":"おだいばかいひんこうえんえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Odaiba Beach Park Station"}]}]}
 {"ent_seq":5001594,"k_ele":[{"keb":"お辰"}],"r_ele":[{"reb":"おたつ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Otatsu"}]}]}
 {"ent_seq":5001595,"k_ele":[{"keb":"お池"}],"r_ele":[{"reb":"おいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Oike"}]}]}
-{"ent_seq":5001596,"k_ele":[{"keb":"お茶の水"}],"r_ele":[{"reb":"おちゃのみず"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ochanomizu"}]}]}
 {"ent_seq":5001597,"k_ele":[{"keb":"お茶の水女子大学"}],"r_ele":[{"reb":"おちゃのみずじょしだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Ochanomizu Women's University"}]}]}
 {"ent_seq":5001598,"k_ele":[{"keb":"お茶屋"}],"r_ele":[{"reb":"おちゃや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ochaya"}]}]}
 {"ent_seq":5001599,"k_ele":[{"keb":"お茶屋町"}],"r_ele":[{"reb":"おちゃやまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ochayamachi"}]}]}
@@ -8237,7 +8236,7 @@
 {"ent_seq":5008269,"r_ele":[{"reb":"アーチイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Archie"}]}]}
 {"ent_seq":5008270,"k_ele":[{"keb":"アーチズ国立公園"}],"r_ele":[{"reb":"アーチズこくりつこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Arches National Park"}]}]}
 {"ent_seq":5008271,"r_ele":[{"reb":"アーチボード"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Archibald"}]}]}
-{"ent_seq":5008272,"r_ele":[{"reb":"アーチボルド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Archbald"}]}]}
+{"ent_seq":5008272,"r_ele":[{"reb":"アーチボルド"},{"reb":"アーチボルト"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Archibald"},{"value":"Archbald"}]}]}
 {"ent_seq":5008273,"r_ele":[{"reb":"アーチャー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Archer"}]}]}
 {"ent_seq":5008274,"r_ele":[{"reb":"アーチョン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Acheng"}]}]}
 {"ent_seq":5008275,"k_ele":[{"keb":"アーチ川"}],"r_ele":[{"reb":"アーチがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Athi (river)"}]}]}
@@ -36452,7 +36451,7 @@
 {"ent_seq":5036696,"r_ele":[{"reb":"ザーン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zahn"}]}]}
 {"ent_seq":5036697,"r_ele":[{"reb":"ザーンアントワンシャプタル"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jean Antoine Chaptal"}]}]}
 {"ent_seq":5036698,"r_ele":[{"reb":"ザーンスタット"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zaanstad (The Netherlands)"}]}]}
-{"ent_seq":5036699,"r_ele":[{"reb":"ザーンダム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zaandam"}]}]}
+{"ent_seq":5036699,"r_ele":[{"reb":"ザーンダム"},{"reb":"ザアンダム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zaandam (Netherlands)"}]}]}
 {"ent_seq":5036700,"r_ele":[{"reb":"ザアマチュア","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Amateur (film)"}]}]}
 {"ent_seq":5036701,"r_ele":[{"reb":"ザィデルフェルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zijderveld"}]}]}
 {"ent_seq":5036702,"r_ele":[{"reb":"ザイール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zaire (now Democratic Republic of the Congo)"}]}]}
@@ -72380,7 +72379,7 @@
 {"ent_seq":5072867,"r_ele":[{"reb":"プシルスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Przyluski"}]}]}
 {"ent_seq":5072868,"r_ele":[{"reb":"プジャード"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Poujade"}]}]}
 {"ent_seq":5072869,"r_ele":[{"reb":"プジュベ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pujebet"}]}]}
-{"ent_seq":5072870,"r_ele":[{"reb":"プジョー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Peugeot"}]}]}
+{"ent_seq":5072870,"r_ele":[{"reb":"プジョー"}],"trans":[{"name_type":["&product;","&company;"],"trans_det":[{"value":"Peugeot"}]}]}
 {"ent_seq":5072871,"r_ele":[{"reb":"プスカーシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Puskus"}]}]}
 {"ent_seq":5072872,"r_ele":[{"reb":"プスカシ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Puskas"}]}]}
 {"ent_seq":5072873,"r_ele":[{"reb":"プスカス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Puscasu"}]}]}
@@ -79990,7 +79989,7 @@
 {"ent_seq":5080521,"r_ele":[{"reb":"マグレーン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Magrane"}]}]}
 {"ent_seq":5080522,"r_ele":[{"reb":"マグレガー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"MacGregor"},{"value":"McGreger"},{"value":"McGregor"}]}]}
 {"ent_seq":5080523,"r_ele":[{"reb":"マグレディ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"McGrady"}]}]}
-{"ent_seq":5080524,"r_ele":[{"reb":"マグレブ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Maghreb"}]}]}
+{"ent_seq":5080524,"r_ele":[{"reb":"マグレブ","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Maghreb"}]}]}
 {"ent_seq":5080525,"r_ele":[{"reb":"マグロー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"MacGraw"}]}]}
 {"ent_seq":5080526,"r_ele":[{"reb":"マグローヒル","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"McGraw Hill"}]}]}
 {"ent_seq":5080527,"r_ele":[{"reb":"マグローリー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"McGrory"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100645,"k_ele":[{"keb":"阿原峠"}],"r_ele":[{"reb":"あばらとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abaratōge"}]}]}
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目"}],"r_ele":[{"reb":"あばらめ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarame"}]}]}
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古"}],"r_ele":[{"reb":"あこ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ako"}]}]}
+{"ent_seq":5100648,"k_ele":[{"keb":"阿古屋"}],"r_ele":[{"reb":"あこや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akoya"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5702775,"k_ele":[{"keb":"隆枝"}],"r_ele":[{"reb":"たかえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takae"}]}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702778,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
@@ -37527,7 +37526,7 @@
 {"ent_seq":5741738,"k_ele":[{"keb":"文正仁"}],"r_ele":[{"reb":"ムンジョンイン"},{"reb":"ムン・ジョンイン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Chung-in Moon (1951.3.25-), advisor to the President of South Korea"}]}]}
 {"ent_seq":5741739,"k_ele":[{"keb":"小林可夢偉"}],"r_ele":[{"reb":"こばやしかむい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kamui Kobayashi (1986.9.13-; racing driver)"}]}]}
 {"ent_seq":5741740,"k_ele":[{"keb":"アメリカ合衆国最高裁判所"}],"r_ele":[{"reb":"アメリカがっしゅうこくさいこうさいばんしょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Supreme Court of the United States of America"},{"value":"SCOTUS"}]}]}
-{"ent_seq":5741741,"r_ele":[{"reb":"マイクラ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Micra (Nissan car model)"}]},{"name_type":["&work;"],"trans_det":[{"value":"Minecraft (video game) (abbr)"}]}]}
+{"ent_seq":5741741,"r_ele":[{"reb":"マイクラ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Minecraft (video game) (abbr)"}]},{"name_type":["&product;"],"trans_det":[{"value":"Micra (Nissan car model)"}]}]}
 {"ent_seq":5741742,"r_ele":[{"reb":"テレネット","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Telenet"}]}]}
 {"ent_seq":5741743,"k_ele":[{"keb":"製品評価技術基盤機構"}],"r_ele":[{"reb":"せいひんひょうかぎじゅつきばんきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Institute of Technology and Evaluation"},{"value":"NITE"}]}]}
 {"ent_seq":5741744,"k_ele":[{"keb":"鳥山石燕"}],"r_ele":[{"reb":"とりやませきえん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Toriyama Sekien (1712-1788)"}]}]}
@@ -42492,7 +42491,7 @@
 {"ent_seq":5746849,"k_ele":[{"keb":"崇朗"}],"r_ele":[{"reb":"たかとき"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takatoki"}]}]}
 {"ent_seq":5746850,"r_ele":[{"reb":"メディアラボ","re_pri":{"spec":1}},{"reb":"メディア・ラボ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"(MIT) Media Lab"}]}]}
 {"ent_seq":5746851,"r_ele":[{"reb":"ウンディーネ","re_pri":{"spec":1}}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"undine"}]},{"name_type":["&work;"],"trans_det":[{"value":"Undine (1811 German novella by Friedrich de la Motte Fouqué)"}]}]}
-{"ent_seq":5746852,"k_ele":[{"keb":"許家元"}],"r_ele":[{"reb":"きょかげん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kyo Kagen (1997.12.24-; professional go player)"}]}]}
+{"ent_seq":5746852,"k_ele":[{"keb":"許家元"}],"r_ele":[{"reb":"きょかげん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kyo Kagen (1997.12.24-; professional go player)"},{"value":"Hsu Chia Yuan"}]}]}
 {"ent_seq":5746853,"r_ele":[{"reb":"エコノミスト","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Economist (weekly newspaper)"}]}]}
 {"ent_seq":5746854,"r_ele":[{"reb":"ナショナルトラスト","re_pri":{"spec":1}},{"reb":"ナショナル・トラスト"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Trust (conservation organization in England, Wales and Northern Ireland)"}]}]}
 {"ent_seq":5746855,"k_ele":[{"keb":"崔圭夏"}],"r_ele":[{"reb":"さいけいか"},{"reb":"チェ・ギュハ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Choi Kyu-ha (4th President of South Korea; 1919.7.16-2006.10.22)"}]}]}
@@ -42505,7 +42504,7 @@
 {"ent_seq":5746862,"k_ele":[{"keb":"久珍"}],"r_ele":[{"reb":"ひさみち"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Hisamichi"}]}]}
 {"ent_seq":5746863,"r_ele":[{"reb":"オレオ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Oreo (sandwich cookie)"}]}]}
 {"ent_seq":5746864,"k_ele":[{"keb":"神々の黄昏"}],"r_ele":[{"reb":"かみがみのたそがれ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Twilight of the Gods (music drama by Richard Wagner)"},{"value":"Götterdämmerung"}]}]}
-{"ent_seq":5746865,"r_ele":[{"reb":"カルバリ"},{"reb":"カルヴァリ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Calvary"},{"value":"Golgotha"}]}]}
+{"ent_seq":5746865,"r_ele":[{"reb":"カルバリ"},{"reb":"カルヴァリ","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Calvary"},{"value":"Golgotha"}]}]}
 {"ent_seq":5746867,"k_ele":[{"keb":"龍が如く"}],"r_ele":[{"reb":"りゅうがごとく","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Yakuza (video game series)"},{"value":"Like a Dragon"}]}]}
 {"ent_seq":5746868,"r_ele":[{"reb":"ジャンヌ・ダルク"},{"reb":"ジャンヌダルク"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Joan of Arc (1412-1431; French military leader)"}]}]}
 {"ent_seq":5746869,"r_ele":[{"reb":"カップヌードル","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Cup Noodles (brand of instant noodles)"}]}]}
@@ -43067,7 +43066,7 @@
 {"ent_seq":5747451,"k_ele":[{"keb":"３１"}],"r_ele":[{"reb":"サーティワン","re_pri":{"spec":1}},{"reb":"サーティーワン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Baskin-Robbins (abbr)"}]}]}
 {"ent_seq":5747452,"k_ele":[{"keb":"３１アイスクリーム"}],"r_ele":[{"reb":"サーティワンアイスクリーム","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Baskin-Robbins"}]}]}
 {"ent_seq":5747453,"k_ele":[{"keb":"名探偵コナン"}],"r_ele":[{"reb":"めいたんていコナン","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Detective Conan (manga series and media franchise)"},{"value":"Case Closed"}]}]}
-{"ent_seq":5747454,"r_ele":[{"reb":"ブルアカ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Blue Archive (abbr) (video game)"}]}]}
+{"ent_seq":5747454,"r_ele":[{"reb":"ブルアカ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Blue Archive (video game) (abbr)"}]}]}
 {"ent_seq":5747455,"r_ele":[{"reb":"ブルーアーカイブ"},{"reb":"ブルー・アーカイブ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Blue Archive (video game)"}]}]}
 {"ent_seq":5747456,"r_ele":[{"reb":"ビーハイブ"},{"reb":"ビーハイヴ"}],"trans":[{"trans_det":[{"value":"Beehive"}]}]}
 {"ent_seq":5747457,"k_ele":[{"keb":"東京科学大学"}],"r_ele":[{"reb":"とうきょうかがくだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute of Science Tokyo"}]}]}
@@ -43249,6 +43248,7 @@
 {"ent_seq":5747640,"k_ele":[{"keb":"奈良井宿"}],"r_ele":[{"reb":"ならいじゅく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Narai-juku"}]}]}
 {"ent_seq":5747641,"k_ele":[{"keb":"司馬懿"}],"r_ele":[{"reb":"しばい"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Sima Yi"}]}]}
 {"ent_seq":5747642,"k_ele":[{"keb":"街亭"}],"r_ele":[{"reb":"がいてい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jieting (ancient strategic pass in present-day Gansu Province, China; site of the Battle of Jieting in 228 CE)"}]}]}
+{"ent_seq":5747643,"k_ele":[{"keb":"夏侯惇"}],"r_ele":[{"reb":"かこうとん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Xiahou Dun (ca. 220CE)"},{"value":"Yuanrang"}]}]}
 {"ent_seq":5747644,"k_ele":[{"keb":"倭人伝"}],"r_ele":[{"reb":"わじんでん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Wajinden (passages in Records of the Three Kingdoms describing the Wa people)"}]}]}
 {"ent_seq":5747645,"k_ele":[{"keb":"石兵八陣"}],"r_ele":[{"reb":"せきへいはちじん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Stone Sentinel Maze (Three Kingdoms)"}]}]}
 {"ent_seq":5747646,"k_ele":[{"keb":"兵法三十六計"}],"r_ele":[{"reb":"へいほうさんじゅうろっけい"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Thirty-Six Stratagems"}]}]}
@@ -43263,4 +43263,33 @@
 {"ent_seq":5747655,"r_ele":[{"reb":"ななみん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nanamin"}]}]}
 {"ent_seq":5747656,"k_ele":[{"keb":"呂蒙"}],"r_ele":[{"reb":"りょもう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lü Meng (178-220 CE)"}]}]}
 {"ent_seq":5747657,"k_ele":[{"keb":"魯粛"}],"r_ele":[{"reb":"ろしゅく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lu Su (172-217 CE)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-04-05"}]}]}
+{"ent_seq":5747658,"k_ele":[{"keb":"富士の樹海"}],"r_ele":[{"reb":"ふじのじゅかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aokigahara Forest (sea of trees at the base of Mount Fuji)"}]}]}
+{"ent_seq":5747660,"k_ele":[{"keb":"まんが甲子園"}],"r_ele":[{"reb":"まんがこうしえん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Manga Kōshien"},{"value":"National High School Manga Championship"}]}]}
+{"ent_seq":5747661,"k_ele":[{"keb":"キュリー夫人"}],"r_ele":[{"reb":"キュリーふじん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Madame Curie"},{"value":"Marie Curie"},{"value":"Maria Skłodowska Curie"}]}]}
+{"ent_seq":5747662,"r_ele":[{"reb":"クラクラ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Clash of Clans (video game) (abbr)"}]}]}
+{"ent_seq":5747663,"r_ele":[{"reb":"クラロワ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Clash Royale (video game) (abbr)"}]}]}
+{"ent_seq":5747664,"r_ele":[{"reb":"スノーフレイク"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Snowflake"}]}]}
+{"ent_seq":5747665,"r_ele":[{"reb":"ボッテガヴェネタ"},{"reb":"ボッテガ・ヴェネタ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Bottega Veneta (fashion brand)"}]}]}
+{"ent_seq":5747666,"k_ele":[{"keb":"聖家族教会"}],"r_ele":[{"reb":"せいかぞくきょうかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sagrada Família (church in Barcelona)"}]}]}
+{"ent_seq":5747667,"r_ele":[{"reb":"アルファベット"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Alphabet"}]}]}
+{"ent_seq":5747668,"r_ele":[{"reb":"コムキャスト"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Comcast"}]}]}
+{"ent_seq":5747669,"r_ele":[{"reb":"クラウドストライク"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"CrowdStrike"}]}]}
+{"ent_seq":5747670,"r_ele":[{"reb":"データゼネラル"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Data General"}]}]}
+{"ent_seq":5747671,"r_ele":[{"reb":"ディスカス"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Disqus"}]}]}
+{"ent_seq":5747672,"r_ele":[{"reb":"エッツィー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Etsy"}]}]}
+{"ent_seq":5747673,"r_ele":[{"reb":"ファイア・アイ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"FireEye"}]}]}
+{"ent_seq":5747674,"r_ele":[{"reb":"フォーティネット"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Fortinet"}]}]}
+{"ent_seq":5747675,"r_ele":[{"reb":"ウェイモ"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Waymo"}]}]}
+{"ent_seq":5747676,"r_ele":[{"reb":"ジュニパーネットワークス"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Juniper Networks"}]}]}
+{"ent_seq":5747677,"r_ele":[{"reb":"マックストア"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Maxtor"}]}]}
+{"ent_seq":5747678,"r_ele":[{"reb":"プルーフポイント"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Proofpoint"}]}]}
+{"ent_seq":5747679,"r_ele":[{"reb":"シミラーウェブ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"SimilarWeb"}]}]}
+{"ent_seq":5747680,"r_ele":[{"reb":"スナップ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Snap"}]}]}
+{"ent_seq":5747681,"r_ele":[{"reb":"シノプシス"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Synopsys"}]}]}
+{"ent_seq":5747682,"r_ele":[{"reb":"トランスメタ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Transmeta"}]}]}
+{"ent_seq":5747683,"r_ele":[{"reb":"ザマリン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Xamarin"}]}]}
+{"ent_seq":5747684,"r_ele":[{"reb":"クール"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Cuil (defunct search engine)"}]}]}
+{"ent_seq":5747685,"r_ele":[{"reb":"インフォシーク"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Infoseek (defunct search engine)"}]}]}
+{"ent_seq":5747686,"r_ele":[{"reb":"ユーロポール","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Europol"},{"value":"European Police Office"}]}]}
+{"ent_seq":5747687,"r_ele":[{"reb":"トロイメライ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Träumerei (piano piece by Robert Schumann)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-04-12"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5602437,"k_ele":[{"keb":"番長"}],"r_ele":[{"reb":"はお"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hao"}]}]}
 {"ent_seq":5602438,"k_ele":[{"keb":"番長"}],"r_ele":[{"reb":"ばんちょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banchō"}]}]}
 {"ent_seq":5602439,"k_ele":[{"keb":"番鳥森"}],"r_ele":[{"reb":"ばんどりもり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bandorimori"}]}]}
 {"ent_seq":5602440,"k_ele":[{"keb":"番鳥沢"}],"r_ele":[{"reb":"ばんどりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandorisawa"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5702772,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"たかしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashirou"}]}]}
 {"ent_seq":5702773,"k_ele":[{"keb":"隆志郎"}],"r_ele":[{"reb":"りゅうしろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūshirou"}]}]}
 {"ent_seq":5702774,"k_ele":[{"keb":"隆旨"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
+{"ent_seq":5702775,"k_ele":[{"keb":"隆枝"}],"r_ele":[{"reb":"たかえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takae"}]}]}
