@@ -16032,7 +16032,7 @@
 {"ent_seq":5016147,"r_ele":[{"reb":"ウラディヴォストーク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Vladivostok"}]}]}
 {"ent_seq":5016148,"k_ele":[{"keb":"ウラナンスケップ川"}],"r_ele":[{"reb":"ウラナンスケップかわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Uranansukeppukawa"}]}]}
 {"ent_seq":5016149,"r_ele":[{"reb":"ウラニツキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Wranizky"}]}]}
-{"ent_seq":5016150,"r_ele":[{"reb":"ウラノス"},{"reb":"ウーラノス"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Uranus (Greek god)"}]}]}
+{"ent_seq":5016150,"r_ele":[{"reb":"ウラノス"},{"reb":"ウーラノス"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Uranus (Greek god)"}]}]}
 {"ent_seq":5016151,"r_ele":[{"reb":"ウラノフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ulanoff"},{"value":"Ulanov"}]}]}
 {"ent_seq":5016152,"r_ele":[{"reb":"ウラノヴァ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ulanova"}]}]}
 {"ent_seq":5016153,"k_ele":[{"keb":"ウラノ沢"}],"r_ele":[{"reb":"ウラノさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Uranosawa"}]}]}
@@ -77571,7 +77571,7 @@
 {"ent_seq":5078084,"r_ele":[{"reb":"ボラーンギル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bolangir (India)"}]}]}
 {"ent_seq":5078085,"r_ele":[{"reb":"ボラズジャン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Borazjan"}]}]}
 {"ent_seq":5078086,"k_ele":[{"keb":"ボラチャ島"}],"r_ele":[{"reb":"ボラチャとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Isla la Borraeha"}]}]}
-{"ent_seq":5078087,"r_ele":[{"reb":"ボラマ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bolama"},{"value":"Borama (Somalia)"}]}]}
+{"ent_seq":5078087,"r_ele":[{"reb":"ボラマ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bolama (Somalia)"},{"value":"Borama"}]}]}
 {"ent_seq":5078088,"r_ele":[{"reb":"ボラルディエール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bollardiere"}]}]}
 {"ent_seq":5078089,"r_ele":[{"reb":"ボラン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bolan"},{"value":"Bolland"}]}]}
 {"ent_seq":5078090,"r_ele":[{"reb":"ボランスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Wolanski"},{"value":"Wolinski"}]}]}

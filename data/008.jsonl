@@ -18173,7 +18173,6 @@
 {"ent_seq":5720991,"k_ele":[{"keb":"勵子"}],"r_ele":[{"reb":"れいこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Reiko"}]}]}
 {"ent_seq":5720992,"k_ele":[{"keb":"勸山"}],"r_ele":[{"reb":"すずやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Suzuyama"}]}]}
 {"ent_seq":5720993,"k_ele":[{"keb":"勹慶"}],"r_ele":[{"reb":"ほうけい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Houkei"}]}]}
-{"ent_seq":5720994,"k_ele":[{"keb":"匈牙利"}],"r_ele":[{"reb":"はんがりー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hangari-"}]}]}
 {"ent_seq":5720995,"k_ele":[{"keb":"甸"}],"r_ele":[{"reb":"おさむ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Osamu"}]}]}
 {"ent_seq":5720996,"k_ele":[{"keb":"匏瓜"}],"r_ele":[{"reb":"ほうか"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Houka"}]}]}
 {"ent_seq":5720997,"k_ele":[{"keb":"區丁平"}],"r_ele":[{"reb":"とにーあう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toni-au"}]}]}
@@ -43264,6 +43263,7 @@
 {"ent_seq":5747656,"k_ele":[{"keb":"呂蒙"}],"r_ele":[{"reb":"りょもう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lü Meng (178-220 CE)"}]}]}
 {"ent_seq":5747657,"k_ele":[{"keb":"魯粛"}],"r_ele":[{"reb":"ろしゅく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lu Su (172-217 CE)"}]}]}
 {"ent_seq":5747658,"k_ele":[{"keb":"富士の樹海"}],"r_ele":[{"reb":"ふじのじゅかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aokigahara Forest (sea of trees at the base of Mount Fuji)"}]}]}
+{"ent_seq":5747659,"k_ele":[{"keb":"サレント半島"}],"r_ele":[{"reb":"サレントはんとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Salento Peninsula (Italy)"}]}]}
 {"ent_seq":5747660,"k_ele":[{"keb":"まんが甲子園"}],"r_ele":[{"reb":"まんがこうしえん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Manga Kōshien"},{"value":"National High School Manga Championship"}]}]}
 {"ent_seq":5747661,"k_ele":[{"keb":"キュリー夫人"}],"r_ele":[{"reb":"キュリーふじん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Madame Curie"},{"value":"Marie Curie"},{"value":"Maria Skłodowska Curie"}]}]}
 {"ent_seq":5747662,"r_ele":[{"reb":"クラクラ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Clash of Clans (video game) (abbr)"}]}]}
@@ -43292,4 +43292,21 @@
 {"ent_seq":5747685,"r_ele":[{"reb":"インフォシーク"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Infoseek (defunct search engine)"}]}]}
 {"ent_seq":5747686,"r_ele":[{"reb":"ユーロポール","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Europol"},{"value":"European Police Office"}]}]}
 {"ent_seq":5747687,"r_ele":[{"reb":"トロイメライ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Träumerei (piano piece by Robert Schumann)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-04-12"}]}]}
+{"ent_seq":5747688,"k_ele":[{"keb":"ＩＣＯＴ"}],"r_ele":[{"reb":"アイコット"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute for New Generation Computer Technology"},{"value":"ICOT"}]}]}
+{"ent_seq":5747689,"r_ele":[{"reb":"マリオ・アドルフ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Mario Adorf (german actor)"}]}]}
+{"ent_seq":5747690,"k_ele":[{"keb":"パブリックドメインの日"}],"r_ele":[{"reb":"パブリックドメインのひ"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Public Domain Day"}]}]}
+{"ent_seq":5747691,"k_ele":[{"keb":"アルテミスＩＩ"},{"keb":"アルテミス２"}],"r_ele":[{"reb":"アルテミスツー"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Artemis II (2026 lunar flyby mission)"}]}]}
+{"ent_seq":5747692,"r_ele":[{"reb":"リッスンブール"}],"trans":[{"name_type":["&fict;","&place;"],"trans_det":[{"value":"Listenbourg"}]}]}
+{"ent_seq":5747693,"r_ele":[{"reb":"シント・マールテン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sint Maarten"}]}]}
+{"ent_seq":5747694,"k_ele":[{"keb":"かなまら祭り"}],"r_ele":[{"reb":"かなまらまつり"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Kanamara Matsuri"}]}]}
+{"ent_seq":5747695,"r_ele":[{"reb":"グングニル"},{"reb":"グングネル"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Gungnir (Odin's spear)"}]}]}
+{"ent_seq":5747696,"r_ele":[{"reb":"ヒーシェベリ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hirshabelle (Somalia)"}]}]}
+{"ent_seq":5747697,"r_ele":[{"reb":"ジュバランド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jubbaland (Somalia)"}]}]}
+{"ent_seq":5747698,"k_ele":[{"keb":"美団"}],"r_ele":[{"reb":"メイトゥアン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Meituan"}]}]}
+{"ent_seq":5747699,"k_ele":[{"keb":"赤い悪魔"}],"r_ele":[{"reb":"あかいあくま"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Red Devils (nickname for various sports teams)"}]},{"name_type":["&obj;"],"trans_det":[{"value":"Red Devil (nickname for various Italian WWII hand grenades))"}]}]}
+{"ent_seq":5747700,"r_ele":[{"reb":"カンネー"},{"reb":"カンナエ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cannae"},{"value":"Canne (Italy)"}]},{"name_type":["&ev;"],"trans_det":[{"value":"Battle of Cannae (216 BCE)"}]}]}
+{"ent_seq":5747701,"k_ele":[{"keb":"Ｋパン"}],"r_ele":[{"reb":"ケイパン"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"K-brot (potato and rye wartime bread in Germany during WWI)"}]}]}
+{"ent_seq":5747702,"r_ele":[{"reb":"スーノ・エーアイ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Suno AI"}]}]}
+{"ent_seq":5747703,"r_ele":[{"reb":"ゴールデンチップス"},{"reb":"ゴールデン・チップス"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Golden Tips (tea)"}]}]}
+{"ent_seq":5747704,"r_ele":[{"reb":"ヒュギエイア"},{"reb":"ヒュギエイヤ"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Hygieia (goddess in Greek mythology)"},{"value":"Hygeia"},{"value":"Hygiea"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-04-19"}]}]}

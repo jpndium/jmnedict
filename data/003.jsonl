@@ -16566,7 +16566,7 @@
 {"ent_seq":5217598,"k_ele":[{"keb":"旧島原藩薬園跡"}],"r_ele":[{"reb":"きゅうしまばらはんやくえんあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyūshimabarahanyakuen'ato"}]}]}
 {"ent_seq":5217599,"k_ele":[{"keb":"旧島松駅逓所"}],"r_ele":[{"reb":"きゅうしままつえきていしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyūshimamatsuekiteisho"}]}]}
 {"ent_seq":5217600,"k_ele":[{"keb":"旧東"}],"r_ele":[{"reb":"きゅうとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyūtou"}]}]}
-{"ent_seq":5217601,"k_ele":[{"keb":"旧東海道"}],"r_ele":[{"reb":"きゅうとうかいどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyūtoukaidō"}]}]}
+{"ent_seq":5217601,"k_ele":[{"keb":"旧東海道"}],"r_ele":[{"reb":"きゅうとうかいどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyū-Tōkaidō (former Tōkaidō road;specifically the section between Kita-Shinagawa and Minami-Ōi in Shinagawa, Tokyo)"}]}]}
 {"ent_seq":5217602,"k_ele":[{"keb":"旧藤山家住宅日本家"}],"r_ele":[{"reb":"きゅうふじやまけじゅうたくにほんや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyūfujiyamakejuutakunihonya"}]}]}
 {"ent_seq":5217603,"k_ele":[{"keb":"旧鐙屋"}],"r_ele":[{"reb":"きゅうあぶみや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kyūabumiya"}]}]}
 {"ent_seq":5217604,"k_ele":[{"keb":"旧道"}],"r_ele":[{"reb":"ふるみち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Furumichi"}]}]}
@@ -79298,7 +79298,7 @@
 {"ent_seq":5280548,"k_ele":[{"keb":"洪可"}],"r_ele":[{"reb":"おおか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ooka"}]}]}
 {"ent_seq":5280549,"k_ele":[{"keb":"洪花"}],"r_ele":[{"reb":"おおか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ooka"}]}]}
 {"ent_seq":5280550,"k_ele":[{"keb":"洪花"}],"r_ele":[{"reb":"ひろか"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hiroka"}]}]}
-{"ent_seq":5280551,"k_ele":[{"keb":"洪牙利"}],"r_ele":[{"reb":"ハンガリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hungary"}]}]}
+{"ent_seq":5280551,"k_ele":[{"keb":"洪牙利"},{"keb":"匈牙利"}],"r_ele":[{"reb":"ハンガリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hungary"}]}]}
 {"ent_seq":5280552,"k_ele":[{"keb":"洪介"}],"r_ele":[{"reb":"こうすけ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kōsuke"}]}]}
 {"ent_seq":5280553,"k_ele":[{"keb":"洪学智"}],"r_ele":[{"reb":"こうがくち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kōgakuchi"}]}]}
 {"ent_seq":5280554,"k_ele":[{"keb":"洪岳"}],"r_ele":[{"reb":"こうがく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kōgaku"}]}]}
