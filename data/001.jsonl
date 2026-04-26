@@ -57166,7 +57166,7 @@
 {"ent_seq":5057575,"r_ele":[{"reb":"ナーイドゥ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Naidu"}]}]}
 {"ent_seq":5057576,"r_ele":[{"reb":"ナーウェ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nawe"}]}]}
 {"ent_seq":5057577,"k_ele":[{"keb":"ナーオ岬"}],"r_ele":[{"reb":"ナーオみさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cabo de la Nao"}]}]}
-{"ent_seq":5057578,"r_ele":[{"reb":"ナーガ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Naga"}]}]}
+{"ent_seq":5057578,"r_ele":[{"reb":"ナーガ"}],"trans":[{"name_type":["&myth;","&creat;"],"trans_det":[{"value":"Naga"}]}]}
 {"ent_seq":5057579,"r_ele":[{"reb":"ナーガールジュナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"naagaarjuna"}]}]}
 {"ent_seq":5057580,"r_ele":[{"reb":"ナーガセーナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nagasena"}]}]}
 {"ent_seq":5057581,"r_ele":[{"reb":"ナーガパティナム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nagappattinam (India)"}]}]}

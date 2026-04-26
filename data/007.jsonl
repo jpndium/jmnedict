@@ -46126,7 +46126,7 @@
 {"ent_seq":5648770,"k_ele":[{"keb":"堀田正春"}],"r_ele":[{"reb":"ほったまさはる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Masaharu"}]}]}
 {"ent_seq":5648771,"k_ele":[{"keb":"堀田正信"}],"r_ele":[{"reb":"ほったまさのぶ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Masanobu"}]}]}
 {"ent_seq":5648772,"k_ele":[{"keb":"堀田正盛"}],"r_ele":[{"reb":"ほったまさもり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Masamori"}]}]}
-{"ent_seq":5648773,"k_ele":[{"keb":"堀田正睦"}],"r_ele":[{"reb":"ほったまさむつ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Masamutsu"}]}]}
+{"ent_seq":5648773,"k_ele":[{"keb":"堀田正睦"}],"r_ele":[{"reb":"ほったまさよし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Masayoshi (1810.8.30-1864.4.26)"}]}]}
 {"ent_seq":5648774,"k_ele":[{"keb":"堀田善衛"}],"r_ele":[{"reb":"ほったぜんえい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Zen'ei"}]}]}
 {"ent_seq":5648775,"k_ele":[{"keb":"堀田善衛"}],"r_ele":[{"reb":"ほったよしえ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hotta Yoshie (1918-)"}]}]}
 {"ent_seq":5648776,"k_ele":[{"keb":"堀田沢"}],"r_ele":[{"reb":"ほりたざわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Horitazawa"}]}]}
