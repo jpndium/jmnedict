@@ -43321,4 +43321,16 @@
 {"ent_seq":5747716,"k_ele":[{"keb":"塩津"},{"keb":"鹽津"}],"r_ele":[{"reb":"えんしん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yanjin (China)"}]}]}
 {"ent_seq":5747717,"k_ele":[{"keb":"延津"}],"r_ele":[{"reb":"えんしん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yanjin (China)"}]}]}
 {"ent_seq":5747718,"r_ele":[{"reb":"ターヘルアナトミア"},{"reb":"ターヘル・アナトミア"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Tafel Anatomie (Dutch source of the Kaitai Shinsho)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-04-26"}]}]}
+{"ent_seq":5747719,"k_ele":[{"keb":"解体新書"},{"keb":"解體新書"}],"r_ele":[{"reb":"かいたいしんしょ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Kaitai Shinsho (A New Book on Anatomy; Edo period translation of a Dutch version of a German text)"}]}]}
+{"ent_seq":5747720,"k_ele":[{"keb":"三文オペラ"}],"r_ele":[{"reb":"さんもんオペラ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Threepenny Opera (1928 German play by Bertolt Brecht, set to music by Kurt Weill)"},{"value":"Die Dreigroschenoper"}]}]}
+{"ent_seq":5747721,"r_ele":[{"reb":"モリタート"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Die Moritat von Mackie Messer (song from the play The Threepenny Opera)"}]}]}
+{"ent_seq":5747722,"r_ele":[{"reb":"マック・ザ・ナイフ"},{"reb":"マックザナイフ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mack the Knife (song from The Threepenny Opera)"}]}]}
+{"ent_seq":5747723,"r_ele":[{"reb":"メッキー・メッサー"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Mackie Messer (character in The Threepenny Opera)"}]}]}
+{"ent_seq":5747724,"r_ele":[{"reb":"バーキン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Burger King (abbr)"}]}]}
+{"ent_seq":5747725,"k_ele":[{"keb":"ニコ生"}],"r_ele":[{"reb":"ニコなま"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Niconico Live (streaming service)"}]}]}
+{"ent_seq":5747726,"k_ele":[{"keb":"紅茶花伝"}],"r_ele":[{"reb":"こうちゃかでん"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Kōchakaden (brand of black tea)"}]}]}
+{"ent_seq":5747727,"k_ele":[{"keb":"ポタラ宮"},{"keb":"布達拉宮"}],"r_ele":[{"reb":"ポタラきゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Potala Palace (China)"}]}]}
+{"ent_seq":5747728,"k_ele":[{"keb":"里見八犬伝"}],"r_ele":[{"reb":"さとみはっけんでん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Nansō Satomi Hakkenden (abbr)"},{"value":"Satomi Hakkenden"},{"value":"Eight Dog Chronicles"},{"value":"Tale of Eight Dogs"}]}]}
+{"ent_seq":5747729,"k_ele":[{"keb":"特茶"}],"r_ele":[{"reb":"とくちゃ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Tokucha (brand of tea)"}]}]}
+{"ent_seq":5747730,"k_ele":[{"keb":"羅生門河岸"}],"r_ele":[{"reb":"らしょうもんがし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rashōmon-gashi (Edo)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-03"}]}]}

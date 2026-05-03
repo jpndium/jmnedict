@@ -91575,7 +91575,7 @@
 {"ent_seq":5192508,"k_ele":[{"keb":"関東電化水島工場"}],"r_ele":[{"reb":"かんとうでんかみずしまこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kantoudenkamizushima Factory"}]}]}
 {"ent_seq":5192509,"k_ele":[{"keb":"関東電気協会"}],"r_ele":[{"reb":"かんとうでんききょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Kanto Electric Association"}]}]}
 {"ent_seq":5192510,"k_ele":[{"keb":"関東特殊製鋼工場"}],"r_ele":[{"reb":"かんとうとくしゅせいこうこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kantoutokushuseikou Factory"}]}]}
-{"ent_seq":5192511,"k_ele":[{"keb":"関東平野"}],"r_ele":[{"reb":"かんとうへいや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kantouheiya"}]}]}
+{"ent_seq":5192511,"k_ele":[{"keb":"関東平野"}],"r_ele":[{"reb":"かんとうへいや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kantō Plain"}]}]}
 {"ent_seq":5192512,"k_ele":[{"keb":"関東労災病院"}],"r_ele":[{"reb":"かんとうろうさいびょういん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Kanto Rosai Hospital"}]}]}
 {"ent_seq":5192513,"k_ele":[{"keb":"関藤"}],"r_ele":[{"reb":"かんどう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kandō"}]}]}
 {"ent_seq":5192514,"k_ele":[{"keb":"関藤"}],"r_ele":[{"reb":"せきとう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sekitō"}]}]}

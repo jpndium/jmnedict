@@ -94585,7 +94585,7 @@
 {"ent_seq":5095207,"r_ele":[{"reb":"ロシア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Russia"}]}]}
 {"ent_seq":5095208,"r_ele":[{"reb":"ロシアン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lothian"}]}]}
 {"ent_seq":5095209,"r_ele":[{"reb":"ロシアンリバーヴァレー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Russian River Valley"}]}]}
-{"ent_seq":5095210,"k_ele":[{"keb":"ロシア共和国"}],"r_ele":[{"reb":"ロシアきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rossyskaya Sovetskaya Federativnaya Sotsialisticheskaya Republika"}]}]}
+{"ent_seq":5095210,"k_ele":[{"keb":"ロシア共和国"}],"r_ele":[{"reb":"ロシアきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Russian Republic"}]},{"name_type":["&place;"],"trans_det":[{"value":"Russian Soviet Federated Socialist Republic"},{"value":"RSFSR"}]}]}
 {"ent_seq":5095211,"k_ele":[{"keb":"ロシア国立図書館"}],"r_ele":[{"reb":"ロシアこくりつとしょかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Russian State Library"}]}]}
 {"ent_seq":5095212,"k_ele":[{"keb":"ロシア東欧貿易会"}],"r_ele":[{"reb":"ロシアとうおうぼうえきかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Japan Association for Trade with Russia &amp; Central-Eastern Europe (ROTOBO)"}]}]}
 {"ent_seq":5095213,"k_ele":[{"keb":"ロシア連邦"}],"r_ele":[{"reb":"ロシアれんぽう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Russian Federation"}]}]}

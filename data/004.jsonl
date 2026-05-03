@@ -66189,7 +66189,7 @@
 {"ent_seq":5367697,"k_ele":[{"keb":"徐孫"}],"r_ele":[{"reb":"じよそん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jiyoson"}]}]}
 {"ent_seq":5367698,"k_ele":[{"keb":"徐田"}],"r_ele":[{"reb":"じよだ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jiyoda"}]}]}
 {"ent_seq":5367699,"k_ele":[{"keb":"徐楓"}],"r_ele":[{"reb":"しーふん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shi-fun"}]}]}
-{"ent_seq":5367700,"k_ele":[{"keb":"徐福"}],"r_ele":[{"reb":"じょふく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jofuku"}]}]}
+{"ent_seq":5367700,"k_ele":[{"keb":"徐福"}],"r_ele":[{"reb":"じょふく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Xu Fu (Qin dynasty court sorcerer sent by Qin Shi Huang to find the elixir of life)"}]}]}
 {"ent_seq":5367701,"k_ele":[{"keb":"徐福墓"}],"r_ele":[{"reb":"じょふくぼ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jofukubo"}]}]}
 {"ent_seq":5367702,"k_ele":[{"keb":"徐倫"}],"r_ele":[{"reb":"じょりーん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jori-n"}]}]}
 {"ent_seq":5367703,"k_ele":[{"keb":"徐渭"}],"r_ele":[{"reb":"じょい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Joi"}]}]}
