@@ -1,4 +1,3 @@
-{"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702778,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
 {"ent_seq":5702779,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"りゅうし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūshi"}]}]}
@@ -43333,4 +43332,15 @@
 {"ent_seq":5747728,"k_ele":[{"keb":"里見八犬伝"}],"r_ele":[{"reb":"さとみはっけんでん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Nansō Satomi Hakkenden (abbr)"},{"value":"Satomi Hakkenden"},{"value":"Eight Dog Chronicles"},{"value":"Tale of Eight Dogs"}]}]}
 {"ent_seq":5747729,"k_ele":[{"keb":"特茶"}],"r_ele":[{"reb":"とくちゃ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Tokucha (brand of tea)"}]}]}
 {"ent_seq":5747730,"k_ele":[{"keb":"羅生門河岸"}],"r_ele":[{"reb":"らしょうもんがし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rashōmon-gashi (Edo)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-03"}]}]}
+{"ent_seq":5747731,"r_ele":[{"reb":"ナチュロー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Natural Lawson (abbr)"}]}]}
+{"ent_seq":5747732,"r_ele":[{"reb":"ナチュラルローソン"},{"reb":"ナチュラル・ローソン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Natural Lawson"}]}]}
+{"ent_seq":5747733,"k_ele":[{"keb":"碧寧"}],"r_ele":[{"reb":"あいね"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Aine"}]}]}
+{"ent_seq":5747734,"k_ele":[{"keb":"神無月の巫女"}],"r_ele":[{"reb":"かんなづきのみこ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Priestess of a Godless Month"}]}]}
+{"ent_seq":5747735,"k_ele":[{"keb":"モノノ怪"}],"r_ele":[{"reb":"モノノけ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mononoke (animated TV series, 2007)"}]}]}
+{"ent_seq":5747736,"k_ele":[{"keb":"夢の浮橋"},{"keb":"夢浮橋"},{"keb":"夢の浮き橋"}],"r_ele":[{"reb":"ゆめのうきはし"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Yume no Ukihashi (54th and final chapter of the Tale of Genji)"}]}]}
+{"ent_seq":5747737,"k_ele":[{"keb":"瑞麗"}],"r_ele":[{"reb":"ずいれい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ruili (China)"}]}]}
+{"ent_seq":5747738,"k_ele":[{"keb":"イスラム革命防衛隊"}],"r_ele":[{"reb":"イスラムかくめいぼうえいたい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Islamic Revolutionary Guard Corps (Iran)"},{"value":"IRGC"}]}]}
+{"ent_seq":5747739,"k_ele":[{"keb":"シーサンパンナタイ族自治州"},{"keb":"西双版納傣族自治州"}],"r_ele":[{"reb":"シーサンパンナタイぞくじちしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Xishuangbanna Dai Autonomous Prefecture (China)"}]}]}
+{"ent_seq":5747740,"k_ele":[{"keb":"中国建設銀行"}],"r_ele":[{"reb":"ちゅうごくけんせつぎんこう"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"China Construction Bank"}]}]}
+{"ent_seq":5747741,"k_ele":[{"keb":"磐越道"}],"r_ele":[{"reb":"ばんえつどう"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Ban'etsu Expressway (abbr)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-10"}]}]}

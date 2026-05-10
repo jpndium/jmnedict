@@ -1,4 +1,3 @@
-{"ent_seq":5200965,"k_ele":[{"keb":"季希"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
 {"ent_seq":5200966,"k_ele":[{"keb":"季祈"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
 {"ent_seq":5200967,"k_ele":[{"keb":"季貴"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
 {"ent_seq":5200968,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
@@ -25028,7 +25027,7 @@
 {"ent_seq":5226092,"k_ele":[{"keb":"玉茗"}],"r_ele":[{"reb":"ぎょくめい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Gyokumei"}]}]}
 {"ent_seq":5226093,"k_ele":[{"keb":"玉蟲"}],"r_ele":[{"reb":"たまむし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tamamushi"}]}]}
 {"ent_seq":5226094,"k_ele":[{"keb":"玉邨"}],"r_ele":[{"reb":"ぎょくそん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Gyokuson"}]}]}
-{"ent_seq":5226095,"k_ele":[{"keb":"玉鬘"}],"r_ele":[{"reb":"たまかずら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tamakazura"}]}]}
+{"ent_seq":5226095,"k_ele":[{"keb":"玉鬘"}],"r_ele":[{"reb":"たまかずら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tamakazura"}]},{"name_type":["&work;"],"trans_det":[{"value":"Tamakazura (22nd chapter of The Tale of Genji)"}]},{"name_type":["&char;"],"trans_det":[{"value":"Tamakazura (character in The Tale of Genji)"}]}]}
 {"ent_seq":5226096,"k_ele":[{"keb":"玉麒麟"}],"r_ele":[{"reb":"たまきりん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Tamakirin"}]}]}
 {"ent_seq":5226097,"k_ele":[{"keb":"桐"}],"r_ele":[{"reb":"きり"}],"trans":[{"name_type":["&fem;","&surname;"],"trans_det":[{"value":"Kiri"}]}]}
 {"ent_seq":5226098,"k_ele":[{"keb":"桐"}],"r_ele":[{"reb":"きりさき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kirisaki"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301320,"k_ele":[{"keb":"佐藤初女"}],"r_ele":[{"reb":"さとうはつめ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hatsume"}]}]}
 {"ent_seq":5301321,"k_ele":[{"keb":"佐藤初雄"}],"r_ele":[{"reb":"さとうはつお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Hatsuo"}]}]}
 {"ent_seq":5301322,"k_ele":[{"keb":"佐藤渚"}],"r_ele":[{"reb":"さとうなぎさ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Nagisa (1987.11.7-)"}]}]}
+{"ent_seq":5301323,"k_ele":[{"keb":"佐藤勝"}],"r_ele":[{"reb":"さとうまさる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Masaru (1928.5.29-1999.10.5)"}]}]}

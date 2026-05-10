@@ -43317,7 +43317,6 @@
 {"ent_seq":5043627,"r_ele":[{"reb":"スタビアエ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Stabiae"}]}]}
 {"ent_seq":5043628,"r_ele":[{"reb":"スタビィ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Stubby"}]}]}
 {"ent_seq":5043629,"r_ele":[{"reb":"スタビュラス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Stabulas"}]}]}
-{"ent_seq":5043630,"r_ele":[{"reb":"スタフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Staff"}]}]}
 {"ent_seq":5043631,"r_ele":[{"reb":"スタファ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Staffa"}]}]}
 {"ent_seq":5043632,"r_ele":[{"reb":"スタファン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Staffan"}]}]}
 {"ent_seq":5043633,"k_ele":[{"keb":"スタファ島"}],"r_ele":[{"reb":"スタファとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Staffa (island)"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目"}],"r_ele":[{"reb":"あばらめ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Abarame"}]}]}
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古"}],"r_ele":[{"reb":"あこ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ako"}]}]}
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋"}],"r_ele":[{"reb":"あこや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akoya"}]}]}
+{"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野"}],"r_ele":[{"reb":"あこやの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano"}]}]}
