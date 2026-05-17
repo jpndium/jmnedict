@@ -11577,7 +11577,7 @@
 {"ent_seq":5011638,"r_ele":[{"reb":"アヱ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ae"},{"value":"Awe"}]}]}
 {"ent_seq":5011639,"r_ele":[{"reb":"アヲ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ao"},{"value":"Awo"}]}]}
 {"ent_seq":5011640,"r_ele":[{"reb":"アン"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"An"},{"value":"Ane"},{"value":"Ang"},{"value":"Ann"},{"value":"Anne"}]},{"name_type":["&place;"],"trans_det":[{"value":"Hens (France)"}]}]}
-{"ent_seq":5011641,"r_ele":[{"reb":"アン・サリヴァン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Anne Sullivan"}]}]}
+{"ent_seq":5011641,"r_ele":[{"reb":"アン・サリバン"},{"reb":"アン・サリヴァン"},{"reb":"アンサリバン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Anne Sullivan"}]}]}
 {"ent_seq":5011642,"r_ele":[{"reb":"アン・ブーリン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Anne Boleyn"}]}]}
 {"ent_seq":5011643,"r_ele":[{"reb":"アン・ブラッドストリート"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Anne Bradstreet"}]}]}
 {"ent_seq":5011644,"r_ele":[{"reb":"アンウィン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Unwin"}]}]}
@@ -69683,7 +69683,7 @@
 {"ent_seq":5070158,"k_ele":[{"keb":"フジボウ愛媛壬生川工場"}],"r_ele":[{"reb":"フジボウえひめにゅうがわこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fujibouehimenyūgawa Factory"}]}]}
 {"ent_seq":5070159,"k_ele":[{"keb":"フジボウ工場"}],"r_ele":[{"reb":"フジボウこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fujibou Factory"}]}]}
 {"ent_seq":5070160,"r_ele":[{"reb":"フジモリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Fujimori"}]}]}
-{"ent_seq":5070161,"r_ele":[{"reb":"フジャイラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Fujairah"}]}]}
+{"ent_seq":5070161,"r_ele":[{"reb":"フジャイラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fujairah (United Arab Emirates)"}]}]}
 {"ent_seq":5070162,"r_ele":[{"reb":"フジャヌフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chrzanow"}]}]}
 {"ent_seq":5070163,"r_ele":[{"reb":"フジュロール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Fougerolles"}]}]}
 {"ent_seq":5070164,"r_ele":[{"reb":"フジヱ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Fujie"},{"value":"Fujiwe"}]}]}
@@ -73863,7 +73863,7 @@
 {"ent_seq":5074360,"r_ele":[{"reb":"ヘレラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hollerer"}]}]}
 {"ent_seq":5074361,"r_ele":[{"reb":"ヘレン"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Helen"},{"value":"Helene"},{"value":"Hellen"},{"value":"Heren"},{"value":"Herren"}]}]}
 {"ent_seq":5074362,"r_ele":[{"reb":"ヘレン・ヘイズ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Helen Hayes"}]}]}
-{"ent_seq":5074363,"r_ele":[{"reb":"ヘレンケラー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Helen Keller"}]}]}
+{"ent_seq":5074363,"r_ele":[{"reb":"ヘレンケラー"},{"reb":"ヘレン・ケラー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Helen Keller"}]}]}
 {"ent_seq":5074364,"r_ele":[{"reb":"ヘレンス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hellens"}]}]}
 {"ent_seq":5074365,"r_ele":[{"reb":"ヘレンズバラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Helensburgh (UK)"}]}]}
 {"ent_seq":5074366,"r_ele":[{"reb":"ヘレンド"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Herend"}]}]}

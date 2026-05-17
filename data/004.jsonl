@@ -48159,7 +48159,7 @@
 {"ent_seq":5349634,"k_ele":[{"keb":"受莱"}],"r_ele":[{"reb":"じゅらい"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jurai"}]}]}
 {"ent_seq":5349635,"k_ele":[{"keb":"受領"}],"r_ele":[{"reb":"うけりょう"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Ukeryō"}]}]}
 {"ent_seq":5349636,"k_ele":[{"keb":"受領峠"}],"r_ele":[{"reb":"じゅりょうとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Juryōtōge"}]}]}
-{"ent_seq":5349637,"k_ele":[{"keb":"呪怨"}],"r_ele":[{"reb":"じゅうおん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Ju-on"},{"value":"The Grudge (Japanese horror movie)"}]}]}
+{"ent_seq":5349637,"k_ele":[{"keb":"呪怨"}],"r_ele":[{"reb":"じゅおん"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Ju-on"},{"value":"The Grudge (Japanese horror movie)"}]}]}
 {"ent_seq":5349638,"k_ele":[{"keb":"寿"}],"r_ele":[{"reb":"ことぶき"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Kotobuki"}]}]}
 {"ent_seq":5349639,"k_ele":[{"keb":"寿"}],"r_ele":[{"reb":"ことほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kotoho"}]}]}
 {"ent_seq":5349640,"k_ele":[{"keb":"寿"}],"r_ele":[{"reb":"さとし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Satoshi"}]}]}

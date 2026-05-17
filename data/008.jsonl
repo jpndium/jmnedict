@@ -43343,4 +43343,17 @@
 {"ent_seq":5747739,"k_ele":[{"keb":"シーサンパンナタイ族自治州"},{"keb":"西双版納傣族自治州"}],"r_ele":[{"reb":"シーサンパンナタイぞくじちしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Xishuangbanna Dai Autonomous Prefecture (China)"}]}]}
 {"ent_seq":5747740,"k_ele":[{"keb":"中国建設銀行"}],"r_ele":[{"reb":"ちゅうごくけんせつぎんこう"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"China Construction Bank"}]}]}
 {"ent_seq":5747741,"k_ele":[{"keb":"磐越道"}],"r_ele":[{"reb":"ばんえつどう"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"Ban'etsu Expressway (abbr)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-10"}]}]}
+{"ent_seq":5747742,"k_ele":[{"keb":"ＢＰＯ"}],"r_ele":[{"reb":"ビー・ピー・オー"},{"reb":"ビーピーオー"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Broadcasting Ethics and Program Improvement Organization"},{"value":"BPO"}]}]}
+{"ent_seq":5747743,"r_ele":[{"reb":"クロードコード"},{"reb":"クロード・コード"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Claude Code"}]}]}
+{"ent_seq":5747744,"k_ele":[{"keb":"ＤｅｅｐＳｅｅｋ"}],"r_ele":[{"reb":"ディープシーク"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"DeepSeek (family of large language models)"}]}]}
+{"ent_seq":5747745,"r_ele":[{"reb":"レオパルト"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Leopard (German tank)"}]}]}
+{"ent_seq":5747746,"k_ele":[{"keb":"Ｑｗｅｎ"}],"r_ele":[{"reb":"クウェン"},{"reb":"キューウェン"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Qwen (family of large language models)"}]}]}
+{"ent_seq":5747747,"r_ele":[{"reb":"ポークビッツ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Pork Bits (mini-sized wiener sausage manufactured by Itoham)"}]}]}
+{"ent_seq":5747748,"k_ele":[{"keb":"裏原"}],"r_ele":[{"reb":"うらはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ura-Harajuku (abbr)"}]}]}
+{"ent_seq":5747749,"k_ele":[{"keb":"イラン領クルディスタン"}],"r_ele":[{"reb":"イランりょうクルディスタン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iranian Kurdistan"},{"value":"East Kurdistan"},{"value":"Rojhelat"}]}]}
+{"ent_seq":5747750,"k_ele":[{"keb":"東クルディスタン"}],"r_ele":[{"reb":"ひがしクルディスタン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iranian Kurdistan"},{"value":"East Kurdistan"},{"value":"Rojhelat"}]}]}
+{"ent_seq":5747751,"k_ele":[{"keb":"獅子心王"}],"r_ele":[{"reb":"しししんおう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Richard the Lionheart (1157-1199; king of England)"}]}]}
+{"ent_seq":5747752,"k_ele":[{"keb":"中南海"}],"r_ele":[{"reb":"ちゅうなんかい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zhongnanhai (residence for the leadership of the Chinese Communist Party and the State Council)"}]}]}
+{"ent_seq":5747753,"k_ele":[{"keb":"荒野の用心棒"}],"r_ele":[{"reb":"こうやのようじんぼう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A Fistful of Dollars (1964 film by Sergio Leone)"}]}]}
+{"ent_seq":5747754,"k_ele":[{"keb":"南詔"}],"r_ele":[{"reb":"なんしょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nanzhao (kingdom in southwestern China during the Tang dynasty)"},{"value":"Nanchao"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-17"}]}]}
