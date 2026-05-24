@@ -1,4 +1,3 @@
-{"ent_seq":5401586,"k_ele":[{"keb":"条久"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401587,"k_ele":[{"keb":"条元"}],"r_ele":[{"reb":"じょうもと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōmoto"}]}]}
 {"ent_seq":5401588,"k_ele":[{"keb":"条原"}],"r_ele":[{"reb":"じょうはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōhara"}]}]}
 {"ent_seq":5401589,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōzan"}]}]}
@@ -49188,7 +49187,7 @@
 {"ent_seq":5450933,"k_ele":[{"keb":"青山世多加"}],"r_ele":[{"reb":"あおやませだか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Aoyama Sedaka"}]}]}
 {"ent_seq":5450934,"k_ele":[{"keb":"青山世磨"}],"r_ele":[{"reb":"あおやませいま"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Aoyama Seima (?-2001.9.11)"}]}]}
 {"ent_seq":5450935,"k_ele":[{"keb":"青山正明"}],"r_ele":[{"reb":"あおやままさあき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Aoyama Masaaki (1938-)"}]}]}
-{"ent_seq":5450936,"k_ele":[{"keb":"青山製作所"}],"r_ele":[{"reb":"あおやませいさくしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aoyamaseisakusho"}]}]}
+{"ent_seq":5450936,"k_ele":[{"keb":"青山製作所"}],"r_ele":[{"reb":"あおやませいさくしょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Aoyama Seisakusho Co. Ltd"}]}]}
 {"ent_seq":5450937,"k_ele":[{"keb":"青山西"}],"r_ele":[{"reb":"あおやまにし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aoyamanishi"}]}]}
 {"ent_seq":5450938,"k_ele":[{"keb":"青山雪菜"}],"r_ele":[{"reb":"あおやまゆきな"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Aoyama Yukina (1967.7.19-)"}]}]}
 {"ent_seq":5450939,"k_ele":[{"keb":"青山川"}],"r_ele":[{"reb":"あおやまがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aoyamagawa"}]}]}
@@ -52645,7 +52644,7 @@
 {"ent_seq":5454415,"k_ele":[{"keb":"石川晴彦"}],"r_ele":[{"reb":"いしかわはるひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ishikawa Haruhiko (1942.8-)"}]}]}
 {"ent_seq":5454416,"k_ele":[{"keb":"石川正俊"}],"r_ele":[{"reb":"いしかわまさとし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ishikawa Masatoshi"}]}]}
 {"ent_seq":5454417,"k_ele":[{"keb":"石川牲郎"}],"r_ele":[{"reb":"いしかわけいろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ishikawa Keirou"}]}]}
-{"ent_seq":5454418,"k_ele":[{"keb":"石川製作所"}],"r_ele":[{"reb":"いしかわせいさくしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ishikawaseisakusho"}]}]}
+{"ent_seq":5454418,"k_ele":[{"keb":"石川製作所"}],"r_ele":[{"reb":"いしかわせいさくしょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Ishikawa Seisakusho Co. Ltd"}]}]}
 {"ent_seq":5454419,"k_ele":[{"keb":"石川誠"}],"r_ele":[{"reb":"いしかわまこと"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ishikawa Makoto"}]}]}
 {"ent_seq":5454420,"k_ele":[{"keb":"石川静香"}],"r_ele":[{"reb":"いしかわしずか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ishikawa Shizuka"}]}]}
 {"ent_seq":5454421,"k_ele":[{"keb":"石川石炭火力発電所"}],"r_ele":[{"reb":"いしかわせきたんかりょくはつでんしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ishikawasekitan Thermal Power Station"}]}]}
@@ -85844,7 +85843,7 @@
 {"ent_seq":5487731,"k_ele":[{"keb":"台崎"}],"r_ele":[{"reb":"だいざき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daizaki"}]}]}
 {"ent_seq":5487732,"k_ele":[{"keb":"台三"}],"r_ele":[{"reb":"たいぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Taizou"}]}]}
 {"ent_seq":5487733,"k_ele":[{"keb":"台三"}],"r_ele":[{"reb":"だいぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Daizou"}]}]}
-{"ent_seq":5487734,"k_ele":[{"keb":"台山"}],"r_ele":[{"reb":"だいやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Daiyama"}]}]}
+{"ent_seq":5487734,"k_ele":[{"keb":"台山"}],"r_ele":[{"reb":"たいさん"},{"reb":"タイシャン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Taishan (China)"}]}]}
 {"ent_seq":5487735,"k_ele":[{"keb":"台山公園"}],"r_ele":[{"reb":"だいやまこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daiyama Park"}]}]}
 {"ent_seq":5487736,"k_ele":[{"keb":"台山高森工業団地"}],"r_ele":[{"reb":"だいやまたかもりこうぎょうだんち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daiyamatakamori Industrial Park"}]}]}
 {"ent_seq":5487737,"k_ele":[{"keb":"台山排水路"}],"r_ele":[{"reb":"だいやまはいすいろ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daiyamahaisuiro"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501968,"k_ele":[{"keb":"拓甫"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501969,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501970,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たこほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takoho"}]}]}
+{"ent_seq":5501971,"k_ele":[{"keb":"拓北"}],"r_ele":[{"reb":"たくほく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhoku"}]}]}

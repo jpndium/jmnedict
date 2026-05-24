@@ -1,4 +1,3 @@
-{"ent_seq":5602439,"k_ele":[{"keb":"番鳥森"}],"r_ele":[{"reb":"ばんどりもり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bandorimori"}]}]}
 {"ent_seq":5602440,"k_ele":[{"keb":"番鳥沢"}],"r_ele":[{"reb":"ばんどりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandorisawa"}]}]}
 {"ent_seq":5602441,"k_ele":[{"keb":"番定"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
 {"ent_seq":5602442,"k_ele":[{"keb":"番天"}],"r_ele":[{"reb":"ばんてん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banten"}]}]}
@@ -665,7 +664,7 @@
 {"ent_seq":5603105,"k_ele":[{"keb":"悲の器"}],"r_ele":[{"reb":"ひのうつわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hinoutsuwa"}]}]}
 {"ent_seq":5603106,"k_ele":[{"keb":"悲願寺"}],"r_ele":[{"reb":"ひがんじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Higanji"}]}]}
 {"ent_seq":5603107,"k_ele":[{"keb":"悲佐田"}],"r_ele":[{"reb":"ひさだ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hisada"}]}]}
-{"ent_seq":5603108,"k_ele":[{"keb":"悲情城市"}],"r_ele":[{"reb":"ひじょうじょうし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hijōjō (city)"}]}]}
+{"ent_seq":5603108,"k_ele":[{"keb":"悲情城市"}],"r_ele":[{"reb":"ひじょうじょうし"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"A City of Sadness (1989 film by Hou Hsiao-hsien)"}]}]}
 {"ent_seq":5603109,"k_ele":[{"keb":"悲鳥"}],"r_ele":[{"reb":"ひちょう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hichō"}]}]}
 {"ent_seq":5603110,"k_ele":[{"keb":"悲田院"}],"r_ele":[{"reb":"ひでいん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hidein"}]}]}
 {"ent_seq":5603111,"k_ele":[{"keb":"悲田院"}],"r_ele":[{"reb":"ひでんいん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hiden'in"}]}]}
@@ -38213,7 +38212,7 @@
 {"ent_seq":5640788,"k_ele":[{"keb":"豊田自動織機"}],"r_ele":[{"reb":"とよたじどうしょっき","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Toyota Industries Corporation"}]}]}
 {"ent_seq":5640789,"k_ele":[{"keb":"豊田自動織機工場"}],"r_ele":[{"reb":"とよたじどうおりきこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidouoriki Factory"}]}]}
 {"ent_seq":5640790,"k_ele":[{"keb":"豊田自動織機工場"}],"r_ele":[{"reb":"とよたじどうしょっきこうじよう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidoushokkikoujiyou"}]}]}
-{"ent_seq":5640791,"k_ele":[{"keb":"豊田自動織機製作所"}],"r_ele":[{"reb":"とよたじどうおりきせいさくじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyotajidouorikiseisakujo"}]}]}
+{"ent_seq":5640791,"k_ele":[{"keb":"豊田自動織機製作所"}],"r_ele":[{"reb":"とよたじどうおりきせいさくじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyoda Automatic Loom Works, Ltd. (former name of Toyota Industries)"}]}]}
 {"ent_seq":5640792,"k_ele":[{"keb":"豊田潤多郎"}],"r_ele":[{"reb":"とよだじゅんたろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Toyoda Juntarō"}]}]}
 {"ent_seq":5640793,"k_ele":[{"keb":"豊田順子"}],"r_ele":[{"reb":"とよだじゅんこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Toyoda Junko (1966.4.25-)"}]}]}
 {"ent_seq":5640794,"k_ele":[{"keb":"豊田勝業"}],"r_ele":[{"reb":"とよだかつなり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Toyoda Katsunari"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5702774,"k_ele":[{"keb":"隆旨"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702775,"k_ele":[{"keb":"隆枝"}],"r_ele":[{"reb":"たかえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takae"}]}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
+{"ent_seq":5702777,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}

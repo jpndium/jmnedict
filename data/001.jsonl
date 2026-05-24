@@ -54307,7 +54307,7 @@
 {"ent_seq":5054689,"r_ele":[{"reb":"トゥガル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tegal (Indonesia)"}]}]}
 {"ent_seq":5054690,"r_ele":[{"reb":"トゥガンバラノフスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tugan-Baranovskii"}]}]}
 {"ent_seq":5054691,"r_ele":[{"reb":"トゥキディデス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thoukydides"}]}]}
-{"ent_seq":5054692,"r_ele":[{"reb":"トゥキュディデス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thucydides"}]}]}
+{"ent_seq":5054692,"r_ele":[{"reb":"トゥキュディデス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Thucydides (ancient Greek historian and general)"}]}]}
 {"ent_seq":5054693,"r_ele":[{"reb":"トゥク"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thuku"}]}]}
 {"ent_seq":5054694,"r_ele":[{"reb":"トゥクピタ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tucupita (Venezuela)"}]}]}
 {"ent_seq":5054695,"r_ele":[{"reb":"トゥグールト"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Touggourt (Algeria)"}]}]}
@@ -55743,7 +55743,7 @@
 {"ent_seq":5056144,"k_ele":[{"keb":"トンガリ川"}],"r_ele":[{"reb":"トンガリがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tongarigawa"}]}]}
 {"ent_seq":5056145,"k_ele":[{"keb":"トンガ海溝"}],"r_ele":[{"reb":"トンガかいこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tonga Trench"}]}]}
 {"ent_seq":5056146,"r_ele":[{"reb":"トンキャン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tonkyan"}]}]}
-{"ent_seq":5056147,"r_ele":[{"reb":"トンキン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tonkin (Indo-China)"},{"value":"(Gulf of) Tonkin"}]}]}
+{"ent_seq":5056147,"k_ele":[{"keb":"東京"}],"r_ele":[{"reb":"トンキン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tonkin (Indo-China)"},{"value":"(Gulf of) Tonkin"}]}]}
 {"ent_seq":5056148,"r_ele":[{"reb":"トンキング"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tonking"}]}]}
 {"ent_seq":5056149,"k_ele":[{"keb":"トンキン湾"}],"r_ele":[{"reb":"トンキンわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gulf of Tonkin"}]}]}
 {"ent_seq":5056150,"r_ele":[{"reb":"トンギ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tongi"}]}]}

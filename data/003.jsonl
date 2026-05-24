@@ -17724,9 +17724,9 @@
 {"ent_seq":5218758,"k_ele":[{"keb":"許華"}],"r_ele":[{"reb":"もとか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Motoka"}]}]}
 {"ent_seq":5218759,"k_ele":[{"keb":"許海峰"}],"r_ele":[{"reb":"きょかいほう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kyokaihou"}]}]}
 {"ent_seq":5218760,"k_ele":[{"keb":"許学寧"}],"r_ele":[{"reb":"きょがくねい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kyogakunei"}]}]}
-{"ent_seq":5218761,"k_ele":[{"keb":"許冠英"}],"r_ele":[{"reb":"りっきーほい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rikki-hoi"}]}]}
-{"ent_seq":5218762,"k_ele":[{"keb":"許冠傑"}],"r_ele":[{"reb":"さみゅえるほい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Samyueruhoi"}]}]}
-{"ent_seq":5218763,"k_ele":[{"keb":"許冠文"}],"r_ele":[{"reb":"まいけるほい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Maikeruhoi"}]}]}
+{"ent_seq":5218761,"k_ele":[{"keb":"許冠英"}],"r_ele":[{"reb":"リッキーホイ"},{"reb":"リッキー・ホイ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ricky Hui Kwun-ying (1946.8.3-2011.11.8; Hong Kong actor)"}]}]}
+{"ent_seq":5218762,"k_ele":[{"keb":"許冠傑"}],"r_ele":[{"reb":"サミュエル・ホイ"},{"reb":"きょかんけつ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Samuel Hui Koon-kit (1949.10.16-; Hong Kong musician)"}]}]}
+{"ent_seq":5218763,"k_ele":[{"keb":"許冠文"}],"r_ele":[{"reb":"マイケルホイ"},{"reb":"マイケル・ホイ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Michael Hui Koon-man (1942.9.3-; Hong Kong actor)"}]}]}
 {"ent_seq":5218764,"k_ele":[{"keb":"許宮"}],"r_ele":[{"reb":"もとみや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Motomiya"}]}]}
 {"ent_seq":5218765,"k_ele":[{"keb":"許江"}],"r_ele":[{"reb":"もとえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Motoe"}]}]}
 {"ent_seq":5218766,"k_ele":[{"keb":"許行"}],"r_ele":[{"reb":"きょこう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kyokou"}]}]}
@@ -86803,7 +86803,7 @@
 {"ent_seq":5288070,"k_ele":[{"keb":"高岳山"}],"r_ele":[{"reb":"たかおかさん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takaokasan"}]}]}
 {"ent_seq":5288071,"k_ele":[{"keb":"高岳神社"}],"r_ele":[{"reb":"たかおかじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takaoka Shrine"}]}]}
 {"ent_seq":5288072,"k_ele":[{"keb":"高岳親王"}],"r_ele":[{"reb":"たかおかしんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takaokashinnou (Prince) (?-?)"}]}]}
-{"ent_seq":5288073,"k_ele":[{"keb":"高岳製作所"}],"r_ele":[{"reb":"たかおかせいさくしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takaokaseisakusho"}]}]}
+{"ent_seq":5288073,"k_ele":[{"keb":"高岳製作所"}],"r_ele":[{"reb":"たかおかせいさくしょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Takaoka Electric Mfg.Co. Ltd"}]}]}
 {"ent_seq":5288074,"k_ele":[{"keb":"高掛"}],"r_ele":[{"reb":"たかがけ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takagake"}]}]}
 {"ent_seq":5288075,"k_ele":[{"keb":"高笠"}],"r_ele":[{"reb":"たかがさ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takagasa"}]}]}
 {"ent_seq":5288076,"k_ele":[{"keb":"高笠原"}],"r_ele":[{"reb":"たかかさはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Takakasahara"}]}]}

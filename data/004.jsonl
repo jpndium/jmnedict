@@ -41909,8 +41909,7 @@
 {"ent_seq":5343375,"k_ele":[{"keb":"芝浦ふ頭"}],"r_ele":[{"reb":"しばうらふとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shibaurafutou"}]}]}
 {"ent_seq":5343376,"k_ele":[{"keb":"芝浦ふ頭駅"}],"r_ele":[{"reb":"しばうらふとうえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Shibaurafutou Station"}]}]}
 {"ent_seq":5343377,"k_ele":[{"keb":"芝浦工業大学"}],"r_ele":[{"reb":"しばうらこうぎょうだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Shibaura Institute of Technology"}]}]}
-{"ent_seq":5343378,"k_ele":[{"keb":"芝浦製作所"}],"r_ele":[{"reb":"しばうらせいさくしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shibauraseisakusho"}]}]}
-{"ent_seq":5343379,"k_ele":[{"keb":"芝浦製作所"}],"r_ele":[{"reb":"しばうらせいさくじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shibauraseisakujo"}]}]}
+{"ent_seq":5343378,"k_ele":[{"keb":"芝浦製作所"}],"r_ele":[{"reb":"しばうらせいさくしょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Shibaura Seisakusho"}]}]}
 {"ent_seq":5343380,"k_ele":[{"keb":"芝運動公園"}],"r_ele":[{"reb":"しばうんどうこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiba Athletics Park"}]}]}
 {"ent_seq":5343381,"k_ele":[{"keb":"芝越"}],"r_ele":[{"reb":"しばこし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Shibakoshi"}]}]}
 {"ent_seq":5343382,"k_ele":[{"keb":"芝園"}],"r_ele":[{"reb":"しばぞの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shibazono"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5401583,"k_ele":[{"keb":"条々"}],"r_ele":[{"reb":"じょうじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōjō"}]}]}
 {"ent_seq":5401584,"k_ele":[{"keb":"条井"}],"r_ele":[{"reb":"じょうい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōi"}]}]}
 {"ent_seq":5401585,"k_ele":[{"keb":"条吉"}],"r_ele":[{"reb":"じょうきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōkichi"}]}]}
+{"ent_seq":5401586,"k_ele":[{"keb":"条久"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
