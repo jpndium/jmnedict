@@ -43362,4 +43362,27 @@
 {"ent_seq":5747760,"r_ele":[{"reb":"バロメッツ"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Barometz (tree bearing fruit containing sheep)"}]}]}
 {"ent_seq":5747761,"k_ele":[{"keb":"銀河英雄伝説"}],"r_ele":[{"reb":"ぎんがえいゆうでんせつ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Legend of the Galactic Heroes (series of science fiction novels by Yoshiki Tanaka)"}]}]}
 {"ent_seq":5747762,"k_ele":[{"keb":"大西郷"}],"r_ele":[{"reb":"だいさいごう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"the Great Saigo (Saigō Takamori; 1828-1877)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-24"}]}]}
+{"ent_seq":5747763,"k_ele":[{"keb":"沱江"}],"r_ele":[{"reb":"だこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tuo River (China)"}]}]}
+{"ent_seq":5747764,"k_ele":[{"keb":"嘉陵江"}],"r_ele":[{"reb":"かりょうこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jialing River (China)"}]}]}
+{"ent_seq":5747765,"k_ele":[{"keb":"閩江"}],"r_ele":[{"reb":"びんこう"},{"reb":"ミンチャン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Min River (China)"}]}]}
+{"ent_seq":5747766,"k_ele":[{"keb":"贛江"}],"r_ele":[{"reb":"かんこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gan River (China)"}]}]}
+{"ent_seq":5747767,"k_ele":[{"keb":"淮河"}],"r_ele":[{"reb":"わいが"},{"reb":"ホワイがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Huai River (China)"}]}]}
+{"ent_seq":5747768,"k_ele":[{"keb":"秦嶺山脈"}],"r_ele":[{"reb":"しんれいさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Qin Mountains (China)"},{"value":"Qinling"}]}]}
+{"ent_seq":5747769,"k_ele":[{"keb":"千山山脈"}],"r_ele":[{"reb":"せんざんさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Qian Mountains (China)"},{"value":"Qianshan"}]}]}
+{"ent_seq":5747770,"k_ele":[{"keb":"泗河"}],"r_ele":[{"reb":"しが"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Si River (China)"}]}]}
+{"ent_seq":5747771,"k_ele":[{"keb":"潁河"}],"r_ele":[{"reb":"えいが"},{"reb":"いんが"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ying River (China)"}]}]}
+{"ent_seq":5747772,"k_ele":[{"keb":"中原"}],"r_ele":[{"reb":"ちゅうげん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zhongyuan (China)"},{"value":"Central Plains"}]}]}
+{"ent_seq":5747773,"k_ele":[{"keb":"太行山脈"}],"r_ele":[{"reb":"たいこうさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Taihang Mountains (China)"}]}]}
+{"ent_seq":5747774,"k_ele":[{"keb":"大巴山脈"}],"r_ele":[{"reb":"だいはさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daba Mountains (China)"}]}]}
+{"ent_seq":5747775,"k_ele":[{"keb":"漢中"}],"r_ele":[{"reb":"かんちゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hanzhong (China)"}]}]}
+{"ent_seq":5747776,"k_ele":[{"keb":"陰山山脈"}],"r_ele":[{"reb":"いんざんさんみゃく"},{"reb":"インシャンさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yin Mountains (China)"}]}]}
+{"ent_seq":5747777,"k_ele":[{"keb":"燕山山脈"}],"r_ele":[{"reb":"えんざんさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yan Mountains (China)"}]}]}
+{"ent_seq":5747778,"k_ele":[{"keb":"祁連山脈"}],"r_ele":[{"reb":"きれんさんみゃく"},{"reb":"チーリェンさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Qilian Mountains (China)"}]}]}
+{"ent_seq":5747779,"k_ele":[{"keb":"河西回廊"}],"r_ele":[{"reb":"かせいかいろう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hexi Corridor (China)"},{"value":"Gansu Corridor"}]}]}
+{"ent_seq":5747780,"k_ele":[{"keb":"霊渠"}],"r_ele":[{"reb":"れいきょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lingqu (China)"}]}]}
+{"ent_seq":5747781,"k_ele":[{"keb":"カッターラ低地"}],"r_ele":[{"reb":"カッターラていち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Qattara Depression (Egypt)"}]}]}
+{"ent_seq":5747782,"k_ele":[{"keb":"高丘親王航海記"}],"r_ele":[{"reb":"たかおかしんのうこうかいき"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Takaoka's Travels (1987 fantasy novel by Tatsuhiko Shibusawa)"}]}]}
+{"ent_seq":5747783,"k_ele":[{"keb":"蒔羽"}],"r_ele":[{"reb":"しう"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shiu"}]}]}
+{"ent_seq":5747784,"k_ele":[{"keb":"野球殿堂"}],"r_ele":[{"reb":"やきゅうでんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Japanese Baseball Hall of Fame"}]}]}
+{"ent_seq":5747785,"k_ele":[{"keb":"野風子"}],"r_ele":[{"reb":"のぶこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nobuko"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-31"}]}]}

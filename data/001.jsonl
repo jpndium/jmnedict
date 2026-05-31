@@ -71431,7 +71431,7 @@
 {"ent_seq":5071914,"r_ele":[{"reb":"ブラバ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Brava (Somalia)"}]}]}
 {"ent_seq":5071915,"r_ele":[{"reb":"ブラバゾン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Brabazon"}]}]}
 {"ent_seq":5071916,"r_ele":[{"reb":"ブラバム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Brabham"}]}]}
-{"ent_seq":5071917,"r_ele":[{"reb":"ブラバン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Brabant"}]}]}
+{"ent_seq":5071917,"r_ele":[{"reb":"ブラバン"},{"reb":"ブラバント"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Brabant (Belgium, Netherlands)"}]}]}
 {"ent_seq":5071918,"r_ele":[{"reb":"ブラフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bluff (New Zealand)"},{"value":"Braff"},{"value":"Brough"},{"value":"Vlach"}]}]}
 {"ent_seq":5071919,"r_ele":[{"reb":"ブラフトン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bluffton"}]}]}
 {"ent_seq":5071920,"r_ele":[{"reb":"ブラフマ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Brahma"}]}]}
@@ -74822,7 +74822,7 @@
 {"ent_seq":5075326,"r_ele":[{"reb":"ベルティンスカヤ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Vertinskaya"}]}]}
 {"ent_seq":5075327,"r_ele":[{"reb":"ベルテル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bertel"}]}]}
 {"ent_seq":5075328,"r_ele":[{"reb":"ベルテルスマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bertelsmann"}]}]}
-{"ent_seq":5075329,"r_ele":[{"reb":"ベルデ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Verde"}]}]}
+{"ent_seq":5075329,"r_ele":[{"reb":"ベルデ"},{"reb":"ヴェルデ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Verde"}]}]}
 {"ent_seq":5075330,"r_ele":[{"reb":"ベルディ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Verdi"}]}]}
 {"ent_seq":5075331,"r_ele":[{"reb":"ベルディエ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Verdier"}]}]}
 {"ent_seq":5075332,"r_ele":[{"reb":"ベルディリオーネ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Verdiglione"}]}]}
