@@ -35677,7 +35677,7 @@
 {"ent_seq":5738520,"k_ele":[{"keb":"魏源"}],"r_ele":[{"reb":"ぎげん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gigen"}]}]}
 {"ent_seq":5738521,"k_ele":[{"keb":"魏山人"}],"r_ele":[{"reb":"ぎさんじん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Gisanjin"}]}]}
 {"ent_seq":5738522,"k_ele":[{"keb":"魏志"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
-{"ent_seq":5738523,"k_ele":[{"keb":"魏書"}],"r_ele":[{"reb":"ぎしょ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gisho"}]}]}
+{"ent_seq":5738523,"k_ele":[{"keb":"魏書"}],"r_ele":[{"reb":"ぎしょ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Book of Wei (Chinese historical text compiled by Wei Shou in 554 CE)"}]}]}
 {"ent_seq":5738524,"k_ele":[{"keb":"魏徴"}],"r_ele":[{"reb":"ぎちょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gichō"}]}]}
 {"ent_seq":5738525,"k_ele":[{"keb":"魏堂"}],"r_ele":[{"reb":"ぎどう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Gidou"}]}]}
 {"ent_seq":5738526,"k_ele":[{"keb":"魏也"}],"r_ele":[{"reb":"たかや"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaya"}]}]}
@@ -43385,4 +43385,13 @@
 {"ent_seq":5747783,"k_ele":[{"keb":"蒔羽"}],"r_ele":[{"reb":"しう"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shiu"}]}]}
 {"ent_seq":5747784,"k_ele":[{"keb":"野球殿堂"}],"r_ele":[{"reb":"やきゅうでんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Japanese Baseball Hall of Fame"}]}]}
 {"ent_seq":5747785,"k_ele":[{"keb":"野風子"}],"r_ele":[{"reb":"のぶこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nobuko"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-05-31"}]}]}
+{"ent_seq":5747786,"r_ele":[{"reb":"ロンドンアイ"},{"reb":"ロンドン・アイ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"London Eye"}]}]}
+{"ent_seq":5747787,"k_ele":[{"keb":"アンクルトムの小屋"}],"r_ele":[{"reb":"アンクルトムのこや"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Uncle Tom's Cabin"}]}]}
+{"ent_seq":5747788,"r_ele":[{"reb":"ビュルガーブロイケラー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bürgerbräukeller (Munich, Germany)"}]}]}
+{"ent_seq":5747789,"k_ele":[{"keb":"ＯｐｅｎＡＩ"},{"keb":"オープンＡＩ"}],"r_ele":[{"reb":"オープンエーアイ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"OpenAI (artificial intelligence company)"}]}]}
+{"ent_seq":5747790,"k_ele":[{"keb":"民多留"}],"r_ele":[{"reb":"みんたる"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mintal (Philippines)"}]}]}
+{"ent_seq":5747791,"r_ele":[{"reb":"アストンマーチン"},{"reb":"アストンマーティン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Aston Martin"}]}]}
+{"ent_seq":5747792,"r_ele":[{"reb":"クルト・ヴァイル"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kurt Weill (1900-1950; German-American composer)"}]}]}
+{"ent_seq":5747793,"r_ele":[{"reb":"マルキ・ド・サド"},{"reb":"マルキドサド"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Marquis de Sade (1740-1814; French writer and libertine)"}]}]}
+{"ent_seq":5747794,"k_ele":[{"keb":"アメリカ精神医学会"}],"r_ele":[{"reb":"アメリカせいしんいがくかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"American Psychiatric Association"},{"value":"APA"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-06-07"}]}]}

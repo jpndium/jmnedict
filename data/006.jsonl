@@ -78565,7 +78565,7 @@
 {"ent_seq":5580916,"k_ele":[{"keb":"日高国際ゴルフ場"}],"r_ele":[{"reb":"ひだかこくさいゴルフじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hidakakokusai Golf Links"}]}]}
 {"ent_seq":5580917,"k_ele":[{"keb":"日高三石"}],"r_ele":[{"reb":"ひだかみついし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hidakamitsuishi"}]}]}
 {"ent_seq":5580918,"k_ele":[{"keb":"日高三石駅"}],"r_ele":[{"reb":"ひだかみついしえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hidakamitsuishi Station"}]}]}
-{"ent_seq":5580919,"k_ele":[{"keb":"日高山脈"}],"r_ele":[{"reb":"ひだかさんみゃく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hidakasanmyaku"}]}]}
+{"ent_seq":5580919,"k_ele":[{"keb":"日高山脈"}],"r_ele":[{"reb":"ひだかさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hidaka Mountains"}]}]}
 {"ent_seq":5580920,"k_ele":[{"keb":"日高市"}],"r_ele":[{"reb":"ひだかし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hidaka (city)"}]}]}
 {"ent_seq":5580921,"k_ele":[{"keb":"日高支庁"}],"r_ele":[{"reb":"ひだかしちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hidakashichō"}]}]}
 {"ent_seq":5580922,"k_ele":[{"keb":"日高滋"}],"r_ele":[{"reb":"ひだかしげる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hidaka Shigeru (1940-)"}]}]}
