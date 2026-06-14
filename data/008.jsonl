@@ -1,4 +1,3 @@
-{"ent_seq":5702778,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
 {"ent_seq":5702779,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"りゅうし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūshi"}]}]}
 {"ent_seq":5702780,"k_ele":[{"keb":"隆視"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702781,"k_ele":[{"keb":"隆詞"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashi"}]}]}
@@ -43394,4 +43393,18 @@
 {"ent_seq":5747792,"r_ele":[{"reb":"クルト・ヴァイル"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kurt Weill (1900-1950; German-American composer)"}]}]}
 {"ent_seq":5747793,"r_ele":[{"reb":"マルキ・ド・サド"},{"reb":"マルキドサド"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Marquis de Sade (1740-1814; French writer and libertine)"}]}]}
 {"ent_seq":5747794,"k_ele":[{"keb":"アメリカ精神医学会"}],"r_ele":[{"reb":"アメリカせいしんいがくかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"American Psychiatric Association"},{"value":"APA"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-06-07"}]}]}
+{"ent_seq":5747795,"k_ele":[{"keb":"米国精神医学会"}],"r_ele":[{"reb":"べいこくせいしんいがくかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"American Psychiatric Association"},{"value":"APA"}]}]}
+{"ent_seq":5747796,"k_ele":[{"keb":"芽"}],"r_ele":[{"reb":"はじめ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Hajime"}]}]}
+{"ent_seq":5747797,"k_ele":[{"keb":"ラスコー洞窟"}],"r_ele":[{"reb":"ラスコーどうくつ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lascaux Cave (France)"}]}]}
+{"ent_seq":5747798,"k_ele":[{"keb":"兵神装備"}],"r_ele":[{"reb":"へいしんそうび"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Heishin Ltd."}]}]}
+{"ent_seq":5747799,"r_ele":[{"reb":"コールハーン"},{"reb":"コール・ハーン"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Cole Haan"}]}]}
+{"ent_seq":5747800,"k_ele":[{"keb":"桜陽高等学校"}],"r_ele":[{"reb":"おうようこうとうがっこう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Ōyō High School"}]}]}
+{"ent_seq":5747801,"k_ele":[{"keb":"創域理工学部"}],"r_ele":[{"reb":"そういきりこうがくぶ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Faculty of Science and Technology (Tokyo University of Science)"}]}]}
+{"ent_seq":5747802,"k_ele":[{"keb":"運命の力"}],"r_ele":[{"reb":"うんめいのちから","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"La forza del destino (opera by Verdi)"},{"value":"The Force of Destiny"}]}]}
+{"ent_seq":5747803,"r_ele":[{"reb":"アシックス"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Asics"}]}]}
+{"ent_seq":5747804,"k_ele":[{"keb":"ヌル島"}],"r_ele":[{"reb":"ヌルとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Null Island (0°N 0°E)"}]}]}
+{"ent_seq":5747805,"k_ele":[{"keb":"羚羊礁"}],"r_ele":[{"reb":"れいようしょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Antelope Reef (South China Sea)"}]}]}
+{"ent_seq":5747806,"k_ele":[{"keb":"クレスセント諸島"}],"r_ele":[{"reb":"クレスセントしょとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Crescent Group (South China Sea)"},{"value":"Crescent Archipelago"}]}]}
+{"ent_seq":5747807,"r_ele":[{"reb":"ガストン・ルルー"},{"reb":"ガストンルルー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Gaston Leroux (1868-1927; French mystery writer and journalist)"}]}]}
+{"ent_seq":5747809,"r_ele":[{"reb":"セブンスター"},{"reb":"セブン・スター"}],"trans":[{"trans_det":[{"value":"Seven Stars (Japanese brand of cigarettes)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-06-14"}]}]}

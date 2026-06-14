@@ -1,4 +1,3 @@
-{"ent_seq":5602440,"k_ele":[{"keb":"番鳥沢"}],"r_ele":[{"reb":"ばんどりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandorisawa"}]}]}
 {"ent_seq":5602441,"k_ele":[{"keb":"番定"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
 {"ent_seq":5602442,"k_ele":[{"keb":"番天"}],"r_ele":[{"reb":"ばんてん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banten"}]}]}
 {"ent_seq":5602443,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banta"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5702775,"k_ele":[{"keb":"隆枝"}],"r_ele":[{"reb":"たかえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takae"}]}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
+{"ent_seq":5702778,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}

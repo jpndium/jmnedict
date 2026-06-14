@@ -1,4 +1,3 @@
-{"ent_seq":5401587,"k_ele":[{"keb":"条元"}],"r_ele":[{"reb":"じょうもと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōmoto"}]}]}
 {"ent_seq":5401588,"k_ele":[{"keb":"条原"}],"r_ele":[{"reb":"じょうはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōhara"}]}]}
 {"ent_seq":5401589,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōzan"}]}]}
 {"ent_seq":5401590,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōyama"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501969,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たくほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takuho"}]}]}
 {"ent_seq":5501970,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たこほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takoho"}]}]}
 {"ent_seq":5501971,"k_ele":[{"keb":"拓北"}],"r_ele":[{"reb":"たくほく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhoku"}]}]}
+{"ent_seq":5501972,"k_ele":[{"keb":"拓北一条"}],"r_ele":[{"reb":"たくほくいちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuichijō"}]}]}

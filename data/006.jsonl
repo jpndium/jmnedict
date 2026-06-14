@@ -1,4 +1,3 @@
-{"ent_seq":5501972,"k_ele":[{"keb":"拓北一条"}],"r_ele":[{"reb":"たくほくいちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuichijō"}]}]}
 {"ent_seq":5501973,"k_ele":[{"keb":"拓北駅"}],"r_ele":[{"reb":"たくほくえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Takuhoku Station"}]}]}
 {"ent_seq":5501974,"k_ele":[{"keb":"拓北五条"}],"r_ele":[{"reb":"たくほくごじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugojō"}]}]}
 {"ent_seq":5501975,"k_ele":[{"keb":"拓北三条"}],"r_ele":[{"reb":"たくほくさんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokusanjō"}]}]}
@@ -45695,7 +45694,7 @@
 {"ent_seq":5547806,"k_ele":[{"keb":"都市開発協会"}],"r_ele":[{"reb":"としかいはつきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Urban Developers' Association of Japan"}]}]}
 {"ent_seq":5547807,"k_ele":[{"keb":"都市基盤整備公団"}],"r_ele":[{"reb":"としきばんせいびこうだん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Urban Development Corporation"}]}]}
 {"ent_seq":5547808,"k_ele":[{"keb":"都市高速道路"}],"r_ele":[{"reb":"としこうそくどうろ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toshikousokudōro"}]}]}
-{"ent_seq":5547809,"k_ele":[{"keb":"都市再生機構"}],"r_ele":[{"reb":"としさいせいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Urban Rennaissance Agency"}]}]}
+{"ent_seq":5547809,"k_ele":[{"keb":"都市再生機構"}],"r_ele":[{"reb":"としさいせいきこう","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Urban Rennaissance Agency"},{"value":"UR"}]}]}
 {"ent_seq":5547810,"k_ele":[{"keb":"都市子"}],"r_ele":[{"reb":"としこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Toshiko"}]}]}
 {"ent_seq":5547811,"k_ele":[{"keb":"都市生活研究所"}],"r_ele":[{"reb":"としせいかつけんきゅうじょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Urban Life Research Institute"}]}]}
 {"ent_seq":5547812,"k_ele":[{"keb":"都市対抗野球"}],"r_ele":[{"reb":"としたいこうやきゅう","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"National Intercity Nonpro Baseball Championship Series"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602437,"k_ele":[{"keb":"番長"}],"r_ele":[{"reb":"はお"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hao"}]}]}
 {"ent_seq":5602438,"k_ele":[{"keb":"番長"}],"r_ele":[{"reb":"ばんちょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banchō"}]}]}
 {"ent_seq":5602439,"k_ele":[{"keb":"番鳥森"}],"r_ele":[{"reb":"ばんどりもり"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bandorimori"}]}]}
+{"ent_seq":5602440,"k_ele":[{"keb":"番鳥沢"}],"r_ele":[{"reb":"ばんどりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandorisawa"}]}]}

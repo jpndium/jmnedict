@@ -91617,7 +91617,6 @@
 {"ent_seq":5092217,"r_ele":[{"reb":"ル・ピュイ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Le Puy"}]}]}
 {"ent_seq":5092218,"r_ele":[{"reb":"ル・プレー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Le Play"}]}]}
 {"ent_seq":5092219,"r_ele":[{"reb":"ル・ボン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Le Bon"}]}]}
-{"ent_seq":5092221,"r_ele":[{"reb":"ル・ルー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Leroux"}]}]}
 {"ent_seq":5092222,"r_ele":[{"reb":"ルー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lew"},{"value":"Lou"},{"value":"Lu"},{"value":"Rhue"},{"value":"Roux"}]}]}
 {"ent_seq":5092223,"r_ele":[{"reb":"ルーアン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Luan"},{"value":"Rouen (France)"},{"value":"Rouyn (Canada)"}]}]}
 {"ent_seq":5092224,"r_ele":[{"reb":"ルーイエナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ruiena"}]}]}
@@ -92599,7 +92598,7 @@
 {"ent_seq":5093209,"r_ele":[{"reb":"ルリヱ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Rurie"},{"value":"Ruriwe"}]}]}
 {"ent_seq":5093210,"k_ele":[{"keb":"ルリ子"}],"r_ele":[{"reb":"ルリこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ruriko"}]}]}
 {"ent_seq":5093211,"r_ele":[{"reb":"ルル"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ruru"},{"value":"Lulu"},{"value":"Loulou"}]}]}
-{"ent_seq":5093212,"r_ele":[{"reb":"ルルー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Le Roux"},{"value":"Leloup"},{"value":"Leroux"}]}]}
+{"ent_seq":5093212,"r_ele":[{"reb":"ルルー"},{"reb":"ル・ルー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Le Roux"},{"value":"Leloup"},{"value":"Leroux"}]}]}
 {"ent_seq":5093213,"r_ele":[{"reb":"ルルーシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lellouche"},{"value":"Lelouch"}]}]}
 {"ent_seq":5093214,"r_ele":[{"reb":"ルルア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rurua"}]}]}
 {"ent_seq":5093215,"r_ele":[{"reb":"ルルアブール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Luluabourg"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古"}],"r_ele":[{"reb":"あこ"}],"trans":[{"name_type":["&place;","&surname;","&fem;"],"trans_det":[{"value":"Ako"}]}]}
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋"}],"r_ele":[{"reb":"あこや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akoya"}]}]}
 {"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野"}],"r_ele":[{"reb":"あこやの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano"}]}]}
+{"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル"}],"r_ele":[{"reb":"あこやのトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano Tunnel"}]}]}
