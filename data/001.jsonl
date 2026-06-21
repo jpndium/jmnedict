@@ -41286,7 +41286,7 @@
 {"ent_seq":5041569,"r_ele":[{"reb":"ジャチコフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"D'iachkov"}]}]}
 {"ent_seq":5041570,"r_ele":[{"reb":"ジャッカー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jacker"}]}]}
 {"ent_seq":5041571,"r_ele":[{"reb":"ジャッカール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jacqard"}]}]}
-{"ent_seq":5041572,"r_ele":[{"reb":"ジャッキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jackie"}]}]}
+{"ent_seq":5041572,"r_ele":[{"reb":"ジャッキー"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jackie"}]}]}
 {"ent_seq":5041573,"k_ele":[{"keb":"成龍"}],"r_ele":[{"reb":"ジャッキーチェン"},{"reb":"ジャッキー・チェン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jackie Chan"}]}]}
 {"ent_seq":5041575,"r_ele":[{"reb":"ジャッキールーズベルトロビンソン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jackie Roosevelt Robinson"}]}]}
 {"ent_seq":5041576,"r_ele":[{"reb":"ジャッキノー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jacquinot"}]}]}
@@ -53812,7 +53812,7 @@
 {"ent_seq":5054188,"r_ele":[{"reb":"デランド"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Deland"}]}]}
 {"ent_seq":5054189,"r_ele":[{"reb":"デランドル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Deslandres"}]}]}
 {"ent_seq":5054190,"r_ele":[{"reb":"デリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Deri"}]}]}
-{"ent_seq":5054191,"r_ele":[{"reb":"デリー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Delhi (India)"},{"value":"Derry"},{"value":"Dhery"}]}]}
+{"ent_seq":5054191,"r_ele":[{"reb":"デリー","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Delhi (India)"},{"value":"Derry"},{"value":"Dhery"}]}]}
 {"ent_seq":5054192,"r_ele":[{"reb":"デリーア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"D'Elia"}]}]}
 {"ent_seq":5054193,"r_ele":[{"reb":"デリーベロ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"De Libero"}]}]}
 {"ent_seq":5054194,"r_ele":[{"reb":"デリーマバレイト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"De Lima Barreto"}]}]}
@@ -92598,7 +92598,7 @@
 {"ent_seq":5093209,"r_ele":[{"reb":"ルリヱ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Rurie"},{"value":"Ruriwe"}]}]}
 {"ent_seq":5093210,"k_ele":[{"keb":"ルリ子"}],"r_ele":[{"reb":"ルリこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ruriko"}]}]}
 {"ent_seq":5093211,"r_ele":[{"reb":"ルル"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ruru"},{"value":"Lulu"},{"value":"Loulou"}]}]}
-{"ent_seq":5093212,"r_ele":[{"reb":"ルルー"},{"reb":"ル・ルー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Le Roux"},{"value":"Leloup"},{"value":"Leroux"}]}]}
+{"ent_seq":5093212,"r_ele":[{"reb":"ルルー"},{"reb":"ル・ルー"},{"reb":"ルルウ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Le Roux"},{"value":"Leloup"},{"value":"Leroux"}]}]}
 {"ent_seq":5093213,"r_ele":[{"reb":"ルルーシュ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lellouche"},{"value":"Lelouch"}]}]}
 {"ent_seq":5093214,"r_ele":[{"reb":"ルルア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rurua"}]}]}
 {"ent_seq":5093215,"r_ele":[{"reb":"ルルアブール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Luluabourg"}]}]}

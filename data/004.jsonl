@@ -15992,7 +15992,7 @@
 {"ent_seq":5317368,"k_ele":[{"keb":"三十三"}],"r_ele":[{"reb":"みとみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mitomi"}]}]}
 {"ent_seq":5317369,"k_ele":[{"keb":"三十三観音"}],"r_ele":[{"reb":"さんじゅうさんかんのん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanjuusankannon"}]}]}
 {"ent_seq":5317370,"k_ele":[{"keb":"三十三間山"}],"r_ele":[{"reb":"さんじゅうさんげんざん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sanjuusangenzan"}]}]}
-{"ent_seq":5317371,"k_ele":[{"keb":"三十三間堂"}],"r_ele":[{"reb":"さんじゅうさんげんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanjusangen-do (hall in Kyoto)"}]}]}
+{"ent_seq":5317371,"k_ele":[{"keb":"三十三間堂"}],"r_ele":[{"reb":"さんじゅうさんげんどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanjusangen-dō (temple in Kyōto)"}]}]}
 {"ent_seq":5317372,"k_ele":[{"keb":"三十三間堂廻り"}],"r_ele":[{"reb":"さんじゅうさんげんどうまわり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanjuusangendoumawari"}]}]}
 {"ent_seq":5317373,"k_ele":[{"keb":"三十三間堂廻り町"}],"r_ele":[{"reb":"さんじゅうさんげんどうまわりちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanjuusangendoumawarichō"}]}]}
 {"ent_seq":5317374,"k_ele":[{"keb":"三十三間堂官衙遺跡"}],"r_ele":[{"reb":"さんじゅうさんげんどうかんがいせき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sanjuusangendoukanga Ruins"}]}]}

@@ -21643,7 +21643,7 @@
 {"ent_seq":5523688,"k_ele":[{"keb":"張國強"}],"r_ele":[{"reb":"ちゃんこっきょん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chankokkyon"}]}]}
 {"ent_seq":5523689,"k_ele":[{"keb":"張國榮"}],"r_ele":[{"reb":"れすりーちぇん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Resuri-chen"}]}]}
 {"ent_seq":5523690,"k_ele":[{"keb":"張婉亭"}],"r_ele":[{"reb":"めいべるちゃん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Meiberuchan"}]}]}
-{"ent_seq":5523691,"k_ele":[{"keb":"張學友"}],"r_ele":[{"reb":"じゃっきーちゅん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jakki-chun"}]}]}
+{"ent_seq":5523691,"k_ele":[{"keb":"張學友"}],"r_ele":[{"reb":"ジャッキーチュン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jacky Cheung Hok-yau (1961.7.10-; Hong Kong singer and actor)"}]}]}
 {"ent_seq":5523692,"k_ele":[{"keb":"張廖"}],"r_ele":[{"reb":"ちょうりょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Chōryō"}]}]}
 {"ent_seq":5523693,"k_ele":[{"keb":"張渕"}],"r_ele":[{"reb":"はりふち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Harifuchi"}]}]}
 {"ent_seq":5523694,"k_ele":[{"keb":"張籠"}],"r_ele":[{"reb":"はりかご"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Harikago"}]}]}
