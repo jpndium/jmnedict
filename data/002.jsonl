@@ -9627,7 +9627,7 @@
 {"ent_seq":5110322,"k_ele":[{"keb":"安川秀俊"}],"r_ele":[{"reb":"やすかわひでとし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yasukawa Hidetoshi (1961-)"}]}]}
 {"ent_seq":5110323,"k_ele":[{"keb":"安川泰"}],"r_ele":[{"reb":"やすかわやすし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yasukawa Yasushi"}]}]}
 {"ent_seq":5110324,"k_ele":[{"keb":"安川町"}],"r_ele":[{"reb":"やすかわちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yasukawachō"}]}]}
-{"ent_seq":5110325,"k_ele":[{"keb":"安川電機"}],"r_ele":[{"reb":"やすかわでんき","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yasukawa Electric Corporation"}]}]}
+{"ent_seq":5110325,"k_ele":[{"keb":"安川電機"}],"r_ele":[{"reb":"やすかわでんき","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yaskawa Electric Corporation"}]}]}
 {"ent_seq":5110326,"k_ele":[{"keb":"安川電機工場"}],"r_ele":[{"reb":"やすかわでんきこうじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yasukawadenki Factory"}]}]}
 {"ent_seq":5110327,"k_ele":[{"keb":"安川電機製作所"}],"r_ele":[{"reb":"やすかわでんきせいさくじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yasukawadenkiseisakujo"}]}]}
 {"ent_seq":5110328,"k_ele":[{"keb":"安川内"}],"r_ele":[{"reb":"やすこうち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Yasukouchi"}]}]}
