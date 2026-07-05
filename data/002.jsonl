@@ -46002,7 +46002,6 @@
 {"ent_seq":5146792,"k_ele":[{"keb":"奥手稲山"}],"r_ele":[{"reb":"おくていねやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Okuteineyama"}]}]}
 {"ent_seq":5146793,"k_ele":[{"keb":"奥手山"}],"r_ele":[{"reb":"おくでやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Okudeyama"}]}]}
 {"ent_seq":5146794,"k_ele":[{"keb":"奥宗"}],"r_ele":[{"reb":"おくむね"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Okumune"}]}]}
-{"ent_seq":5146795,"k_ele":[{"keb":"奥州"}],"r_ele":[{"reb":"おうしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Oushuu"},{"value":"name for old Japan's Mutsu province"}]}]}
 {"ent_seq":5146796,"k_ele":[{"keb":"奥州"}],"r_ele":[{"reb":"おくしゅう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Okushuu"}]}]}
 {"ent_seq":5146797,"k_ele":[{"keb":"奥州屋"}],"r_ele":[{"reb":"おうしゅうや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Oushuuya"}]}]}
 {"ent_seq":5146798,"k_ele":[{"keb":"奥州谷"}],"r_ele":[{"reb":"おうしゅうや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Oushuuya"}]}]}
@@ -48636,8 +48635,7 @@
 {"ent_seq":5149447,"k_ele":[{"keb":"王越町乃生"}],"r_ele":[{"reb":"おうごしちょうのう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ougoshichōnou"}]}]}
 {"ent_seq":5149448,"k_ele":[{"keb":"王越町木沢"}],"r_ele":[{"reb":"おうごしちょうきさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ougoshichōkisawa"}]}]}
 {"ent_seq":5149449,"k_ele":[{"keb":"王岡"}],"r_ele":[{"reb":"おうおか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ouoka"}]}]}
-{"ent_seq":5149450,"k_ele":[{"keb":"王家衛"}],"r_ele":[{"reb":"うぉんかーうぇい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Wonka-wei"}]}]}
-{"ent_seq":5149451,"k_ele":[{"keb":"王家衛"}],"r_ele":[{"reb":"おうかえい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Oukaei"}]}]}
+{"ent_seq":5149450,"k_ele":[{"keb":"王家衛"}],"r_ele":[{"reb":"ウォンカーウァイ"},{"reb":"ウォン・カーウァイ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wong Kar-wai (1958.7.17-; Hong Kong filmmaker)"}]}]}
 {"ent_seq":5149452,"k_ele":[{"keb":"王華碧"}],"r_ele":[{"reb":"おうかへき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Oukaheki"}]}]}
 {"ent_seq":5149453,"k_ele":[{"keb":"王賀"}],"r_ele":[{"reb":"おうが"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ouga"}]}]}
 {"ent_seq":5149454,"k_ele":[{"keb":"王外"}],"r_ele":[{"reb":"おうがい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ougai"}]}]}
@@ -85239,7 +85237,7 @@
 {"ent_seq":5186149,"k_ele":[{"keb":"釜無"}],"r_ele":[{"reb":"かまなし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamanashi"}]}]}
 {"ent_seq":5186150,"k_ele":[{"keb":"釜無工業団地"}],"r_ele":[{"reb":"かまなしこうぎょうだんち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamanashi Industrial Park"}]}]}
 {"ent_seq":5186151,"k_ele":[{"keb":"釜無山"}],"r_ele":[{"reb":"かまなしやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kamanashiyama"}]}]}
-{"ent_seq":5186152,"k_ele":[{"keb":"釜無川"}],"r_ele":[{"reb":"かまなしがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kamanashigawa"}]}]}
+{"ent_seq":5186152,"k_ele":[{"keb":"釜無川"}],"r_ele":[{"reb":"かまなしがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamanashi River"}]}]}
 {"ent_seq":5186153,"k_ele":[{"keb":"釜無川橋"}],"r_ele":[{"reb":"かまなしがわばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamanashigawabashi"}]}]}
 {"ent_seq":5186154,"k_ele":[{"keb":"釜牟田"}],"r_ele":[{"reb":"かまむた"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamamuta"}]}]}
 {"ent_seq":5186155,"k_ele":[{"keb":"釜鳴"}],"r_ele":[{"reb":"かまなり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kamanari"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5200964,"k_ele":[{"keb":"季喜"}],"r_ele":[{"reb":"すえき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sueki"}]}]}
 {"ent_seq":5200965,"k_ele":[{"keb":"季希"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
 {"ent_seq":5200966,"k_ele":[{"keb":"季祈"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
+{"ent_seq":5200967,"k_ele":[{"keb":"季貴"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
+{"ent_seq":5200968,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}

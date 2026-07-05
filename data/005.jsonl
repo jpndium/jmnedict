@@ -1,5 +1,3 @@
-{"ent_seq":5401588,"k_ele":[{"keb":"条原"}],"r_ele":[{"reb":"じょうはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōhara"}]}]}
-{"ent_seq":5401589,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōzan"}]}]}
 {"ent_seq":5401590,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōyama"}]}]}
 {"ent_seq":5401591,"k_ele":[{"keb":"条司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401592,"k_ele":[{"keb":"条子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
@@ -17114,7 +17112,7 @@
 {"ent_seq":5418766,"k_ele":[{"keb":"秦壱朗"}],"r_ele":[{"reb":"しんいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Shin'ichirō"}]}]}
 {"ent_seq":5418767,"k_ele":[{"keb":"秦壱郎"}],"r_ele":[{"reb":"しんいちろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Shin'ichirō"}]}]}
 {"ent_seq":5418768,"k_ele":[{"keb":"秦允"}],"r_ele":[{"reb":"しんや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shin'ya"}]}]}
-{"ent_seq":5418769,"k_ele":[{"keb":"秦王"}],"r_ele":[{"reb":"しんおう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shin'ou"}]}]}
+{"ent_seq":5418769,"k_ele":[{"keb":"秦王"}],"r_ele":[{"reb":"しんおう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"King of Qin (title used by rulers in ancient China)"}]}]}
 {"ent_seq":5418770,"k_ele":[{"keb":"秦岡"}],"r_ele":[{"reb":"はたおか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hataoka"}]}]}
 {"ent_seq":5418771,"k_ele":[{"keb":"秦下"}],"r_ele":[{"reb":"はだしも"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hadashimo"}]}]}
 {"ent_seq":5418772,"k_ele":[{"keb":"秦介"}],"r_ele":[{"reb":"しんすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shinsuke"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501970,"k_ele":[{"keb":"拓穂"}],"r_ele":[{"reb":"たこほ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Takoho"}]}]}
 {"ent_seq":5501971,"k_ele":[{"keb":"拓北"}],"r_ele":[{"reb":"たくほく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhoku"}]}]}
 {"ent_seq":5501972,"k_ele":[{"keb":"拓北一条"}],"r_ele":[{"reb":"たくほくいちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuichijō"}]}]}
+{"ent_seq":5501973,"k_ele":[{"keb":"拓北駅"}],"r_ele":[{"reb":"たくほくえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Takuhoku Station"}]}]}
+{"ent_seq":5501974,"k_ele":[{"keb":"拓北五条"}],"r_ele":[{"reb":"たくほくごじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugojō"}]}]}

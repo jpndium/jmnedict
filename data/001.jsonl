@@ -95188,7 +95188,7 @@
 {"ent_seq":5095813,"r_ele":[{"reb":"ロベンキ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rovenki (Russia)"}]}]}
 {"ent_seq":5095814,"r_ele":[{"reb":"ロペ・デ・ヴェガ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lope de Vega"}]}]}
 {"ent_seq":5095815,"k_ele":[{"keb":"ロペクラブゴルフ場"}],"r_ele":[{"reb":"ロペクラブゴルフじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ropekurabu Golf Links"}]}]}
-{"ent_seq":5095816,"r_ele":[{"reb":"ロペス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lopes"},{"value":"Lopez"}]}]}
+{"ent_seq":5095816,"r_ele":[{"reb":"ロペス"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lopes"},{"value":"Lopez"}]}]}
 {"ent_seq":5095817,"r_ele":[{"reb":"ロペスアレヤーノ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Lopez Arellano"}]}]}
 {"ent_seq":5095818,"r_ele":[{"reb":"ロペスイフエンテス"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lopez y Fuentes"}]}]}
 {"ent_seq":5095819,"r_ele":[{"reb":"ロペスイポルタニャ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lopez y Portana"}]}]}
@@ -99665,8 +99665,8 @@
 {"ent_seq":5100313,"k_ele":[{"keb":"阿寒ランド丹頂の里"}],"r_ele":[{"reb":"あかんランドたんちょうのさと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akanrandotanchōnosato"}]}]}
 {"ent_seq":5100314,"k_ele":[{"keb":"阿寒郡"}],"r_ele":[{"reb":"あかんぐん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akangun"}]}]}
 {"ent_seq":5100315,"k_ele":[{"keb":"阿寒郡阿寒町"}],"r_ele":[{"reb":"あかんぐんあかんちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akangun'akanchō"}]}]}
-{"ent_seq":5100317,"k_ele":[{"keb":"阿寒湖"}],"r_ele":[{"reb":"あかんこ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akanko"}]}]}
-{"ent_seq":5100318,"k_ele":[{"keb":"阿寒湖温泉"}],"r_ele":[{"reb":"あかんこおんせん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akankoonsen"}]}]}
+{"ent_seq":5100317,"k_ele":[{"keb":"阿寒湖"}],"r_ele":[{"reb":"あかんこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lake Akan (Hokkaidō)"},{"value":"Akanko"}]}]}
+{"ent_seq":5100318,"k_ele":[{"keb":"阿寒湖温泉"}],"r_ele":[{"reb":"あかんこおんせん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akanko Onsen"},{"value":"Lake Akan Onsen"}]}]}
 {"ent_seq":5100319,"k_ele":[{"keb":"阿寒湖畔"}],"r_ele":[{"reb":"あかんこはん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akankohan"}]}]}
 {"ent_seq":5100320,"k_ele":[{"keb":"阿寒川"}],"r_ele":[{"reb":"あかんがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akangawa"}]}]}
 {"ent_seq":5100321,"k_ele":[{"keb":"阿寒川橋"}],"r_ele":[{"reb":"あかんがわばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akangawabashi"}]}]}

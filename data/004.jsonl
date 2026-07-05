@@ -1,5 +1,3 @@
-{"ent_seq":5301325,"k_ele":[{"keb":"佐藤勝彦"}],"r_ele":[{"reb":"さとうかつひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuhiko (1945.8-)"}]}]}
-{"ent_seq":5301326,"k_ele":[{"keb":"佐藤勝明"}],"r_ele":[{"reb":"さとうかつあき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuaki (1942-)"}]}]}
 {"ent_seq":5301327,"k_ele":[{"keb":"佐藤勝也"}],"r_ele":[{"reb":"さとうかつや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuya (1904.4.10-1988.3.19)"}]}]}
 {"ent_seq":5301328,"k_ele":[{"keb":"佐藤商事"}],"r_ele":[{"reb":"さとうしょうじ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Sato Shoji Corporation"}]}]}
 {"ent_seq":5301329,"k_ele":[{"keb":"佐藤尚忠"}],"r_ele":[{"reb":"さとうなおただ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotada"}]}]}
@@ -41968,7 +41966,7 @@
 {"ent_seq":5343436,"k_ele":[{"keb":"芝古地"}],"r_ele":[{"reb":"しばこじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shibakoji"}]}]}
 {"ent_seq":5343437,"k_ele":[{"keb":"芝光"}],"r_ele":[{"reb":"しこう"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shikou"}]}]}
 {"ent_seq":5343438,"k_ele":[{"keb":"芝公園"}],"r_ele":[{"reb":"しばこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiba Park"}]}]}
-{"ent_seq":5343439,"k_ele":[{"keb":"芝公園駅"}],"r_ele":[{"reb":"しばこうえんえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Shiba Park Station"}]}]}
+{"ent_seq":5343439,"k_ele":[{"keb":"芝公園駅"}],"r_ele":[{"reb":"しばこうえんえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Shibakoen Station"},{"value":"Shiba Park Station"}]}]}
 {"ent_seq":5343440,"k_ele":[{"keb":"芝口"}],"r_ele":[{"reb":"しばくち"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Shibakuchi"}]}]}
 {"ent_seq":5343441,"k_ele":[{"keb":"芝口"}],"r_ele":[{"reb":"しばぐち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Shibaguchi"}]}]}
 {"ent_seq":5343442,"k_ele":[{"keb":"芝口谷"}],"r_ele":[{"reb":"しばくちだに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shibakuchidani"}]}]}
@@ -81203,7 +81201,7 @@
 {"ent_seq":5382740,"k_ele":[{"keb":"昭園川"}],"r_ele":[{"reb":"しょうえんがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shouengawa"}]}]}
 {"ent_seq":5382741,"k_ele":[{"keb":"昭延"}],"r_ele":[{"reb":"あきのぶ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akinobu"}]}]}
 {"ent_seq":5382742,"k_ele":[{"keb":"昭央"}],"r_ele":[{"reb":"あきお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akio"}]}]}
-{"ent_seq":5382743,"k_ele":[{"keb":"昭王"}],"r_ele":[{"reb":"しょうおう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shouou"}]}]}
+{"ent_seq":5382743,"k_ele":[{"keb":"昭王"}],"r_ele":[{"reb":"しょうおう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"King Zhaoxiang of Qin (also called King Zhao of Qin) (r. 306-251 BCE)"}]},{"name_type":["&person;"],"trans_det":[{"value":"King Zhao of Zhou (r. 995-977 BCE)"}]},{"name_type":["&person;"],"trans_det":[{"value":"King Zhao of Chu (r. 516-489 BCE)"}]},{"name_type":["&person;"],"trans_det":[{"value":"King Zhao of Yan (r. 312-279 BCE)"}]},{"name_type":["&person;"],"trans_det":[{"value":"King Zhao of Wei (r. 296-277 BCE)"}]},{"name_type":["&person;"],"trans_det":[{"value":"King Zhao of Tamna"}]}]}
 {"ent_seq":5382744,"k_ele":[{"keb":"昭岡"}],"r_ele":[{"reb":"あきおか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akioka"}]}]}
 {"ent_seq":5382745,"k_ele":[{"keb":"昭音"}],"r_ele":[{"reb":"あきね"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Akine"}]}]}
 {"ent_seq":5382746,"k_ele":[{"keb":"昭音"}],"r_ele":[{"reb":"しょうおん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shouon"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5401585,"k_ele":[{"keb":"条吉"}],"r_ele":[{"reb":"じょうきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōkichi"}]}]}
 {"ent_seq":5401586,"k_ele":[{"keb":"条久"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401587,"k_ele":[{"keb":"条元"}],"r_ele":[{"reb":"じょうもと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōmoto"}]}]}
+{"ent_seq":5401588,"k_ele":[{"keb":"条原"}],"r_ele":[{"reb":"じょうはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōhara"}]}]}
+{"ent_seq":5401589,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōzan"}]}]}

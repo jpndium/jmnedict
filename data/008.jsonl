@@ -1,5 +1,3 @@
-{"ent_seq":5702779,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"りゅうし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūshi"}]}]}
-{"ent_seq":5702780,"k_ele":[{"keb":"隆視"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702781,"k_ele":[{"keb":"隆詞"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702782,"k_ele":[{"keb":"隆詩"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702783,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
@@ -7116,7 +7114,7 @@
 {"ent_seq":5709906,"k_ele":[{"keb":"怜音"}],"r_ele":[{"reb":"れいね"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Reine"}]}]}
 {"ent_seq":5709907,"k_ele":[{"keb":"怜音"}],"r_ele":[{"reb":"れお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Reo"}]}]}
 {"ent_seq":5709908,"k_ele":[{"keb":"怜音"}],"r_ele":[{"reb":"れおね"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Reone"}]}]}
-{"ent_seq":5709909,"k_ele":[{"keb":"怜音"}],"r_ele":[{"reb":"れおん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Reon"}]}]}
+{"ent_seq":5709909,"k_ele":[{"keb":"怜音"}],"r_ele":[{"reb":"れおん"}],"trans":[{"name_type":["&fem;","&masc;"],"trans_det":[{"value":"Reon"}]}]}
 {"ent_seq":5709910,"k_ele":[{"keb":"怜音"}],"r_ele":[{"reb":"れのん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Renon"}]}]}
 {"ent_seq":5709911,"k_ele":[{"keb":"怜音名"}],"r_ele":[{"reb":"れおな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Reona"}]}]}
 {"ent_seq":5709912,"k_ele":[{"keb":"怜佳"}],"r_ele":[{"reb":"れいか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Reika"}]}]}
@@ -43423,4 +43421,26 @@
 {"ent_seq":5747823,"k_ele":[{"keb":"銭塘江"}],"r_ele":[{"reb":"せんとうこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Qiantang River (China)"}]}]}
 {"ent_seq":5747824,"k_ele":[{"keb":"長江存儲"}],"r_ele":[{"reb":"ちょうこうぞんちょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yangtze Memory Technologies Corp."},{"value":"YMTC"}]}]}
 {"ent_seq":5747825,"k_ele":[{"keb":"槙久"}],"r_ele":[{"reb":"まきひさ"}],"trans":[{"name_type":["&masc;","&fict;"],"trans_det":[{"value":"Makihisa"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-06-28"}]}]}
+{"ent_seq":5747826,"k_ele":[{"keb":"臙条"}],"r_ele":[{"reb":"えんじょう"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Enjō"}]}]}
+{"ent_seq":5747827,"k_ele":[{"keb":"閑山島"}],"r_ele":[{"reb":"かんざんとう"},{"reb":"ハンサンド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hansan-do (South Korea)"}]}]}
+{"ent_seq":5747828,"k_ele":[{"keb":"儺県"}],"r_ele":[{"reb":"なのあがた"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Na-no-Agata (historical principality that preceded Fukuoka City)"}]}]}
+{"ent_seq":5747830,"k_ele":[{"keb":"咸陽"}],"r_ele":[{"reb":"かんよう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Xianyang (China)"},{"value":"Hsien-yang"},{"value":"Sienyang"}]}]}
+{"ent_seq":5747831,"k_ele":[{"keb":"白起"}],"r_ele":[{"reb":"はくき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Bai Qi (Qin dynasty general)"},{"value":"Bo Qi"}]}]}
+{"ent_seq":5747832,"r_ele":[{"reb":"アンチェロッティ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ancelotti"}]}]}
+{"ent_seq":5747833,"r_ele":[{"reb":"ミニクーパー","re_pri":{"spec":1}},{"reb":"ミニ・クーパー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Mini Cooper (brand of compact car)"}]}]}
+{"ent_seq":5747834,"k_ele":[{"keb":"寛侍"}],"r_ele":[{"reb":"かんじ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kanji"}]}]}
+{"ent_seq":5747835,"k_ele":[{"keb":"海援隊"}],"r_ele":[{"reb":"かいえんたい","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Kaientai (former trading company)"}]}]}
+{"ent_seq":5747836,"k_ele":[{"keb":"函谷関"}],"r_ele":[{"reb":"かんこくかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hangu Pass (ancient Chinese mountain pass located in modern Henan province)"}]}]}
+{"ent_seq":5747837,"k_ele":[{"keb":"武霊王"}],"r_ele":[{"reb":"ぶれいおう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"King Wuling of Zhao (r. 326-299 BCE)"},{"value":"Zhao Yong"}]}]}
+{"ent_seq":5747838,"k_ele":[{"keb":"玄霧"}],"r_ele":[{"reb":"くろぎり"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Kurogiri"}]}]}
+{"ent_seq":5747839,"k_ele":[{"keb":"黄路"}],"r_ele":[{"reb":"おうじ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Ōji"}]}]}
+{"ent_seq":5747840,"k_ele":[{"keb":"田中"}],"r_ele":[{"reb":"ティエンジョン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tianzhong (Taiwan)"}]}]}
+{"ent_seq":5747841,"r_ele":[{"reb":"マセド"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Macedo"}]}]}
+{"ent_seq":5747842,"r_ele":[{"reb":"エヴァリスト"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Evaristo"},{"value":"Évariste"}]}]}
+{"ent_seq":5747843,"k_ele":[{"keb":"レオ１４世"}],"r_ele":[{"reb":"レオじゅうよんせい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Pope Leo XIV"}]}]}
+{"ent_seq":5747844,"k_ele":[{"keb":"絶叫計画"}],"r_ele":[{"reb":"ぜっきょうけいかく"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Scary Movie (movie series)"}]}]}
+{"ent_seq":5747845,"k_ele":[{"keb":"花様年華"}],"r_ele":[{"reb":"かようねんか"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"In the Mood for Love (2000 film)"}]}]}
+{"ent_seq":5747846,"k_ele":[{"keb":"三方ヶ原"},{"keb":"三方が原"},{"keb":"三方ケ原"}],"r_ele":[{"reb":"みかたがはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mikatagahara (Shizuoka Prefecture; battle site)"}]}]}
+{"ent_seq":5747847,"k_ele":[{"keb":"定盈"}],"r_ele":[{"reb":"さだみつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sadamitsu"}]}]}
+{"ent_seq":5747848,"k_ele":[{"keb":"瀬田の橋"}],"r_ele":[{"reb":"せたのはし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Seta Bridge (Shiga Prefecture)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-07-05"}]}]}

@@ -1,5 +1,3 @@
-{"ent_seq":5602441,"k_ele":[{"keb":"番定"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
-{"ent_seq":5602442,"k_ele":[{"keb":"番天"}],"r_ele":[{"reb":"ばんてん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banten"}]}]}
 {"ent_seq":5602443,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banta"}]}]}
 {"ent_seq":5602444,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banda"}]}]}
 {"ent_seq":5602445,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんでん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banden"}]}]}
@@ -45620,7 +45618,7 @@
 {"ent_seq":5648266,"k_ele":[{"keb":"穆"}],"r_ele":[{"reb":"ぼく"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Boku"}]}]}
 {"ent_seq":5648267,"k_ele":[{"keb":"穆英"}],"r_ele":[{"reb":"あつひで"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Atsuhide"}]}]}
 {"ent_seq":5648268,"k_ele":[{"keb":"穆王"}],"r_ele":[{"reb":"ぼくおう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bokuou"}]}]}
-{"ent_seq":5648269,"k_ele":[{"keb":"穆公"}],"r_ele":[{"reb":"ぼくこう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Bokukou"}]}]}
+{"ent_seq":5648269,"k_ele":[{"keb":"穆公"}],"r_ele":[{"reb":"ぼくこう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Duke Mu of Qin (ruler of Qin, 659-621 BCE)"},{"value":"Ying Renhao"}]}]}
 {"ent_seq":5648270,"k_ele":[{"keb":"穆佐"}],"r_ele":[{"reb":"むかさ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Mukasa"}]}]}
 {"ent_seq":5648271,"k_ele":[{"keb":"穆山"}],"r_ele":[{"reb":"ぼくざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Bokuzan"}]}]}
 {"ent_seq":5648272,"k_ele":[{"keb":"穆子"}],"r_ele":[{"reb":"あつこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Atsuko"}]}]}
@@ -69820,7 +69818,7 @@
 {"ent_seq":5672545,"k_ele":[{"keb":"野田小屋川"}],"r_ele":[{"reb":"のだごやがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nodagoyagawa"}]}]}
 {"ent_seq":5672546,"k_ele":[{"keb":"野田昌宏"}],"r_ele":[{"reb":"のだまさひろ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Noda Masahiro (1933.8.18-)"}]}]}
 {"ent_seq":5672547,"k_ele":[{"keb":"野田沼"}],"r_ele":[{"reb":"のだぬま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nodanuma"}]}]}
-{"ent_seq":5672548,"k_ele":[{"keb":"野田城"}],"r_ele":[{"reb":"のだじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nodajō"}]}]}
+{"ent_seq":5672548,"k_ele":[{"keb":"野田城"}],"r_ele":[{"reb":"のだじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Noda Castle"}]}]}
 {"ent_seq":5672549,"k_ele":[{"keb":"野田城駅"}],"r_ele":[{"reb":"のだじょうえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Nodajō Station"}]}]}
 {"ent_seq":5672550,"k_ele":[{"keb":"野田城跡"}],"r_ele":[{"reb":"のだじょうあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Noda Castle Ruins"}]}]}
 {"ent_seq":5672551,"k_ele":[{"keb":"野田尻"}],"r_ele":[{"reb":"のたじり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Notajiri"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702778,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
+{"ent_seq":5702779,"k_ele":[{"keb":"隆至"}],"r_ele":[{"reb":"りゅうし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūshi"}]}]}
+{"ent_seq":5702780,"k_ele":[{"keb":"隆視"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashi"}]}]}

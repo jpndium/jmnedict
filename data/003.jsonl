@@ -1,5 +1,3 @@
-{"ent_seq":5200967,"k_ele":[{"keb":"季貴"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
-{"ent_seq":5200968,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
 {"ent_seq":5200969,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"すえよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Sueyoshi"}]}]}
 {"ent_seq":5200970,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
 {"ent_seq":5200971,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"すえきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suekichi"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5301322,"k_ele":[{"keb":"佐藤渚"}],"r_ele":[{"reb":"さとうなぎさ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Nagisa (1987.11.7-)"}]}]}
 {"ent_seq":5301323,"k_ele":[{"keb":"佐藤勝"}],"r_ele":[{"reb":"さとうまさる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Masaru (1928.5.29-1999.10.5)"}]}]}
 {"ent_seq":5301324,"k_ele":[{"keb":"佐藤勝尚"}],"r_ele":[{"reb":"さとうかつなお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsunao"}]}]}
+{"ent_seq":5301325,"k_ele":[{"keb":"佐藤勝彦"}],"r_ele":[{"reb":"さとうかつひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuhiko (1945.8-)"}]}]}
+{"ent_seq":5301326,"k_ele":[{"keb":"佐藤勝明"}],"r_ele":[{"reb":"さとうかつあき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuaki (1942-)"}]}]}
