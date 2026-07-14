@@ -1,4 +1,3 @@
-{"ent_seq":5200969,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"すえよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Sueyoshi"}]}]}
 {"ent_seq":5200970,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
 {"ent_seq":5200971,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"すえきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suekichi"}]}]}
 {"ent_seq":5200972,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"きく"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiku"}]}]}
@@ -17260,7 +17259,7 @@
 {"ent_seq":5218297,"k_ele":[{"keb":"去川"}],"r_ele":[{"reb":"さるかわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sarukawa"}]}]}
 {"ent_seq":5218298,"k_ele":[{"keb":"去川のイチョウ"}],"r_ele":[{"reb":"さるかわのイチョウ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sarukawanoichō"}]}]}
 {"ent_seq":5218299,"k_ele":[{"keb":"去沢川"}],"r_ele":[{"reb":"さりざわがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sarizawagawa"}]}]}
-{"ent_seq":5218300,"k_ele":[{"keb":"去定"}],"r_ele":[{"reb":"きょじょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kyojō"}]}]}
+{"ent_seq":5218300,"k_ele":[{"keb":"去定"}],"r_ele":[{"reb":"きょじょう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kyojō"}]}]}
 {"ent_seq":5218301,"k_ele":[{"keb":"去田屋敷"}],"r_ele":[{"reb":"さったやしき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Sattayashiki"}]}]}
 {"ent_seq":5218302,"k_ele":[{"keb":"去渡"}],"r_ele":[{"reb":"さるわたり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Saruwatari"}]}]}
 {"ent_seq":5218303,"k_ele":[{"keb":"去渡"}],"r_ele":[{"reb":"さわたり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sawatari"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301324,"k_ele":[{"keb":"佐藤勝尚"}],"r_ele":[{"reb":"さとうかつなお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsunao"}]}]}
 {"ent_seq":5301325,"k_ele":[{"keb":"佐藤勝彦"}],"r_ele":[{"reb":"さとうかつひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuhiko (1945.8-)"}]}]}
 {"ent_seq":5301326,"k_ele":[{"keb":"佐藤勝明"}],"r_ele":[{"reb":"さとうかつあき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuaki (1942-)"}]}]}
+{"ent_seq":5301327,"k_ele":[{"keb":"佐藤勝也"}],"r_ele":[{"reb":"さとうかつや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuya (1904.4.10-1988.3.19)"}]}]}

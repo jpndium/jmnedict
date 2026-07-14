@@ -1,4 +1,3 @@
-{"ent_seq":5301327,"k_ele":[{"keb":"佐藤勝也"}],"r_ele":[{"reb":"さとうかつや"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Katsuya (1904.4.10-1988.3.19)"}]}]}
 {"ent_seq":5301328,"k_ele":[{"keb":"佐藤商事"}],"r_ele":[{"reb":"さとうしょうじ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Sato Shoji Corporation"}]}]}
 {"ent_seq":5301329,"k_ele":[{"keb":"佐藤尚忠"}],"r_ele":[{"reb":"さとうなおただ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotada"}]}]}
 {"ent_seq":5301330,"k_ele":[{"keb":"佐藤尚武"}],"r_ele":[{"reb":"さとうなおたけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotake (1882.10.30-1971.12.18)"}]}]}
@@ -2330,7 +2329,7 @@
 {"ent_seq":5303661,"k_ele":[{"keb":"沙英子"}],"r_ele":[{"reb":"さえこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Saeko"}]}]}
 {"ent_seq":5303662,"k_ele":[{"keb":"沙詠"}],"r_ele":[{"reb":"さえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sae"}]}]}
 {"ent_seq":5303663,"k_ele":[{"keb":"沙詠子"}],"r_ele":[{"reb":"さえこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Saeko"}]}]}
-{"ent_seq":5303664,"k_ele":[{"keb":"沙炎"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Safaia"}]}]}
+{"ent_seq":5303664,"k_ele":[{"keb":"沙炎"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sapphire"}]}]}
 {"ent_seq":5303665,"k_ele":[{"keb":"沙於"}],"r_ele":[{"reb":"さお"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sao"}]}]}
 {"ent_seq":5303666,"k_ele":[{"keb":"沙於里"}],"r_ele":[{"reb":"さおり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Saori"}]}]}
 {"ent_seq":5303667,"k_ele":[{"keb":"沙央"}],"r_ele":[{"reb":"しお"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shio"}]}]}
@@ -3947,7 +3946,7 @@
 {"ent_seq":5305280,"k_ele":[{"keb":"砂凜"}],"r_ele":[{"reb":"さりん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sarin"}]}]}
 {"ent_seq":5305281,"k_ele":[{"keb":"鎖"}],"r_ele":[{"reb":"くさり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kusari"}]}]}
 {"ent_seq":5305282,"k_ele":[{"keb":"鎖雲寺"}],"r_ele":[{"reb":"さぐもでら"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sagumodera"}]}]}
-{"ent_seq":5305283,"k_ele":[{"keb":"鎖炎"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Safaia"}]}]}
+{"ent_seq":5305283,"k_ele":[{"keb":"鎖炎"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sapphire"}]}]}
 {"ent_seq":5305284,"k_ele":[{"keb":"鎖鬼呼"}],"r_ele":[{"reb":"さきこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sakiko"}]}]}
 {"ent_seq":5305285,"k_ele":[{"keb":"鎖月"}],"r_ele":[{"reb":"さつき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Satsuki"}]}]}
 {"ent_seq":5305286,"k_ele":[{"keb":"鎖是"}],"r_ele":[{"reb":"さぜ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Saze"}]}]}
@@ -38556,7 +38555,7 @@
 {"ent_seq":5340022,"k_ele":[{"keb":"七郎左衛門"}],"r_ele":[{"reb":"しちろうざえもん"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Shichirōzaemon"}]}]}
 {"ent_seq":5340023,"k_ele":[{"keb":"七郎斎"}],"r_ele":[{"reb":"しちろうさい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shichirōsai"}]}]}
 {"ent_seq":5340024,"k_ele":[{"keb":"七郎山"}],"r_ele":[{"reb":"しちろうざん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shichirōzan"}]}]}
-{"ent_seq":5340025,"k_ele":[{"keb":"七郎治"}],"r_ele":[{"reb":"しちろうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shichirōji"}]}]}
+{"ent_seq":5340025,"k_ele":[{"keb":"七郎治"}],"r_ele":[{"reb":"しちろうじ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Shichirōji"}]}]}
 {"ent_seq":5340026,"k_ele":[{"keb":"七郎治崎"}],"r_ele":[{"reb":"しちろうじさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shichirōjisaki"}]}]}
 {"ent_seq":5340027,"k_ele":[{"keb":"七郎太"}],"r_ele":[{"reb":"しちろうた"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shichirōta"}]}]}
 {"ent_seq":5340028,"k_ele":[{"keb":"七郎沢"}],"r_ele":[{"reb":"しちろうざわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shichirōzawa"}]}]}
@@ -43103,7 +43102,7 @@
 {"ent_seq":5344574,"k_ele":[{"keb":"紗富"}],"r_ele":[{"reb":"さとみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Satomi"}]}]}
 {"ent_seq":5344575,"k_ele":[{"keb":"紗扶里"}],"r_ele":[{"reb":"さおり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Saori"}]}]}
 {"ent_seq":5344576,"k_ele":[{"keb":"紗舞"}],"r_ele":[{"reb":"さまい"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Samai"}]}]}
-{"ent_seq":5344577,"k_ele":[{"keb":"紗舞弥"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Safaia"}]}]}
+{"ent_seq":5344577,"k_ele":[{"keb":"紗舞弥"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sapphire"}]}]}
 {"ent_seq":5344578,"k_ele":[{"keb":"紗文"}],"r_ele":[{"reb":"さあや"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Saaya"}]}]}
 {"ent_seq":5344579,"k_ele":[{"keb":"紗文佳"}],"r_ele":[{"reb":"さやか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sayaka"}]}]}
 {"ent_seq":5344580,"k_ele":[{"keb":"紗兵"}],"r_ele":[{"reb":"さへい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Sahei"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5401587,"k_ele":[{"keb":"条元"}],"r_ele":[{"reb":"じょうもと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōmoto"}]}]}
 {"ent_seq":5401588,"k_ele":[{"keb":"条原"}],"r_ele":[{"reb":"じょうはら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōhara"}]}]}
 {"ent_seq":5401589,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうざん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōzan"}]}]}
+{"ent_seq":5401590,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōyama"}]}]}

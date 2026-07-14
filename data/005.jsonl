@@ -1,4 +1,3 @@
-{"ent_seq":5401590,"k_ele":[{"keb":"条山"}],"r_ele":[{"reb":"じょうやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōyama"}]}]}
 {"ent_seq":5401591,"k_ele":[{"keb":"条司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401592,"k_ele":[{"keb":"条子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
 {"ent_seq":5401593,"k_ele":[{"keb":"条時"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōji"}]}]}
@@ -7956,7 +7955,7 @@
 {"ent_seq":5409577,"k_ele":[{"keb":"新羅"}],"r_ele":[{"reb":"しんら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Shinra"}]}]}
 {"ent_seq":5409578,"k_ele":[{"keb":"新羅"}],"r_ele":[{"reb":"にら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Nira"}]}]}
 {"ent_seq":5409579,"k_ele":[{"keb":"新羅臼橋"}],"r_ele":[{"reb":"しんらうすはし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shinrausuhashi"}]}]}
-{"ent_seq":5409580,"k_ele":[{"keb":"新羅三郎"}],"r_ele":[{"reb":"しんらさぶろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shinra saburō"}]}]}
+{"ent_seq":5409580,"k_ele":[{"keb":"新羅三郎"}],"r_ele":[{"reb":"しんらさぶろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Shinra Saburō (nickname of Minamoto no Yoshimitsu, 1045 – 1127)"}]}]}
 {"ent_seq":5409581,"k_ele":[{"keb":"新羅三郎墓"}],"r_ele":[{"reb":"しんらさぶろうはか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shinra Saburō (grave)"}]}]}
 {"ent_seq":5409582,"k_ele":[{"keb":"新来"}],"r_ele":[{"reb":"あらき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Araki"}]}]}
 {"ent_seq":5409583,"k_ele":[{"keb":"新来見橋"}],"r_ele":[{"reb":"しんくるみばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shinkurumibashi"}]}]}
@@ -14319,7 +14318,7 @@
 {"ent_seq":5415952,"k_ele":[{"keb":"真里"}],"r_ele":[{"reb":"まり"}],"trans":[{"name_type":["&fem;","&place;"],"trans_det":[{"value":"Mari"}]}]}
 {"ent_seq":5415953,"k_ele":[{"keb":"真里"}],"r_ele":[{"reb":"まりあ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Maria"}]}]}
 {"ent_seq":5415954,"k_ele":[{"keb":"真里"}],"r_ele":[{"reb":"みさと"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Misato"}]}]}
-{"ent_seq":5415955,"k_ele":[{"keb":"真里亜"}],"r_ele":[{"reb":"まりあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Maria"}]}]}
+{"ent_seq":5415955,"k_ele":[{"keb":"真里亜"},{"keb":"真里亞"}],"r_ele":[{"reb":"まりあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Maria"}]}]}
 {"ent_seq":5415956,"k_ele":[{"keb":"真里愛"}],"r_ele":[{"reb":"まりあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Maria"}]}]}
 {"ent_seq":5415957,"k_ele":[{"keb":"真里安"}],"r_ele":[{"reb":"まりあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Maria"}]}]}
 {"ent_seq":5415958,"k_ele":[{"keb":"真里杏"}],"r_ele":[{"reb":"まりあん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Marian"}]}]}
@@ -20442,7 +20441,7 @@
 {"ent_seq":5422102,"k_ele":[{"keb":"諏訪原城跡"}],"r_ele":[{"reb":"すわばらじょうし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Suwabara Castle Ruins"}]}]}
 {"ent_seq":5422103,"k_ele":[{"keb":"諏訪原団地"}],"r_ele":[{"reb":"すわはらだんち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Suwaharadanchi"}]}]}
 {"ent_seq":5422104,"k_ele":[{"keb":"諏訪戸"}],"r_ele":[{"reb":"すわど"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Suwado"}]}]}
-{"ent_seq":5422105,"k_ele":[{"keb":"諏訪湖"}],"r_ele":[{"reb":"すわこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Suwako"}]}]}
+{"ent_seq":5422105,"k_ele":[{"keb":"諏訪湖"}],"r_ele":[{"reb":"すわこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Lake Suwa (Nagano Prefecture)"}]}]}
 {"ent_seq":5422107,"k_ele":[{"keb":"諏訪湖スタジアム"}],"r_ele":[{"reb":"すわこスタジアム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Suwakosutajiamu"}]}]}
 {"ent_seq":5422108,"k_ele":[{"keb":"諏訪康雄"}],"r_ele":[{"reb":"すわやすお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suwa Yasuo"}]}]}
 {"ent_seq":5422109,"k_ele":[{"keb":"諏訪根自子"}],"r_ele":[{"reb":"すわねじこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suwa Nejiko (1920.1.23-)"}]}]}
@@ -77202,7 +77201,7 @@
 {"ent_seq":5479069,"k_ele":[{"keb":"蒼羽"}],"r_ele":[{"reb":"あおば"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Aoba"}]}]}
 {"ent_seq":5479070,"k_ele":[{"keb":"蒼衛門"}],"r_ele":[{"reb":"そうえもん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Souemon"}]}]}
 {"ent_seq":5479071,"k_ele":[{"keb":"蒼悦"}],"r_ele":[{"reb":"そうえつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Souetsu"}]}]}
-{"ent_seq":5479072,"k_ele":[{"keb":"蒼炎"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Safaia"}]}]}
+{"ent_seq":5479072,"k_ele":[{"keb":"蒼炎"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Sapphire"}]}]}
 {"ent_seq":5479073,"k_ele":[{"keb":"蒼央"}],"r_ele":[{"reb":"あお"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ao"}]}]}
 {"ent_seq":5479074,"k_ele":[{"keb":"蒼乙"}],"r_ele":[{"reb":"あお"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Ao"}]}]}
 {"ent_seq":5479075,"k_ele":[{"keb":"蒼音"}],"r_ele":[{"reb":"あおと"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Aoto"}]}]}
@@ -77229,7 +77228,7 @@
 {"ent_seq":5479096,"k_ele":[{"keb":"蒼希"}],"r_ele":[{"reb":"あおき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Aoki"}]}]}
 {"ent_seq":5479097,"k_ele":[{"keb":"蒼祈"}],"r_ele":[{"reb":"あおい"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Aoi"}]}]}
 {"ent_seq":5479098,"k_ele":[{"keb":"蒼貴"}],"r_ele":[{"reb":"そうき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Souki"}]}]}
-{"ent_seq":5479099,"k_ele":[{"keb":"蒼輝"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Safaia"}]}]}
+{"ent_seq":5479099,"k_ele":[{"keb":"蒼輝"}],"r_ele":[{"reb":"さふぁいあ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Sapphire"}]}]}
 {"ent_seq":5479100,"k_ele":[{"keb":"蒼吉"}],"r_ele":[{"reb":"そうきち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Soukichi"}]}]}
 {"ent_seq":5479101,"k_ele":[{"keb":"蒼久"}],"r_ele":[{"reb":"そうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Souji"}]}]}
 {"ent_seq":5479102,"k_ele":[{"keb":"蒼久保"}],"r_ele":[{"reb":"あおくぼ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Aokubo"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501972,"k_ele":[{"keb":"拓北一条"}],"r_ele":[{"reb":"たくほくいちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuichijō"}]}]}
 {"ent_seq":5501973,"k_ele":[{"keb":"拓北駅"}],"r_ele":[{"reb":"たくほくえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Takuhoku Station"}]}]}
 {"ent_seq":5501974,"k_ele":[{"keb":"拓北五条"}],"r_ele":[{"reb":"たくほくごじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugojō"}]}]}
+{"ent_seq":5501975,"k_ele":[{"keb":"拓北三条"}],"r_ele":[{"reb":"たくほくさんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokusanjō"}]}]}

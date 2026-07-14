@@ -40587,7 +40587,7 @@
 {"ent_seq":5040861,"r_ele":[{"reb":"ジェイストン"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jayston"}]}]}
 {"ent_seq":5040862,"r_ele":[{"reb":"ジェイズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jeayes"}]}]}
 {"ent_seq":5040863,"r_ele":[{"reb":"ジェイセン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jacen"}]}]}
-{"ent_seq":5040864,"r_ele":[{"reb":"ジェイソン"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jason"}]}]}
+{"ent_seq":5040864,"r_ele":[{"reb":"ジェイソン"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jason"}]},{"name_type":["&fict;","&person;"],"trans_det":[{"value":"Jason Voorhees (antagonist of the Friday 13th films)"}]}]}
 {"ent_seq":5040865,"r_ele":[{"reb":"ジェイソンジアンビー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jason Gilbert Giambi"}]}]}
 {"ent_seq":5040866,"r_ele":[{"reb":"ジェイソンプレストリー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jason Priestley"}]}]}
 {"ent_seq":5040867,"r_ele":[{"reb":"ジェイソンロバーズ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Jason Robards"}]}]}
@@ -54423,7 +54423,6 @@
 {"ent_seq":5054805,"r_ele":[{"reb":"トゥルノン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tournon"}]}]}
 {"ent_seq":5054806,"r_ele":[{"reb":"トゥルビル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tourville"}]}]}
 {"ent_seq":5054807,"r_ele":[{"reb":"トゥルファー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tulfah"}]}]}
-{"ent_seq":5054808,"r_ele":[{"reb":"トゥルファン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Turpan"}]}]}
 {"ent_seq":5054809,"r_ele":[{"reb":"トゥルベツコイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Trubetzkoys"}]}]}
 {"ent_seq":5054810,"r_ele":[{"reb":"トゥルム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tulum"}]}]}
 {"ent_seq":5054811,"r_ele":[{"reb":"トゥルリウス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tullius"}]}]}
@@ -55407,7 +55406,7 @@
 {"ent_seq":5055808,"r_ele":[{"reb":"トルビル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Trouville (France)"}]}]}
 {"ent_seq":5055809,"r_ele":[{"reb":"トルビルシュルメール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Trouville-sur-Mer"}]}]}
 {"ent_seq":5055810,"r_ele":[{"reb":"トルピーゴ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tolpygo"}]}]}
-{"ent_seq":5055811,"k_ele":[{"keb":"吐鲁番"}],"r_ele":[{"reb":"トルファン"},{"reb":"トゥルパン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Turpan (China)"},{"value":"Turfan"}]}]}
+{"ent_seq":5055811,"k_ele":[{"keb":"吐鲁番"}],"r_ele":[{"reb":"トルファン"},{"reb":"トゥルパン"},{"reb":"トゥルファン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Turpan (China)"},{"value":"Turfan"}]}]}
 {"ent_seq":5055812,"r_ele":[{"reb":"トルフリーク"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Trhlik"}]}]}
 {"ent_seq":5055813,"r_ele":[{"reb":"トルブーヒン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tolbuhin"},{"value":"Tolbukhin"}]}]}
 {"ent_seq":5055814,"r_ele":[{"reb":"トルプ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Torp"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋"}],"r_ele":[{"reb":"あこや"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Akoya"}]}]}
 {"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野"}],"r_ele":[{"reb":"あこやの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano"}]}]}
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル"}],"r_ele":[{"reb":"あこやのトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano Tunnel"}]}]}
+{"ent_seq":5100651,"k_ele":[{"keb":"阿古下"}],"r_ele":[{"reb":"あこした"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoshita"}]}]}

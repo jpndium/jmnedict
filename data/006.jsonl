@@ -1,4 +1,3 @@
-{"ent_seq":5501975,"k_ele":[{"keb":"拓北三条"}],"r_ele":[{"reb":"たくほくさんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokusanjō"}]}]}
 {"ent_seq":5501976,"k_ele":[{"keb":"拓北四条"}],"r_ele":[{"reb":"たくほくしじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokushijō"}]}]}
 {"ent_seq":5501977,"k_ele":[{"keb":"拓北四条"}],"r_ele":[{"reb":"たくほくよんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuyonjō"}]}]}
 {"ent_seq":5501978,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくしちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokushichijō"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602440,"k_ele":[{"keb":"番鳥沢"}],"r_ele":[{"reb":"ばんどりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandorisawa"}]}]}
 {"ent_seq":5602441,"k_ele":[{"keb":"番定"}],"r_ele":[{"reb":"ばんじょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banjō"}]}]}
 {"ent_seq":5602442,"k_ele":[{"keb":"番天"}],"r_ele":[{"reb":"ばんてん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banten"}]}]}
+{"ent_seq":5602443,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banta"}]}]}
