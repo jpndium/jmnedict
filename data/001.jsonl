@@ -9733,7 +9733,6 @@
 {"ent_seq":5009773,"r_ele":[{"reb":"アドルフソン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Adolphson"}]}]}
 {"ent_seq":5009776,"r_ele":[{"reb":"アドルフブッシュ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Adolphus Busch"}]}]}
 {"ent_seq":5009777,"r_ele":[{"reb":"アドルマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Adleman"}]}]}
-{"ent_seq":5009778,"r_ele":[{"reb":"アドルム"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"adorm"}]}]}
 {"ent_seq":5009779,"r_ele":[{"reb":"アドレー"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Adlai"}]}]}
 {"ent_seq":5009780,"r_ele":[{"reb":"アドレー・スティーブンソン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Adlai Stevenson"}]}]}
 {"ent_seq":5009781,"r_ele":[{"reb":"アドレースティーブンソン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Adlai Stevenson"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野"}],"r_ele":[{"reb":"あこやの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano"}]}]}
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル"}],"r_ele":[{"reb":"あこやのトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano Tunnel"}]}]}
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下"}],"r_ele":[{"reb":"あこした"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoshita"}]}]}
+{"ent_seq":5100652,"k_ele":[{"keb":"阿古江"}],"r_ele":[{"reb":"あこえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoe"}]}]}

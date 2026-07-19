@@ -1,4 +1,3 @@
-{"ent_seq":5100652,"k_ele":[{"keb":"阿古江"}],"r_ele":[{"reb":"あこえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoe"}]}]}
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社"}],"r_ele":[{"reb":"あこしじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoshi Shrine"}]}]}
 {"ent_seq":5100654,"k_ele":[{"keb":"阿古真理"}],"r_ele":[{"reb":"あこまり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ako Mari"}]}]}
 {"ent_seq":5100655,"k_ele":[{"keb":"阿古曽"}],"r_ele":[{"reb":"あこそ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoso"}]}]}
@@ -9537,7 +9536,7 @@
 {"ent_seq":5110233,"k_ele":[{"keb":"安生地"}],"r_ele":[{"reb":"あおじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Aoji"}]}]}
 {"ent_seq":5110234,"k_ele":[{"keb":"安生洋二"}],"r_ele":[{"reb":"あんじょうようじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Anjō Yōji"}]}]}
 {"ent_seq":5110235,"k_ele":[{"keb":"安盛"}],"r_ele":[{"reb":"やすもり"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Yasumori"}]}]}
-{"ent_seq":5110236,"k_ele":[{"keb":"安精艮斎"}],"r_ele":[{"reb":"あさかごんさい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asaka Gonsai"}]}]}
+{"ent_seq":5110236,"k_ele":[{"keb":"安積艮斎"}],"r_ele":[{"reb":"あさかごんさい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asaka Gonsai (Edo period Confucian scholar)"}]}]}
 {"ent_seq":5110237,"k_ele":[{"keb":"安精澹泊"}],"r_ele":[{"reb":"あさかたんぱく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asaka Tanpaku"}]}]}
 {"ent_seq":5110238,"k_ele":[{"keb":"安聖"}],"r_ele":[{"reb":"あせい"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Asei"}]}]}
 {"ent_seq":5110239,"k_ele":[{"keb":"安声"}],"r_ele":[{"reb":"あがた"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Agata"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200967,"k_ele":[{"keb":"季貴"}],"r_ele":[{"reb":"きき"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiki"}]}]}
 {"ent_seq":5200968,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
 {"ent_seq":5200969,"k_ele":[{"keb":"季義"}],"r_ele":[{"reb":"すえよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Sueyoshi"}]}]}
+{"ent_seq":5200970,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}

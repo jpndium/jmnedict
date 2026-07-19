@@ -1,4 +1,3 @@
-{"ent_seq":5702783,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702784,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
 {"ent_seq":5702785,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"りゅうすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsuke"}]}]}
 {"ent_seq":5702786,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
@@ -43494,4 +43493,24 @@
 {"ent_seq":5747900,"r_ele":[{"reb":"エルメロイ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"El-Melloi"}]}]}
 {"ent_seq":5747901,"k_ele":[{"keb":"東陽"}],"r_ele":[{"reb":"とうよう"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Toyo Corporation"}]}]}
 {"ent_seq":5747902,"r_ele":[{"reb":"トヨペット"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Toyopet (former brand of Toyota automobiles)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-07-14"}]}]}
+{"ent_seq":5747903,"r_ele":[{"reb":"リセッシュ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Resesh (brand of deodorizer spray)"}]}]}
+{"ent_seq":5747904,"k_ele":[{"keb":"房石"}],"r_ele":[{"reb":"ふさいし"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Fusaishi"}]}]}
+{"ent_seq":5747905,"k_ele":[{"keb":"回末"}],"r_ele":[{"reb":"うえまつ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Uematsu"}]}]}
+{"ent_seq":5747906,"k_ele":[{"keb":"醸田"}],"r_ele":[{"reb":"かもしだ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Kamoshida"}]}]}
+{"ent_seq":5747907,"k_ele":[{"keb":"近望"}],"r_ele":[{"reb":"ちかもち"}],"trans":[{"name_type":["&given;","&fict;"],"trans_det":[{"value":"Chikamochi"}]}]}
+{"ent_seq":5747908,"k_ele":[{"keb":"綿流し"}],"r_ele":[{"reb":"わたながし"}],"trans":[{"name_type":["&ev;","&fict;"],"trans_det":[{"value":"Watanagashi (festival)"}]}]}
+{"ent_seq":5747909,"r_ele":[{"reb":"アイリスフィール"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Irisviel"}]}]}
+{"ent_seq":5747910,"r_ele":[{"reb":"ジル・ド・レ"},{"reb":"ジル・ド・レー"},{"reb":"ジル・ド・レイ"},{"reb":"ジル・ド・レェ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Gilles de Rais (1405-1440; French nobleman and convicted serial killer)"}]}]}
+{"ent_seq":5747911,"r_ele":[{"reb":"ユーサー"},{"reb":"ウーサー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Uther Pendragon (legendary King of the Britons and father of King Arthur)"}]}]}
+{"ent_seq":5747912,"k_ele":[{"keb":"北斗衛星導航系統"}],"r_ele":[{"reb":"ほくとえいせいどうこうけいとう"}],"trans":[{"name_type":["&serv;"],"trans_det":[{"value":"BeiDou Navigation Satellite System"}]}]}
+{"ent_seq":5747913,"k_ele":[{"keb":"横店影視城"}],"r_ele":[{"reb":"おうてんえいしじょう"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Hengdian World Studios (Chinese film studio)"}]}]}
+{"ent_seq":5747914,"k_ele":[{"keb":"千葉周作"}],"r_ele":[{"reb":"ちばしゅうさく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Chiba Shūsaku (founder of the Hokushin Ittō-ryū; 1794-1855)"}]}]}
+{"ent_seq":5747915,"k_ele":[{"keb":"日本外史"}],"r_ele":[{"reb":"にほんがいし"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Nihon Gaishi (22-volume history of Japan's samurai clans, written in classical Chinese; 1836)"}]}]}
+{"ent_seq":5747916,"k_ele":[{"keb":"近思録"}],"r_ele":[{"reb":"きんしろく"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Reflections on Things at Hand (14-volume anthology of neo-Confucian teachings, 1176)"}]}]}
+{"ent_seq":5747917,"k_ele":[{"keb":"外史氏"}],"r_ele":[{"reb":"がいしし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Unofficial Historian (epithet for Rai San'yō, author of Nihon Gaishi)"}]}]}
+{"ent_seq":5747918,"r_ele":[{"reb":"ケイネス"}],"trans":[{"name_type":["&masc;","&fict;"],"trans_det":[{"value":"Kayneth"}]}]}
+{"ent_seq":5747919,"r_ele":[{"reb":"ハイアット"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Hyatt (hotel chain)"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Hyatt"}]}]}
+{"ent_seq":5747920,"r_ele":[{"reb":"ソラウ"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Sola-Ui"}]}]}
+{"ent_seq":5747921,"r_ele":[{"reb":"グロック","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Glock (polymer-framed pistol)"}]}]}
+{"ent_seq":5747922,"k_ele":[{"keb":"ＦＩＦＡ"}],"r_ele":[{"reb":"フィファ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"FIFA (Fédération Internationale de Football Association)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-07-19"}]}]}
