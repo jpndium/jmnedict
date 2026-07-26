@@ -1,4 +1,3 @@
-{"ent_seq":5702784,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
 {"ent_seq":5702785,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"りゅうすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsuke"}]}]}
 {"ent_seq":5702786,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
 {"ent_seq":5702787,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
@@ -43513,4 +43512,27 @@
 {"ent_seq":5747920,"r_ele":[{"reb":"ソラウ"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Sola-Ui"}]}]}
 {"ent_seq":5747921,"r_ele":[{"reb":"グロック","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Glock (polymer-framed pistol)"}]}]}
 {"ent_seq":5747922,"k_ele":[{"keb":"ＦＩＦＡ"}],"r_ele":[{"reb":"フィファ"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"FIFA (Fédération Internationale de Football Association)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-07-19"}]}]}
+{"ent_seq":5747923,"k_ele":[{"keb":"斉韶"}],"r_ele":[{"reb":"なりつぐ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Naritsugu"}]}]}
+{"ent_seq":5747924,"k_ele":[{"keb":"智依子"}],"r_ele":[{"reb":"ちえこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Chieko"}]}]}
+{"ent_seq":5747925,"r_ele":[{"reb":"リズリサ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Liz Lisa (girls' coquette fashion brand)"}]}]}
+{"ent_seq":5747926,"k_ele":[{"keb":"大雪山国立公園"}],"r_ele":[{"reb":"だいせつざんこくりつこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daisetsuzan National Park (Hokkaidō)"}]}]}
+{"ent_seq":5747927,"k_ele":[{"keb":"聖堂教会"}],"r_ele":[{"reb":"せいどうきょうかい"}],"trans":[{"name_type":["&fict;","&organization;"],"trans_det":[{"value":"Holy Church (religious and paramilitary organization esp. in TYPE-MOON works)"}]}]}
+{"ent_seq":5747928,"r_ele":[{"reb":"テッサー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Tessar (photographic lens)"},{"value":"Zeiss Tessar"}]}]}
+{"ent_seq":5747929,"r_ele":[{"reb":"ヌン"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Nun (Egyptian goddess)"},{"value":"Nu"}]}]}
+{"ent_seq":5747930,"r_ele":[{"reb":"ファミチキ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Family Mart chicken"},{"value":"Famichiki"}]}]}
+{"ent_seq":5747931,"k_ele":[{"keb":"阿良々木"}],"r_ele":[{"reb":"あららぎ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Araragi"}]}]}
+{"ent_seq":5747932,"k_ele":[{"keb":"八九寺"}],"r_ele":[{"reb":"はちくじ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Hachikuji"}]}]}
+{"ent_seq":5747933,"k_ele":[{"keb":"斧乃木"}],"r_ele":[{"reb":"おののぎ"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Ononogi"}]}]}
+{"ent_seq":5747934,"k_ele":[{"keb":"老倉"}],"r_ele":[{"reb":"おいくら"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Oikura"}]}]}
+{"ent_seq":5747935,"k_ele":[{"keb":"火憐"}],"r_ele":[{"reb":"かれん"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Karen"}]}]}
+{"ent_seq":5747936,"k_ele":[{"keb":"臥煙"}],"r_ele":[{"reb":"がえん"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Gaen"}]}]}
+{"ent_seq":5747937,"k_ele":[{"keb":"伊豆湖"}],"r_ele":[{"reb":"いずこ"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Izuko"}]}]}
+{"ent_seq":5747938,"k_ele":[{"keb":"影縫"}],"r_ele":[{"reb":"かげぬい"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Kagenui"}]}]}
+{"ent_seq":5747939,"k_ele":[{"keb":"蠟花"}],"r_ele":[{"reb":"ろうか"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Rōka"}]}]}
+{"ent_seq":5747940,"k_ele":[{"keb":"食飼"}],"r_ele":[{"reb":"はむかい"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Hamukai"}]}]}
+{"ent_seq":5747941,"k_ele":[{"keb":"命日子"}],"r_ele":[{"reb":"めにこ"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Meniko"}]}]}
+{"ent_seq":5747942,"r_ele":[{"reb":"フランソワ・プレラーティ"},{"reb":"フランソワプレラーティ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"François Prelati (c. 1417-1446; Italian cleric and alchemist)"}]}]}
+{"ent_seq":5747943,"r_ele":[{"reb":"プレラーティ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Prelati"}]},{"name_type":["&person;"],"trans_det":[{"value":"François Prelati (c. 1417-1446; Italian cleric and alchemist)"}]}]}
+{"ent_seq":5747944,"k_ele":[{"keb":"大津事件"}],"r_ele":[{"reb":"おおつじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Ōtsu Incident (1891 assassination attempt on Crown Prince Nicholas of Russia)"}]}]}
+{"ent_seq":5747945,"k_ele":[{"keb":"裵"}],"r_ele":[{"reb":"ベ"},{"reb":"ベー"},{"reb":"ペ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bae"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-07-26"}]}]}

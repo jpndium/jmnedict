@@ -5694,7 +5694,7 @@
 {"ent_seq":5206680,"k_ele":[{"keb":"擬宝珠山"}],"r_ele":[{"reb":"ぎほうじゅせん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gihoujusen"}]}]}
 {"ent_seq":5206681,"k_ele":[{"keb":"欺波"}],"r_ele":[{"reb":"しば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Shiba"}]}]}
 {"ent_seq":5206682,"k_ele":[{"keb":"祇杏"}],"r_ele":[{"reb":"しあん"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shian"}]}]}
-{"ent_seq":5206683,"k_ele":[{"keb":"祇園"}],"r_ele":[{"reb":"ぎおん"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Gion (entertainment district in Kyoto)"}]}]}
+{"ent_seq":5206683,"k_ele":[{"keb":"祇園"}],"r_ele":[{"reb":"ぎおん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gion (entertainment district in Kyoto)"}]},{"name_type":["&place;"],"trans_det":[{"value":"Jetavana Monastery (India) (abbr)"},{"value":"Jetavana-vihara"}]},{"name_type":["&place;"],"trans_det":[{"value":"Yasaka Shrine (Kyoto) (abbr)"}]},{"name_type":["&ev;"],"trans_det":[{"value":"Gion Festival (abbr)"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Gion"}]}]}
 {"ent_seq":5206684,"k_ele":[{"keb":"祇園の社"}],"r_ele":[{"reb":"ぎおんのやしろ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gion no Yashiro (former name for Yasaka-Jinja)"}]}]}
 {"ent_seq":5206685,"k_ele":[{"keb":"祇園下"}],"r_ele":[{"reb":"ぎおんした"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Gionshita"}]}]}
 {"ent_seq":5206686,"k_ele":[{"keb":"祇園橋"}],"r_ele":[{"reb":"ぎおんばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gionbashi"}]}]}

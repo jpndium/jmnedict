@@ -1,4 +1,3 @@
-{"ent_seq":5501977,"k_ele":[{"keb":"拓北四条"}],"r_ele":[{"reb":"たくほくよんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuyonjō"}]}]}
 {"ent_seq":5501978,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくしちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokushichijō"}]}]}
 {"ent_seq":5501979,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくななじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokunanajō"}]}]}
 {"ent_seq":5501980,"k_ele":[{"keb":"拓北川"}],"r_ele":[{"reb":"たくほくがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugawa"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602442,"k_ele":[{"keb":"番天"}],"r_ele":[{"reb":"ばんてん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banten"}]}]}
 {"ent_seq":5602443,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banta"}]}]}
 {"ent_seq":5602444,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banda"}]}]}
+{"ent_seq":5602445,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんでん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banden"}]}]}
