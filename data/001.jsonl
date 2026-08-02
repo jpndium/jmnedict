@@ -22605,7 +22605,7 @@
 {"ent_seq":5022778,"r_ele":[{"reb":"カモラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Camorra"}]}]}
 {"ent_seq":5022779,"k_ele":[{"keb":"カモリ淵"}],"r_ele":[{"reb":"カモリふち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamorifuchi"}]}]}
 {"ent_seq":5022780,"r_ele":[{"reb":"カモレッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Camoletti"}]}]}
-{"ent_seq":5022781,"r_ele":[{"reb":"カモンイス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Luís de Camões (15th c. Portuguese poet) (abbr)"}]}]}
+{"ent_seq":5022781,"r_ele":[{"reb":"カモンイス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Luís de Camões (15th ca. Portuguese poet) (abbr)"}]}]}
 {"ent_seq":5022782,"k_ele":[{"keb":"カモ島"}],"r_ele":[{"reb":"カモしま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kamoshima"}]}]}
 {"ent_seq":5022783,"r_ele":[{"reb":"カヤ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kaya"}]}]}
 {"ent_seq":5022784,"r_ele":[{"reb":"カヤーニ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kajaani"}]}]}
@@ -26936,7 +26936,7 @@
 {"ent_seq":5027132,"k_ele":[{"keb":"クッチ湿地"}],"r_ele":[{"reb":"クッチしっち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rann of Cutch (swampland)"}]}]}
 {"ent_seq":5027133,"k_ele":[{"keb":"クッチ湾"}],"r_ele":[{"reb":"クッチわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cutch Gulf"}]}]}
 {"ent_seq":5027134,"r_ele":[{"reb":"クッツェー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Coetzee"}]}]}
-{"ent_seq":5027135,"r_ele":[{"reb":"クッパー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kupper"}]}]}
+{"ent_seq":5027135,"r_ele":[{"reb":"クッパー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kupffer"},{"value":"Kupper"}]}]}
 {"ent_seq":5027136,"r_ele":[{"reb":"クップファー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kupfer"}]}]}
 {"ent_seq":5027137,"r_ele":[{"reb":"クップフェル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kupffer"}]}]}
 {"ent_seq":5027138,"r_ele":[{"reb":"クツーゾフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kutuzov"}]}]}
@@ -48217,7 +48217,7 @@
 {"ent_seq":5048558,"r_ele":[{"reb":"タレール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Thaller"}]}]}
 {"ent_seq":5048559,"r_ele":[{"reb":"タレガ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tarrega"}]}]}
 {"ent_seq":5048560,"r_ele":[{"reb":"タレガーニー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Talegani"}]}]}
-{"ent_seq":5048561,"r_ele":[{"reb":"タレス"},{"reb":"タレース"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Thales (Greek philosopher; c. 624-546 BCE)"}]}]}
+{"ent_seq":5048561,"r_ele":[{"reb":"タレス"},{"reb":"タレース"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Thales (Greek philosopher; ca. 624-546 BCE)"}]}]}
 {"ent_seq":5048562,"r_ele":[{"reb":"タレツキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Turetzky"}]}]}
 {"ent_seq":5048563,"r_ele":[{"reb":"タレビ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Taleb"}]}]}
 {"ent_seq":5048564,"k_ele":[{"keb":"タレルアン湖"}],"r_ele":[{"reb":"タレルアンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Thale Luang (lake)"}]}]}
@@ -87795,7 +87795,7 @@
 {"ent_seq":5088384,"r_ele":[{"reb":"ラーホフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rakhov"}]}]}
 {"ent_seq":5088385,"r_ele":[{"reb":"ラーボチキン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lavochkin"}]}]}
 {"ent_seq":5088386,"r_ele":[{"reb":"ラーマ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Rama (var. kings of Thailand)"}]}]}
-{"ent_seq":5088387,"r_ele":[{"reb":"ラーマーヤナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ramayana (Sanskrit Hindu epic, circa 300 BCE)"}]}]}
+{"ent_seq":5088387,"r_ele":[{"reb":"ラーマーヤナ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Ramayana (Sanskrit Hindu epic, ca. 300 BCE)"}]}]}
 {"ent_seq":5088388,"r_ele":[{"reb":"ラーマカムヘン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Rama Kamheng"}]}]}
 {"ent_seq":5088389,"r_ele":[{"reb":"ラーマクリシュナ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ramakrishna"}]}]}
 {"ent_seq":5088390,"r_ele":[{"reb":"ラーマチャンドラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ramachandra"}]}]}

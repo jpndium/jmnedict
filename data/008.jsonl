@@ -24654,7 +24654,7 @@
 {"ent_seq":5727491,"k_ele":[{"keb":"殷直"}],"r_ele":[{"reb":"いんちょく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Inchoku"}]}]}
 {"ent_seq":5727492,"k_ele":[{"keb":"殷賓"}],"r_ele":[{"reb":"いんぴん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Inpin"}]}]}
 {"ent_seq":5727493,"k_ele":[{"keb":"殷富門院大輔"}],"r_ele":[{"reb":"いんぶもんいんのたゆう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Inbumon'innotayū"}]}]}
-{"ent_seq":5727494,"k_ele":[{"keb":"殷墟"}],"r_ele":[{"reb":"いんきょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yinxu (ruins of the last capital of China's Shang Dynasty, c. 1766-1050 BCE)"}]}]}
+{"ent_seq":5727494,"k_ele":[{"keb":"殷墟"}],"r_ele":[{"reb":"いんきょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yinxu (ruins of the last capital of China's Shang Dynasty, ca. 1766-1050 BCE)"}]}]}
 {"ent_seq":5727495,"k_ele":[{"keb":"殷鉉"}],"r_ele":[{"reb":"いんげん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ingen"}]}]}
 {"ent_seq":5727496,"k_ele":[{"keb":"殷鉉"}],"r_ele":[{"reb":"うんひょん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Unhyon"}]}]}
 {"ent_seq":5727497,"k_ele":[{"keb":"毓太郎"}],"r_ele":[{"reb":"いくたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ikutarō"}]}]}
@@ -39102,7 +39102,7 @@
 {"ent_seq":5743416,"r_ele":[{"reb":"ビックリハウス","re_pri":{"spec":1}},{"reb":"ビックリ・ハウス"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Bikkuri House (subculture magazine published in Japan between 1974 and 1985)"}]}]}
 {"ent_seq":5743417,"r_ele":[{"reb":"チッソ","re_pri":{"spec":1}}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Chisso Corporation"}]}]}
 {"ent_seq":5743418,"r_ele":[{"reb":"ティモテ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Timotei (shampoo brand)"}]}]}
-{"ent_seq":5743419,"k_ele":[{"keb":"孫子の兵法"}],"r_ele":[{"reb":"そんしのへいほう","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Art of War (military text by Sun Tzu; c. 5th century BCE)"}]}]}
+{"ent_seq":5743419,"k_ele":[{"keb":"孫子の兵法"}],"r_ele":[{"reb":"そんしのへいほう","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Art of War (military text by Sun Tzu; ca. 5th century BCE)"}]}]}
 {"ent_seq":5743420,"k_ele":[{"keb":"先哲像伝"},{"keb":"先哲像傳"}],"r_ele":[{"reb":"せんてつぞうでん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Pictures of Ancient Wise Men"}]}]}
 {"ent_seq":5743421,"r_ele":[{"reb":"ホットペッパー","re_pri":{"spec":1}},{"reb":"ホット・ペッパー"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hot Pepper (free magazine)"}]}]}
 {"ent_seq":5743422,"k_ele":[{"keb":"王毅"}],"r_ele":[{"reb":"おうき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wang Yi (1953.10.19-; Chinese politician)"}]}]}
@@ -39852,7 +39852,7 @@
 {"ent_seq":5744175,"k_ele":[{"keb":"加徳島"}],"r_ele":[{"reb":"カドクとう"},{"reb":"カドクド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gadeokdo (South Korea)"},{"value":"Kadok Island"}]}]}
 {"ent_seq":5744176,"k_ele":[{"keb":"阿摩美久"},{"keb":"阿摩彌姑"}],"r_ele":[{"reb":"あまみきよ","re_pri":{"spec":1}},{"reb":"あまみく"},{"reb":"あまみきょ"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Amamikyu (Ryukyuan religion creation goddess)"}]}]}
 {"ent_seq":5744177,"k_ele":[{"keb":"今帰仁城"}],"r_ele":[{"reb":"なきじんぐすく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nakijin Castle"}]}]}
-{"ent_seq":5744178,"r_ele":[{"reb":"おもろさうし","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Omoro Sōshi (compilation of ancient songs and poems from Okinawa from c. 12th century)"}]}]}
+{"ent_seq":5744178,"r_ele":[{"reb":"おもろさうし","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Omoro Sōshi (compilation of ancient songs and poems from Okinawa from ca. 12th century)"}]}]}
 {"ent_seq":5744180,"k_ele":[{"keb":"馨盛"}],"r_ele":[{"reb":"きょうせい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kyōsei"}]}]}
 {"ent_seq":5744181,"r_ele":[{"reb":"アマミキヨ","re_pri":{"spec":1}},{"reb":"アマミク"},{"reb":"アマミチュー"},{"reb":"アマミキョ"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Amamikyu (Ryukyuan religion creation goddess)"}]}]}
 {"ent_seq":5744182,"k_ele":[{"keb":"水平社"}],"r_ele":[{"reb":"すいへいしゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Burakumin rights organization (1922-1942)"}]}]}
@@ -42763,7 +42763,7 @@
 {"ent_seq":5747139,"r_ele":[{"reb":"ウルトラスパーク","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"UltraSPARC (Sun microprocessor)"}]}]}
 {"ent_seq":5747140,"r_ele":[{"reb":"オーカット","re_pri":{"spec":1}},{"reb":"オルカット"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Orkut (former Google social networking site)"}]}]}
 {"ent_seq":5747141,"k_ele":[{"keb":"段成式"}],"r_ele":[{"reb":"だんせいしき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Duan Chengshi (803?-864; Chinese poet and writer)"}]}]}
-{"ent_seq":5747142,"k_ele":[{"keb":"酉陽雑俎"}],"r_ele":[{"reb":"ゆうようざっそ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Miscellaneous Morsels from Youyang (collection of essays by Duang Chengshi compiled c. 860 CE)"},{"value":"Youyang zazu"}]}]}
+{"ent_seq":5747142,"k_ele":[{"keb":"酉陽雑俎"}],"r_ele":[{"reb":"ゆうようざっそ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Miscellaneous Morsels from Youyang (collection of essays by Duang Chengshi compiled ca. 860 CE)"},{"value":"Youyang zazu"}]}]}
 {"ent_seq":5747143,"k_ele":[{"keb":"奈和"}],"r_ele":[{"reb":"なお"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nao"}]}]}
 {"ent_seq":5747145,"k_ele":[{"keb":"久布白落実"}],"r_ele":[{"reb":"くぶしろおちみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ochimi Kubushiro (1882-1972; women's rights activist)"}]}]}
 {"ent_seq":5747146,"r_ele":[{"reb":"ワードパッド"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"WordPad (word processor)"}]}]}
@@ -43415,7 +43415,7 @@
 {"ent_seq":5747821,"k_ele":[{"keb":"弓塚"}],"r_ele":[{"reb":"ゆみづか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Yumizuka"}]}]}
 {"ent_seq":5747822,"k_ele":[{"keb":"小林製薬"}],"r_ele":[{"reb":"こばやしせいやく"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Kobayashi Pharmaceutical"}]}]}
 {"ent_seq":5747823,"k_ele":[{"keb":"銭塘江"}],"r_ele":[{"reb":"せんとうこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Qiantang River (China)"}]}]}
-{"ent_seq":5747824,"k_ele":[{"keb":"長江存儲"}],"r_ele":[{"reb":"ちょうこうぞんちょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yangtze Memory Technologies Corp."},{"value":"YMTC"}]}]}
+{"ent_seq":5747824,"k_ele":[{"keb":"長江存儲"}],"r_ele":[{"reb":"ちょうこうそんちょ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Yangtze Memory Technologies Corp."},{"value":"YMTC"}]}]}
 {"ent_seq":5747825,"k_ele":[{"keb":"槙久"}],"r_ele":[{"reb":"まきひさ"}],"trans":[{"name_type":["&masc;","&fict;"],"trans_det":[{"value":"Makihisa"}]}]}
 {"ent_seq":5747826,"k_ele":[{"keb":"臙条"}],"r_ele":[{"reb":"えんじょう"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Enjō"}]}]}
 {"ent_seq":5747827,"k_ele":[{"keb":"閑山島"}],"r_ele":[{"reb":"かんざんとう"},{"reb":"ハンサンド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hansan-do (South Korea)"}]}]}
@@ -43535,4 +43535,18 @@
 {"ent_seq":5747943,"r_ele":[{"reb":"プレラーティ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Prelati"}]},{"name_type":["&person;"],"trans_det":[{"value":"François Prelati (c. 1417-1446; Italian cleric and alchemist)"}]}]}
 {"ent_seq":5747944,"k_ele":[{"keb":"大津事件"}],"r_ele":[{"reb":"おおつじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Ōtsu Incident (1891 assassination attempt on Crown Prince Nicholas of Russia)"}]}]}
 {"ent_seq":5747945,"k_ele":[{"keb":"裵"}],"r_ele":[{"reb":"ベ"},{"reb":"ベー"},{"reb":"ペ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bae"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-07-26"}]}]}
+{"ent_seq":5747947,"k_ele":[{"keb":"三帝協商"}],"r_ele":[{"reb":"さんていきょうしょう","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Three Emperors' Alliance (1881; between Russia, Austria-Hungary, and Germany)"}]}]}
+{"ent_seq":5747948,"k_ele":[{"keb":"東条操"}],"r_ele":[{"reb":"とうじょうみさお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Misao Tōjō (1884.12.14-1966.12.19; Japanese linguist)"}]}]}
+{"ent_seq":5747949,"k_ele":[{"keb":"里見伏姫牛"}],"r_ele":[{"reb":"さとみふせひめぎゅう"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Satomi Fusehime (bovine breed from Chiba)"}]}]}
+{"ent_seq":5747950,"k_ele":[{"keb":"阿澄佳奈"}],"r_ele":[{"reb":"あすみかな"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kana Asumi (1983.8.12-; voice actress)"}]}]}
+{"ent_seq":5747951,"k_ele":[{"keb":"虞美人"}],"r_ele":[{"reb":"ぐびじん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Consort Yu (-202 BC; beloved concubine of the Chinese warlord Xiang Yu)"},{"value":"Yu Meiren"}]}]}
+{"ent_seq":5747952,"k_ele":[{"keb":"長鑫存儲技術"}],"r_ele":[{"reb":"ちょうきんそんちょぎじゅつ"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"ChangXin Memory Technologies"},{"value":"CXMT"}]}]}
+{"ent_seq":5747953,"k_ele":[{"keb":"冠帽峰"}],"r_ele":[{"reb":"かんぼうほう"},{"reb":"クァンモボン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kwanmo Peak (North Korea)"}]}]}
+{"ent_seq":5747954,"k_ele":[{"keb":"杵臼ダム"}],"r_ele":[{"reb":"きなうすダム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kinausu Dam (in Hokkaido)"}]}]}
+{"ent_seq":5747955,"k_ele":[{"keb":"サラエボ事件"}],"r_ele":[{"reb":"サラエボじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Assassination of Archduke Franz Ferdinand (June 28, 1914)"}]}]}
+{"ent_seq":5747956,"k_ele":[{"keb":"血盟団事件"}],"r_ele":[{"reb":"けつめいだんじけん"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"League of Blood Incident (1932 assassination plot by Japanese right-wing radicals)"}]}]}
+{"ent_seq":5747957,"k_ele":[{"keb":"連邦公開市場委員会"}],"r_ele":[{"reb":"れんぽうこうかいしじょういいんかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Federal Open Market Committee (USA)"},{"value":"FOMC"}]}]}
+{"ent_seq":5747958,"r_ele":[{"reb":"コロコロ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"CoroCoro Comic (manga magazine)"}]}]}
+{"ent_seq":5747959,"k_ele":[{"keb":"月コロ"}],"r_ele":[{"reb":"げつコロ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"CoroCoro Comic (manga magazine)"}]}]}
+{"ent_seq":5747960,"k_ele":[{"keb":"ネビュラ賞"}],"r_ele":[{"reb":"ネビュラしょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nebula Award (annual American science fiction and fantasy award)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-02"}]}]}

@@ -48569,7 +48569,7 @@
 {"ent_seq":5651228,"k_ele":[{"keb":"摩莉子"}],"r_ele":[{"reb":"まりこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mariko"}]}]}
 {"ent_seq":5651229,"k_ele":[{"keb":"摩訶止観"}],"r_ele":[{"reb":"まかしかん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mohe Zhiguan (Buddhist text by Guanding, 594 CE)"}]}]}
 {"ent_seq":5651230,"k_ele":[{"keb":"摩訶池"}],"r_ele":[{"reb":"まかいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Makaike"}]}]}
-{"ent_seq":5651231,"k_ele":[{"keb":"摩訶婆羅多"}],"r_ele":[{"reb":"マハーバーラタ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mahabharata (Sanskrit Hindu epic, circa 400 CE)"}]}]}
+{"ent_seq":5651231,"k_ele":[{"keb":"摩訶婆羅多"}],"r_ele":[{"reb":"マハーバーラタ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mahabharata (Sanskrit Hindu epic, ca. 400 CE)"}]}]}
 {"ent_seq":5651232,"k_ele":[{"keb":"摩訶耶"}],"r_ele":[{"reb":"まかや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Makaya"}]}]}
 {"ent_seq":5651233,"k_ele":[{"keb":"摩颯"}],"r_ele":[{"reb":"まはや"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mahaya"}]}]}
 {"ent_seq":5651234,"k_ele":[{"keb":"磨"}],"r_ele":[{"reb":"おさむ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Osamu"}]}]}
@@ -88277,7 +88277,7 @@
 {"ent_seq":5691032,"k_ele":[{"keb":"楊枝"}],"r_ele":[{"reb":"ようじ"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Yōji"}]}]}
 {"ent_seq":5691033,"k_ele":[{"keb":"楊枝川"}],"r_ele":[{"reb":"ようじがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yōjigawa"}]}]}
 {"ent_seq":5691034,"k_ele":[{"keb":"楊紫瓊"}],"r_ele":[{"reb":"みしゅるきんぐ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mishurukingu"}]}]}
-{"ent_seq":5691035,"k_ele":[{"keb":"楊朱"}],"r_ele":[{"reb":"ようしゅ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yang Zhu (Chinese philosopher; c. 395-335 BCE)"}]}]}
+{"ent_seq":5691035,"k_ele":[{"keb":"楊朱"}],"r_ele":[{"reb":"ようしゅ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yang Zhu (Chinese philosopher; ca. 395-335 BCE)"}]}]}
 {"ent_seq":5691036,"k_ele":[{"keb":"楊尚昆"}],"r_ele":[{"reb":"ようしょうこん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Yōshoukon"}]}]}
 {"ent_seq":5691037,"k_ele":[{"keb":"楊慎"}],"r_ele":[{"reb":"ようしん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Yōshin"}]}]}
 {"ent_seq":5691038,"k_ele":[{"keb":"楊成"}],"r_ele":[{"reb":"ようぜい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yōzei"}]}]}
