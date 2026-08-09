@@ -1,7 +1,3 @@
-{"ent_seq":5702785,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"りゅうすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsuke"}]}]}
-{"ent_seq":5702786,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
-{"ent_seq":5702787,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
-{"ent_seq":5702788,"k_ele":[{"keb":"隆慈"}],"r_ele":[{"reb":"たかしげ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashige"}]}]}
 {"ent_seq":5702789,"k_ele":[{"keb":"隆時"}],"r_ele":[{"reb":"たかとき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatoki"}]}]}
 {"ent_seq":5702790,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
 {"ent_seq":5702791,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかつぐ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatsugu"}]}]}
@@ -8686,7 +8682,7 @@
 {"ent_seq":5711487,"k_ele":[{"keb":"鈴木俊三"}],"r_ele":[{"reb":"すずきしゅんぞう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Shunzou (1907?-)"}]}]}
 {"ent_seq":5711488,"k_ele":[{"keb":"鈴木俊子"}],"r_ele":[{"reb":"すずきとしこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Toshiko (1928.8.15-1986.7.31)"}]}]}
 {"ent_seq":5711489,"k_ele":[{"keb":"鈴木俊夫"}],"r_ele":[{"reb":"すずきとしお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Toshio"}]}]}
-{"ent_seq":5711490,"k_ele":[{"keb":"鈴木春信"}],"r_ele":[{"reb":"すずきはるのぶ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Harunobu (approx. 1725-1770)"}]}]}
+{"ent_seq":5711490,"k_ele":[{"keb":"鈴木春信"}],"r_ele":[{"reb":"すずきはるのぶ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Harunobu (ca. 1725-1770)"}]}]}
 {"ent_seq":5711491,"k_ele":[{"keb":"鈴木淳"}],"r_ele":[{"reb":"すずきじゅん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Jun (1961.8.17-)"}]}]}
 {"ent_seq":5711492,"k_ele":[{"keb":"鈴木準"}],"r_ele":[{"reb":"すずきひとし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Hitoshi"}]}]}
 {"ent_seq":5711493,"k_ele":[{"keb":"鈴木潤一"}],"r_ele":[{"reb":"すずきじゅんいち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Jun'ichi (1952.5-)"}]}]}
@@ -43549,4 +43545,21 @@
 {"ent_seq":5747958,"r_ele":[{"reb":"コロコロ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"CoroCoro Comic (manga magazine)"}]}]}
 {"ent_seq":5747959,"k_ele":[{"keb":"月コロ"}],"r_ele":[{"reb":"げつコロ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"CoroCoro Comic (manga magazine)"}]}]}
 {"ent_seq":5747960,"k_ele":[{"keb":"ネビュラ賞"}],"r_ele":[{"reb":"ネビュラしょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Nebula Award (annual American science fiction and fantasy award)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-02"}]}]}
+{"ent_seq":5747961,"r_ele":[{"reb":"パコジェット","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Pacojet (kitchen appliance)"}]}]}
+{"ent_seq":5747962,"r_ele":[{"reb":"ジャルックス"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"JALUX Inc."}]}]}
+{"ent_seq":5747964,"k_ele":[{"keb":"梅龱駅"}],"r_ele":[{"reb":"うめだえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Umeda Station (incorrect kanji)"}]}]}
+{"ent_seq":5747965,"k_ele":[{"keb":"鉄血宰相"}],"r_ele":[{"reb":"てっけつさいしょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Iron Chancellor (epithet for Otto von Bismarck)"}]}]}
+{"ent_seq":5747966,"k_ele":[{"keb":"圜悟克勤"}],"r_ele":[{"reb":"えんごこくごん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yuanwu Keqin (1063-1135, author of the Record of the Blue Cliff)"}]}]}
+{"ent_seq":5747967,"k_ele":[{"keb":"匂宮"}],"r_ele":[{"reb":"におうのみや"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Niō no Miya (in The Tale of Genji)"}]},{"name_type":["&work;"],"trans_det":[{"value":"Niō no Miya (42nd chapter of The Tale of Genji)"}]}]}
+{"ent_seq":5747968,"k_ele":[{"keb":"葵井"}],"r_ele":[{"reb":"あおい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Aoi"}]}]}
+{"ent_seq":5747970,"k_ele":[{"keb":"蟲師"}],"r_ele":[{"reb":"むしし"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mushishi (manga series by Yuki Urushibara)"}]}]}
+{"ent_seq":5747971,"k_ele":[{"keb":"国語調査委員会"}],"r_ele":[{"reb":"こくごちょうさいいんかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Language Research Committee (1902-1913)"}]}]}
+{"ent_seq":5747972,"k_ele":[{"keb":"トヨタモビリティ富山Ｇスクエア五福前"}],"r_ele":[{"reb":"トヨタモビリティとやまジースクエアごふくまえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyota Mobility Toyama G Square Gofuku-mae (stop)"}]}]}
+{"ent_seq":5747973,"k_ele":[{"keb":"等持院・立命館大学衣笠キャンパス前駅"},{"keb":"等持院立命館大学衣笠キャンパス前駅"}],"r_ele":[{"reb":"とうじいんりつめいかんだいがくきぬがさキャンパスまええき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Tōjiin Ritsumeikan University Station"}]}]}
+{"ent_seq":5747974,"r_ele":[{"reb":"スランヴァイルプールグウィンギルゴゲリッヒルンドロブールスランティシリオゴゴゴッホ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch (Wales)"}]}]}
+{"ent_seq":5747975,"k_ele":[{"keb":"西大寺町・岡山芸術創造劇場ハレノワ前停留場"}],"r_ele":[{"reb":"さいだいじちょう・おかやまげいじゅつそうぞうげきじょうハレノワまえていりゅうじょう"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Okayama Arts and Crafts Theater Harenowa-mae Stop"}]}]}
+{"ent_seq":5747976,"k_ele":[{"keb":"淡水河"}],"r_ele":[{"reb":"たんすいが"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tamsui River (Taiwan)"}]}]}
+{"ent_seq":5747977,"k_ele":[{"keb":"濁水渓"}],"r_ele":[{"reb":"だくすいけい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zhuoshui River (Taiwan)"}]}]}
+{"ent_seq":5747978,"k_ele":[{"keb":"高屏渓"}],"r_ele":[{"reb":"こうへいけい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gaoping River (Taiwan)"}]}]}
+{"ent_seq":5747979,"k_ele":[{"keb":"員林"}],"r_ele":[{"reb":"ユエンリン"},{"reb":"いんりん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yuanlin (Taiwan)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-09"}]}]}

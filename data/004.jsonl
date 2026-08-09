@@ -61264,7 +61264,7 @@
 {"ent_seq":5362773,"k_ele":[{"keb":"春植"}],"r_ele":[{"reb":"しゅんしょく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Shunshoku"}]}]}
 {"ent_seq":5362774,"k_ele":[{"keb":"春尻川"}],"r_ele":[{"reb":"はるしりがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harushirigawa"}]}]}
 {"ent_seq":5362775,"k_ele":[{"keb":"春伸"}],"r_ele":[{"reb":"はるのぶ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harunobu"}]}]}
-{"ent_seq":5362776,"k_ele":[{"keb":"春信"}],"r_ele":[{"reb":"はるのぶ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Harunobu"}]},{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Harunobu (approx. 1725-1770)"}]}]}
+{"ent_seq":5362776,"k_ele":[{"keb":"春信"}],"r_ele":[{"reb":"はるのぶ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Harunobu"}]},{"name_type":["&person;"],"trans_det":[{"value":"Suzuki Harunobu (ca. 1725-1770)"}]}]}
 {"ent_seq":5362777,"k_ele":[{"keb":"春心"}],"r_ele":[{"reb":"はるこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Haruko"}]}]}
 {"ent_seq":5362778,"k_ele":[{"keb":"春心"}],"r_ele":[{"reb":"はるみ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Harumi"}]}]}
 {"ent_seq":5362779,"k_ele":[{"keb":"春森"}],"r_ele":[{"reb":"はるもり"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Harumori"}]}]}
@@ -99842,7 +99842,7 @@
 {"ent_seq":5401433,"k_ele":[{"keb":"常陸宮"}],"r_ele":[{"reb":"ひたちのみや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hitachinomiya"}]}]}
 {"ent_seq":5401434,"k_ele":[{"keb":"常陸宮正仁"}],"r_ele":[{"reb":"ひたちのみやまさひと"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Masahito, Prince Hitachi (1935.11.28-)"}]}]}
 {"ent_seq":5401435,"k_ele":[{"keb":"常陸鴻巣駅"}],"r_ele":[{"reb":"ひたちこうのすえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hitachikounosu Station"}]}]}
-{"ent_seq":5401436,"k_ele":[{"keb":"常陸国風土記"}],"r_ele":[{"reb":"ひたちのくにふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hitachi Fudoki (description of the culture, climate, etc. of Hitachi province; approx. 720 CE)"}]}]}
+{"ent_seq":5401436,"k_ele":[{"keb":"常陸国風土記"}],"r_ele":[{"reb":"ひたちのくにふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hitachi Fudoki (description of the culture, climate, etc. of Hitachi province; ca. 720 CE)"}]}]}
 {"ent_seq":5401437,"k_ele":[{"keb":"常陸国分寺跡"}],"r_ele":[{"reb":"じょうりくこくぶんじあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jōrikukokubunjiato"}]}]}
 {"ent_seq":5401438,"k_ele":[{"keb":"常陸国分尼寺跡"}],"r_ele":[{"reb":"じょうりくこくぶんあらでらあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Jōrikukokubun'araderaato"}]}]}
 {"ent_seq":5401439,"k_ele":[{"keb":"常陸山"}],"r_ele":[{"reb":"ひたちやま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hitachiyama"}]}]}
@@ -99864,7 +99864,7 @@
 {"ent_seq":5401455,"k_ele":[{"keb":"常陸町"}],"r_ele":[{"reb":"ひたちちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hitachichō"}]}]}
 {"ent_seq":5401456,"k_ele":[{"keb":"常陸津田駅"}],"r_ele":[{"reb":"ひたちつだえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hitachitsuda Station"}]}]}
 {"ent_seq":5401457,"k_ele":[{"keb":"常陸嶋"}],"r_ele":[{"reb":"ひたちしま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hitachishima"}]}]}
-{"ent_seq":5401458,"k_ele":[{"keb":"常陸風土記"}],"r_ele":[{"reb":"ひたちふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hitachi Fudoki (description of the culture, climate, etc. of Hitachi province; approx. 720 CE)"}]}]}
+{"ent_seq":5401458,"k_ele":[{"keb":"常陸風土記"}],"r_ele":[{"reb":"ひたちふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hitachi Fudoki (description of the culture, climate, etc. of Hitachi province; ca. 720 CE)"}]}]}
 {"ent_seq":5401459,"k_ele":[{"keb":"常陸風土記の丘"}],"r_ele":[{"reb":"ひたちふどきのおか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hitachifudokinooka"}]}]}
 {"ent_seq":5401460,"k_ele":[{"keb":"常陸坊海尊"}],"r_ele":[{"reb":"ひたちぼうかいそん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hitachiboukaison"}]}]}
 {"ent_seq":5401461,"k_ele":[{"keb":"常陸利根川"}],"r_ele":[{"reb":"ひたちとねがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hitachitonegawa"}]}]}

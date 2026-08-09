@@ -21432,7 +21432,7 @@
 {"ent_seq":5523482,"k_ele":[{"keb":"兆世"}],"r_ele":[{"reb":"ももよ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Momoyo"}]}]}
 {"ent_seq":5523483,"k_ele":[{"keb":"兆生"}],"r_ele":[{"reb":"よしなり"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yoshinari"}]}]}
 {"ent_seq":5523484,"k_ele":[{"keb":"兆男"}],"r_ele":[{"reb":"よしお"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yoshio"}]}]}
-{"ent_seq":5523485,"k_ele":[{"keb":"兆殿司"}],"r_ele":[{"reb":"ちょうでんす"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Minchō (approx. 1352-1431 CE)"}]}]}
+{"ent_seq":5523485,"k_ele":[{"keb":"兆殿司"}],"r_ele":[{"reb":"ちょうでんす"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Minchō (ca. 1352-1431 CE)"}]}]}
 {"ent_seq":5523486,"k_ele":[{"keb":"兆堂"}],"r_ele":[{"reb":"ちょうどう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Chōdou"}]}]}
 {"ent_seq":5523487,"k_ele":[{"keb":"兆二"}],"r_ele":[{"reb":"ちょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Chōji"}]}]}
 {"ent_seq":5523488,"k_ele":[{"keb":"兆美"}],"r_ele":[{"reb":"よしみ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yoshimi"}]}]}
@@ -23280,7 +23280,7 @@
 {"ent_seq":5525339,"k_ele":[{"keb":"潮早鼻"}],"r_ele":[{"reb":"しおはやばな"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiohayabana"}]}]}
 {"ent_seq":5525340,"k_ele":[{"keb":"潮早岬"}],"r_ele":[{"reb":"しおばやみさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shiobayamisaki"}]}]}
 {"ent_seq":5525341,"k_ele":[{"keb":"潮騒"}],"r_ele":[{"reb":"しおさい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Shiosai"}]}]}
-{"ent_seq":5525342,"k_ele":[{"keb":"潮騒はまなす公園"}],"r_ele":[{"reb":"しおさいはまなすこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiosaihamanasu Park"}]}]}
+{"ent_seq":5525342,"k_ele":[{"keb":"潮騒はまなす公園"}],"r_ele":[{"reb":"しおさいはまなすこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiosai Hamanasu Park"}]}]}
 {"ent_seq":5525343,"k_ele":[{"keb":"潮蔵"}],"r_ele":[{"reb":"しおぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shiozou"}]}]}
 {"ent_seq":5525344,"k_ele":[{"keb":"潮造"}],"r_ele":[{"reb":"しおぞう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Shiozou"}]}]}
 {"ent_seq":5525345,"k_ele":[{"keb":"潮村"}],"r_ele":[{"reb":"うしおむら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ushiomura"}]}]}
@@ -24879,7 +24879,6 @@
 {"ent_seq":5526946,"k_ele":[{"keb":"長者ケ岳"}],"r_ele":[{"reb":"ちょうじゃがたけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagatake"}]}]}
 {"ent_seq":5526947,"k_ele":[{"keb":"長者ケ原"}],"r_ele":[{"reb":"ちょうじゃがはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chōjagahara"}]}]}
 {"ent_seq":5526948,"k_ele":[{"keb":"長者ケ崎"}],"r_ele":[{"reb":"ちょうじゃがさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagasaki"}]}]}
-{"ent_seq":5526949,"k_ele":[{"keb":"長者ケ浜潮騒はまなす公園前"}],"r_ele":[{"reb":"ちょうじゃがはましおさいはまなすこうえんまえ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagahamashiosaihamanasukōenmae"}]}]}
 {"ent_seq":5526950,"k_ele":[{"keb":"長者ケ峰"}],"r_ele":[{"reb":"ちょうじゃがみね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagamine"}]}]}
 {"ent_seq":5526951,"k_ele":[{"keb":"長者トンネル"}],"r_ele":[{"reb":"ちょうじゃトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chōja Tunnel"}]}]}
 {"ent_seq":5526952,"k_ele":[{"keb":"長者ヶ岳"}],"r_ele":[{"reb":"ちょうじゃがたけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagatake"}]}]}
@@ -24888,8 +24887,7 @@
 {"ent_seq":5526955,"k_ele":[{"keb":"長者ヶ崎"}],"r_ele":[{"reb":"ちょうじゃがさき"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagasaki"}]}]}
 {"ent_seq":5526956,"k_ele":[{"keb":"長者ヶ森"}],"r_ele":[{"reb":"ちょうじゃがもり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chōjagamori"}]}]}
 {"ent_seq":5526957,"k_ele":[{"keb":"長者ヶ鼻"}],"r_ele":[{"reb":"ちょうじゃがばな"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chōjagabana"}]}]}
-{"ent_seq":5526958,"k_ele":[{"keb":"長者ヶ浜潮騒はまなす公園前"}],"r_ele":[{"reb":"ちょうじゃがはましおさいはまなすこうえんまえ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagahamashiosaihamanasukōenmae"}]}]}
-{"ent_seq":5526959,"k_ele":[{"keb":"長者ヶ浜潮騒はまなす公園前駅"}],"r_ele":[{"reb":"ちょうじゃがはましおさいはまなすこうえんまええき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Chōjagahamashiosaihamanasukōenmae Station"}]}]}
+{"ent_seq":5526959,"k_ele":[{"keb":"長者ヶ浜潮騒はまなす公園前駅"},{"keb":"長者ケ浜潮騒はまなす公園前駅"}],"r_ele":[{"reb":"ちょうじゃがはましおさいはまなすこうえんまええき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Chōjagahama Shiosai Hamanasu Kōenmae Station"}]}]}
 {"ent_seq":5526960,"k_ele":[{"keb":"長者ヶ平遺跡"}],"r_ele":[{"reb":"ちょうじゅがだいらいせき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chōjugadaira Ruins"}]}]}
 {"ent_seq":5526961,"k_ele":[{"keb":"長者ヶ峰"}],"r_ele":[{"reb":"ちょうじゃがみね"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chōjagamine"}]}]}
 {"ent_seq":5526962,"k_ele":[{"keb":"長者ヶ峯"}],"r_ele":[{"reb":"ちょうじゃがみね"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chōjagamine"}]}]}
@@ -70609,7 +70607,7 @@
 {"ent_seq":5572909,"k_ele":[{"keb":"南阿佐ケ谷駅"}],"r_ele":[{"reb":"みなみあさがやえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Minamiasagaya Station"}]}]}
 {"ent_seq":5572910,"k_ele":[{"keb":"南阿蘇ゴルフ場"}],"r_ele":[{"reb":"みなみあそゴルフじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamiaso Golf Links"}]}]}
 {"ent_seq":5572911,"k_ele":[{"keb":"南阿蘇国民休暇村"}],"r_ele":[{"reb":"みなみあそこくみんきゅうかむら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamiasokokuminkyūkamura"}]}]}
-{"ent_seq":5572912,"k_ele":[{"keb":"南阿蘇水の生まれる里白水高原駅"}],"r_ele":[{"reb":"みなみあそみずのうまれるさとはくすいこうげんえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Minamiasomizunoumarerusatohakusuikougen Station"}]}]}
+{"ent_seq":5572912,"k_ele":[{"keb":"南阿蘇水の生まれる里白水高原駅"}],"r_ele":[{"reb":"みなみあそみずのうまれるさとはくすいこうげんえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Minamiaso Mizu-no-Umareru-Sato Hakusui-Kōgen Station"}]}]}
 {"ent_seq":5572913,"k_ele":[{"keb":"南阿蘇鉄道"}],"r_ele":[{"reb":"みなみあそてつどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamiasotetsudō"}]}]}
 {"ent_seq":5572914,"k_ele":[{"keb":"南阿田"}],"r_ele":[{"reb":"みなみあだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamiada"}]}]}
 {"ent_seq":5572915,"k_ele":[{"keb":"南阿田町"}],"r_ele":[{"reb":"みなみあだちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamiadachō"}]}]}
@@ -85840,7 +85838,7 @@
 {"ent_seq":5588241,"k_ele":[{"keb":"馬越陽子"}],"r_ele":[{"reb":"まこしようこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Makoshi Yōko"}]}]}
 {"ent_seq":5588242,"k_ele":[{"keb":"馬越脇"}],"r_ele":[{"reb":"まごえわき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Magoewaki"}]}]}
 {"ent_seq":5588243,"k_ele":[{"keb":"馬援"}],"r_ele":[{"reb":"ばえん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Baen"}]}]}
-{"ent_seq":5588244,"k_ele":[{"keb":"馬遠"}],"r_ele":[{"reb":"ばえん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ma Yuan (approx. 1160-1225 CE)"}]}]}
+{"ent_seq":5588244,"k_ele":[{"keb":"馬遠"}],"r_ele":[{"reb":"ばえん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ma Yuan (ca. 1160-1225 CE)"}]}]}
 {"ent_seq":5588245,"k_ele":[{"keb":"馬塩"}],"r_ele":[{"reb":"ましお"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Mashio"}]}]}
 {"ent_seq":5588246,"k_ele":[{"keb":"馬岡"}],"r_ele":[{"reb":"うまおか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Umaoka"}]}]}
 {"ent_seq":5588247,"k_ele":[{"keb":"馬屋"}],"r_ele":[{"reb":"うまや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Umaya"}]}]}
@@ -86677,7 +86675,7 @@
 {"ent_seq":5589078,"k_ele":[{"keb":"馬本"}],"r_ele":[{"reb":"うまもと"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Umamoto"}]}]}
 {"ent_seq":5589079,"k_ele":[{"keb":"馬明"}],"r_ele":[{"reb":"うまみょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Umamyou"}]}]}
 {"ent_seq":5589080,"k_ele":[{"keb":"馬明"}],"r_ele":[{"reb":"まみょう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Mamyou"}]}]}
-{"ent_seq":5589081,"k_ele":[{"keb":"馬鳴"}],"r_ele":[{"reb":"めみょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asvaghosa (approx. 80-150 CE)"}]}]}
+{"ent_seq":5589081,"k_ele":[{"keb":"馬鳴"}],"r_ele":[{"reb":"めみょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asvaghosa (ca. 80-150 CE)"}]}]}
 {"ent_seq":5589082,"k_ele":[{"keb":"馬面"}],"r_ele":[{"reb":"ばめん"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bamen"}]}]}
 {"ent_seq":5589083,"k_ele":[{"keb":"馬毛島"}],"r_ele":[{"reb":"まげしま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mageshima"}]}]}
 {"ent_seq":5589084,"k_ele":[{"keb":"馬毛島"}],"r_ele":[{"reb":"まげじま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Magejima"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5602443,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banta"}]}]}
 {"ent_seq":5602444,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banda"}]}]}
 {"ent_seq":5602445,"k_ele":[{"keb":"番田"}],"r_ele":[{"reb":"ばんでん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banden"}]}]}
+{"ent_seq":5602446,"k_ele":[{"keb":"番田町"}],"r_ele":[{"reb":"ばんだまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandamachi"}]}]}
+{"ent_seq":5602447,"k_ele":[{"keb":"番湯入沢"}],"r_ele":[{"reb":"ばんゆいりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banyuirisawa"}]}]}

@@ -10327,7 +10327,7 @@
 {"ent_seq":5010372,"r_ele":[{"reb":"アムシュテーク"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amsteg"}]}]}
 {"ent_seq":5010373,"r_ele":[{"reb":"アムシュテッテン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amstetten"}]}]}
 {"ent_seq":5010374,"r_ele":[{"reb":"アムステルダム"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amsterdam (The Netherlands)"}]}]}
-{"ent_seq":5010375,"r_ele":[{"reb":"アムステルフエーン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amstelveen"}]}]}
+{"ent_seq":5010375,"r_ele":[{"reb":"アムステルフェーン"},{"reb":"アムステルフエーン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amstelveen (The Netherlands)"}]}]}
 {"ent_seq":5010376,"r_ele":[{"reb":"アムタ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amta"}]}]}
 {"ent_seq":5010377,"r_ele":[{"reb":"アムダール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Amdahl"}]}]}
 {"ent_seq":5010378,"k_ele":[{"keb":"アムダリア川"}],"r_ele":[{"reb":"アムダリアがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amu Darya"},{"value":"Amudarya (river)"}]}]}
@@ -76213,7 +76213,7 @@
 {"ent_seq":5076724,"r_ele":[{"reb":"ホーホストラーテン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hoogstraeten"}]}]}
 {"ent_seq":5076725,"r_ele":[{"reb":"ホーホストラテン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hoogstraten"}]}]}
 {"ent_seq":5076726,"r_ele":[{"reb":"ホーホフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hohoff"}]}]}
-{"ent_seq":5076727,"r_ele":[{"reb":"ホーホフート"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hochhuth"}]}]}
+{"ent_seq":5076727,"r_ele":[{"reb":"ホーホフート"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hochhuth"}]}]}
 {"ent_seq":5076728,"r_ele":[{"reb":"ホーボーケ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hoboken"}]}]}
 {"ent_seq":5076729,"r_ele":[{"reb":"ホーボーケン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hoboken (Belgium)"}]}]}
 {"ent_seq":5076730,"r_ele":[{"reb":"ホーマック"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Homac"}]}]}

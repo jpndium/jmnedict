@@ -1,5 +1,3 @@
-{"ent_seq":5602446,"k_ele":[{"keb":"番田町"}],"r_ele":[{"reb":"ばんだまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandamachi"}]}]}
-{"ent_seq":5602447,"k_ele":[{"keb":"番湯入沢"}],"r_ele":[{"reb":"ばんゆいりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banyuirisawa"}]}]}
 {"ent_seq":5602448,"k_ele":[{"keb":"番藤"}],"r_ele":[{"reb":"ばんふじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banfuji"}]}]}
 {"ent_seq":5602449,"k_ele":[{"keb":"番頭屋"}],"r_ele":[{"reb":"ばんどうや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandouya"}]}]}
 {"ent_seq":5602450,"k_ele":[{"keb":"番頭島"}],"r_ele":[{"reb":"ばんどじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandojima"}]}]}
@@ -1721,7 +1719,7 @@
 {"ent_seq":5604177,"k_ele":[{"keb":"肥前古賀"}],"r_ele":[{"reb":"ひぜんこが"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hizenkoga"}]}]}
 {"ent_seq":5604178,"k_ele":[{"keb":"肥前古賀駅"}],"r_ele":[{"reb":"ひぜんこがえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hizenkoga Station"}]}]}
 {"ent_seq":5604179,"k_ele":[{"keb":"肥前国庁跡"}],"r_ele":[{"reb":"ひぜんこくちょうあと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hizenkokuchōato"}]}]}
-{"ent_seq":5604180,"k_ele":[{"keb":"肥前国風土記"}],"r_ele":[{"reb":"ひぜんのくにふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hizen Fudoki (description of the culture, climate, etc. of Hizen province; approx. 732 CE)"}]}]}
+{"ent_seq":5604180,"k_ele":[{"keb":"肥前国風土記"}],"r_ele":[{"reb":"ひぜんのくにふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hizen Fudoki (description of the culture, climate, etc. of Hizen province; ca. 732 CE)"}]}]}
 {"ent_seq":5604181,"k_ele":[{"keb":"肥前三川"}],"r_ele":[{"reb":"ひぜんみかわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hizenmikawa"}]}]}
 {"ent_seq":5604182,"k_ele":[{"keb":"肥前山口"}],"r_ele":[{"reb":"ひぜんやまぐち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hizen'yamaguchi"}]}]}
 {"ent_seq":5604183,"k_ele":[{"keb":"肥前山口駅"}],"r_ele":[{"reb":"ひぜんやまぐちえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hizen'yamaguchi Station"}]}]}
@@ -1742,7 +1740,7 @@
 {"ent_seq":5604198,"k_ele":[{"keb":"肥前飯田駅"}],"r_ele":[{"reb":"ひぜんいいだえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hizen'iida Station"}]}]}
 {"ent_seq":5604199,"k_ele":[{"keb":"肥前浜"}],"r_ele":[{"reb":"ひぜんはま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hizenhama"}]}]}
 {"ent_seq":5604200,"k_ele":[{"keb":"肥前浜駅"}],"r_ele":[{"reb":"ひぜんはまえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hizenhama Station"}]}]}
-{"ent_seq":5604201,"k_ele":[{"keb":"肥前風土記"}],"r_ele":[{"reb":"ひぜんふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hizen Fudoki (description of the culture, climate, etc. of Hizen province; approx. 732 CE)"}]}]}
+{"ent_seq":5604201,"k_ele":[{"keb":"肥前風土記"}],"r_ele":[{"reb":"ひぜんふどき","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Hizen Fudoki (description of the culture, climate, etc. of Hizen province; ca. 732 CE)"}]}]}
 {"ent_seq":5604202,"k_ele":[{"keb":"肥前竜王"}],"r_ele":[{"reb":"ひぜんりゅうおう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hizenryūou"}]}]}
 {"ent_seq":5604203,"k_ele":[{"keb":"肥前竜王駅"}],"r_ele":[{"reb":"ひぜんりゅうおうえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hizenryūou Station"}]}]}
 {"ent_seq":5604204,"k_ele":[{"keb":"肥前麓"}],"r_ele":[{"reb":"ひぜんふもと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hizenfumoto"}]}]}
@@ -10823,7 +10821,7 @@
 {"ent_seq":5613305,"k_ele":[{"keb":"百笑来"}],"r_ele":[{"reb":"もえな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Moena"}]}]}
 {"ent_seq":5613306,"k_ele":[{"keb":"百上"}],"r_ele":[{"reb":"ももがみ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Momogami"}]}]}
 {"ent_seq":5613307,"k_ele":[{"keb":"百丈"}],"r_ele":[{"reb":"ひゃくじょう"}],"trans":[{"name_type":["&surname;","&given;"],"trans_det":[{"value":"Hyakujō"}]}]}
-{"ent_seq":5613308,"k_ele":[{"keb":"百丈懐海"}],"r_ele":[{"reb":"ひゃくじょうえかい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Baizhang Huaihai (approx. 720-814 CE)"}]}]}
+{"ent_seq":5613308,"k_ele":[{"keb":"百丈懐海"}],"r_ele":[{"reb":"ひゃくじょうえかい"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Baizhang Huaihai (ca. 720-814 CE)"}]}]}
 {"ent_seq":5613309,"k_ele":[{"keb":"百丈岩"}],"r_ele":[{"reb":"ひゃくじょういわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hyakujōiwa"}]}]}
 {"ent_seq":5613310,"k_ele":[{"keb":"百丈清規"}],"r_ele":[{"reb":"ひゃくじょうしんぎ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Pure Rules of Huaihai (set of monastery regulations said to have been written by Baizhang Huaihai)"}]}]}
 {"ent_seq":5613311,"k_ele":[{"keb":"百丈石"}],"r_ele":[{"reb":"ひゃくじょうせき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hyakujōseki"}]}]}
@@ -57918,13 +57916,11 @@
 {"ent_seq":5660588,"k_ele":[{"keb":"無地名"}],"r_ele":[{"reb":"むちな"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Muchina"}]}]}
 {"ent_seq":5660589,"k_ele":[{"keb":"無竹"}],"r_ele":[{"reb":"むちく"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Muchiku"}]}]}
 {"ent_seq":5660590,"k_ele":[{"keb":"無茶士"}],"r_ele":[{"reb":"むさし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Musashi"}]}]}
-{"ent_seq":5660591,"k_ele":[{"keb":"無着"}],"r_ele":[{"reb":"むじゃく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asanga (approx. 310-390 CE)"}]}]}
+{"ent_seq":5660591,"k_ele":[{"keb":"無着"},{"keb":"無著"}],"r_ele":[{"reb":"むじゃく"},{"reb":"むちゃく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asanga (ca. 310-390 CE)"}]}]}
 {"ent_seq":5660592,"k_ele":[{"keb":"無着"}],"r_ele":[{"reb":"むちゃく"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Muchaku"}]}]}
 {"ent_seq":5660593,"k_ele":[{"keb":"無着"}],"r_ele":[{"reb":"むちやく"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Muchiyaku"}]}]}
 {"ent_seq":5660594,"k_ele":[{"keb":"無着下"}],"r_ele":[{"reb":"むちゃっか"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Muchakka"}]}]}
 {"ent_seq":5660595,"k_ele":[{"keb":"無着成恭"}],"r_ele":[{"reb":"むちゃくせいきょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Muchaku Seikyō (1927.3-)"}]}]}
-{"ent_seq":5660596,"k_ele":[{"keb":"無著"}],"r_ele":[{"reb":"むじゃく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asanga (approx. 310-390 CE)"}]}]}
-{"ent_seq":5660597,"k_ele":[{"keb":"無著"}],"r_ele":[{"reb":"むちゃく"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Asanga (approx. 310-390 CE)"}]}]}
 {"ent_seq":5660598,"k_ele":[{"keb":"無腸"}],"r_ele":[{"reb":"むちょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Muchō"}]}]}
 {"ent_seq":5660599,"k_ele":[{"keb":"無鳥林"}],"r_ele":[{"reb":"むとりばやし"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Mutoribayashi"}]}]}
 {"ent_seq":5660600,"k_ele":[{"keb":"無津"}],"r_ele":[{"reb":"むづ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Muzu"}]}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5702782,"k_ele":[{"keb":"隆詩"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702783,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"たかし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashi"}]}]}
 {"ent_seq":5702784,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"たかよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takayoshi"}]}]}
+{"ent_seq":5702785,"k_ele":[{"keb":"隆資"}],"r_ele":[{"reb":"りゅうすけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ryūsuke"}]}]}
+{"ent_seq":5702786,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
+{"ent_seq":5702787,"k_ele":[{"keb":"隆児"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
+{"ent_seq":5702788,"k_ele":[{"keb":"隆慈"}],"r_ele":[{"reb":"たかしげ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takashige"}]}]}

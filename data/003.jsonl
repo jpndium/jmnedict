@@ -61391,8 +61391,8 @@
 {"ent_seq":5262596,"k_ele":[{"keb":"呉東昇"}],"r_ele":[{"reb":"ごとうしょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gotoushou"}]}]}
 {"ent_seq":5262597,"k_ele":[{"keb":"呉藤"}],"r_ele":[{"reb":"ごとう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Gotō"}]}]}
 {"ent_seq":5262598,"k_ele":[{"keb":"呉堂"}],"r_ele":[{"reb":"くれどう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kuredou"}]}]}
-{"ent_seq":5262599,"k_ele":[{"keb":"呉道玄"}],"r_ele":[{"reb":"ごどうげん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wu Daozi"},{"value":"Wu Tao-tzu (approx. 680-750 CE)"}]}]}
-{"ent_seq":5262600,"k_ele":[{"keb":"呉道子"}],"r_ele":[{"reb":"ごどうし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wu Daozi"},{"value":"Wu Tao-tzu (approx. 680-750 CE)"}]}]}
+{"ent_seq":5262599,"k_ele":[{"keb":"呉道玄"}],"r_ele":[{"reb":"ごどうげん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wu Daozi"},{"value":"Wu Tao-tzu (ca. 680-750 CE)"}]}]}
+{"ent_seq":5262600,"k_ele":[{"keb":"呉道子"}],"r_ele":[{"reb":"ごどうし"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Wu Daozi"},{"value":"Wu Tao-tzu (ca. 680-750 CE)"}]}]}
 {"ent_seq":5262601,"k_ele":[{"keb":"呉二河"}],"r_ele":[{"reb":"くれにかわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kurenikawa"}]}]}
 {"ent_seq":5262602,"k_ele":[{"keb":"呉如楠"}],"r_ele":[{"reb":"ごじょなん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gojonan"}]}]}
 {"ent_seq":5262603,"k_ele":[{"keb":"呉念眞"}],"r_ele":[{"reb":"ごねんしん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gonenshin"}]}]}

@@ -48613,7 +48613,7 @@
 {"ent_seq":5149427,"k_ele":[{"keb":"王杏雲"}],"r_ele":[{"reb":"おうきょううん"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Oukyōun"}]}]}
 {"ent_seq":5149428,"k_ele":[{"keb":"王偉紅"}],"r_ele":[{"reb":"おういこう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ouikou"}]}]}
 {"ent_seq":5149429,"k_ele":[{"keb":"王威"}],"r_ele":[{"reb":"おうい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Oui"}]}]}
-{"ent_seq":5149430,"k_ele":[{"keb":"王維"}],"r_ele":[{"reb":"おうい"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Oui"}]},{"name_type":["&person;"],"trans_det":[{"value":"Wang Wei (approx. 701-761 CE; Chinese poet and artist)"}]}]}
+{"ent_seq":5149430,"k_ele":[{"keb":"王維"}],"r_ele":[{"reb":"おうい"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Oui"}]},{"name_type":["&person;"],"trans_det":[{"value":"Wang Wei (ca. 701-761 CE; Chinese poet and artist)"}]}]}
 {"ent_seq":5149431,"k_ele":[{"keb":"王維詩"}],"r_ele":[{"reb":"おういし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ouishi"}]}]}
 {"ent_seq":5149432,"k_ele":[{"keb":"王井"}],"r_ele":[{"reb":"おうい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Oui"}]}]}
 {"ent_seq":5149433,"k_ele":[{"keb":"王一"}],"r_ele":[{"reb":"おういち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ouichi"}]}]}
