@@ -26199,7 +26199,7 @@
 {"ent_seq":5628760,"k_ele":[{"keb":"平山下"}],"r_ele":[{"reb":"ひらやましも"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hirayamashimo"}]}]}
 {"ent_seq":5628761,"k_ele":[{"keb":"平山垣内"}],"r_ele":[{"reb":"ひらやまかいと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hirayamakaito"}]}]}
 {"ent_seq":5628762,"k_ele":[{"keb":"平山輝昭"}],"r_ele":[{"reb":"ひらやまてるあき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hirayama Teruaki (1944.3-)"}]}]}
-{"ent_seq":5628763,"k_ele":[{"keb":"平山輝男"}],"r_ele":[{"reb":"ひらやまてるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hirayama Teruo (1909.8.16-)"}]}]}
+{"ent_seq":5628763,"k_ele":[{"keb":"平山輝男"}],"r_ele":[{"reb":"ひらやまてるお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Teruo Hirayama (1909.8.16-2005.8.17; Japanese linguist)"}]}]}
 {"ent_seq":5628764,"k_ele":[{"keb":"平山菊二"}],"r_ele":[{"reb":"ひらやまきくじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hirayama Kikuji (1918.9.23-1998.5.28)"}]}]}
 {"ent_seq":5628765,"k_ele":[{"keb":"平山亨"}],"r_ele":[{"reb":"ひらやまとおる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hirayama Tooru (1929.3.19-)"}]}]}
 {"ent_seq":5628766,"k_ele":[{"keb":"平山橋"}],"r_ele":[{"reb":"ひらやまばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hirayamabashi"}]}]}

@@ -13816,7 +13816,7 @@
 {"ent_seq":5415451,"k_ele":[{"keb":"真木沢鉱山"}],"r_ele":[{"reb":"まぎさわこうざん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Magisawakouzan"}]}]}
 {"ent_seq":5415452,"k_ele":[{"keb":"真木男"}],"r_ele":[{"reb":"まきお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Makio"}]}]}
 {"ent_seq":5415453,"k_ele":[{"keb":"真木痴嚢"}],"r_ele":[{"reb":"まきちのう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Makichinou"}]}]}
-{"ent_seq":5415454,"k_ele":[{"keb":"真木柱"}],"r_ele":[{"reb":"まきばしら"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Makibashira (31st chapter of The Tale of Genji)"}]},{"name_type":["&char;"],"trans_det":[{"value":"Makibashira (character in The Tale of Genji)"}]}]}
+{"ent_seq":5415454,"k_ele":[{"keb":"真木柱"}],"r_ele":[{"reb":"まきばしら"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Makibashira (in The Tale of Genji)"}]}]}
 {"ent_seq":5415455,"k_ele":[{"keb":"真木町"}],"r_ele":[{"reb":"まきちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Makichō"}]}]}
 {"ent_seq":5415456,"k_ele":[{"keb":"真木町"}],"r_ele":[{"reb":"まきまち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Makimachi"}]}]}
 {"ent_seq":5415457,"k_ele":[{"keb":"真木田"}],"r_ele":[{"reb":"まきた"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Makita"}]}]}
@@ -37089,7 +37089,7 @@
 {"ent_seq":5438792,"k_ele":[{"keb":"清川栄治"}],"r_ele":[{"reb":"きよかわえいじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiyokawa Eiji (1961.9.21-)"}]}]}
 {"ent_seq":5438793,"k_ele":[{"keb":"清川駅"}],"r_ele":[{"reb":"きよかわえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kiyokawa Station"}]}]}
 {"ent_seq":5438794,"k_ele":[{"keb":"清川橋"}],"r_ele":[{"reb":"きよかわばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kiyokawabashi"}]}]}
-{"ent_seq":5438795,"k_ele":[{"keb":"清川元夢"}],"r_ele":[{"reb":"きよかわもとむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiyokawa Motomu (1935.4.9-)"}]}]}
+{"ent_seq":5438795,"k_ele":[{"keb":"清川元夢"}],"r_ele":[{"reb":"きよかわもとむ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kiyokawa Motomu (1935.4.9-2022.8.17)"}]}]}
 {"ent_seq":5438796,"k_ele":[{"keb":"清川口"}],"r_ele":[{"reb":"きよかわぐち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kiyokawaguchi"}]}]}
 {"ent_seq":5438797,"k_ele":[{"keb":"清川口駅"}],"r_ele":[{"reb":"きよかわぐちえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kiyokawaguchi Station"}]}]}
 {"ent_seq":5438798,"k_ele":[{"keb":"清川行人小屋"}],"r_ele":[{"reb":"きよかわぎょうじんごや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kiyokawagyoujingoya"}]}]}

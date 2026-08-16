@@ -81163,7 +81163,7 @@
 {"ent_seq":5081703,"r_ele":[{"reb":"マハティールモハマド"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Mahathir Mohamad"}]}]}
 {"ent_seq":5081704,"r_ele":[{"reb":"マハディ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mahdi"}]}]}
 {"ent_seq":5081705,"r_ele":[{"reb":"マハディール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mahathir"}]}]}
-{"ent_seq":5081706,"r_ele":[{"reb":"マハトマガンジー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mahatma Gandhi"}]}]}
+{"ent_seq":5081706,"r_ele":[{"reb":"マハトマ・ガンジー"},{"reb":"マハトマ・ガンディー"},{"reb":"マハトマガンジー"},{"reb":"マハトマガンディー"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Mahatma Gandhi (1869-1948)"}]}]}
 {"ent_seq":5081707,"r_ele":[{"reb":"マハナ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Mahana"}]}]}
 {"ent_seq":5081708,"k_ele":[{"keb":"マハナディ川"}],"r_ele":[{"reb":"マハナディがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mahanadi (river)"}]}]}
 {"ent_seq":5081709,"r_ele":[{"reb":"マハノイシティー"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mahanoy City"}]}]}

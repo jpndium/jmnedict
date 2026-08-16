@@ -43335,7 +43335,7 @@
 {"ent_seq":5747743,"r_ele":[{"reb":"クロードコード"},{"reb":"クロード・コード"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Claude Code"}]}]}
 {"ent_seq":5747744,"k_ele":[{"keb":"ＤｅｅｐＳｅｅｋ"}],"r_ele":[{"reb":"ディープシーク"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"DeepSeek (family of large language models)"}]}]}
 {"ent_seq":5747745,"r_ele":[{"reb":"レオパルト"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Leopard (German tank)"}]}]}
-{"ent_seq":5747746,"k_ele":[{"keb":"Ｑｗｅｎ"}],"r_ele":[{"reb":"クウェン"},{"reb":"キューウェン"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Qwen (family of large language models)"}]}]}
+{"ent_seq":5747746,"k_ele":[{"keb":"Ｑｗｅｎ"},{"keb":"千問"}],"r_ele":[{"reb":"クウェン"},{"reb":"キューウェン"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Qwen (family of large language models)"}]}]}
 {"ent_seq":5747747,"r_ele":[{"reb":"ポークビッツ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Pork Bits (mini-sized wiener sausage manufactured by Itoham)"}]}]}
 {"ent_seq":5747748,"k_ele":[{"keb":"裏原"}],"r_ele":[{"reb":"うらはら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ura-Harajuku (abbr)"}]}]}
 {"ent_seq":5747749,"k_ele":[{"keb":"イラン領クルディスタン"}],"r_ele":[{"reb":"イランりょうクルディスタン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iranian Kurdistan"},{"value":"East Kurdistan"},{"value":"Rojhelat"}]}]}
@@ -43550,8 +43550,9 @@
 {"ent_seq":5747964,"k_ele":[{"keb":"梅龱駅"}],"r_ele":[{"reb":"うめだえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Umeda Station (incorrect kanji)"}]}]}
 {"ent_seq":5747965,"k_ele":[{"keb":"鉄血宰相"}],"r_ele":[{"reb":"てっけつさいしょう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Iron Chancellor (epithet for Otto von Bismarck)"}]}]}
 {"ent_seq":5747966,"k_ele":[{"keb":"圜悟克勤"}],"r_ele":[{"reb":"えんごこくごん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yuanwu Keqin (1063-1135, author of the Record of the Blue Cliff)"}]}]}
-{"ent_seq":5747967,"k_ele":[{"keb":"匂宮"}],"r_ele":[{"reb":"におうのみや"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Niō no Miya (in The Tale of Genji)"}]},{"name_type":["&work;"],"trans_det":[{"value":"Niō no Miya (42nd chapter of The Tale of Genji)"}]}]}
+{"ent_seq":5747967,"k_ele":[{"keb":"匂宮"}],"r_ele":[{"reb":"におうのみや"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"Niō no Miya (in The Tale of Genji)"}]}]}
 {"ent_seq":5747968,"k_ele":[{"keb":"葵井"}],"r_ele":[{"reb":"あおい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Aoi"}]}]}
+{"ent_seq":5747969,"r_ele":[{"reb":"ハイライン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"High Line (elevated park in New York City)"}]}]}
 {"ent_seq":5747970,"k_ele":[{"keb":"蟲師"}],"r_ele":[{"reb":"むしし"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Mushishi (manga series by Yuki Urushibara)"}]}]}
 {"ent_seq":5747971,"k_ele":[{"keb":"国語調査委員会"}],"r_ele":[{"reb":"こくごちょうさいいんかい"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Language Research Committee (1902-1913)"}]}]}
 {"ent_seq":5747972,"k_ele":[{"keb":"トヨタモビリティ富山Ｇスクエア五福前"}],"r_ele":[{"reb":"トヨタモビリティとやまジースクエアごふくまえ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Toyota Mobility Toyama G Square Gofuku-mae (stop)"}]}]}
@@ -43562,4 +43563,29 @@
 {"ent_seq":5747977,"k_ele":[{"keb":"濁水渓"}],"r_ele":[{"reb":"だくすいけい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zhuoshui River (Taiwan)"}]}]}
 {"ent_seq":5747978,"k_ele":[{"keb":"高屏渓"}],"r_ele":[{"reb":"こうへいけい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gaoping River (Taiwan)"}]}]}
 {"ent_seq":5747979,"k_ele":[{"keb":"員林"}],"r_ele":[{"reb":"ユエンリン"},{"reb":"いんりん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yuanlin (Taiwan)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-09"}]}]}
+{"ent_seq":5747980,"r_ele":[{"reb":"マムダニ"},{"reb":"マムダーニ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Mamdani"}]},{"name_type":["&person;"],"trans_det":[{"value":"Mamdani, Zohran (1991.10.18-; New York City mayor)"}]}]}
+{"ent_seq":5747981,"k_ele":[{"keb":"Ｆ－１５"},{"keb":"Ｆ-１５"},{"keb":"Ｆ１５"}],"r_ele":[{"reb":"エフじゅうご"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"F-15 (American fighter aircraft)"},{"value":"F-15 Eagle"}]}]}
+{"ent_seq":5747982,"k_ele":[{"keb":"秋月電子"}],"r_ele":[{"reb":"あきづきでんし"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Akizuki Denshi"}]}]}
+{"ent_seq":5747983,"k_ele":[{"keb":"洞爺丸台風"}],"r_ele":[{"reb":"とうやまるたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Marie (1954)"}]}]}
+{"ent_seq":5747984,"k_ele":[{"keb":"狩野川台風"}],"r_ele":[{"reb":"かのがわたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Ida (1958)"}]}]}
+{"ent_seq":5747985,"k_ele":[{"keb":"宮古島台風"}],"r_ele":[{"reb":"みやこじまたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Sarah (1959)"}]}]}
+{"ent_seq":5747986,"k_ele":[{"keb":"伊勢湾台風"}],"r_ele":[{"reb":"いせわんたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Vera (1959)"}]}]}
+{"ent_seq":5747987,"k_ele":[{"keb":"第２室戸台風"}],"r_ele":[{"reb":"だいにむろとたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Nancy (1961)"}]}]}
+{"ent_seq":5747988,"k_ele":[{"keb":"第２宮古島台風"}],"r_ele":[{"reb":"だいにみやこじまたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Cora (1966)"}]}]}
+{"ent_seq":5747989,"k_ele":[{"keb":"第３宮古島台風"}],"r_ele":[{"reb":"だいさんみやこじまたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Della (1968)"}]}]}
+{"ent_seq":5747990,"k_ele":[{"keb":"沖永良部台風"}],"r_ele":[{"reb":"おきのえらぶたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Babe (1977)"}]}]}
+{"ent_seq":5747991,"k_ele":[{"keb":"令和元年房総半島台風"}],"r_ele":[{"reb":"れいわがんねんぼうそうはんとうたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Faxai (2019)"}]}]}
+{"ent_seq":5747992,"k_ele":[{"keb":"令和元年東日本台風"}],"r_ele":[{"reb":"れいわがんねんひがしにほんたいふう"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Typhoon Hagibis (2019)"}]}]}
+{"ent_seq":5747993,"k_ele":[{"keb":"盲人書簡"}],"r_ele":[{"reb":"もうじんしょかん","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Letter on the Blind (1749 essay by Denis Diderot)"}]}]}
+{"ent_seq":5747994,"k_ele":[{"keb":"寄生獣"}],"r_ele":[{"reb":"きせいじゅう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Parasyte (1989 manga by Hitoshi Iwaaki and 2014 anime)"}]}]}
+{"ent_seq":5747995,"k_ele":[{"keb":"富途"}],"r_ele":[{"reb":"フートゥー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Futu Holdings Limited"}]}]}
+{"ent_seq":5747996,"k_ele":[{"keb":"ｍｏｏｍｏｏ証券"}],"r_ele":[{"reb":"ムームーしょうけん"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Moomoo Securities"}]}]}
+{"ent_seq":5747997,"k_ele":[{"keb":"ヨーロッパ戦勝記念日"}],"r_ele":[{"reb":"ヨーロッパせんしょうきねんび"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Victory in Europe Day"},{"value":"VE Day"}]}]}
+{"ent_seq":5747998,"k_ele":[{"keb":"欧州戦勝記念日"}],"r_ele":[{"reb":"おうしゅうせんしょうきねんび"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Victory in Europe Day"},{"value":"VE Day"}]}]}
+{"ent_seq":5747999,"k_ele":[{"keb":"麻布区"}],"r_ele":[{"reb":"あざぶく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Azabu Ward (former ward in Tokyo)"}]}]}
+{"ent_seq":5748000,"k_ele":[{"keb":"芝区"}],"r_ele":[{"reb":"しばく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Shiba Ward (former ward in Tokyo)"}]}]}
+{"ent_seq":5748001,"k_ele":[{"keb":"赤坂区"}],"r_ele":[{"reb":"あかさかく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akasaka Ward (former ward in Tokyo)"}]}]}
+{"ent_seq":5748002,"r_ele":[{"reb":"シウダーフアレス"},{"reb":"シウダー・フアレス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ciudad Juárez (Mexico)"}]}]}
+{"ent_seq":5748003,"k_ele":[{"keb":"熊本城"}],"r_ele":[{"reb":"くまもとじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kumamoto Castle (in Kumamoto City)"}]}]}
+{"ent_seq":5748004,"r_ele":[{"reb":"ごんぶと"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Gonbuto (brand of instant cup udon by Nissin Foods)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-16"}]}]}

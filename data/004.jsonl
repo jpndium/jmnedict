@@ -46715,7 +46715,7 @@
 {"ent_seq":5348193,"k_ele":[{"keb":"朱莉恵"}],"r_ele":[{"reb":"じゅりえ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jurie"}]}]}
 {"ent_seq":5348194,"k_ele":[{"keb":"朱莉沙"}],"r_ele":[{"reb":"ありさ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Arisa"}]}]}
 {"ent_seq":5348195,"k_ele":[{"keb":"朱莉奈"}],"r_ele":[{"reb":"しゅりな"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shurina"}]}]}
-{"ent_seq":5348196,"k_ele":[{"keb":"朱鎔基"}],"r_ele":[{"reb":"しゅようき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Zhu Rongji (former Chinese premier) (1928-)"}]}]}
+{"ent_seq":5348196,"k_ele":[{"keb":"朱鎔基"}],"r_ele":[{"reb":"しゅようき"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Zhu Rongji (1928.10.23-2026.8.12; Chinese premier)"}]}]}
 {"ent_seq":5348197,"k_ele":[{"keb":"朱凜"}],"r_ele":[{"reb":"しゅり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Shuri"}]}]}
 {"ent_seq":5348198,"k_ele":[{"keb":"殊井"}],"r_ele":[{"reb":"ことい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Kotoi"}]}]}
 {"ent_seq":5348199,"k_ele":[{"keb":"殊華"}],"r_ele":[{"reb":"ことか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kotoka"}]}]}
