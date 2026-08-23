@@ -21696,7 +21696,7 @@
 {"ent_seq":5724536,"k_ele":[{"keb":"懶斎"}],"r_ele":[{"reb":"らいさい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Raisai"}]}]}
 {"ent_seq":5724537,"k_ele":[{"keb":"懿"}],"r_ele":[{"reb":"あつし"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Atsushi"}]}]}
 {"ent_seq":5724538,"k_ele":[{"keb":"懿王"}],"r_ele":[{"reb":"いおう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Iou"}]}]}
-{"ent_seq":5724539,"k_ele":[{"keb":"懿宗"}],"r_ele":[{"reb":"いそう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Isou"}]}]}
+{"ent_seq":5724539,"k_ele":[{"keb":"懿宗"}],"r_ele":[{"reb":"いそう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yizong (Tang dynasty emperor)"}]}]}
 {"ent_seq":5724540,"k_ele":[{"keb":"懿造"}],"r_ele":[{"reb":"よしぞう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Yoshizou"}]}]}
 {"ent_seq":5724541,"k_ele":[{"keb":"懿徳"}],"r_ele":[{"reb":"いとく"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Itoku"}]}]}
 {"ent_seq":5724542,"k_ele":[{"keb":"懿徳天皇"}],"r_ele":[{"reb":"いとくてんのう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Emperor Itoku"},{"value":"Itoku Tenno"}]}]}
@@ -26838,7 +26838,7 @@
 {"ent_seq":5729681,"k_ele":[{"keb":"獨古"}],"r_ele":[{"reb":"どくこ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Dokuko"}]}]}
 {"ent_seq":5729682,"k_ele":[{"keb":"獨古"}],"r_ele":[{"reb":"どつこ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Dotsuko"}]}]}
 {"ent_seq":5729683,"k_ele":[{"keb":"獨鈷"}],"r_ele":[{"reb":"どつこ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Dotsuko"}]}]}
-{"ent_seq":5729684,"k_ele":[{"keb":"獨島"}],"r_ele":[{"reb":"トクド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dokdo (Korean name for Takeshima)"},{"value":"Tokto"},{"value":"Liancourt Rocks"}]}]}
+{"ent_seq":5729684,"k_ele":[{"keb":"独島"},{"keb":"獨島"}],"r_ele":[{"reb":"トクド"},{"reb":"トクト"},{"reb":"ドクド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dokdo (Korean name for Takeshima)"},{"value":"Tokto"},{"value":"Liancourt Rocks"}]}]}
 {"ent_seq":5729685,"k_ele":[{"keb":"獻一"}],"r_ele":[{"reb":"けんいち"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ken'ichi"}]}]}
 {"ent_seq":5729686,"k_ele":[{"keb":"獺ケ口"}],"r_ele":[{"reb":"うそがぐち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Usogaguchi"}]}]}
 {"ent_seq":5729687,"k_ele":[{"keb":"獺ケ口"}],"r_ele":[{"reb":"おそがぐち"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Osogaguchi"}]}]}
@@ -36993,7 +36993,7 @@
 {"ent_seq":5741187,"k_ele":[{"keb":"国土地理院"}],"r_ele":[{"reb":"こくどちりいん","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Geospatial Information Authority of Japan (2010-)"},{"value":"Geographical Survey Institute (1949-2010)"}]}]}
 {"ent_seq":5741189,"r_ele":[{"reb":"ラルフ・ローレン","re_pri":{"spec":1}}],"trans":[{"name_type":["&person;","&company;"],"trans_det":[{"value":"Ralph Lauren"}]}]}
 {"ent_seq":5741190,"r_ele":[{"reb":"ライオンズクラブ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Lions Club"}]}]}
-{"ent_seq":5741191,"k_ele":[{"keb":"間宮海峡"}],"r_ele":[{"reb":"まみやかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Strait of Tartary (strait between Sakhalin and the east coast of Siberia)"},{"value":"Mamiya strait"}]}]}
+{"ent_seq":5741191,"k_ele":[{"keb":"間宮海峡"}],"r_ele":[{"reb":"まみやかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Strait of Tartary (dividing Sakhalin from mainland Asia)"},{"value":"Mamiya Strait"},{"value":"Tatar Strait"}]}]}
 {"ent_seq":5741192,"r_ele":[{"reb":"ティラン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tiran (island and strait near the Gulf of Aqaba)"}]}]}
 {"ent_seq":5741193,"k_ele":[{"keb":"豊饒の海"}],"r_ele":[{"reb":"ほうじょうのうみ","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Sea of Fertility (tetralogy by Mishima)"}]}]}
 {"ent_seq":5741194,"k_ele":[{"keb":"崎陽"}],"r_ele":[{"reb":"きよう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nagasaki (old name)"}]}]}
@@ -43588,4 +43588,30 @@
 {"ent_seq":5748002,"r_ele":[{"reb":"シウダーフアレス"},{"reb":"シウダー・フアレス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ciudad Juárez (Mexico)"}]}]}
 {"ent_seq":5748003,"k_ele":[{"keb":"熊本城"}],"r_ele":[{"reb":"くまもとじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kumamoto Castle (in Kumamoto City)"}]}]}
 {"ent_seq":5748004,"r_ele":[{"reb":"ごんぶと"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Gonbuto (brand of instant cup udon by Nissin Foods)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-16"}]}]}
+{"ent_seq":5748005,"k_ele":[{"keb":"摩耶花"}],"r_ele":[{"reb":"まやか"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Mayaka"}]}]}
+{"ent_seq":5748006,"k_ele":[{"keb":"ＭＩＸＵＥ"},{"keb":"蜜雪"}],"r_ele":[{"reb":"ミーシュー"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"Mixue"}]}]}
+{"ent_seq":5748007,"k_ele":[{"keb":"學天則"},{"keb":"学天則"}],"r_ele":[{"reb":"がくてんそく"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Gakutensoku (1920s robot developed in Japan)"}]}]}
+{"ent_seq":5748008,"k_ele":[{"keb":"セレンゲティ国立公園"}],"r_ele":[{"reb":"セレンゲティこくりつこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Serengeti National Park"}]}]}
+{"ent_seq":5748009,"r_ele":[{"reb":"セレンゲティ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Serengeti (Tanzania)"}]}]}
+{"ent_seq":5748010,"k_ele":[{"keb":"萌奏"}],"r_ele":[{"reb":"もえか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Moeka"}]}]}
+{"ent_seq":5748011,"k_ele":[{"keb":"光復節"}],"r_ele":[{"reb":"こうふくせつ","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Korean Liberation Day (August 15)"},{"value":"Gwangbokjeol"}]}]}
+{"ent_seq":5748012,"k_ele":[{"keb":"黄巣の乱"}],"r_ele":[{"reb":"こうそうのらん","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Huang Chao Rebellion (uprising in China from 874 to 884)"}]}]}
+{"ent_seq":5748013,"k_ele":[{"keb":"渭水"}],"r_ele":[{"reb":"いすい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Wei River (China)"}]}]}
+{"ent_seq":5748014,"k_ele":[{"keb":"渭河"}],"r_ele":[{"reb":"いが"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Wei River (China)"}]}]}
+{"ent_seq":5748015,"k_ele":[{"keb":"汾河"}],"r_ele":[{"reb":"ふんが"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fen River (China)"}]}]}
+{"ent_seq":5748016,"k_ele":[{"keb":"汾水"}],"r_ele":[{"reb":"ふんすい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Fen River (China)"}]}]}
+{"ent_seq":5748017,"k_ele":[{"keb":"大別山脈"}],"r_ele":[{"reb":"だいべつさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dabie Mountains (China)"}]}]}
+{"ent_seq":5748018,"k_ele":[{"keb":"巣湖"}],"r_ele":[{"reb":"そうこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chao Lake (China)"}]}]}
+{"ent_seq":5748019,"k_ele":[{"keb":"洪沢湖"}],"r_ele":[{"reb":"こうたくこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hongze Lake (China)"}]}]}
+{"ent_seq":5748020,"k_ele":[{"keb":"高郵湖"}],"r_ele":[{"reb":"こうゆうこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gaoyou Lake (China)"}]}]}
+{"ent_seq":5748021,"k_ele":[{"keb":"楚漢戦争"}],"r_ele":[{"reb":"そかんせんそう","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Chu-Han Contention (206-202 BCE)"},{"value":"Chu-Han War"}]}]}
+{"ent_seq":5748022,"k_ele":[{"keb":"釣魚島"}],"r_ele":[{"reb":"ちょうぎょとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Diaoyu Island (Chinese name for Uotsuri Island)"}]}]}
+{"ent_seq":5748023,"k_ele":[{"keb":"北方領土の日"}],"r_ele":[{"reb":"ほっぽうりょうどのひ"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Northern Territories Day (February 7)"}]}]}
+{"ent_seq":5748024,"k_ele":[{"keb":"竹島の日"}],"r_ele":[{"reb":"たけしまのひ"}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Takeshima Day (February 22, Shimane Prefecture observance)"}]}]}
+{"ent_seq":5748025,"k_ele":[{"keb":"南洋庁"}],"r_ele":[{"reb":"なんようちょう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Nan'yō Chō (Territorial Government of the South Seas, 1922-1945)"}]}]}
+{"ent_seq":5748026,"k_ele":[{"keb":"納涼祭"},{"keb":"納涼まつり"},{"keb":"納涼祭り"}],"r_ele":[{"reb":"のうりょうまつり","re_pri":{"spec":1}}],"trans":[{"name_type":["&ev;"],"trans_det":[{"value":"Nōryō Matsuri"}]}]}
+{"ent_seq":5748027,"k_ele":[{"keb":"日韓請求権協定"}],"r_ele":[{"reb":"にっかんせいきゅうけんきょうてい"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Japan-Republic of Korea Claims Agreement (1965)"}]}]}
+{"ent_seq":5748028,"k_ele":[{"keb":"日中共同声明"}],"r_ele":[{"reb":"にっちゅうきょうどうせいめい"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Japan-China Joint Communiqué (1972; normalizing Japan-PRC diplomatic relations)"}]}]}
+{"ent_seq":5748029,"k_ele":[{"keb":"河野談話"}],"r_ele":[{"reb":"こうのだんわ"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Kono Statement (1993 statement by Chief Cabinet Secretary Yohei Kono on the results of the government study concerning comfort women)"}]}]}
+{"ent_seq":5748030,"k_ele":[{"keb":"村山談話"}],"r_ele":[{"reb":"むらやまだんわ"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Murayama Statement (1995 statement by Prime Minister Tomiichi Murayama on the 50th anniversary of the end of WWII)"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-23"}]}]}

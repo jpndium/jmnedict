@@ -49319,7 +49319,7 @@
 {"ent_seq":5150135,"k_ele":[{"keb":"黄祖"}],"r_ele":[{"reb":"こうそ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Huang Zu (-208CE)"}]}]}
 {"ent_seq":5150136,"k_ele":[{"keb":"黄倉"}],"r_ele":[{"reb":"おうくら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Oukura"}]}]}
 {"ent_seq":5150137,"k_ele":[{"keb":"黄倉"}],"r_ele":[{"reb":"おおくら"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ookura"}]}]}
-{"ent_seq":5150138,"k_ele":[{"keb":"黄巣"}],"r_ele":[{"reb":"こうそう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kōsou"}]}]}
+{"ent_seq":5150138,"k_ele":[{"keb":"黄巣"}],"r_ele":[{"reb":"こうそう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Huang Chao (835-884; instigator of the Huang Chao Rebellion)"}]}]}
 {"ent_seq":5150139,"k_ele":[{"keb":"黄村"}],"r_ele":[{"reb":"おうむら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Oumura"}]}]}
 {"ent_seq":5150140,"k_ele":[{"keb":"黄村"}],"r_ele":[{"reb":"こうそん"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kōson"}]}]}
 {"ent_seq":5150141,"k_ele":[{"keb":"黄太郎"}],"r_ele":[{"reb":"こうたろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kōtarō"}]}]}
@@ -50678,7 +50678,7 @@
 {"ent_seq":5151499,"k_ele":[{"keb":"沖ノ谷"}],"r_ele":[{"reb":"おきのたに"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Okinotani"}]}]}
 {"ent_seq":5151500,"k_ele":[{"keb":"沖ノ谷"}],"r_ele":[{"reb":"おきのや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Okinoya"}]}]}
 {"ent_seq":5151501,"k_ele":[{"keb":"沖ノ旦"}],"r_ele":[{"reb":"おきのだん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Okinodan"}]}]}
-{"ent_seq":5151502,"k_ele":[{"keb":"沖ノ鳥島"}],"r_ele":[{"reb":"おきのとりしま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Okinotorishima"}]}]}
+{"ent_seq":5151502,"k_ele":[{"keb":"沖ノ鳥島"}],"r_ele":[{"reb":"おきのとりしま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Okinotorishima"},{"value":"Okinotori Island"}]}]}
 {"ent_seq":5151503,"k_ele":[{"keb":"沖ノ津留"}],"r_ele":[{"reb":"おきのつる"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Okinotsuru"}]}]}
 {"ent_seq":5151504,"k_ele":[{"keb":"沖ノ田"}],"r_ele":[{"reb":"おきのだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Okinoda"}]}]}
 {"ent_seq":5151505,"k_ele":[{"keb":"沖ノ唐荷島"}],"r_ele":[{"reb":"おきのからにしま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Okinokaranishima"}]}]}

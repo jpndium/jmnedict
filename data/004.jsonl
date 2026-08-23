@@ -51064,7 +51064,7 @@
 {"ent_seq":5352550,"k_ele":[{"keb":"宗達"}],"r_ele":[{"reb":"そうたつ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Soutatsu"}]}]}
 {"ent_seq":5352551,"k_ele":[{"keb":"宗谷"}],"r_ele":[{"reb":"そうや"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Souya"}]}]}
 {"ent_seq":5352552,"k_ele":[{"keb":"宗谷"}],"r_ele":[{"reb":"むねたに"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Munetani"}]}]}
-{"ent_seq":5352553,"k_ele":[{"keb":"宗谷海峡"}],"r_ele":[{"reb":"そうやかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"La Pérouse Strait (between Hokkaido and Sakhalin)"},{"value":"Sōya Strait"}]}]}
+{"ent_seq":5352553,"k_ele":[{"keb":"宗谷海峡"}],"r_ele":[{"reb":"そうやかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"La Pérouse Strait (between Hokkaido and Sakhalin)"},{"value":"Soya Strait"}]}]}
 {"ent_seq":5352554,"k_ele":[{"keb":"宗谷丘陵"}],"r_ele":[{"reb":"そうやきゅうりょう"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Souyakyūryō"}]}]}
 {"ent_seq":5352555,"k_ele":[{"keb":"宗谷郡"}],"r_ele":[{"reb":"そうやぐん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Souyagun"}]}]}
 {"ent_seq":5352557,"k_ele":[{"keb":"宗谷山"}],"r_ele":[{"reb":"そうややま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Souyayama"}]}]}

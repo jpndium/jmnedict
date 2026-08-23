@@ -89262,7 +89262,7 @@
 {"ent_seq":5089852,"r_ele":[{"reb":"ラペイレット"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lapeyrette"}]}]}
 {"ent_seq":5089853,"r_ele":[{"reb":"ラペルーザズ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Laperrousaz"}]}]}
 {"ent_seq":5089854,"r_ele":[{"reb":"ラペルーズ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"La Perouse"}]}]}
-{"ent_seq":5089855,"k_ele":[{"keb":"ラペルーズ海峡"}],"r_ele":[{"reb":"ラペルーズかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"La Perouse Straits"}]}]}
+{"ent_seq":5089855,"k_ele":[{"keb":"ラペルーズ海峡"},{"keb":"ラ・ペルーズ海峡"}],"r_ele":[{"reb":"ラペルーズかいきょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"La Pérouse Strait (between Hokkaido and Sakhalin)"},{"value":"Soya Strait"}]}]}
 {"ent_seq":5089856,"r_ele":[{"reb":"ラペルトリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lapelletrie"}]}]}
 {"ent_seq":5089857,"k_ele":[{"keb":"ラペル川"}],"r_ele":[{"reb":"ラペルがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Rio Rapel"}]}]}
 {"ent_seq":5089858,"r_ele":[{"reb":"ラペロニー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lapeyronie"}]}]}

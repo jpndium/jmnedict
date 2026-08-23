@@ -11234,7 +11234,7 @@
 {"ent_seq":5513241,"k_ele":[{"keb":"竹渡"}],"r_ele":[{"reb":"たけわたり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takewatari"}]}]}
 {"ent_seq":5513242,"k_ele":[{"keb":"竹土井"}],"r_ele":[{"reb":"たけどい"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takedoi"}]}]}
 {"ent_seq":5513243,"k_ele":[{"keb":"竹島"}],"r_ele":[{"reb":"たかしま"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Takashima"}]}]}
-{"ent_seq":5513244,"k_ele":[{"keb":"竹島"}],"r_ele":[{"reb":"たけしま"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Takeshima"}]}]}
+{"ent_seq":5513244,"k_ele":[{"keb":"竹島"}],"r_ele":[{"reb":"たけしま"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Takeshima"}]},{"name_type":["&place;"],"trans_det":[{"value":"Takeshima (Liancourt Rocks)"}]}]}
 {"ent_seq":5513245,"k_ele":[{"keb":"竹島"}],"r_ele":[{"reb":"たけじま"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Takejima"}]}]}
 {"ent_seq":5513246,"k_ele":[{"keb":"竹島一彦"}],"r_ele":[{"reb":"たけしまかずひこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takeshima Kazuhiko"}]}]}
 {"ent_seq":5513247,"k_ele":[{"keb":"竹島羽衣"}],"r_ele":[{"reb":"たけしまはごろも"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Takeshima Hagoromo"}]}]}
@@ -72526,7 +72526,7 @@
 {"ent_seq":5574854,"k_ele":[{"keb":"南西海子"}],"r_ele":[{"reb":"みなみさいかいし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamisaikaishi"}]}]}
 {"ent_seq":5574855,"k_ele":[{"keb":"南西海子町"}],"r_ele":[{"reb":"みなみさいかいしちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamisaikaishichō"}]}]}
 {"ent_seq":5574856,"k_ele":[{"keb":"南西郷"}],"r_ele":[{"reb":"みなみさいごう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minamisaigou"}]}]}
-{"ent_seq":5574857,"k_ele":[{"keb":"南西諸島"}],"r_ele":[{"reb":"なんせいしょとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nansei-shoto (southwestern islands off Kyushu and in the Okinawan archipelago)"}]}]}
+{"ent_seq":5574857,"k_ele":[{"keb":"南西諸島"}],"r_ele":[{"reb":"なんせいしょとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nansei Islands"},{"value":"Nansei Shoto"}]}]}
 {"ent_seq":5574858,"k_ele":[{"keb":"南西諸島海溝"}],"r_ele":[{"reb":"なんせいしょとうかいこう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nansei-Shoto Trench"},{"value":"Ryukyu Trench"}]}]}
 {"ent_seq":5574859,"k_ele":[{"keb":"南西石油製油所"}],"r_ele":[{"reb":"なんせいせきゆせいゆじょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nanseisekiyuseiyujo"}]}]}
 {"ent_seq":5574860,"k_ele":[{"keb":"南西谷"}],"r_ele":[{"reb":"みなみにしだに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Minaminishidani"}]}]}
@@ -74279,7 +74279,7 @@
 {"ent_seq":5576625,"k_ele":[{"keb":"南洋"}],"r_ele":[{"reb":"なんよう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Nan'you"}]}]}
 {"ent_seq":5576626,"k_ele":[{"keb":"南洋"}],"r_ele":[{"reb":"みなひろ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Minahiro"}]}]}
 {"ent_seq":5576627,"k_ele":[{"keb":"南洋一郎"}],"r_ele":[{"reb":"みなみよういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Minami Yōichirō"}]}]}
-{"ent_seq":5576628,"k_ele":[{"keb":"南洋群島"}],"r_ele":[{"reb":"なんようぐんとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Micronesia (old colonial name used until the end of WWII)"}]}]}
+{"ent_seq":5576628,"k_ele":[{"keb":"南洋群島"}],"r_ele":[{"reb":"なんようぐんとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"South Sea Islands (former Japanese-administered islands in Micronesia)"}]}]}
 {"ent_seq":5576629,"k_ele":[{"keb":"南洋子"}],"r_ele":[{"reb":"なみこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Namiko"}]}]}
 {"ent_seq":5576630,"k_ele":[{"keb":"南洋子"}],"r_ele":[{"reb":"なよこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Nayoko"}]}]}
 {"ent_seq":5576631,"k_ele":[{"keb":"南洋理工大学"}],"r_ele":[{"reb":"なんようりこうだいがく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Nanyang Technological University"}]}]}

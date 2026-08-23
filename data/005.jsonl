@@ -32125,7 +32125,7 @@
 {"ent_seq":5433822,"k_ele":[{"keb":"星ケ台"}],"r_ele":[{"reb":"ほしがだい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hoshigadai"}]}]}
 {"ent_seq":5433823,"k_ele":[{"keb":"星ケ峯"}],"r_ele":[{"reb":"ほしがみね"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hoshigamine"}]}]}
 {"ent_seq":5433824,"k_ele":[{"keb":"星セント"}],"r_ele":[{"reb":"ほしセント"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hoshi Sento (1948.1.16-2004.7.22)"}]}]}
-{"ent_seq":5433825,"k_ele":[{"keb":"星ノ宮"}],"r_ele":[{"reb":"ほしのみや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hoshinomiya"}]}]}
+{"ent_seq":5433825,"k_ele":[{"keb":"星ノ宮"},{"keb":"星乃宮"}],"r_ele":[{"reb":"ほしのみや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hoshinomiya"}]}]}
 {"ent_seq":5433826,"k_ele":[{"keb":"星ノ宮団地"}],"r_ele":[{"reb":"ほしのみやだんち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hoshinomiyadanchi"}]}]}
 {"ent_seq":5433827,"k_ele":[{"keb":"星ノ谷"}],"r_ele":[{"reb":"ほしのや"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Hoshinoya"}]}]}
 {"ent_seq":5433828,"k_ele":[{"keb":"星ルイス"}],"r_ele":[{"reb":"ほしルイス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hoshi Ruisu (1948.11.17-2005.3.10)"}]}]}
@@ -60173,7 +60173,7 @@
 {"ent_seq":5461975,"k_ele":[{"keb":"千島公園"}],"r_ele":[{"reb":"ちしまこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chishima Park"}]}]}
 {"ent_seq":5461976,"k_ele":[{"keb":"千島町"}],"r_ele":[{"reb":"ちしまちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chishimachō"}]}]}
 {"ent_seq":5461977,"k_ele":[{"keb":"千島町"}],"r_ele":[{"reb":"ちしままち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chishimamachi"}]}]}
-{"ent_seq":5461978,"k_ele":[{"keb":"千島列島"}],"r_ele":[{"reb":"ちしまれっとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kurile Islands"}]}]}
+{"ent_seq":5461978,"k_ele":[{"keb":"千島列島"}],"r_ele":[{"reb":"ちしまれっとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kuril Islands"},{"value":"Kurile Islands"},{"value":"Chishima Islands"}]}]}
 {"ent_seq":5461979,"k_ele":[{"keb":"千嶋"}],"r_ele":[{"reb":"ちしま"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Chishima"}]}]}
 {"ent_seq":5461980,"k_ele":[{"keb":"千東"}],"r_ele":[{"reb":"せんとう"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Sentou"}]}]}
 {"ent_seq":5461981,"k_ele":[{"keb":"千東"}],"r_ele":[{"reb":"せんどう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sendou"}]}]}
@@ -87031,7 +87031,7 @@
 {"ent_seq":5488926,"k_ele":[{"keb":"大海寺"}],"r_ele":[{"reb":"だいかいじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Daikaiji"}]}]}
 {"ent_seq":5488927,"k_ele":[{"keb":"大海寺新"}],"r_ele":[{"reb":"だいかいじしん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daikaijishin"}]}]}
 {"ent_seq":5488928,"k_ele":[{"keb":"大海寺野"}],"r_ele":[{"reb":"だいかいじの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daikaijino"}]}]}
-{"ent_seq":5488929,"k_ele":[{"keb":"大海人"}],"r_ele":[{"reb":"おおあま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ooama"}]}]}
+{"ent_seq":5488929,"k_ele":[{"keb":"大海人"}],"r_ele":[{"reb":"おおあま","re_pri":{"spec":1}}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Emperor Temmu (?-686 CE, reigning: 673-686 CE)"}]}]}
 {"ent_seq":5488930,"k_ele":[{"keb":"大海人皇子"}],"r_ele":[{"reb":"おおあまのおうじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Emperor Temmu (?-686 CE, reigning: 673-686 CE)"}]}]}
 {"ent_seq":5488931,"k_ele":[{"keb":"大海川"}],"r_ele":[{"reb":"おおうみがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ooumigawa"}]}]}
 {"ent_seq":5488932,"k_ele":[{"keb":"大海川尻"}],"r_ele":[{"reb":"おおみかわしり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Oomikawashiri"}]}]}

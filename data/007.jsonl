@@ -99697,7 +99697,7 @@
 {"ent_seq":5702484,"k_ele":[{"keb":"硫黄鳥島"}],"r_ele":[{"reb":"いおうとりしま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ioutorishima"}]}]}
 {"ent_seq":5702485,"k_ele":[{"keb":"硫黄田"}],"r_ele":[{"reb":"ゆおうだ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yuouda"}]}]}
 {"ent_seq":5702487,"k_ele":[{"keb":"硫黄島"}],"r_ele":[{"reb":"いおうじま"},{"reb":"いおうがしま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iōjima (Kagoshima Prefecture)"}]}]}
-{"ent_seq":5702488,"k_ele":[{"keb":"硫黄島"}],"r_ele":[{"reb":"いおうとう"},{"reb":"いおうじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iwo Jima"},{"value":"Iō Tō"}]}]}
+{"ent_seq":5702488,"k_ele":[{"keb":"硫黄島"}],"r_ele":[{"reb":"いおうとう"},{"reb":"いおうじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iwo Jima"},{"value":"Ioto Island"},{"value":"Iō Tō"}]}]}
 {"ent_seq":5702489,"k_ele":[{"keb":"硫黄島島民墓地"}],"r_ele":[{"reb":"いおうとうとうみんぼち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ioutou Toumin Cemetery"}]}]}
 {"ent_seq":5702490,"k_ele":[{"keb":"硫黄尾根"}],"r_ele":[{"reb":"いおうおね"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iouone"}]}]}
 {"ent_seq":5702491,"k_ele":[{"keb":"硫黄列島"}],"r_ele":[{"reb":"いおうれっとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Iwo Islands"},{"value":"Volcano Islands"}]}]}
