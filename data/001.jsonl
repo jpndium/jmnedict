@@ -49524,7 +49524,7 @@
 {"ent_seq":5049872,"r_ele":[{"reb":"チェバ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ceva"}]}]}
 {"ent_seq":5049873,"r_ele":[{"reb":"チェバルクーリ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chebalkul"}]}]}
 {"ent_seq":5049874,"k_ele":[{"keb":"チェビオット丘陵"}],"r_ele":[{"reb":"チェビオットきゅうりょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Cheviot Hills"}]}]}
-{"ent_seq":5049875,"r_ele":[{"reb":"チェビシェフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chebychev"}]}]}
+{"ent_seq":5049875,"r_ele":[{"reb":"チェビシェフ"},{"reb":"チェビショフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Chebyshev"},{"value":"Chebychev"},{"value":"Tchebychev"}]},{"name_type":["&person;"],"trans_det":[{"value":"Chebyshev, Pafnuty Lvovich (1821-94; Russian mathematician)"}]}]}
 {"ent_seq":5049876,"r_ele":[{"reb":"チェピエレフスカ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ciepielewska"}]}]}
 {"ent_seq":5049877,"r_ele":[{"reb":"チェピング"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Koping"}]}]}
 {"ent_seq":5049878,"r_ele":[{"reb":"チェフ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tczew (Poland)"},{"value":"Cech"}]}]}
@@ -62775,7 +62775,7 @@
 {"ent_seq":5063223,"r_ele":[{"reb":"ババタンド"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Babatunde"}]}]}
 {"ent_seq":5063224,"r_ele":[{"reb":"ババナンゴ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Babanango"}]}]}
 {"ent_seq":5063225,"r_ele":[{"reb":"ババブダン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Baba Budan"}]}]}
-{"ent_seq":5063226,"r_ele":[{"reb":"ババリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bavaria"}]}]}
+{"ent_seq":5063226,"r_ele":[{"reb":"ババリア","re_pri":{"spec":1}},{"reb":"バヴァリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bavaria (Germany)"}]}]}
 {"ent_seq":5063227,"k_ele":[{"keb":"ババル諸島"}],"r_ele":[{"reb":"ババルしょとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Babar (islands)"}]}]}
 {"ent_seq":5063228,"r_ele":[{"reb":"ババンギダ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Babangida"}]}]}
 {"ent_seq":5063229,"r_ele":[{"reb":"ババンスキー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Babinski"}]}]}
@@ -63668,7 +63668,6 @@
 {"ent_seq":5064120,"k_ele":[{"keb":"バン湖"}],"r_ele":[{"reb":"バンこ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Van Lake"}]}]}
 {"ent_seq":5064121,"k_ele":[{"keb":"バン崎"}],"r_ele":[{"reb":"バンさき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bansaki"}]}]}
 {"ent_seq":5064122,"k_ele":[{"keb":"バン川"}],"r_ele":[{"reb":"バンがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bann (river)"}]}]}
-{"ent_seq":5064123,"r_ele":[{"reb":"バヴァリア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bavaria"}]}]}
 {"ent_seq":5064124,"r_ele":[{"reb":"パ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Paz"}]}]}
 {"ent_seq":5064125,"r_ele":[{"reb":"パー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Parr"}]}]}
 {"ent_seq":5064126,"r_ele":[{"reb":"パーウイロ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Paauilo"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル"}],"r_ele":[{"reb":"あこやのトンネル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoyano Tunnel"}]}]}
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下"}],"r_ele":[{"reb":"あこした"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoshita"}]}]}
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江"}],"r_ele":[{"reb":"あこえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoe"}]}]}
+{"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社"}],"r_ele":[{"reb":"あこしじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoshi Shrine"}]}]}

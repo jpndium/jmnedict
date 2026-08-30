@@ -1,5 +1,3 @@
-{"ent_seq":5702789,"k_ele":[{"keb":"隆時"}],"r_ele":[{"reb":"たかとき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatoki"}]}]}
-{"ent_seq":5702790,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
 {"ent_seq":5702791,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかつぐ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatsugu"}]}]}
 {"ent_seq":5702792,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
 {"ent_seq":5702793,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}
@@ -35282,7 +35280,7 @@
 {"ent_seq":5738135,"k_ele":[{"keb":"頸城大野駅"}],"r_ele":[{"reb":"くびきおおのえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kubikioono Station"}]}]}
 {"ent_seq":5738136,"k_ele":[{"keb":"頸切島"}],"r_ele":[{"reb":"くびきれじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kubikirejima"}]}]}
 {"ent_seq":5738137,"k_ele":[{"keb":"頤明"}],"r_ele":[{"reb":"いめい"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Imei"}]}]}
-{"ent_seq":5738138,"k_ele":[{"keb":"頤和園"}],"r_ele":[{"reb":"いわえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Summer Palace, an Imperial Garden in Beijing"}]}]}
+{"ent_seq":5738138,"k_ele":[{"keb":"頤和園"}],"r_ele":[{"reb":"いわえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Summer Palace (Beijing, China)"}]}]}
 {"ent_seq":5738139,"k_ele":[{"keb":"頽雪沢"}],"r_ele":[{"reb":"なでのさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nadenosawa"}]}]}
 {"ent_seq":5738140,"k_ele":[{"keb":"頽雪沢川"}],"r_ele":[{"reb":"なでのさわかわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Nadenosawakawa"}]}]}
 {"ent_seq":5738141,"k_ele":[{"keb":"頽沢"}],"r_ele":[{"reb":"くずれさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kuzuresawa"}]}]}
@@ -43614,4 +43612,13 @@
 {"ent_seq":5748028,"k_ele":[{"keb":"日中共同声明"}],"r_ele":[{"reb":"にっちゅうきょうどうせいめい"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Japan-China Joint Communiqué (1972; normalizing Japan-PRC diplomatic relations)"}]}]}
 {"ent_seq":5748029,"k_ele":[{"keb":"河野談話"}],"r_ele":[{"reb":"こうのだんわ"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Kono Statement (1993 statement by Chief Cabinet Secretary Yohei Kono on the results of the government study concerning comfort women)"}]}]}
 {"ent_seq":5748030,"k_ele":[{"keb":"村山談話"}],"r_ele":[{"reb":"むらやまだんわ"}],"trans":[{"name_type":["&doc;"],"trans_det":[{"value":"Murayama Statement (1995 statement by Prime Minister Tomiichi Murayama on the 50th anniversary of the end of WWII)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-23"}]}]}
+{"ent_seq":5748035,"r_ele":[{"reb":"イリヤスフィール"}],"trans":[{"name_type":["&fem;","&fict;"],"trans_det":[{"value":"Illyasviel"}]}]}
+{"ent_seq":5748036,"k_ele":[{"keb":"矩賢"}],"r_ele":[{"reb":"のりかた"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Norikata"}]}]}
+{"ent_seq":5748039,"k_ele":[{"keb":"煤渡り"}],"r_ele":[{"reb":"ススワタリ"}],"trans":[{"name_type":["&char;"],"trans_det":[{"value":"dust bunnies (in Studio Ghibli's Spirited Away)"}]}]}
+{"ent_seq":5748041,"r_ele":[{"reb":"スカウター"}],"trans":[{"name_type":["&obj;","&fict;"],"trans_det":[{"value":"scouter (Dragonball)"}]}]}
+{"ent_seq":5748042,"r_ele":[{"reb":"カセグレン"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Cassegrain"}]},{"name_type":["&person;"],"trans_det":[{"value":"Cassegrain, Laurent (1629-1693; French priest and physicist)"}]}]}
+{"ent_seq":5748043,"k_ele":[{"keb":"草十郎"}],"r_ele":[{"reb":"そうじゅうろう"}],"trans":[{"name_type":["&masc;","&fict;"],"trans_det":[{"value":"Sōjūrō"}]}]}
+{"ent_seq":5748044,"k_ele":[{"keb":"ｂｉｌｉｂｉｌｉ"}],"r_ele":[{"reb":"ビリビリ"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"bilibili (video streaming site)"}]}]}
+{"ent_seq":5748045,"k_ele":[{"keb":"青ひげ"},{"keb":"青髯"}],"r_ele":[{"reb":"あおひげ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Bluebeard (fairy tale in the collection by Charles Perrault)"}]}]}
+{"ent_seq":5748046,"k_ele":[{"keb":"拙政園"}],"r_ele":[{"reb":"せっせいえん"},{"reb":"チョウチョンユエン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Zhuozheng Yuan (China)"},{"value":"Humble Administrator's Garden"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-08-30"}]}]}
