@@ -1,4 +1,3 @@
-{"ent_seq":5501980,"k_ele":[{"keb":"拓北川"}],"r_ele":[{"reb":"たくほくがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugawa"}]}]}
 {"ent_seq":5501981,"k_ele":[{"keb":"拓北二条"}],"r_ele":[{"reb":"たくほくにじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokunijō"}]}]}
 {"ent_seq":5501982,"k_ele":[{"keb":"拓北八条"}],"r_ele":[{"reb":"たくほくはちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuhachijō"}]}]}
 {"ent_seq":5501983,"k_ele":[{"keb":"拓北六条"}],"r_ele":[{"reb":"たくほくろくじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokurokujō"}]}]}
@@ -5584,7 +5583,7 @@
 {"ent_seq":5507575,"k_ele":[{"keb":"値賀川内"}],"r_ele":[{"reb":"ちかがわち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Chikagawachi"}]}]}
 {"ent_seq":5507576,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"さとし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Satoshi"}]}]}
 {"ent_seq":5507577,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"さとり"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Satori"}]}]}
-{"ent_seq":5507578,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"さとる"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Satoru"}]}]}
+{"ent_seq":5507578,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"さとる"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Satoru"}]}]}
 {"ent_seq":5507579,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"ちか"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Chika"}]}]}
 {"ent_seq":5507580,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"ちさき"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Chisaki"}]}]}
 {"ent_seq":5507581,"k_ele":[{"keb":"知"}],"r_ele":[{"reb":"つかさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tsukasa"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602447,"k_ele":[{"keb":"番湯入沢"}],"r_ele":[{"reb":"ばんゆいりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banyuirisawa"}]}]}
 {"ent_seq":5602448,"k_ele":[{"keb":"番藤"}],"r_ele":[{"reb":"ばんふじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banfuji"}]}]}
 {"ent_seq":5602449,"k_ele":[{"keb":"番頭屋"}],"r_ele":[{"reb":"ばんどうや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandouya"}]}]}
+{"ent_seq":5602450,"k_ele":[{"keb":"番頭島"}],"r_ele":[{"reb":"ばんどじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandojima"}]}]}

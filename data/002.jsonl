@@ -1,4 +1,3 @@
-{"ent_seq":5100654,"k_ele":[{"keb":"阿古真理"}],"r_ele":[{"reb":"あこまり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ako Mari"}]}]}
 {"ent_seq":5100655,"k_ele":[{"keb":"阿古曽"}],"r_ele":[{"reb":"あこそ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoso"}]}]}
 {"ent_seq":5100656,"k_ele":[{"keb":"阿古曽町"}],"r_ele":[{"reb":"あこそちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akosochō"}]}]}
 {"ent_seq":5100657,"k_ele":[{"keb":"阿古滝"}],"r_ele":[{"reb":"あこだき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akodaki"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200970,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"きよし"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kiyoshi"}]}]}
 {"ent_seq":5200971,"k_ele":[{"keb":"季吉"}],"r_ele":[{"reb":"すえきち"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suekichi"}]}]}
 {"ent_seq":5200972,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"きく"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Kiku"}]}]}
+{"ent_seq":5200973,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"きくじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikuji"}]}]}

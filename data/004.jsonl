@@ -1,4 +1,3 @@
-{"ent_seq":5301331,"k_ele":[{"keb":"佐藤尚邦"}],"r_ele":[{"reb":"さとうなおくに"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naokuni"}]}]}
 {"ent_seq":5301332,"k_ele":[{"keb":"佐藤庄市郎"}],"r_ele":[{"reb":"さとうしょういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichirō (1924.2-)"}]}]}
 {"ent_seq":5301333,"k_ele":[{"keb":"佐藤彰一"}],"r_ele":[{"reb":"さとうしょういち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichi"}]}]}
 {"ent_seq":5301334,"k_ele":[{"keb":"佐藤彰夫"}],"r_ele":[{"reb":"さとうあきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akio (1933.7-)"}]}]}
@@ -22969,7 +22968,7 @@
 {"ent_seq":5324383,"k_ele":[{"keb":"山本容子"}],"r_ele":[{"reb":"やまもとようこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōko (1952.4-)"}]}]}
 {"ent_seq":5324384,"k_ele":[{"keb":"山本容郎"}],"r_ele":[{"reb":"やまもとようろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōrou"}]}]}
 {"ent_seq":5324385,"k_ele":[{"keb":"山本庸一"}],"r_ele":[{"reb":"やまもとよういち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōichi (1909.1.19-1987.12.23)"}]}]}
-{"ent_seq":5324386,"k_ele":[{"keb":"山本耀司"}],"r_ele":[{"reb":"やまもとようじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōji (1943.10-)"}]}]}
+{"ent_seq":5324386,"k_ele":[{"keb":"山本耀司"}],"r_ele":[{"reb":"やまもとようじ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōji (1943.10.3-; fashion designer)"}]}]}
 {"ent_seq":5324387,"k_ele":[{"keb":"山本陽一"}],"r_ele":[{"reb":"やまもとよういち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōichi"}]}]}
 {"ent_seq":5324388,"k_ele":[{"keb":"山本陽子"}],"r_ele":[{"reb":"やまもとようこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Yōko (1942.3-)"}]}]}
 {"ent_seq":5324389,"k_ele":[{"keb":"山本梨加"}],"r_ele":[{"reb":"やまもとりか"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Yamamoto Rika (1986.1.21-)"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5401591,"k_ele":[{"keb":"条司"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401592,"k_ele":[{"keb":"条子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
 {"ent_seq":5401593,"k_ele":[{"keb":"条時"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōji"}]}]}
+{"ent_seq":5401594,"k_ele":[{"keb":"条次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}

@@ -1,4 +1,3 @@
-{"ent_seq":5401594,"k_ele":[{"keb":"条次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401595,"k_ele":[{"keb":"条治"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401596,"k_ele":[{"keb":"条実"}],"r_ele":[{"reb":"じょうみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōmi"}]}]}
 {"ent_seq":5401597,"k_ele":[{"keb":"条赦"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501977,"k_ele":[{"keb":"拓北四条"}],"r_ele":[{"reb":"たくほくよんじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuyonjō"}]}]}
 {"ent_seq":5501978,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくしちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokushichijō"}]}]}
 {"ent_seq":5501979,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくななじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokunanajō"}]}]}
+{"ent_seq":5501980,"k_ele":[{"keb":"拓北川"}],"r_ele":[{"reb":"たくほくがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugawa"}]}]}

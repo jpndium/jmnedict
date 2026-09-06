@@ -1,4 +1,3 @@
-{"ent_seq":5200973,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"きくじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikuji"}]}]}
 {"ent_seq":5200974,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"すえひさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suehisa"}]}]}
 {"ent_seq":5200975,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"ときひさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokihisa"}]}]}
 {"ent_seq":5200976,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"としひさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshihisa"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301328,"k_ele":[{"keb":"佐藤商事"}],"r_ele":[{"reb":"さとうしょうじ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Sato Shoji Corporation"}]}]}
 {"ent_seq":5301329,"k_ele":[{"keb":"佐藤尚忠"}],"r_ele":[{"reb":"さとうなおただ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotada"}]}]}
 {"ent_seq":5301330,"k_ele":[{"keb":"佐藤尚武"}],"r_ele":[{"reb":"さとうなおたけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotake (1882.10.30-1971.12.18)"}]}]}
+{"ent_seq":5301331,"k_ele":[{"keb":"佐藤尚邦"}],"r_ele":[{"reb":"さとうなおくに"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naokuni"}]}]}

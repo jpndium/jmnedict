@@ -23797,7 +23797,6 @@
 {"ent_seq":5023978,"k_ele":[{"keb":"カ子ト"}],"r_ele":[{"reb":"かねと"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Kaneto"}]}]}
 {"ent_seq":5023979,"r_ele":[{"reb":"ガー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gurr"}]}]}
 {"ent_seq":5023980,"r_ele":[{"reb":"ガーウィン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gurwin"}]}]}
-{"ent_seq":5023981,"r_ele":[{"reb":"ガーウェイン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gawain"}]}]}
 {"ent_seq":5023982,"r_ele":[{"reb":"ガーエムシャフル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ghaem Shahr"}]}]}
 {"ent_seq":5023983,"r_ele":[{"reb":"ガーガン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gargan"}]}]}
 {"ent_seq":5023984,"r_ele":[{"reb":"ガーグ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ga'g"},{"value":"Gag"}]}]}
@@ -24375,7 +24374,7 @@
 {"ent_seq":5024558,"r_ele":[{"reb":"ガラニュンス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Garanhuns (Brazil)"}]}]}
 {"ent_seq":5024559,"k_ele":[{"keb":"ガラノ木"}],"r_ele":[{"reb":"ガラノき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Garanoki"}]}]}
 {"ent_seq":5024560,"r_ele":[{"reb":"ガラハー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gallaher"}]}]}
-{"ent_seq":5024561,"r_ele":[{"reb":"ガラハッド"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Galahad"}]}]}
+{"ent_seq":5024561,"r_ele":[{"reb":"ガラハド"},{"reb":"ガラハッド"},{"reb":"ギャラハッド"},{"reb":"ギャラハド"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Galahad (Arthurian knight)"}]}]}
 {"ent_seq":5024562,"r_ele":[{"reb":"ガラバト"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gallabat"}]}]}
 {"ent_seq":5024563,"r_ele":[{"reb":"ガラパガル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Galapagar"}]}]}
 {"ent_seq":5024564,"r_ele":[{"reb":"ガラパゴス","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Galapagos (island chain)"}]},{"name_type":["&product;"],"trans_det":[{"value":"Sharp brand of e-readers and mobile phones"}]}]}
@@ -29001,7 +29000,7 @@
 {"ent_seq":5029208,"r_ele":[{"reb":"グィチャンドゥート"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Guichandut"}]}]}
 {"ent_seq":5029209,"r_ele":[{"reb":"グィッチャルディ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Guicciardi"}]}]}
 {"ent_seq":5029210,"r_ele":[{"reb":"グィネス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gwyneth"}]}]}
-{"ent_seq":5029211,"r_ele":[{"reb":"グィネヴィア"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Guinevere"}]}]}
+{"ent_seq":5029211,"r_ele":[{"reb":"グィネヴィア"},{"reb":"ギネヴィア"},{"reb":"グェネヴィア"},{"reb":"グイネヴィア"},{"reb":"グイネビア"},{"reb":"グィネビア"},{"reb":"ギネビア"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Guinevere (wife of King Arthur)"}]}]}
 {"ent_seq":5029212,"r_ele":[{"reb":"グィン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gwynne"}]}]}
 {"ent_seq":5029213,"r_ele":[{"reb":"グイ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gui"}]}]}
 {"ent_seq":5029214,"r_ele":[{"reb":"グイエ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gouhier"}]}]}
@@ -85930,7 +85929,7 @@
 {"ent_seq":5086501,"r_ele":[{"reb":"モルドバ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moldova"},{"value":"Mordov"}]}]}
 {"ent_seq":5086502,"k_ele":[{"keb":"モルドバ共和国"}],"r_ele":[{"reb":"モルドバきょうわこく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mordovskaya Respublika"},{"value":"Republic of Moldova"}]}]}
 {"ent_seq":5086503,"r_ele":[{"reb":"モルドベアヌ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Moldoveanu"}]}]}
-{"ent_seq":5086504,"r_ele":[{"reb":"モルドレッド"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mordred"}]}]}
+{"ent_seq":5086504,"r_ele":[{"reb":"モルドレッド"},{"reb":"モードレッド"}],"trans":[{"name_type":["&myth;"],"trans_det":[{"value":"Mordred (in Arthurian legend)"}]}]}
 {"ent_seq":5086505,"r_ele":[{"reb":"モルドン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Maldon"}]}]}
 {"ent_seq":5086506,"r_ele":[{"reb":"モルドヴァ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Moldova"}]}]}
 {"ent_seq":5086507,"r_ele":[{"reb":"モルドヴィノワ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Mordvinova"}]}]}
@@ -89147,7 +89146,7 @@
 {"ent_seq":5089738,"k_ele":[{"keb":"ラブアン島"}],"r_ele":[{"reb":"ラブアンとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Labuan (island)"}]}]}
 {"ent_seq":5089739,"r_ele":[{"reb":"ラブエール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Labouheyre"}]}]}
 {"ent_seq":5089740,"r_ele":[{"reb":"ラブキン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Rabkin"}]}]}
-{"ent_seq":5089741,"r_ele":[{"reb":"ラブクラフト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lovecraft"}]}]}
+{"ent_seq":5089741,"r_ele":[{"reb":"ラヴクラフト"},{"reb":"ラブクラフト"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lovecraft"}]},{"name_type":["&person;"],"trans_det":[{"value":"Lovecraft, H. P. (1890.8.20-1937.3.15; American horror writer)"}]}]}
 {"ent_seq":5089742,"k_ele":[{"keb":"ラブク湾"}],"r_ele":[{"reb":"ラブクわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Labuk Bay"}]}]}
 {"ent_seq":5089743,"r_ele":[{"reb":"ラブグッド"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Lovegood"}]}]}
 {"ent_seq":5089744,"r_ele":[{"reb":"ラブグローブ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Lovegrove"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下"}],"r_ele":[{"reb":"あこした"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoshita"}]}]}
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江"}],"r_ele":[{"reb":"あこえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoe"}]}]}
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社"}],"r_ele":[{"reb":"あこしじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoshi Shrine"}]}]}
+{"ent_seq":5100654,"k_ele":[{"keb":"阿古真理"}],"r_ele":[{"reb":"あこまり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ako Mari"}]}]}
