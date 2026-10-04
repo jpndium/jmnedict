@@ -1,5 +1,3 @@
-{"ent_seq":5301332,"k_ele":[{"keb":"佐藤庄市郎"}],"r_ele":[{"reb":"さとうしょういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichirō (1924.2-)"}]}]}
-{"ent_seq":5301333,"k_ele":[{"keb":"佐藤彰一"}],"r_ele":[{"reb":"さとうしょういち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichi"}]}]}
 {"ent_seq":5301334,"k_ele":[{"keb":"佐藤彰夫"}],"r_ele":[{"reb":"さとうあきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akio (1933.7-)"}]}]}
 {"ent_seq":5301335,"k_ele":[{"keb":"佐藤昭郎"}],"r_ele":[{"reb":"さとうあきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akio (1943.2.10-)"}]}]}
 {"ent_seq":5301336,"k_ele":[{"keb":"佐藤晶子"}],"r_ele":[{"reb":"さとうあきこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akiko"}]}]}
@@ -86043,7 +86041,7 @@
 {"ent_seq":5387598,"k_ele":[{"keb":"焼火山"}],"r_ele":[{"reb":"たくひやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Takuhiyama"}]}]}
 {"ent_seq":5387599,"k_ele":[{"keb":"焼火神社"}],"r_ele":[{"reb":"たくひじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhi Shrine"}]}]}
 {"ent_seq":5387600,"k_ele":[{"keb":"焼貝"}],"r_ele":[{"reb":"やきがい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Yakigai"}]}]}
-{"ent_seq":5387601,"k_ele":[{"keb":"焼岳"}],"r_ele":[{"reb":"やけだけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Yakedake"}]}]}
+{"ent_seq":5387601,"k_ele":[{"keb":"焼岳"}],"r_ele":[{"reb":"やけだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yakedake"}]}]}
 {"ent_seq":5387602,"k_ele":[{"keb":"焼岳小屋"}],"r_ele":[{"reb":"やけだけごや"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yakedakegoya"}]}]}
 {"ent_seq":5387603,"k_ele":[{"keb":"焼額"}],"r_ele":[{"reb":"やきびたい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yakibitai"}]}]}
 {"ent_seq":5387604,"k_ele":[{"keb":"焼額山"}],"r_ele":[{"reb":"やきびたいやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Yakibitaiyama"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5401592,"k_ele":[{"keb":"条子"}],"r_ele":[{"reb":"じょうこ"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Jōko"}]}]}
 {"ent_seq":5401593,"k_ele":[{"keb":"条時"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōji"}]}]}
 {"ent_seq":5401594,"k_ele":[{"keb":"条次"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
+{"ent_seq":5401595,"k_ele":[{"keb":"条治"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
+{"ent_seq":5401596,"k_ele":[{"keb":"条実"}],"r_ele":[{"reb":"じょうみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōmi"}]}]}

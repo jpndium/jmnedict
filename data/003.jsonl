@@ -1,5 +1,3 @@
-{"ent_seq":5200974,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"すえひさ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Suehisa"}]}]}
-{"ent_seq":5200975,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"ときひさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Tokihisa"}]}]}
 {"ent_seq":5200976,"k_ele":[{"keb":"季久"}],"r_ele":[{"reb":"としひさ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Toshihisa"}]}]}
 {"ent_seq":5200977,"k_ele":[{"keb":"季久衣"}],"r_ele":[{"reb":"きくえ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikue"}]}]}
 {"ent_seq":5200978,"k_ele":[{"keb":"季久央"}],"r_ele":[{"reb":"きくお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikuo"}]}]}
@@ -51935,7 +51933,7 @@
 {"ent_seq":5253124,"k_ele":[{"keb":"原秀男"}],"r_ele":[{"reb":"はらひでお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hara Hideo (1917-)"}]}]}
 {"ent_seq":5253125,"k_ele":[{"keb":"原住"}],"r_ele":[{"reb":"はらずみ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Harazumi"}]}]}
 {"ent_seq":5253126,"k_ele":[{"keb":"原重"}],"r_ele":[{"reb":"はらしげ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Harashige"}]}]}
-{"ent_seq":5253128,"k_ele":[{"keb":"原宿"}],"r_ele":[{"reb":"はらじゅく"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Harajuku"}]}]}
+{"ent_seq":5253128,"k_ele":[{"keb":"原宿"}],"r_ele":[{"reb":"はらじゅく","re_pri":{"spec":1}}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harajuku (Shibuya Ward; Tokyo)"},{"value":"Harajuku urban area"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Harajuku"}]}]}
 {"ent_seq":5253129,"k_ele":[{"keb":"原宿駅"}],"r_ele":[{"reb":"はらじゅくえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Harajuku Station"}]}]}
 {"ent_seq":5253130,"k_ele":[{"keb":"原宿下"}],"r_ele":[{"reb":"はらじゅくしも"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harajukushimo"}]}]}
 {"ent_seq":5253131,"k_ele":[{"keb":"原宿上"}],"r_ele":[{"reb":"はらじゅくかみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harajukukami"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5301329,"k_ele":[{"keb":"佐藤尚忠"}],"r_ele":[{"reb":"さとうなおただ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotada"}]}]}
 {"ent_seq":5301330,"k_ele":[{"keb":"佐藤尚武"}],"r_ele":[{"reb":"さとうなおたけ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naotake (1882.10.30-1971.12.18)"}]}]}
 {"ent_seq":5301331,"k_ele":[{"keb":"佐藤尚邦"}],"r_ele":[{"reb":"さとうなおくに"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Naokuni"}]}]}
+{"ent_seq":5301332,"k_ele":[{"keb":"佐藤庄市郎"}],"r_ele":[{"reb":"さとうしょういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichirō (1924.2-)"}]}]}
+{"ent_seq":5301333,"k_ele":[{"keb":"佐藤彰一"}],"r_ele":[{"reb":"さとうしょういち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichi"}]}]}

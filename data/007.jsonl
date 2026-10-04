@@ -1,5 +1,3 @@
-{"ent_seq":5602451,"k_ele":[{"keb":"番堂野"}],"r_ele":[{"reb":"ばんどの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandono"}]}]}
-{"ent_seq":5602452,"k_ele":[{"keb":"番道田池"}],"r_ele":[{"reb":"ばんづだいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banzudaike"}]}]}
 {"ent_seq":5602453,"k_ele":[{"keb":"番内"}],"r_ele":[{"reb":"ばんない"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannai"}]}]}
 {"ent_seq":5602454,"k_ele":[{"keb":"番能"}],"r_ele":[{"reb":"ばんのう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannou"}]}]}
 {"ent_seq":5602455,"k_ele":[{"keb":"番馬"}],"r_ele":[{"reb":"ばんば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banba"}]}]}
@@ -32679,7 +32677,7 @@
 {"ent_seq":5635259,"k_ele":[{"keb":"穂高"}],"r_ele":[{"reb":"ほだか"}],"trans":[{"name_type":["&fem;","&surname;"],"trans_det":[{"value":"Hodaka"}]}]}
 {"ent_seq":5635260,"k_ele":[{"keb":"穂高あゆみ"}],"r_ele":[{"reb":"ほだかあゆみ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Hodaka Ayumi (1974.3.23-)"}]}]}
 {"ent_seq":5635262,"k_ele":[{"keb":"穂高駅"}],"r_ele":[{"reb":"ほたかえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Hotaka Station"}]}]}
-{"ent_seq":5635263,"k_ele":[{"keb":"穂高岳"}],"r_ele":[{"reb":"ほたかだけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Hotakadake"}]}]}
+{"ent_seq":5635263,"k_ele":[{"keb":"穂高岳"}],"r_ele":[{"reb":"ほたかだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hotakadake"}]}]}
 {"ent_seq":5635264,"k_ele":[{"keb":"穂高岳山荘"}],"r_ele":[{"reb":"ほたかだけさんそう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hotakadakesansō"}]}]}
 {"ent_seq":5635265,"k_ele":[{"keb":"穂高橋"}],"r_ele":[{"reb":"ほたかばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hotakabashi"}]}]}
 {"ent_seq":5635266,"k_ele":[{"keb":"穂高神社"}],"r_ele":[{"reb":"ほたかじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hotaka Shrine"}]}]}
@@ -39203,7 +39201,7 @@
 {"ent_seq":5641795,"k_ele":[{"keb":"傍示谷川"}],"r_ele":[{"reb":"ほうじだにがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Houjidanigawa"}]}]}
 {"ent_seq":5641796,"k_ele":[{"keb":"傍示塚"}],"r_ele":[{"reb":"ほうじつか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Houjitsuka"}]}]}
 {"ent_seq":5641797,"k_ele":[{"keb":"傍示塚町"}],"r_ele":[{"reb":"ほうじつかちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Houjitsukachō"}]}]}
-{"ent_seq":5641798,"k_ele":[{"keb":"傍示堂"}],"r_ele":[{"reb":"ほうじどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Houjidou"}]}]}
+{"ent_seq":5641798,"k_ele":[{"keb":"傍示堂"}],"r_ele":[{"reb":"ほうじどう"},{"reb":"ぼうじどう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Houjidou"},{"value":"Boujidou"}]}]}
 {"ent_seq":5641799,"k_ele":[{"keb":"傍示峠"}],"r_ele":[{"reb":"ほうじがたわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Houjigatawa"}]}]}
 {"ent_seq":5641800,"k_ele":[{"keb":"傍示本"}],"r_ele":[{"reb":"ほうじもと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Houjimoto"}]}]}
 {"ent_seq":5641801,"k_ele":[{"keb":"傍示野"}],"r_ele":[{"reb":"ぼうじの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Boujino"}]}]}
@@ -40441,7 +40439,7 @@
 {"ent_seq":5643039,"k_ele":[{"keb":"北の里"}],"r_ele":[{"reb":"きたのさと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitanosato"}]}]}
 {"ent_seq":5643040,"k_ele":[{"keb":"北の路"}],"r_ele":[{"reb":"きたのじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitanoji"}]}]}
 {"ent_seq":5643041,"k_ele":[{"keb":"北霻霳"},{"keb":"北ほうりょう"}],"r_ele":[{"reb":"きたほうりょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitahōryō"}]}]}
-{"ent_seq":5643042,"k_ele":[{"keb":"北ア"}],"r_ele":[{"reb":"きたあ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kitaa"}]}]}
+{"ent_seq":5643042,"k_ele":[{"keb":"北ア"}],"r_ele":[{"reb":"きたア"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Northern Alps (Japan) (abbr)"},{"value":"Hida Mountains"}]}]}
 {"ent_seq":5643043,"k_ele":[{"keb":"北アイルランド"}],"r_ele":[{"reb":"きたアイルランド"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitaairurando"}]}]}
 {"ent_seq":5643044,"k_ele":[{"keb":"北アイルランド警察庁"}],"r_ele":[{"reb":"きたアイルランドけいさつちょう"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Police Service of Northern Ireland"},{"value":"PSNI"},{"value":"Royal Ulster Constabulary"}]}]}
 {"ent_seq":5643045,"k_ele":[{"keb":"北アルプス"}],"r_ele":[{"reb":"きたアルプス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Northern Alps (Japan)"},{"value":"Hida Mountains"}]}]}
@@ -58196,7 +58194,7 @@
 {"ent_seq":5660876,"k_ele":[{"keb":"霧島温泉"}],"r_ele":[{"reb":"きりしまおんせん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kirishimaonsen"}]}]}
 {"ent_seq":5660877,"k_ele":[{"keb":"霧島温泉駅"}],"r_ele":[{"reb":"きりしまおんせんえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kirishimaonsen Station"}]}]}
 {"ent_seq":5660878,"k_ele":[{"keb":"霧島火山帯"}],"r_ele":[{"reb":"きりしまかざんたい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kirishima volcanic zone"}]}]}
-{"ent_seq":5660879,"k_ele":[{"keb":"霧島山"}],"r_ele":[{"reb":"きりしまやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kirishimayama"}]}]}
+{"ent_seq":5660879,"k_ele":[{"keb":"霧島山"}],"r_ele":[{"reb":"きりしまやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mount Kirishima"}]}]}
 {"ent_seq":5660880,"k_ele":[{"keb":"霧島昇"}],"r_ele":[{"reb":"きりしまのぼる"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Kirishima Noboru (1914.6.27-1984.4.24)"}]}]}
 {"ent_seq":5660881,"k_ele":[{"keb":"霧島神宮"}],"r_ele":[{"reb":"きりしまじんぐう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kirishimajinguu"}]}]}
 {"ent_seq":5660882,"k_ele":[{"keb":"霧島神宮駅"}],"r_ele":[{"reb":"きりしまじんぐうえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Kirishimajinguu Station"}]}]}
@@ -68232,7 +68230,7 @@
 {"ent_seq":5670966,"k_ele":[{"keb":"爺ヶ岳"}],"r_ele":[{"reb":"じいがたけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jiigatake"}]}]}
 {"ent_seq":5670967,"k_ele":[{"keb":"爺神"}],"r_ele":[{"reb":"とかみ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tokami"}]}]}
 {"ent_seq":5670968,"k_ele":[{"keb":"爺神山"}],"r_ele":[{"reb":"とかみやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tokamiyama"}]}]}
-{"ent_seq":5670969,"k_ele":[{"keb":"爺爺岳"}],"r_ele":[{"reb":"ちゃちゃだけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chachadake"}]}]}
+{"ent_seq":5670969,"k_ele":[{"keb":"爺爺岳"}],"r_ele":[{"reb":"ちゃちゃだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Mount Chacha (volcano on Kunashiri Island)"},{"value":"Chachadake"},{"value":"Tyatya"}]}]}
 {"ent_seq":5670970,"k_ele":[{"keb":"耶"}],"r_ele":[{"reb":"や"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ya"}]}]}
 {"ent_seq":5670971,"k_ele":[{"keb":"耶"}],"r_ele":[{"reb":"やずや"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yazuya"}]}]}
 {"ent_seq":5670972,"k_ele":[{"keb":"耶々"}],"r_ele":[{"reb":"やや"}],"trans":[{"name_type":["&fem;"],"trans_det":[{"value":"Yaya"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702789,"k_ele":[{"keb":"隆時"}],"r_ele":[{"reb":"たかとき"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatoki"}]}]}
 {"ent_seq":5702790,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
 {"ent_seq":5702791,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかつぐ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatsugu"}]}]}
+{"ent_seq":5702792,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
+{"ent_seq":5702793,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}

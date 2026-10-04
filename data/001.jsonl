@@ -9686,7 +9686,6 @@
 {"ent_seq":5009726,"k_ele":[{"keb":"アトル島"}],"r_ele":[{"reb":"アトルとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Atloy (island)"}]}]}
 {"ent_seq":5009727,"r_ele":[{"reb":"アトレウス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Atreus"}]}]}
 {"ent_seq":5009728,"k_ele":[{"keb":"アトレク川"}],"r_ele":[{"reb":"アトレクがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Atrek (river)"}]}]}
-{"ent_seq":5009729,"r_ele":[{"reb":"アトン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Aten"},{"value":"Aton"}]}]}
 {"ent_seq":5009730,"r_ele":[{"reb":"アドーエキティ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ado-Ekiti (Nigeria)"}]}]}
 {"ent_seq":5009731,"k_ele":[{"keb":"アドゥール川"}],"r_ele":[{"reb":"アドゥールがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Adour (river)"}]}]}
 {"ent_seq":5009732,"r_ele":[{"reb":"アドゥイゲ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Adygei (Russia)"}]}]}
@@ -21527,9 +21526,9 @@
 {"ent_seq":5021692,"r_ele":[{"reb":"カストレーン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Castren"}]}]}
 {"ent_seq":5021693,"r_ele":[{"reb":"カストレル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kastler"}]}]}
 {"ent_seq":5021694,"r_ele":[{"reb":"カストレン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Castre'n"},{"value":"Castren"}]}]}
-{"ent_seq":5021695,"r_ele":[{"reb":"カストロ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Castro (Chile)"},{"value":"Castelot"}]}]}
+{"ent_seq":5021695,"r_ele":[{"reb":"カストロ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Castro"}]},{"name_type":["&surname;"],"trans_det":[{"value":"Castelot"}]},{"name_type":["&place;"],"trans_det":[{"value":"Castro (Chile)"}]}]}
 {"ent_seq":5021696,"r_ele":[{"reb":"カストロ・ウルディアレス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Castro Urdiales"}]}]}
-{"ent_seq":5021697,"r_ele":[{"reb":"カストロール"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Castrol"}]}]}
+{"ent_seq":5021697,"r_ele":[{"reb":"カストロール"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Castrol (oil)"}]}]}
 {"ent_seq":5021698,"r_ele":[{"reb":"カストロアルベス"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Castro Alves"}]}]}
 {"ent_seq":5021699,"r_ele":[{"reb":"カストロイベルビス"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Castro y Bellvis"}]}]}
 {"ent_seq":5021700,"r_ele":[{"reb":"カストロウルジアレス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Castro Urdiales"}]}]}
@@ -34023,7 +34022,7 @@
 {"ent_seq":5034251,"r_ele":[{"reb":"ゴルテルマン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Goltermann"}]}]}
 {"ent_seq":5034252,"r_ele":[{"reb":"ゴルディー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Goldie"}]}]}
 {"ent_seq":5034253,"r_ele":[{"reb":"ゴルディアス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gordius"}]}]}
-{"ent_seq":5034254,"r_ele":[{"reb":"ゴルディオン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gordion"},{"value":"Gordium"}]}]}
+{"ent_seq":5034254,"r_ele":[{"reb":"ゴルディオン"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Gordion"},{"value":"Gordium"}]},{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Goldion (Disgaea)"}]}]}
 {"ent_seq":5034255,"r_ele":[{"reb":"ゴルディス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Gordis"}]}]}
 {"ent_seq":5034256,"r_ele":[{"reb":"ゴルディング"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Garding"},{"value":"Golding"}]}]}
 {"ent_seq":5034257,"r_ele":[{"reb":"ゴルデル"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Gaarder"}]}]}
@@ -56253,7 +56252,7 @@
 {"ent_seq":5056659,"r_ele":[{"reb":"ドクシツェル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dokshitser"}]}]}
 {"ent_seq":5056660,"r_ele":[{"reb":"ドクターペッパー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Dr Pepper"}]}]}
 {"ent_seq":5056661,"r_ele":[{"reb":"ドクチャーエフ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Dokuchaev"}]}]}
-{"ent_seq":5056662,"r_ele":[{"reb":"ドクトロー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Doctorow"}]}]}
+{"ent_seq":5056662,"r_ele":[{"reb":"ドクトロウ"},{"reb":"ドクトロー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Doctorow"}]}]}
 {"ent_seq":5056663,"k_ele":[{"keb":"ドクミズノ沢"}],"r_ele":[{"reb":"ドクミズノさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dokumizunosawa"}]}]}
 {"ent_seq":5056664,"r_ele":[{"reb":"ドクライフ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"De Kruif"}]}]}
 {"ent_seq":5056665,"k_ele":[{"keb":"ドクラ峠"}],"r_ele":[{"reb":"ドクラとうげ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dukla (pass)"}]}]}
@@ -87969,7 +87968,7 @@
 {"ent_seq":5088560,"r_ele":[{"reb":"ライネルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Reinerth"}]}]}
 {"ent_seq":5088561,"k_ele":[{"keb":"ライネ川"}],"r_ele":[{"reb":"ライネがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Leine (river)"}]}]}
 {"ent_seq":5088562,"r_ele":[{"reb":"ライハ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Reicha"}]}]}
-{"ent_seq":5088563,"r_ele":[{"reb":"ライバー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Leiber"}]}]}
+{"ent_seq":5088563,"r_ele":[{"reb":"ライバー"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Leiber"}]}]}
 {"ent_seq":5088564,"r_ele":[{"reb":"ライバハ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Laibach"}]}]}
 {"ent_seq":5088565,"r_ele":[{"reb":"ライパルト"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Leipart"}]}]}
 {"ent_seq":5088566,"r_ele":[{"reb":"ライヒ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Reich"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江"}],"r_ele":[{"reb":"あこえ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Akoe"}]}]}
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社"}],"r_ele":[{"reb":"あこしじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoshi Shrine"}]}]}
 {"ent_seq":5100654,"k_ele":[{"keb":"阿古真理"}],"r_ele":[{"reb":"あこまり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ako Mari"}]}]}
+{"ent_seq":5100655,"k_ele":[{"keb":"阿古曽"}],"r_ele":[{"reb":"あこそ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoso"}]}]}

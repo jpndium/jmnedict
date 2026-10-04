@@ -1,5 +1,3 @@
-{"ent_seq":5401595,"k_ele":[{"keb":"条治"}],"r_ele":[{"reb":"じょうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Jōji"}]}]}
-{"ent_seq":5401596,"k_ele":[{"keb":"条実"}],"r_ele":[{"reb":"じょうみ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jōmi"}]}]}
 {"ent_seq":5401597,"k_ele":[{"keb":"条赦"}],"r_ele":[{"reb":"じょうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Jōjirō"}]}]}
 {"ent_seq":5401598,"k_ele":[{"keb":"条生"}],"r_ele":[{"reb":"さそう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Sasou"}]}]}
 {"ent_seq":5401599,"k_ele":[{"keb":"条川"}],"r_ele":[{"reb":"じょうかわ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Jōkawa"}]}]}
@@ -18076,7 +18074,7 @@
 {"ent_seq":5419736,"k_ele":[{"keb":"針ケ別所"}],"r_ele":[{"reb":"はりがべっしょ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harigabessho"}]}]}
 {"ent_seq":5419737,"k_ele":[{"keb":"針ケ別所"}],"r_ele":[{"reb":"はりがべっしよ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harigabesshiyo"}]}]}
 {"ent_seq":5419738,"k_ele":[{"keb":"針ノ木"}],"r_ele":[{"reb":"はりのき"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harinoki"}]}]}
-{"ent_seq":5419739,"k_ele":[{"keb":"針ノ木岳"}],"r_ele":[{"reb":"はりのきだけ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harinokidake"}]}]}
+{"ent_seq":5419739,"k_ele":[{"keb":"針ノ木岳"}],"r_ele":[{"reb":"はりのきだけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harinokidake"}]}]}
 {"ent_seq":5419740,"k_ele":[{"keb":"針ノ木谷"}],"r_ele":[{"reb":"はりのきだに"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harinokidani"}]}]}
 {"ent_seq":5419741,"k_ele":[{"keb":"針ノ木峠"}],"r_ele":[{"reb":"はりのきとうげ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Harinokitōge"}]}]}
 {"ent_seq":5419742,"k_ele":[{"keb":"針ヶ岡"}],"r_ele":[{"reb":"はりがおか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Harigaoka"}]}]}
@@ -92759,7 +92757,7 @@
 {"ent_seq":5494708,"k_ele":[{"keb":"大滝根山分屯基地"}],"r_ele":[{"reb":"おおたきねやまぶんちゅうきち"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ootakineyamabunchuukichi"}]}]}
 {"ent_seq":5494709,"k_ele":[{"keb":"大滝根川"}],"r_ele":[{"reb":"おおたきねがわ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ootakinegawa"}]}]}
 {"ent_seq":5494710,"k_ele":[{"keb":"大滝彩乃"}],"r_ele":[{"reb":"おおたきあやの"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ootaki Ayano (1981.12.17-)"}]}]}
-{"ent_seq":5494711,"k_ele":[{"keb":"大滝山"}],"r_ele":[{"reb":"おおたきやま"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ootakiyama"}]}]}
+{"ent_seq":5494711,"k_ele":[{"keb":"大滝山"}],"r_ele":[{"reb":"おおたきやま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ootakiyama"}]}]}
 {"ent_seq":5494712,"k_ele":[{"keb":"大滝山自然公園"}],"r_ele":[{"reb":"おおたきやましぜんこうえん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ootakiyamashizen Park"}]}]}
 {"ent_seq":5494713,"k_ele":[{"keb":"大滝山荘"}],"r_ele":[{"reb":"おおたきさんそう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ootakisansō"}]}]}
 {"ent_seq":5494714,"k_ele":[{"keb":"大滝山福生寺"}],"r_ele":[{"reb":"おおたきさんふくせいじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ootakisanfukuseiji"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501978,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくしちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokushichijō"}]}]}
 {"ent_seq":5501979,"k_ele":[{"keb":"拓北七条"}],"r_ele":[{"reb":"たくほくななじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokunanajō"}]}]}
 {"ent_seq":5501980,"k_ele":[{"keb":"拓北川"}],"r_ele":[{"reb":"たくほくがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokugawa"}]}]}
+{"ent_seq":5501981,"k_ele":[{"keb":"拓北二条"}],"r_ele":[{"reb":"たくほくにじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokunijō"}]}]}
+{"ent_seq":5501982,"k_ele":[{"keb":"拓北八条"}],"r_ele":[{"reb":"たくほくはちじょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Takuhokuhachijō"}]}]}

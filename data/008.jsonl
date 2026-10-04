@@ -1,5 +1,3 @@
-{"ent_seq":5702792,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
-{"ent_seq":5702793,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}
 {"ent_seq":5702794,"k_ele":[{"keb":"隆次郎"}],"r_ele":[{"reb":"たかじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takajirō"}]}]}
 {"ent_seq":5702795,"k_ele":[{"keb":"隆次郎"}],"r_ele":[{"reb":"りゅうじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Ryūjirō"}]}]}
 {"ent_seq":5702796,"k_ele":[{"keb":"隆滋"}],"r_ele":[{"reb":"たかしげ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashige"}]}]}
@@ -43628,4 +43626,50 @@
 {"ent_seq":5748052,"k_ele":[{"keb":"国家情報局"}],"r_ele":[{"reb":"こっかじょうほうきょく","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"National Intelligence Bureau (Japan)"}]}]}
 {"ent_seq":5748053,"r_ele":[{"reb":"デスマウンテン"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Death Mountain (The Legend of Zelda)"}]}]}
 {"ent_seq":5748054,"k_ele":[{"keb":"ウマ娘プリティーダービー"}],"r_ele":[{"reb":"ウマむすめプリティーダービー"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Umamusume: Pretty Derby (video game, media franchise)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-09-06"}]}]}
+{"ent_seq":5748055,"k_ele":[{"keb":"ムーミン谷"}],"r_ele":[{"reb":"ムーミンだに"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Moominvalley"}]}]}
+{"ent_seq":5748056,"r_ele":[{"reb":"キャンドルキープ"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Candlekeep (Forgotten Realms)"}]}]}
+{"ent_seq":5748057,"r_ele":[{"reb":"バルダーズゲート"},{"reb":"バルダーズ・ゲート"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Baldur's Gate (Forgotten Realms)"}]}]}
+{"ent_seq":5748058,"k_ele":[{"keb":"デクの樹サマ"}],"r_ele":[{"reb":"デクのきサマ"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Great Deku Tree (The Legend of Zelda)"}]}]}
+{"ent_seq":5748059,"r_ele":[{"reb":"メタナイト"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Meta Knight (Kirby)"}]}]}
+{"ent_seq":5748060,"r_ele":[{"reb":"バイオウェア"}],"trans":[{"name_type":["&company;"],"trans_det":[{"value":"BioWare"}]}]}
+{"ent_seq":5748061,"r_ele":[{"reb":"ガノンドロフ"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Ganondorf (The Legend of Zelda)"}]}]}
+{"ent_seq":5748062,"r_ele":[{"reb":"インパ"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Impa (The Legend of Zelda)"}]}]}
+{"ent_seq":5748063,"r_ele":[{"reb":"スタルキッド"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Skull Kid (The Legend of Zelda)"}]}]}
+{"ent_seq":5748064,"r_ele":[{"reb":"トライフォース"}],"trans":[{"name_type":["&obj;","&fict;"],"trans_det":[{"value":"Triforce (The Legend of Zelda)"}]}]}
+{"ent_seq":5748066,"r_ele":[{"reb":"インゴー"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Ingo (The Legend of Zelda)"}]}]}
+{"ent_seq":5748067,"r_ele":[{"reb":"ダンペイ"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Dampé (The Legend of Zelda)"}]}]}
+{"ent_seq":5748068,"r_ele":[{"reb":"アンセム"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Ansem (Kingdom Hearts)"}]}]}
+{"ent_seq":5748069,"r_ele":[{"reb":"ダイゴロン"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Biggoron (The Legend of Zelda)"}]}]}
+{"ent_seq":5748070,"r_ele":[{"reb":"グフー"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Vaati (The Legend of Zelda)"},{"value":"Gufū"}]}]}
+{"ent_seq":5748071,"r_ele":[{"reb":"マレフィセント"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Maleficent (Disney)"}]}]}
+{"ent_seq":5748072,"k_ele":[{"keb":"ホーリーナイトメア社"}],"r_ele":[{"reb":"ホーリーナイトメアしゃ"}],"trans":[{"name_type":["&company;","&fict;"],"trans_det":[{"value":"Nightmare Enterprises (Kirby: Right Back at Ya!)"},{"value":"Holy Nightmare Corporation"}]}]}
+{"ent_seq":5748073,"k_ele":[{"keb":"ハイラル城"}],"r_ele":[{"reb":"ハイラルじょう"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Hyrule Castle (The Legend of Zelda)"}]}]}
+{"ent_seq":5748074,"k_ele":[{"keb":"ｏｓｕ"}],"r_ele":[{"reb":"オス"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"osu! (rhythm game)"}]}]}
+{"ent_seq":5748075,"r_ele":[{"reb":"プリニー"}],"trans":[{"name_type":["&creat;","&fict;"],"trans_det":[{"value":"Prinny (Disgaea)"}]}]}
+{"ent_seq":5748077,"k_ele":[{"keb":"デクの棒"}],"r_ele":[{"reb":"デクのぼう"}],"trans":[{"name_type":["&obj;","&fict;"],"trans_det":[{"value":"Deku Stick (The Legend of Zelda)"}]}]}
+{"ent_seq":5748078,"r_ele":[{"reb":"アイアンスロウン"},{"reb":"アイアン・スロウン"}],"trans":[{"name_type":["&organization;","&fict;"],"trans_det":[{"value":"Iron Throne (Forgotten Realms)"}]}]}
+{"ent_seq":5748079,"r_ele":[{"reb":"ゴライオン"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Gorion (Baldur's Gate)"}]}]}
+{"ent_seq":5748080,"k_ele":[{"keb":"クロークウッドの森"}],"r_ele":[{"reb":"クロークウッドのもり"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Cloakwood Forest (Forgotten Realms)"}]}]}
+{"ent_seq":5748081,"r_ele":[{"reb":"フレイミング・フィスト"},{"reb":"フレイミングフィスト"}],"trans":[{"name_type":["&organization;","&fict;"],"trans_det":[{"value":"Flaming Fist (Forgotten Realms)"}]}]}
+{"ent_seq":5748082,"k_ele":[{"keb":"デューラッグの塔"}],"r_ele":[{"reb":"デューラッグのとう"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Durlag's Tower (Forgotten Realms)"}]}]}
+{"ent_seq":5748083,"k_ele":[{"keb":"エルタン大公"}],"r_ele":[{"reb":"エルタンたいこう"}],"trans":[{"name_type":["&char;","&fict;"],"trans_det":[{"value":"Grand Duke Eltan (Forgotten Realms)"}]}]}
+{"ent_seq":5748084,"r_ele":[{"reb":"メタトロン"}],"trans":[{"name_type":["&char;","&relig;"],"trans_det":[{"value":"Metatron"}]}]}
+{"ent_seq":5748085,"r_ele":[{"reb":"スケルトロン"}],"trans":[{"name_type":["&creat;","&fict;"],"trans_det":[{"value":"Skeletron (Terraria)"}]}]}
+{"ent_seq":5748086,"r_ele":[{"reb":"スパイダートロン"}],"trans":[{"name_type":["&obj;","&fict;"],"trans_det":[{"value":"Spidertron (Factorio)"}]}]}
+{"ent_seq":5748087,"r_ele":[{"reb":"ナシュケル"}],"trans":[{"name_type":["&place;","&fict;"],"trans_det":[{"value":"Nashkel (Forgotten Realms)"}]}]}
+{"ent_seq":5748089,"r_ele":[{"reb":"ハートレス"}],"trans":[{"name_type":["&creat;","&fict;"],"trans_det":[{"value":"Heartless (Kingdom Hearts)"}]}]}
+{"ent_seq":5748090,"k_ele":[{"keb":"迦遼"}],"r_ele":[{"reb":"かりょう"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Karyō"}]}]}
+{"ent_seq":5748091,"k_ele":[{"keb":"霧栖"}],"r_ele":[{"reb":"きりす"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Kirisu"}]}]}
+{"ent_seq":5748092,"k_ele":[{"keb":"戸馬"}],"r_ele":[{"reb":"とうま"}],"trans":[{"name_type":["&surname;","&fict;"],"trans_det":[{"value":"Touma"}]}]}
+{"ent_seq":5748093,"k_ele":[{"keb":"世乭"},{"keb":"世ドル"}],"r_ele":[{"reb":"セドル"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Sedol"}]}]}
+{"ent_seq":5748094,"k_ele":[{"keb":"首都圏外郭放水路"}],"r_ele":[{"reb":"しゅとけんがいかくほうすいろ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Metropolitan Area Outer Underground Discharge Channel"}]}]}
+{"ent_seq":5748095,"r_ele":[{"reb":"アマルナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Amarna (Egypt)"}]}]}
+{"ent_seq":5748096,"r_ele":[{"reb":"アクエンアテン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Akhenaten (ancient Egyptian pharaoh)"}]}]}
+{"ent_seq":5748097,"k_ele":[{"keb":"明石市立天文科学館"}],"r_ele":[{"reb":"あかししりつてんもんかがくかん"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Akashi Municipal Planetarium"}]}]}
+{"ent_seq":5748098,"r_ele":[{"reb":"アトン","re_pri":{"spec":1}},{"reb":"アテン"}],"trans":[{"name_type":["&dei;"],"trans_det":[{"value":"Aton (Egyptian sun god)"},{"value":"Aten"}]}]}
+{"ent_seq":5748099,"k_ele":[{"keb":"大理"}],"r_ele":[{"reb":"だいり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dali (China)"}]}]}
+{"ent_seq":5748100,"r_ele":[{"reb":"アエルダリ"}],"trans":[{"name_type":["&fict;"],"trans_det":[{"value":"Aeldari (humanoid species in Warhammer 40,000)"}]}]}
+{"ent_seq":5748101,"k_ele":[{"keb":"惑星大戦争"}],"r_ele":[{"reb":"わくせいだいせんそう"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The War in Space (1977 film)"}]}]}
+{"ent_seq":5748102,"k_ele":[{"keb":"東オングル島"}],"r_ele":[{"reb":"ひがしオングルとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"East Ongul Island (Antarctica)"}]}]}
+{"ent_seq":5748103,"k_ele":[{"keb":"万世橋駅"}],"r_ele":[{"reb":"まんせいばしえき"}],"trans":[{"name_type":["&station;"],"trans_det":[{"value":"Manseibashi Station"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-10-04"}]}]}
