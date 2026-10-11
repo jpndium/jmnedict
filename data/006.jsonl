@@ -38872,7 +38872,6 @@
 {"ent_seq":5540978,"k_ele":[{"keb":"天福寺"}],"r_ele":[{"reb":"てんぷくじ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tenpukuji"}]}]}
 {"ent_seq":5540979,"k_ele":[{"keb":"天福寺原"}],"r_ele":[{"reb":"でんぷくじばら"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Denpukujibara"}]}]}
 {"ent_seq":5540980,"k_ele":[{"keb":"天文"}],"r_ele":[{"reb":"てんもん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tenmon"}]}]}
-{"ent_seq":5540981,"k_ele":[{"keb":"天文科学館"}],"r_ele":[{"reb":"てんもんかがくかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tenmonkagakukan"}]}]}
 {"ent_seq":5540982,"k_ele":[{"keb":"天文学研究所"}],"r_ele":[{"reb":"てんもんがくけんきゅうじょ","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Institute of Astronomy"},{"value":"IoA"}]}]}
 {"ent_seq":5540983,"k_ele":[{"keb":"天文館"}],"r_ele":[{"reb":"てんもんかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tenmonkan"}]}]}
 {"ent_seq":5540984,"k_ele":[{"keb":"天文館通"}],"r_ele":[{"reb":"てんもんかんどうり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tenmonkandouri"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602450,"k_ele":[{"keb":"番頭島"}],"r_ele":[{"reb":"ばんどじま"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandojima"}]}]}
 {"ent_seq":5602451,"k_ele":[{"keb":"番堂野"}],"r_ele":[{"reb":"ばんどの"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Bandono"}]}]}
 {"ent_seq":5602452,"k_ele":[{"keb":"番道田池"}],"r_ele":[{"reb":"ばんづだいけ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Banzudaike"}]}]}
+{"ent_seq":5602453,"k_ele":[{"keb":"番内"}],"r_ele":[{"reb":"ばんない"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannai"}]}]}

@@ -91917,7 +91917,7 @@
 {"ent_seq":5493861,"k_ele":[{"keb":"大切"}],"r_ele":[{"reb":"おおきり"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ookiri"}]}]}
 {"ent_seq":5493862,"k_ele":[{"keb":"大切"}],"r_ele":[{"reb":"おおぎり"}],"trans":[{"name_type":["&place;","&surname;"],"trans_det":[{"value":"Oogiri"}]}]}
 {"ent_seq":5493863,"k_ele":[{"keb":"大切橋"}],"r_ele":[{"reb":"だいきりばし"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daikiribashi"}]}]}
-{"ent_seq":5493864,"k_ele":[{"keb":"大切戸"}],"r_ele":[{"reb":"だいきれっと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daikiretto"}]}]}
+{"ent_seq":5493864,"k_ele":[{"keb":"大キレット"},{"keb":"大切戸"}],"r_ele":[{"reb":"だいきれっと"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Daikiretto (V-shaped ridge in the Hida Mountains)"}]}]}
 {"ent_seq":5493865,"k_ele":[{"keb":"大切沢"}],"r_ele":[{"reb":"おおきりさわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Ookirisawa"}]}]}
 {"ent_seq":5493866,"k_ele":[{"keb":"大切谷"}],"r_ele":[{"reb":"おおぎりだに"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Oogiridani"}]}]}
 {"ent_seq":5493867,"k_ele":[{"keb":"大切峠"}],"r_ele":[{"reb":"おおきりとうげ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Ookiritōge"}]}]}

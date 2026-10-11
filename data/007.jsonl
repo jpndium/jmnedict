@@ -1,4 +1,3 @@
-{"ent_seq":5602453,"k_ele":[{"keb":"番内"}],"r_ele":[{"reb":"ばんない"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannai"}]}]}
 {"ent_seq":5602454,"k_ele":[{"keb":"番能"}],"r_ele":[{"reb":"ばんのう"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bannou"}]}]}
 {"ent_seq":5602455,"k_ele":[{"keb":"番馬"}],"r_ele":[{"reb":"ばんば"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Banba"}]}]}
 {"ent_seq":5602456,"k_ele":[{"keb":"番平"}],"r_ele":[{"reb":"ばんだいら"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Bandaira"}]}]}
@@ -44099,7 +44098,7 @@
 {"ent_seq":5646752,"k_ele":[{"keb":"北方部"}],"r_ele":[{"reb":"きたほうべ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitahoube"}]}]}
 {"ent_seq":5646753,"k_ele":[{"keb":"北方文化博物館"}],"r_ele":[{"reb":"きたかたぶんかはくぶつかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitakata Cultural Museum"}]}]}
 {"ent_seq":5646754,"k_ele":[{"keb":"北方民族資料館"}],"r_ele":[{"reb":"ほっぽうみんぞくしりょうかん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Hoppouminzokushiryōkan"}]}]}
-{"ent_seq":5646755,"k_ele":[{"keb":"北方領土"}],"r_ele":[{"reb":"ほっぽうりょうど"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Southern Kuril Islands (administered by Russia, claimed by Japan)"},{"value":"Northern Territories"}]}]}
+{"ent_seq":5646755,"k_ele":[{"keb":"北方領土"}],"r_ele":[{"reb":"ほっぽうりょうど"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Northern Territories (administered by Russia, claimed by Japan)"},{"value":"Southern Kuril Islands"}]}]}
 {"ent_seq":5646756,"k_ele":[{"keb":"北方領土問題対策協会"}],"r_ele":[{"reb":"ほっぽうりょうどもんだいたいさくきょうかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Northern Territories Issue Association"}]}]}
 {"ent_seq":5646757,"k_ele":[{"keb":"北豊中"}],"r_ele":[{"reb":"きたとよなか"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitatoyonaka"}]}]}
 {"ent_seq":5646758,"k_ele":[{"keb":"北豊中町"}],"r_ele":[{"reb":"きたとよなかちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Kitatoyonakachō"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5702791,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"たかつぐ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takatsugu"}]}]}
 {"ent_seq":5702792,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
 {"ent_seq":5702793,"k_ele":[{"keb":"隆次"}],"r_ele":[{"reb":"りゆうじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Riyūji"}]}]}
+{"ent_seq":5702794,"k_ele":[{"keb":"隆次郎"}],"r_ele":[{"reb":"たかじろう"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Takajirō"}]}]}

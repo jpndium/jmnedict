@@ -75574,7 +75574,7 @@
 {"ent_seq":5076085,"r_ele":[{"reb":"ペドロミゲル"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pedro Miguel"}]}]}
 {"ent_seq":5076086,"r_ele":[{"reb":"ペナ"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Pena"},{"value":"Penna"}]}]}
 {"ent_seq":5076087,"k_ele":[{"keb":"ペナー川"}],"r_ele":[{"reb":"ペナーがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Penner (river)"}]}]}
-{"ent_seq":5076088,"k_ele":[{"keb":"ペナイン山脈"}],"r_ele":[{"reb":"ペナインさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pennine Chain"}]}]}
+{"ent_seq":5076088,"k_ele":[{"keb":"ペナイン山脈"}],"r_ele":[{"reb":"ペナインさんみゃく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pennines (England)"},{"value":"Pennine Chain"},{"value":"Pennine Hills"}]}]}
 {"ent_seq":5076089,"k_ele":[{"keb":"ペナクシュベツ川"}],"r_ele":[{"reb":"ペナクシュベツがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Penakushubetsugawa"}]}]}
 {"ent_seq":5076090,"k_ele":[{"keb":"ペナコリ川"}],"r_ele":[{"reb":"ペナコリかわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Penakorikawa"}]}]}
 {"ent_seq":5076091,"k_ele":[{"keb":"ペナコレ川"}],"r_ele":[{"reb":"ペナコレかわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Penakorekawa"}]}]}
