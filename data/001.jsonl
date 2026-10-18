@@ -64984,7 +64984,7 @@
 {"ent_seq":5065442,"r_ele":[{"reb":"パンゼラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Panzera"}]}]}
 {"ent_seq":5065443,"r_ele":[{"reb":"パンゼラバイヨ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Panzera-Baillot"}]}]}
 {"ent_seq":5065444,"r_ele":[{"reb":"パンソリ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pansori"}]}]}
-{"ent_seq":5065445,"r_ele":[{"reb":"パンター"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Panter"}]}]}
+{"ent_seq":5065445,"r_ele":[{"reb":"パンター"}],"trans":[{"name_type":["&obj;"],"trans_det":[{"value":"Panther (German WWII medium tank)"}]}]}
 {"ent_seq":5065446,"r_ele":[{"reb":"パンタグリュエル"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Pantagruel"}]}]}
 {"ent_seq":5065447,"r_ele":[{"reb":"パンタナール"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pantanal"}]}]}
 {"ent_seq":5065448,"k_ele":[{"keb":"パンタル島"}],"r_ele":[{"reb":"パンタルとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pantar (island)"}]}]}

@@ -39433,7 +39433,7 @@
 {"ent_seq":5743762,"k_ele":[{"keb":"允俊"}],"r_ele":[{"reb":"のぶとし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Nobutoshi"}]}]}
 {"ent_seq":5743763,"k_ele":[{"keb":"十六茶"}],"r_ele":[{"reb":"じゅうろくちゃ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Jūrokucha (blended tea drink)"}]}]}
 {"ent_seq":5743764,"k_ele":[{"keb":"日本化学会"}],"r_ele":[{"reb":"にほんかがくかい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Chemical Society of Japan"}]}]}
-{"ent_seq":5743765,"k_ele":[{"keb":"台湾省"}],"r_ele":[{"reb":"たいわんしょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Taiwan Province"}]}]}
+{"ent_seq":5743765,"k_ele":[{"keb":"台湾省"}],"r_ele":[{"reb":"たいわんしょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Taiwan Province (nominal ROC province, claimed PRC province)"}]}]}
 {"ent_seq":5743766,"k_ele":[{"keb":"一祐"}],"r_ele":[{"reb":"かずひろ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Kazuhiro"}]}]}
 {"ent_seq":5743767,"k_ele":[{"keb":"宏詞"}],"r_ele":[{"reb":"ひろし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Hiroshi"}]}]}
 {"ent_seq":5743768,"k_ele":[{"keb":"教喜"}],"r_ele":[{"reb":"のりよし"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Noriyoshi"}]}]}
@@ -43674,4 +43674,5 @@
 {"ent_seq":5748107,"r_ele":[{"reb":"キャッチャーインザライ"},{"reb":"キャッチャー・イン・ザ・ライ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Catcher in the Rye (1951 novel by J. D. Salinger)"}]}]}
 {"ent_seq":5748108,"k_ele":[{"keb":"硤合"}],"r_ele":[{"reb":"そあい"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Soai"}]}]}
 {"ent_seq":5748109,"k_ele":[{"keb":"バタネス州"}],"r_ele":[{"reb":"バタネスしゅう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Batanes (Philippines)"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-10-11"}]}]}
+{"ent_seq":5748110,"k_ele":[{"keb":"秘密軍事組織"}],"r_ele":[{"reb":"ひみつぐんじそしき"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Organisation armée secrète"},{"value":"OAS"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-10-18"}]}]}
