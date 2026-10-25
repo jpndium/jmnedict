@@ -42400,7 +42400,7 @@
 {"ent_seq":5042695,"r_ele":[{"reb":"ジンガー"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Singer"}]}]}
 {"ent_seq":5042696,"k_ele":[{"keb":"ジンガラン湾"}],"r_ele":[{"reb":"ジンガランわん"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Dingalan Bay"}]}]}
 {"ent_seq":5042697,"r_ele":[{"reb":"ジンガレッティ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zingaretti"}]}]}
-{"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗"}],"r_ele":[{"reb":"ジンギスかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
+{"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗"}],"r_ele":[{"reb":"ジンギスかん","re_pri":{"spec":1}}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
 {"ent_seq":5042701,"r_ele":[{"reb":"ジンク"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zinc"}]}]}
 {"ent_seq":5042702,"r_ele":[{"reb":"ジンクス"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Jinks"}]}]}
 {"ent_seq":5042703,"r_ele":[{"reb":"ジング"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Zingg"}]}]}
@@ -50824,7 +50824,7 @@
 {"ent_seq":5051180,"r_ele":[{"reb":"チンアセン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chin-a-sen"}]}]}
 {"ent_seq":5051181,"r_ele":[{"reb":"チンウォース"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Chinworth"}]}]}
 {"ent_seq":5051184,"k_ele":[{"keb":"チンギス汗"}],"r_ele":[{"reb":"チンギスかん"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (1162-1227)"}]}]}
-{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"ジンギスカン"},{"reb":"ジンギス・カン"},{"reb":"チンギスハーン"},{"reb":"チンギス・ハーン"},{"reb":"チンギスハン"},{"reb":"チンギス・ハン"},{"reb":"チンギスカン"},{"reb":"チンギス・カン"},{"reb":"ジンギスハン"},{"reb":"ジンギス・ハン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (c. 1162-1227)"}]}]}
+{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"ジンギスカン","re_pri":{"spec":1}},{"reb":"ジンギス・カン"},{"reb":"チンギスハーン"},{"reb":"チンギス・ハーン"},{"reb":"チンギスハン"},{"reb":"チンギス・ハン"},{"reb":"チンギスカン"},{"reb":"チンギス・カン"},{"reb":"ジンギスハン"},{"reb":"ジンギス・ハン"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Genghis Khan (c. 1162-1227)"}]}]}
 {"ent_seq":5051186,"r_ele":[{"reb":"チンギタナ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tingitana (Africa)"}]}]}
 {"ent_seq":5051187,"k_ele":[{"keb":"チンギリリカ川"}],"r_ele":[{"reb":"チンギリリカがわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tinguiririca (river)"}]}]}
 {"ent_seq":5051188,"k_ele":[{"keb":"チンギ島"}],"r_ele":[{"reb":"チンギとう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Pulau Tinggi (island)"}]}]}
@@ -84258,7 +84258,6 @@
 {"ent_seq":5084818,"r_ele":[{"reb":"メガトロン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Megatron"}]}]}
 {"ent_seq":5084819,"r_ele":[{"reb":"メガトン"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Megaton"}]}]}
 {"ent_seq":5084820,"r_ele":[{"reb":"メガドライブ","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"(Sega) Mega Drive"}]},{"name_type":["&product;"],"trans_det":[{"value":"MD (US equiv: Genesis)"}]}]}
-{"ent_seq":5084821,"r_ele":[{"reb":"メガネウラ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Meganeura"}]}]}
 {"ent_seq":5084822,"k_ele":[{"keb":"メガネ岩"}],"r_ele":[{"reb":"メガネいわ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Meganeiwa"}]}]}
 {"ent_seq":5084823,"r_ele":[{"reb":"メガラ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Megara"}]}]}
 {"ent_seq":5084824,"r_ele":[{"reb":"メガロポリス"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Megalopolis"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社"}],"r_ele":[{"reb":"あこしじんじゃ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoshi Shrine"}]}]}
 {"ent_seq":5100654,"k_ele":[{"keb":"阿古真理"}],"r_ele":[{"reb":"あこまり"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Ako Mari"}]}]}
 {"ent_seq":5100655,"k_ele":[{"keb":"阿古曽"}],"r_ele":[{"reb":"あこそ"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akoso"}]}]}
+{"ent_seq":5100656,"k_ele":[{"keb":"阿古曽町"}],"r_ele":[{"reb":"あこそちょう"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Akosochō"}]}]}
