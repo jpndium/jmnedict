@@ -1,5 +1,3 @@
-{"ent_seq":5200977,"k_ele":[{"keb":"季久衣"}],"r_ele":[{"reb":"きくえ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikue"}]}]}
-{"ent_seq":5200978,"k_ele":[{"keb":"季久央"}],"r_ele":[{"reb":"きくお"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikuo"}]}]}
 {"ent_seq":5200979,"k_ele":[{"keb":"季久絵"}],"r_ele":[{"reb":"きくえ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikue"}]}]}
 {"ent_seq":5200980,"k_ele":[{"keb":"季久久"}],"r_ele":[{"reb":"きくじ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikuji"}]}]}
 {"ent_seq":5200981,"k_ele":[{"keb":"季久恵"}],"r_ele":[{"reb":"きくえ"}],"trans":[{"name_type":["&unclass;"],"trans_det":[{"value":"Kikue"}]}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5301332,"k_ele":[{"keb":"佐藤庄市郎"}],"r_ele":[{"reb":"さとうしょういちろう"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichirō (1924.2-)"}]}]}
 {"ent_seq":5301333,"k_ele":[{"keb":"佐藤彰一"}],"r_ele":[{"reb":"さとうしょういち"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Shouichi"}]}]}
 {"ent_seq":5301334,"k_ele":[{"keb":"佐藤彰夫"}],"r_ele":[{"reb":"さとうあきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akio (1933.7-)"}]}]}
+{"ent_seq":5301335,"k_ele":[{"keb":"佐藤昭郎"}],"r_ele":[{"reb":"さとうあきお"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akio (1943.2.10-)"}]}]}
+{"ent_seq":5301336,"k_ele":[{"keb":"佐藤晶子"}],"r_ele":[{"reb":"さとうあきこ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Satou Akiko"}]}]}

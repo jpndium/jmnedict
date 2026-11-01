@@ -1,5 +1,3 @@
-{"ent_seq":5702796,"k_ele":[{"keb":"隆滋"}],"r_ele":[{"reb":"たかしげ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takashige"}]}]}
-{"ent_seq":5702797,"k_ele":[{"keb":"隆滋"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
 {"ent_seq":5702798,"k_ele":[{"keb":"隆治"}],"r_ele":[{"reb":"たかじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaji"}]}]}
 {"ent_seq":5702799,"k_ele":[{"keb":"隆治"}],"r_ele":[{"reb":"たかはる"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Takaharu"}]}]}
 {"ent_seq":5702800,"k_ele":[{"keb":"隆治"}],"r_ele":[{"reb":"りゅうじ"}],"trans":[{"name_type":["&given;"],"trans_det":[{"value":"Ryūji"}]}]}
@@ -37941,7 +37939,7 @@
 {"ent_seq":5742204,"k_ele":[{"keb":"ニッケイ新聞"}],"r_ele":[{"reb":"ニッケイしんぶん","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Nikkey Shimbun (Japanese-Brazilian newspaper)"}]}]}
 {"ent_seq":5742205,"k_ele":[{"keb":"サンパウロ新聞"}],"r_ele":[{"reb":"サンパウロしんぶん","re_pri":{"spec":1}}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"São Paulo Shimbun (Japanese-Brazilian newspaper)"}]}]}
 {"ent_seq":5742206,"r_ele":[{"reb":"ジルマ・ルセフ"},{"reb":"ジルマルセフ"},{"reb":"ジウマ・ルセフ"},{"reb":"ジウマルセフ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Dilma Rousseff (1947.12.14-)"}]}]}
-{"ent_seq":5742207,"r_ele":[{"reb":"ルーラ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Luiz Inácio \"Lula\" da Silva (1945.10.27-)"}]}]}
+{"ent_seq":5742207,"r_ele":[{"reb":"ルーラ"},{"reb":"ルラ"}],"trans":[{"name_type":["&person;"],"trans_det":[{"value":"Luiz Inácio \"Lula\" da Silva (1945.10.27-)"}]}]}
 {"ent_seq":5742208,"k_ele":[{"keb":"とりかへばや物語"}],"r_ele":[{"reb":"とりかへばやものがたり","re_pri":{"spec":1}}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"The Changelings"},{"value":"Torikaebaya Monogatari"}]}]}
 {"ent_seq":5742209,"k_ele":[{"keb":"池坊"}],"r_ele":[{"reb":"いけのぼう","re_pri":{"spec":1}}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Ikenobō"}]},{"name_type":["&organization;"],"trans_det":[{"value":"Ikenobō (school of ikebana)"}]}]}
 {"ent_seq":5742210,"k_ele":[{"keb":"ロス市警"}],"r_ele":[{"reb":"ロスしけい","re_pri":{"spec":1}}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Los Angeles police department"},{"value":"LAPD"}]}]}
@@ -43679,4 +43677,10 @@
 {"ent_seq":5748113,"r_ele":[{"reb":"ちかはく"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Tokyo Metro Museum (abbr)"}]}]}
 {"ent_seq":5748114,"k_ele":[{"keb":"真夏の夜の淫夢"}],"r_ele":[{"reb":"まなつのよのいんむ"},{"reb":"まなつのよるのいんむ"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Manatsu no Yo no Inmu (adult film)"},{"value":"A Midsummer Night's Lewd Dream"}]}]}
 {"ent_seq":5748115,"k_ele":[{"keb":"韓国国際協力団"}],"r_ele":[{"reb":"かんこくこくさいきょうりょくだん"}],"trans":[{"name_type":["&organization;"],"trans_det":[{"value":"Korea International Cooperation Agency"},{"value":"KOICA"}]}]}
-{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-10-25"}]}]}
+{"ent_seq":5748116,"r_ele":[{"reb":"ミリテク"}],"trans":[{"name_type":["&product;"],"trans_det":[{"value":"Militech (Cyberpunk series)"}]}]}
+{"ent_seq":5748117,"r_ele":[{"reb":"ケンタロス"}],"trans":[{"name_type":["&creat;","&fict;"],"trans_det":[{"value":"Tauros (Pokémon)"}]}]}
+{"ent_seq":5748118,"k_ele":[{"keb":"京浜工業地帯"}],"r_ele":[{"reb":"けいひんこうぎょうちたい"}],"trans":[{"name_type":["&place;"],"trans_det":[{"value":"Keihin Industrial Zone (industrial belt encompassing Tokyo, Kanagawa, and Saitama)"}]}]}
+{"ent_seq":5748119,"r_ele":[{"reb":"アゼベド"},{"reb":"アゼヴェド"},{"reb":"アゼヴェード"},{"reb":"アゼベード"}],"trans":[{"name_type":["&surname;"],"trans_det":[{"value":"Azevedo"}]}]}
+{"ent_seq":5748120,"k_ele":[{"keb":"明辰"}],"r_ele":[{"reb":"あきのぶ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Akinobu"}]}]}
+{"ent_seq":5748121,"k_ele":[{"keb":"明辰"}],"r_ele":[{"reb":"あきたつ"}],"trans":[{"name_type":["&masc;"],"trans_det":[{"value":"Akitatsu"}]}]}
+{"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムエヌイーディクト"}],"trans":[{"name_type":["&work;"],"trans_det":[{"value":"Japanese-Multilingual Named Entity Dictionary Project - Creation Date: 2026-11-01"}]}]}
